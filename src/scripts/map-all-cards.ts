@@ -1,8 +1,8 @@
-import { readFile, writeFile, readdir } from "fs/promises";
-import { fileURLToPath } from "url";
-import { dirname, join } from "path";
+import { readFile, writeFile, readdir } from "node:fs/promises";
+import { fileURLToPath } from "node:url";
+import { dirname, join } from "node:path";
 import { mapCard } from "../cards/map-cards";
-import { Logger } from "../types";
+import type { Logger } from "../types";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const CARDS_DIR = join(__dirname, "../data/cards");
