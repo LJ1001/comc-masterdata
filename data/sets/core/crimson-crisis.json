@@ -1,0 +1,3576 @@
+{
+  "data": {
+    "archetypes": [
+      {
+        "id": 289,
+        "name": "/Assault Mode",
+        "slug": "assault-mode",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DANE/DANE-DE070-4306214722",
+        "isFirstPrint": true
+      },
+      {
+        "id": 799,
+        "name": "Yusei Fudo",
+        "slug": "yusei-fudo",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/OP16/OP16-DE025-784a52b541",
+        "isFirstPrint": false
+      },
+      {
+        "id": 214,
+        "name": "Synchron",
+        "slug": "synchron",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/L5DD/L5DD-ENY07-6ead2d5118",
+        "isFirstPrint": false
+      },
+      {
+        "id": 11,
+        "name": "Archfiend",
+        "slug": "archfiend",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SR06/SR06-DE007-c59c0e023e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 360,
+        "name": "Red Dragon Archfiend",
+        "slug": "red-dragon-archfiend",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SDCK/SDCK-EN041-4ebdca5f4e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 927,
+        "name": "Jack Atlas",
+        "slug": "jack-atlas",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/L5DD/L5DD-ENY22-215ad17c7a",
+        "isFirstPrint": false
+      },
+      {
+        "id": 21,
+        "name": "Blackwing",
+        "slug": "blackwing",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/L5DD/L5DD-ENC10-b493182090",
+        "isFirstPrint": true
+      },
+      {
+        "id": 783,
+        "name": "Akiza Izinski",
+        "slug": "akiza-izinski",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/DOOD/DOOD-DE039-SCR-f7e2fb6a7b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 358,
+        "name": "Reactor",
+        "slug": "reactor",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN016-4fcd72ab5d",
+        "isFirstPrint": true
+      },
+      {
+        "id": 784,
+        "name": "Greiger",
+        "slug": "greiger",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN016-4fcd72ab5d",
+        "isFirstPrint": false
+      },
+      {
+        "id": 154,
+        "name": "Morphtronic",
+        "slug": "morphtronic",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SECE/SECE-DE030-d0f885951e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 817,
+        "name": "Leo",
+        "slug": "leo",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE099-7a6656cd4c",
+        "isFirstPrint": false
+      },
+      {
+        "id": 712,
+        "name": "Zombie World",
+        "slug": "zombie-world",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/SDZW/SDZW-EN017-a823e42dbb",
+        "isFirstPrint": false
+      },
+      {
+        "id": 645,
+        "name": "Psychic",
+        "slug": "psychic",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/RA02/RA02-EN032-SCR-0a3ca9796f",
+        "isFirstPrint": false
+      },
+      {
+        "id": 94,
+        "name": "Gladiator Beast",
+        "slug": "gladiator-beast",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP20/MP20-DE165-5f138d40de",
+        "isFirstPrint": false
+      },
+      {
+        "id": 83,
+        "name": "Frog",
+        "slug": "frog",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA03/RA03-EN005-SCR-06e9360119",
+        "isFirstPrint": false
+      },
+      {
+        "id": 15,
+        "name": "B.E.S.",
+        "slug": "bes",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP20/MP20-DE111-b2dc60b604",
+        "isFirstPrint": false
+      },
+      {
+        "id": 3,
+        "name": "Alien",
+        "slug": "alien",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/INOV/INOV-DE063-b1b73e6da9",
+        "isFirstPrint": false
+      },
+      {
+        "id": 197,
+        "name": "Six Samurai",
+        "slug": "six-samurai",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN039-UR-50d978a242",
+        "isFirstPrint": false
+      },
+      {
+        "id": 474,
+        "name": "Counter Fairy",
+        "slug": "counter-fairy",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/EOJ/EOJ-DE020-1426c50f6b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 701,
+        "name": "Yami Bakura",
+        "slug": "yami-bakura",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LDS3/LDS3-DE021-7aefc0eb4a",
+        "isFirstPrint": false
+      },
+      {
+        "id": 765,
+        "name": "Yako Tenma",
+        "slug": "yako-tenma",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/ANPR/ANPR-DE097-1d6d76a72a",
+        "isFirstPrint": false
+      },
+      {
+        "id": 858,
+        "name": "Yugi Muto | Yami Yugi",
+        "slug": "yugi-muto-yami-yugi",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/MP22/MP22-EN273-69e63915d2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 883,
+        "name": "Jaden Yuki",
+        "slug": "jaden-yuki",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/MP23/MP23-DE137-f9450a67ca",
+        "isFirstPrint": false
+      },
+      {
+        "id": 656,
+        "name": "Puppet",
+        "slug": "puppet",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLMR/BLMR-EN017-801abe0158",
+        "isFirstPrint": true
+      },
+      {
+        "id": 869,
+        "name": "Reiko Kitamori",
+        "slug": "reiko-kitamori",
+        "type": "character",
+        "image": "",
+        "isFirstPrint": false
+      },
+      {
+        "id": 892,
+        "name": "Depre Scott",
+        "slug": "depre-scott",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN098-bb7a087fd3",
+        "isFirstPrint": false
+      },
+      {
+        "id": 770,
+        "name": "Reggie MacKenzie",
+        "slug": "reggie-mackenzie",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/SDLS/SDLS-DE009-f106678fff",
+        "isFirstPrint": false
+      },
+      {
+        "id": 363,
+        "name": "roid",
+        "slug": "roid",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SGX2/SGX2-ENB20-137fba1dd2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 911,
+        "name": "Syrus Truesdale",
+        "slug": "syrus-truesdale",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/SGX2/SGX2-ENB24-5cc198ef63",
+        "isFirstPrint": false
+      }
+    ],
+    "archetypesReprint": [],
+    "category": {
+      "name": "Series 6",
+      "slug": "series-6",
+      "sets": [
+        {
+          "image": null,
+          "format": 1,
+          "name": "The Shining Darkness",
+          "releaseEu": "2010-05-06T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2010-05-11T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "TSHD",
+          "slug": "the-shining-darkness",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Absolute Powerforce",
+          "releaseEu": "2010-02-11T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2010-02-11T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "ABPF",
+          "slug": "absolute-powerforce",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Stardust Overdrive",
+          "releaseEu": "2009-11-12T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2009-11-17T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "SOVR",
+          "slug": "stardust-overdrive",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Ancient Prophecy",
+          "releaseEu": "2009-08-27T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2009-09-01T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "ANPR",
+          "slug": "ancient-prophecy",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Raging Battle",
+          "releaseEu": "2009-06-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2009-05-12T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "RGBT",
+          "slug": "raging-battle",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Crimson Crisis",
+          "releaseEu": "2009-03-03T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2009-03-03T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CRMS",
+          "slug": "crimson-crisis",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/CSOC-49b467438150b9eca28b",
+          "format": 1,
+          "name": "Crossroads of Chaos",
+          "releaseEu": "2008-11-18T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2008-11-18T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CSOC",
+          "slug": "crossroads-of-chaos",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "The Duelist Genesis",
+          "releaseEu": "2008-09-02T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2008-09-02T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "TDGS",
+          "slug": "the-duelist-genesis",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        }
+      ],
+      "setsCount": 8,
+      "format": 1,
+      "parent": {
+        "name": "Core Boosters",
+        "slug": "core-boosters",
+        "setsCount": 102,
+        "format": 1,
+        "parent": {
+          "name": "Booster Packs",
+          "slug": "booster-packs",
+          "setsCount": 326,
+          "format": 1,
+          "parent": null
+        }
+      }
+    },
+    "disableSetList": false,
+    "format": 1,
+    "game": 1,
+    "id": 311,
+    "image": null,
+    "languages": [
+      {
+        "id": 703,
+        "language": "de",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 704,
+        "language": "en",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 705,
+        "language": "fr",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 706,
+        "language": "it",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 707,
+        "language": "es",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      }
+    ],
+    "name": "Crimson Crisis",
+    "next": {
+      "name": "Raging Battle",
+      "setNumber": "RGBT",
+      "slug": "raging-battle",
+      "format": 1,
+      "releaseEu": "2009-06-04T00:00:00.000000Z",
+      "releaseNa": "2009-05-12T00:00:00.000000Z"
+    },
+    "previous": {
+      "name": "Crossroads of Chaos",
+      "setNumber": "CSOC",
+      "slug": "crossroads-of-chaos",
+      "format": 1,
+      "releaseEu": "2008-11-18T00:00:00.000000Z",
+      "releaseNa": "2008-11-18T00:00:00.000000Z"
+    },
+    "prints": [
+      {
+        "cardNumber": "000",
+        "card": {
+          "name": "Colossal Fighter/Assault Mode",
+          "nameEn": "Colossal Fighter/Assault Mode",
+          "nameOriginal": null,
+          "slug": "colossal-fighterassault-mode",
+          "archetypeIds": [
+            289
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2019-04-18T00:00:00.000000Z"
+        },
+        "id": 17883,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": null,
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "001",
+        "card": {
+          "name": "Turret Warrior",
+          "nameEn": "Turret Warrior",
+          "nameOriginal": null,
+          "slug": "turret-warrior",
+          "archetypeIds": [
+            799
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2014-10-24T00:00:00.000000Z"
+        },
+        "id": 17884,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DP09/DP09-EN003-1f3b03a53b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "002",
+        "card": {
+          "name": "Debris Dragon",
+          "nameEn": "Debris Dragon",
+          "nameOriginal": null,
+          "slug": "debris-dragon",
+          "archetypeIds": [
+            799
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2024-11-08T00:00:00.000000Z"
+        },
+        "id": 17885,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE002-2d9ad8560f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "003",
+        "card": {
+          "name": "Hyper Synchron",
+          "nameEn": "Hyper Synchron",
+          "nameOriginal": null,
+          "slug": "hyper-synchron",
+          "archetypeIds": [
+            214,
+            799
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2014-10-24T00:00:00.000000Z"
+        },
+        "id": 17886,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE003-ea486ee74c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "004",
+        "card": {
+          "name": "Red Dragon Archfiend/Assault Mode",
+          "nameEn": "Red Dragon Archfiend/Assault Mode",
+          "nameOriginal": null,
+          "slug": "red-dragon-archfiendassault-mode",
+          "archetypeIds": [
+            11,
+            289,
+            360,
+            927
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2023-09-22T00:00:00.000000Z"
+        },
+        "id": 17887,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SDCK/SDCK-EN017-92e09e56d0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "004",
+        "card": {
+          "name": "Red Dragon Archfiend/Assault Mode",
+          "nameEn": "Red Dragon Archfiend/Assault Mode",
+          "nameOriginal": null,
+          "slug": "red-dragon-archfiendassault-mode",
+          "archetypeIds": [
+            11,
+            289,
+            360,
+            927
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2023-09-22T00:00:00.000000Z"
+        },
+        "id": 17983,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SDCK/SDCK-EN017-92e09e56d0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "004",
+        "card": {
+          "name": "Red Dragon Archfiend/Assault Mode",
+          "nameEn": "Red Dragon Archfiend/Assault Mode",
+          "nameOriginal": null,
+          "slug": "red-dragon-archfiendassault-mode",
+          "archetypeIds": [
+            11,
+            289,
+            360,
+            927
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2023-09-22T00:00:00.000000Z"
+        },
+        "id": 17984,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 8,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SDCK/SDCK-EN017-92e09e56d0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "005",
+        "card": {
+          "name": "Trap Eater",
+          "nameEn": "Trap Eater",
+          "nameOriginal": null,
+          "slug": "trap-eater",
+          "archetypeIds": [
+            927
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2022-06-16T00:00:00.000000Z"
+        },
+        "id": 17888,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE005-c0fd658890",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "006",
+        "card": {
+          "name": "Twin-Sword Marauder",
+          "nameEn": "Twin-Sword Marauder",
+          "nameOriginal": null,
+          "slug": "twin-sword-marauder",
+          "archetypeIds": [
+            927
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2013-06-28T00:00:00.000000Z"
+        },
+        "id": 17889,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE006-47b39d0d28",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "007",
+        "card": {
+          "name": "Dark Tinker",
+          "nameEn": "Dark Tinker",
+          "nameOriginal": null,
+          "slug": "dark-tinker",
+          "archetypeIds": [
+            927
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2010-06-01T00:00:00.000000Z"
+        },
+        "id": 17890,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE007-ea117afcea",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "008",
+        "card": {
+          "name": "Blackwing - Gale the Whirlwind",
+          "nameEn": "Blackwing - Gale the Whirlwind",
+          "nameOriginal": null,
+          "slug": "blackwing-gale-the-whirlwind",
+          "archetypeIds": [
+            21
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2025-11-21T00:00:00.000000Z"
+        },
+        "id": 17891,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE008-277e68400b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "009",
+        "card": {
+          "name": "Blackwing - Bora the Spear",
+          "nameEn": "Blackwing - Bora the Spear",
+          "nameOriginal": null,
+          "slug": "blackwing-bora-the-spear",
+          "archetypeIds": [
+            21
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2025-11-21T00:00:00.000000Z"
+        },
+        "id": 17892,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/L5DD/L5DD-ENC02-53350caa75",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "010",
+        "card": {
+          "name": "Blackwing - Sirocco the Dawn",
+          "nameEn": "Blackwing - Sirocco the Dawn",
+          "nameOriginal": null,
+          "slug": "blackwing-sirocco-the-dawn",
+          "archetypeIds": [
+            21
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2022-11-18T00:00:00.000000Z"
+        },
+        "id": 17893,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BLCR/BLCR-EN058-d3b7810ba7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "011",
+        "card": {
+          "name": "Twilight Rose Knight",
+          "nameEn": "Twilight Rose Knight",
+          "nameOriginal": null,
+          "slug": "twilight-rose-knight",
+          "archetypeIds": [
+            783
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2021-01-22T00:00:00.000000Z"
+        },
+        "id": 17894,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LDS2/LDS2-EN096-45cbb119ee",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "012",
+        "card": {
+          "name": "Summon Reactor ・SK",
+          "nameEn": "Summon Reactor ・SK",
+          "nameOriginal": null,
+          "slug": "summon-reactor-sk",
+          "archetypeIds": [
+            358,
+            784
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17895,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE012-5cdc5240d8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "013",
+        "card": {
+          "name": "Trap Reactor ・Y FI",
+          "nameEn": "Trap Reactor ・Y FI",
+          "nameOriginal": null,
+          "slug": "trap-reactor-y-fi",
+          "archetypeIds": [
+            358,
+            784
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17896,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE013-f5a56b3794",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "014",
+        "card": {
+          "name": "Spell Reactor ・RE",
+          "nameEn": "Spell Reactor ・RE",
+          "nameOriginal": null,
+          "slug": "spell-reactor-re",
+          "archetypeIds": [
+            358,
+            784
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17897,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE014-44e01b9588",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "015",
+        "card": {
+          "name": "Black Salvo",
+          "nameEn": "Black Salvo",
+          "nameOriginal": null,
+          "slug": "black-salvo",
+          "archetypeIds": [
+            784
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2014-10-24T00:00:00.000000Z"
+        },
+        "id": 17898,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LC5D/LC5D-DE222-c9bee74c0a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "016",
+        "card": {
+          "name": "Flying Fortress SKY FIRE",
+          "nameEn": "Flying Fortress SKY FIRE",
+          "nameOriginal": null,
+          "slug": "flying-fortress-sky-fire",
+          "archetypeIds": [
+            784
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17899,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN016-4fcd72ab5d",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "017",
+        "card": {
+          "name": "Morphtronic Boarden",
+          "nameEn": "Morphtronic Boarden",
+          "nameOriginal": null,
+          "slug": "morphtronic-boarden",
+          "archetypeIds": [
+            154,
+            817
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2023-07-19T00:00:00.000000Z"
+        },
+        "id": 17900,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE017-fcd747f603",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "018",
+        "card": {
+          "name": "Morphtronic Slingen",
+          "nameEn": "Morphtronic Slingen",
+          "nameOriginal": null,
+          "slug": "morphtronic-slingen",
+          "archetypeIds": [
+            154,
+            817
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17901,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN018-766605a76b",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "019",
+        "card": {
+          "name": "Doomkaiser Dragon/Assault Mode",
+          "nameEn": "Doomkaiser Dragon/Assault Mode",
+          "nameOriginal": null,
+          "slug": "doomkaiser-dragonassault-mode",
+          "archetypeIds": [
+            289,
+            712
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2019-04-18T00:00:00.000000Z"
+        },
+        "id": 17902,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": null,
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "019",
+        "card": {
+          "name": "Doomkaiser Dragon/Assault Mode",
+          "nameEn": "Doomkaiser Dragon/Assault Mode",
+          "nameOriginal": null,
+          "slug": "doomkaiser-dragonassault-mode",
+          "archetypeIds": [
+            289,
+            712
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2019-04-18T00:00:00.000000Z"
+        },
+        "id": 17985,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": null,
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "020",
+        "card": {
+          "name": "Hyper Psychic Blaster/Assault Mode",
+          "nameEn": "Hyper Psychic Blaster/Assault Mode",
+          "nameOriginal": null,
+          "slug": "hyper-psychic-blasterassault-mode",
+          "archetypeIds": [
+            289,
+            645
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17903,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE020-UR-61256296a3",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "020",
+        "card": {
+          "name": "Hyper Psychic Blaster/Assault Mode",
+          "nameEn": "Hyper Psychic Blaster/Assault Mode",
+          "nameOriginal": null,
+          "slug": "hyper-psychic-blasterassault-mode",
+          "archetypeIds": [
+            289,
+            645
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17986,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE020-UR-61256296a3",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "021",
+        "card": {
+          "name": "Arcanite Magician/Assault Mode",
+          "nameEn": "Arcanite Magician/Assault Mode",
+          "nameOriginal": null,
+          "slug": "arcanite-magicianassault-mode",
+          "archetypeIds": [
+            289
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2019-04-18T00:00:00.000000Z"
+        },
+        "id": 17904,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": null,
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "021",
+        "card": {
+          "name": "Arcanite Magician/Assault Mode",
+          "nameEn": "Arcanite Magician/Assault Mode",
+          "nameOriginal": null,
+          "slug": "arcanite-magicianassault-mode",
+          "archetypeIds": [
+            289
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2019-04-18T00:00:00.000000Z"
+        },
+        "id": 17987,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": null,
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "022",
+        "card": {
+          "name": "Arcane Apprentice",
+          "nameEn": "Arcane Apprentice",
+          "nameOriginal": null,
+          "slug": "arcane-apprentice",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2025-12-19T00:00:00.000000Z"
+        },
+        "id": 17905,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN022-b25943a139",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "023",
+        "card": {
+          "name": "Assault Mercenary",
+          "nameEn": "Assault Mercenary",
+          "nameOriginal": null,
+          "slug": "assault-mercenary",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17906,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE023-829ff23a67",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "024",
+        "card": {
+          "name": "Assault Beast",
+          "nameEn": "Assault Beast",
+          "nameOriginal": null,
+          "slug": "assault-beast",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2023-09-22T00:00:00.000000Z"
+        },
+        "id": 17907,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN024-054f7daf13",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "025",
+        "card": {
+          "name": "Night Wing Sorceress",
+          "nameEn": "Night Wing Sorceress",
+          "nameOriginal": null,
+          "slug": "night-wing-sorceress",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17908,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE025-5bbeded49c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "026",
+        "card": {
+          "name": "Lifeforce Harmonizer",
+          "nameEn": "Lifeforce Harmonizer",
+          "nameOriginal": null,
+          "slug": "lifeforce-harmonizer",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17909,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": null,
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "026",
+        "card": {
+          "name": "Lifeforce Harmonizer",
+          "nameEn": "Lifeforce Harmonizer",
+          "nameOriginal": null,
+          "slug": "lifeforce-harmonizer",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17988,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": null,
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "027",
+        "card": {
+          "name": "Gladiator Beast Samnite",
+          "nameEn": "Gladiator Beast Samnite",
+          "nameOriginal": null,
+          "slug": "gladiator-beast-samnite",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2025-03-14T00:00:00.000000Z"
+        },
+        "id": 17910,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE027-bda31dfb79",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "028",
+        "card": {
+          "name": "Dupe Frog",
+          "nameEn": "Dupe Frog",
+          "nameOriginal": null,
+          "slug": "dupe-frog",
+          "archetypeIds": [
+            83
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2021-02-19T00:00:00.000000Z"
+        },
+        "id": 17911,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN028-d52f0937fc",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "029",
+        "card": {
+          "name": "Flip Flop Frog",
+          "nameEn": "Flip Flop Frog",
+          "nameOriginal": null,
+          "slug": "flip-flop-frog",
+          "archetypeIds": [
+            83
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17912,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE029-b04ca9da46",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "030",
+        "card": {
+          "name": "B.E.S. Big Core MK-2",
+          "nameEn": "B.E.S. Big Core MK-2",
+          "nameOriginal": null,
+          "slug": "bes-big-core-mk-2",
+          "archetypeIds": [
+            15
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17913,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE030-b64ea9bb03",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "031",
+        "card": {
+          "name": "Inmato",
+          "nameEn": "Inmato",
+          "nameOriginal": null,
+          "slug": "inmato",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2010-12-01T00:00:00.000000Z"
+        },
+        "id": 17914,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE031-9c8de23a6c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "032",
+        "card": {
+          "name": "Scanner",
+          "nameEn": "Scanner",
+          "nameOriginal": null,
+          "slug": "scanner",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17915,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE032-cc48d01193",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "033",
+        "card": {
+          "name": "Dimension Fortress Weapon",
+          "nameEn": "Dimension Fortress Weapon",
+          "nameOriginal": null,
+          "slug": "dimension-fortress-weapon",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2020-06-15T00:00:00.000000Z"
+        },
+        "id": 17916,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN033-8240d08f32",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "034",
+        "card": {
+          "name": "Desert Protector",
+          "nameEn": "Desert Protector",
+          "nameOriginal": null,
+          "slug": "desert-protector",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17917,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE034-4a532ceeeb",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "035",
+        "card": {
+          "name": "Cross-Sword Beetle",
+          "nameEn": "Cross-Sword Beetle",
+          "nameOriginal": null,
+          "slug": "cross-sword-beetle",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2023-08-25T00:00:00.000000Z"
+        },
+        "id": 17918,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN035-30b4c960f0",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "036",
+        "card": {
+          "name": "Bee List Soldier",
+          "nameEn": "Bee List Soldier",
+          "nameOriginal": null,
+          "slug": "bee-list-soldier",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2019-08-02T00:00:00.000000Z"
+        },
+        "id": 17919,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SS03/SS03-DEB14-0359bcace2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "037",
+        "card": {
+          "name": "Hydra Viper",
+          "nameEn": "Hydra Viper",
+          "nameOriginal": null,
+          "slug": "hydra-viper",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17920,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN037-c0da01b9eb",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "038",
+        "card": {
+          "name": "Alien Overlord",
+          "nameEn": "Alien Overlord",
+          "nameOriginal": null,
+          "slug": "alien-overlord",
+          "archetypeIds": [
+            3
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17921,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE038-f592f4a1b8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "039",
+        "card": {
+          "name": "Alien Ammonite",
+          "nameEn": "Alien Ammonite",
+          "nameOriginal": null,
+          "slug": "alien-ammonite",
+          "archetypeIds": [
+            3
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2022-05-06T00:00:00.000000Z"
+        },
+        "id": 17922,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE039-0e05359302",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "040",
+        "card": {
+          "name": "Dark Strike Fighter",
+          "nameEn": "Dark Strike Fighter",
+          "nameOriginal": null,
+          "slug": "dark-strike-fighter",
+          "archetypeIds": [
+            784
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2022-02-23T00:00:00.000000Z"
+        },
+        "id": 17923,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LC5D/LC5D-DE234-2bc67488d1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "041",
+        "card": {
+          "name": "Blackwing Armor Master",
+          "nameEn": "Blackwing Armor Master",
+          "nameOriginal": null,
+          "slug": "blackwing-armor-master",
+          "archetypeIds": [
+            21
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2025-11-21T00:00:00.000000Z"
+        },
+        "id": 17924,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/L5DD/L5DD-ENC27-b84b781393",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "041",
+        "card": {
+          "name": "Blackwing Armor Master",
+          "nameEn": "Blackwing Armor Master",
+          "nameOriginal": null,
+          "slug": "blackwing-armor-master",
+          "archetypeIds": [
+            21
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2025-11-21T00:00:00.000000Z"
+        },
+        "id": 17989,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/L5DD/L5DD-ENC27-b84b781393",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "042",
+        "card": {
+          "name": "Hyper Psychic Blaster",
+          "nameEn": "Hyper Psychic Blaster",
+          "nameOriginal": null,
+          "slug": "hyper-psychic-blaster",
+          "archetypeIds": [
+            645
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2014-10-24T00:00:00.000000Z"
+        },
+        "id": 17925,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LC5D/LC5D-DE235-89aee4e374",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "042",
+        "card": {
+          "name": "Hyper Psychic Blaster",
+          "nameEn": "Hyper Psychic Blaster",
+          "nameOriginal": null,
+          "slug": "hyper-psychic-blaster",
+          "archetypeIds": [
+            645
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2014-10-24T00:00:00.000000Z"
+        },
+        "id": 17990,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE042-UMR-1d94ef9cdd",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "043",
+        "card": {
+          "name": "Arcanite Magician",
+          "nameEn": "Arcanite Magician",
+          "nameOriginal": null,
+          "slug": "arcanite-magician",
+          "archetypeIds": [],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2019-03-22T00:00:00.000000Z"
+        },
+        "id": 17926,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/INCH/INCH-DE049-73f2432139",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "044",
+        "card": {
+          "name": "Cosmic Fortress Gol'gar",
+          "nameEn": "Cosmic Fortress Gol'gar",
+          "nameOriginal": null,
+          "slug": "cosmic-fortress-golgar",
+          "archetypeIds": [
+            3
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17927,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE044-UR-6ba5af86f2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "044",
+        "card": {
+          "name": "Cosmic Fortress Gol'gar",
+          "nameEn": "Cosmic Fortress Gol'gar",
+          "nameOriginal": null,
+          "slug": "cosmic-fortress-golgar",
+          "archetypeIds": [
+            3
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17991,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE044-UR-6ba5af86f2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "045",
+        "card": {
+          "name": "Prevention Star",
+          "nameEn": "Prevention Star",
+          "nameOriginal": null,
+          "slug": "prevention-star",
+          "archetypeIds": [
+            799
+          ],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2010-01-26T00:00:00.000000Z"
+        },
+        "id": 17928,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DP09/DP09-EN017-0cc0041ad5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "046",
+        "card": {
+          "name": "Vengeful Servant",
+          "nameEn": "Vengeful Servant",
+          "nameOriginal": null,
+          "slug": "vengeful-servant",
+          "archetypeIds": [
+            783
+          ],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17929,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE046-d2ab392f7f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "047",
+        "card": {
+          "name": "Star Blast",
+          "nameEn": "Star Blast",
+          "nameOriginal": null,
+          "slug": "star-blast",
+          "archetypeIds": [
+            784
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2013-06-28T00:00:00.000000Z"
+        },
+        "id": 17930,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BP02/BP02-DE154-MSR-b5f2998602",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "048",
+        "card": {
+          "name": "Raptor Wing Strike",
+          "nameEn": "Raptor Wing Strike",
+          "nameOriginal": null,
+          "slug": "raptor-wing-strike",
+          "archetypeIds": [
+            21
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2014-10-24T00:00:00.000000Z"
+        },
+        "id": 17931,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE048-1bbffb5aa7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "049",
+        "card": {
+          "name": "Morphtronic Rusty Engine",
+          "nameEn": "Morphtronic Rusty Engine",
+          "nameOriginal": null,
+          "slug": "morphtronic-rusty-engine",
+          "archetypeIds": [
+            154,
+            817
+          ],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17932,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN049-2218d01ec1",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "050",
+        "card": {
+          "name": "Morphtronic Map",
+          "nameEn": "Morphtronic Map",
+          "nameOriginal": null,
+          "slug": "morphtronic-map",
+          "archetypeIds": [
+            154,
+            817
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17933,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE050-04fcda3407",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "051",
+        "card": {
+          "name": "Assault Overload",
+          "nameEn": "Assault Overload",
+          "nameOriginal": null,
+          "slug": "assault-overload",
+          "archetypeIds": [
+            289
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17934,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE051-5926c33463",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "052",
+        "card": {
+          "name": "Assault Teleport",
+          "nameEn": "Assault Teleport",
+          "nameOriginal": null,
+          "slug": "assault-teleport",
+          "archetypeIds": [
+            289
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2019-04-18T00:00:00.000000Z"
+        },
+        "id": 17935,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN052-4196b7ac14",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "053",
+        "card": {
+          "name": "Assault Revival",
+          "nameEn": "Assault Revival",
+          "nameOriginal": null,
+          "slug": "assault-revival",
+          "archetypeIds": [
+            289
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17936,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE053-598ec13b28",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "054",
+        "card": {
+          "name": "Psychic Sword",
+          "nameEn": "Psychic Sword",
+          "nameOriginal": null,
+          "slug": "psychic-sword",
+          "archetypeIds": [],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2014-08-01T00:00:00.000000Z"
+        },
+        "id": 17937,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BP03/BP03-EN163-C-70fb658cb0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "055",
+        "card": {
+          "name": "Telekinetic Power Well",
+          "nameEn": "Telekinetic Power Well",
+          "nameOriginal": null,
+          "slug": "telekinetic-power-well",
+          "archetypeIds": [],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17938,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE055-ec4d9820aa",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "056",
+        "card": {
+          "name": "Indomitable Gladiator Beast",
+          "nameEn": "Indomitable Gladiator Beast",
+          "nameOriginal": null,
+          "slug": "indomitable-gladiator-beast",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17939,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN056-a3dcaf94be",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "057",
+        "card": {
+          "name": "Seed Cannon",
+          "nameEn": "Seed Cannon",
+          "nameOriginal": null,
+          "slug": "seed-cannon",
+          "archetypeIds": [],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17940,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN057-2478a5f23c",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "058",
+        "card": {
+          "name": "Super Solar Nutrient",
+          "nameEn": "Super Solar Nutrient",
+          "nameOriginal": null,
+          "slug": "super-solar-nutrient",
+          "archetypeIds": [],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2017-02-24T00:00:00.000000Z"
+        },
+        "id": 17941,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE058-c51408b268",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "059",
+        "card": {
+          "name": "Six Scrolls of the Samurai",
+          "nameEn": "Six Scrolls of the Samurai",
+          "nameOriginal": null,
+          "slug": "six-scrolls-of-the-samurai",
+          "archetypeIds": [
+            197
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17942,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE059-8216833aec",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "060",
+        "card": {
+          "name": "Verdant Sanctuary",
+          "nameEn": "Verdant Sanctuary",
+          "nameOriginal": null,
+          "slug": "verdant-sanctuary",
+          "archetypeIds": [],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2023-08-25T00:00:00.000000Z"
+        },
+        "id": 17943,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE060-8b77ceb854",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "061",
+        "card": {
+          "name": "Arcane Barrier",
+          "nameEn": "Arcane Barrier",
+          "nameOriginal": null,
+          "slug": "arcane-barrier",
+          "archetypeIds": [],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2019-05-31T00:00:00.000000Z"
+        },
+        "id": 17944,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SBAD/SBAD-DE005-c6bfeaab73",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "062",
+        "card": {
+          "name": "Mysterious Triangle",
+          "nameEn": "Mysterious Triangle",
+          "nameOriginal": null,
+          "slug": "mysterious-triangle",
+          "archetypeIds": [
+            3
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17945,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE062-5bd57ae524",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "063",
+        "card": {
+          "name": "Assault Mode Activate",
+          "nameEn": "Assault Mode Activate",
+          "nameOriginal": null,
+          "slug": "assault-mode-activate",
+          "archetypeIds": [
+            289,
+            799,
+            927
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2023-09-22T00:00:00.000000Z"
+        },
+        "id": 17946,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE063-b5911ac78c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "064",
+        "card": {
+          "name": "Spirit Force",
+          "nameEn": "Spirit Force",
+          "nameOriginal": null,
+          "slug": "spirit-force",
+          "archetypeIds": [
+            799
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2014-10-24T00:00:00.000000Z"
+        },
+        "id": 17947,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN064-4f93fda8a8",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "065",
+        "card": {
+          "name": "Descending Lost Star",
+          "nameEn": "Descending Lost Star",
+          "nameOriginal": null,
+          "slug": "descending-lost-star",
+          "archetypeIds": [
+            799,
+            927
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2014-10-24T00:00:00.000000Z"
+        },
+        "id": 17948,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DP09/DP09-EN024-0ff7389f9d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "066",
+        "card": {
+          "name": "Shining Silver Force",
+          "nameEn": "Shining Silver Force",
+          "nameOriginal": null,
+          "slug": "shining-silver-force",
+          "archetypeIds": [
+            799
+          ],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17949,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN066-49cef1c39a",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "067",
+        "card": {
+          "name": "Half or Nothing",
+          "nameEn": "Half or Nothing",
+          "nameOriginal": null,
+          "slug": "half-or-nothing",
+          "archetypeIds": [
+            927
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2013-06-28T00:00:00.000000Z"
+        },
+        "id": 17950,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BP01/BP01-DE101-C-fd7288d3af",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "068",
+        "card": {
+          "name": "Nightmare Archfiends",
+          "nameEn": "Nightmare Archfiends",
+          "nameOriginal": null,
+          "slug": "nightmare-archfiends",
+          "archetypeIds": [
+            11,
+            927
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": null
+        },
+        "id": 17951,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SR04/SR04-DE035-19f23ed99e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "069",
+        "card": {
+          "name": "Ebon Arrow",
+          "nameEn": "Ebon Arrow",
+          "nameOriginal": null,
+          "slug": "ebon-arrow",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2011-05-31T00:00:00.000000Z"
+        },
+        "id": 17952,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DP11/DP11-EN021-56d073c844",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "070",
+        "card": {
+          "name": "Ivy Shackles",
+          "nameEn": "Ivy Shackles",
+          "nameOriginal": null,
+          "slug": "ivy-shackles",
+          "archetypeIds": [
+            783
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2014-10-24T00:00:00.000000Z"
+        },
+        "id": 17953,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE070-59f45f6430",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "071",
+        "card": {
+          "name": "Fake Explosion",
+          "nameEn": "Fake Explosion",
+          "nameOriginal": null,
+          "slug": "fake-explosion",
+          "archetypeIds": [
+            784
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17954,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE071-fcad86080a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "072",
+        "card": {
+          "name": "Morphtronic Forcefield",
+          "nameEn": "Morphtronic Forcefield",
+          "nameOriginal": null,
+          "slug": "morphtronic-forcefield",
+          "archetypeIds": [
+            154,
+            817
+          ],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17955,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE072-b9b4355c54",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "073",
+        "card": {
+          "name": "Morphtronic Mix-up",
+          "nameEn": "Morphtronic Mix-up",
+          "nameOriginal": null,
+          "slug": "morphtronic-mix-up",
+          "archetypeIds": [
+            154,
+            817
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17956,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN073-95d7e30631",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "074",
+        "card": {
+          "name": "Assault Slash",
+          "nameEn": "Assault Slash",
+          "nameOriginal": null,
+          "slug": "assault-slash",
+          "archetypeIds": [
+            289
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17957,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN074-5936f2da12",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "075",
+        "card": {
+          "name": "Assault Counter",
+          "nameEn": "Assault Counter",
+          "nameOriginal": null,
+          "slug": "assault-counter",
+          "archetypeIds": [
+            289
+          ],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2019-04-18T00:00:00.000000Z"
+        },
+        "id": 17958,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN075-349e734683",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "076",
+        "card": {
+          "name": "Psychic Tuning",
+          "nameEn": "Psychic Tuning",
+          "nameOriginal": null,
+          "slug": "psychic-tuning",
+          "archetypeIds": [],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17959,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN076-76a1c243bc",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "077",
+        "card": {
+          "name": "Supernatural Regeneration",
+          "nameEn": "Supernatural Regeneration",
+          "nameOriginal": null,
+          "slug": "supernatural-regeneration",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17960,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE077-13117f9a2c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "078",
+        "card": {
+          "name": "Trojan Gladiator Beast",
+          "nameEn": "Trojan Gladiator Beast",
+          "nameOriginal": null,
+          "slug": "trojan-gladiator-beast",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17961,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE078-602749306b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "079",
+        "card": {
+          "name": "Wall of Thorns",
+          "nameEn": "Wall of Thorns",
+          "nameOriginal": null,
+          "slug": "wall-of-thorns",
+          "archetypeIds": [
+            783
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2013-09-13T00:00:00.000000Z"
+        },
+        "id": 17962,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE079-743c41928b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "080",
+        "card": {
+          "name": "Planet Pollutant Virus",
+          "nameEn": "Planet Pollutant Virus",
+          "nameOriginal": null,
+          "slug": "planet-pollutant-virus",
+          "archetypeIds": [
+            3
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2025-06-18T00:00:00.000000Z"
+        },
+        "id": 17963,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN080-04ebc59d74",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "081",
+        "card": {
+          "name": "Dark Voltanis",
+          "nameEn": "Dark Voltanis",
+          "nameOriginal": null,
+          "slug": "dark-voltanis",
+          "archetypeIds": [
+            474
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17964,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": null,
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "082",
+        "card": {
+          "name": "Prime Material Falcon",
+          "nameEn": "Prime Material Falcon",
+          "nameOriginal": null,
+          "slug": "prime-material-falcon",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17965,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": null,
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "083",
+        "card": {
+          "name": "Bone Crusher",
+          "nameEn": "Bone Crusher",
+          "nameOriginal": null,
+          "slug": "bone-crusher",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2012-06-12T00:00:00.000000Z"
+        },
+        "id": 17966,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN083-UR-385d299204",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "083",
+        "card": {
+          "name": "Bone Crusher",
+          "nameEn": "Bone Crusher",
+          "nameOriginal": null,
+          "slug": "bone-crusher",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2012-06-12T00:00:00.000000Z"
+        },
+        "id": 17992,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN083-UR-385d299204",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "084",
+        "card": {
+          "name": "Alien Kid",
+          "nameEn": "Alien Kid",
+          "nameOriginal": null,
+          "slug": "alien-kid",
+          "archetypeIds": [
+            3
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17967,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN084-213e1fee0b",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "085",
+        "card": {
+          "name": "Totem Dragon",
+          "nameEn": "Totem Dragon",
+          "nameOriginal": null,
+          "slug": "totem-dragon",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2023-09-06T00:00:00.000000Z"
+        },
+        "id": 17968,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN085-9477e574f5",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "086",
+        "card": {
+          "name": "Royal Swamp Eel",
+          "nameEn": "Royal Swamp Eel",
+          "nameOriginal": null,
+          "slug": "royal-swamp-eel",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17969,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": null,
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "087",
+        "card": {
+          "name": "Submarine Frog",
+          "nameEn": "Submarine Frog",
+          "nameOriginal": null,
+          "slug": "submarine-frog",
+          "archetypeIds": [
+            83
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17970,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE087-58e2cc16ae",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "088",
+        "card": {
+          "name": "Code A Ancient Ruins",
+          "nameEn": "Code A Ancient Ruins",
+          "nameOriginal": null,
+          "slug": "code-a-ancient-ruins",
+          "archetypeIds": [
+            3
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17971,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-DE088-32876ea3a0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "089",
+        "card": {
+          "name": "Synchro Change",
+          "nameEn": "Synchro Change",
+          "nameOriginal": null,
+          "slug": "synchro-change",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17972,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN089-8eade5fcbb",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "090",
+        "card": {
+          "name": "Multiply",
+          "nameEn": "Multiply",
+          "nameOriginal": null,
+          "slug": "multiply",
+          "archetypeIds": [
+            701,
+            765,
+            858
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2021-06-17T00:00:00.000000Z"
+        },
+        "id": 17973,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/YGLD_RP_2021/YGLD_RP_2021-ENB32-f376ff7c39",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "091",
+        "card": {
+          "name": "Makiu, the Magical Mist",
+          "nameEn": "Makiu, the Magical Mist",
+          "nameOriginal": null,
+          "slug": "makiu-the-magical-mist",
+          "archetypeIds": [
+            858
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2021-06-17T00:00:00.000000Z"
+        },
+        "id": 17974,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/YGLD_RP_2021/YGLD_RP_2021-ENA34-1bb80cf49f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "092",
+        "card": {
+          "name": "Assault Armor",
+          "nameEn": "Assault Armor",
+          "nameOriginal": null,
+          "slug": "assault-armor",
+          "archetypeIds": [
+            883
+          ],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": null
+        },
+        "id": 17975,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN092-92eceee196",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "093",
+        "card": {
+          "name": "Puppet King",
+          "nameEn": "Puppet King",
+          "nameOriginal": null,
+          "slug": "puppet-king",
+          "archetypeIds": [
+            656,
+            869
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17976,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": null,
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "094",
+        "card": {
+          "name": "Zeta Reticulant",
+          "nameEn": "Zeta Reticulant",
+          "nameOriginal": null,
+          "slug": "zeta-reticulant",
+          "archetypeIds": [
+            892
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17977,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN094-8ac26e5809",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "095",
+        "card": {
+          "name": "Tethys, Goddess of Light",
+          "nameEn": "Tethys, Goddess of Light",
+          "nameOriginal": null,
+          "slug": "tethys-goddess-of-light",
+          "archetypeIds": [
+            770
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2018-01-19T00:00:00.000000Z"
+        },
+        "id": 17978,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SDLS/SDLS-DE010-f5ce1b10d5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "096",
+        "card": {
+          "name": "Ido the Supreme Magical Force",
+          "nameEn": "Ido the Supreme Magical Force",
+          "nameOriginal": null,
+          "slug": "ido-the-supreme-magical-force",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 17979,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-DE026-QCSCR-58bb7e0bd1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "097",
+        "card": {
+          "name": "Violet Witch",
+          "nameEn": "Violet Witch",
+          "nameOriginal": null,
+          "slug": "violet-witch",
+          "archetypeIds": [
+            783
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2014-10-24T00:00:00.000000Z"
+        },
+        "id": 17980,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LC5D/LC5D-DE086-578703e5f2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "097",
+        "card": {
+          "name": "Violet Witch",
+          "nameEn": "Violet Witch",
+          "nameOriginal": null,
+          "slug": "violet-witch",
+          "archetypeIds": [
+            783
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2014-10-24T00:00:00.000000Z"
+        },
+        "id": 17993,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LC5D/LC5D-DE086-578703e5f2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "098",
+        "card": {
+          "name": "Greed Quasar",
+          "nameEn": "Greed Quasar",
+          "nameOriginal": null,
+          "slug": "greed-quasar",
+          "archetypeIds": [
+            892
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2009-03-03T00:00:00.000000Z"
+        },
+        "id": 17981,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN098-bb7a087fd3",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "099",
+        "card": {
+          "name": "Armoroid",
+          "nameEn": "Armoroid",
+          "nameOriginal": null,
+          "slug": "armoroid",
+          "archetypeIds": [
+            363,
+            911
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2017-09-08T00:00:00.000000Z"
+        },
+        "id": 17982,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LEDU/LEDU-DE034-ddde6a37e0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      }
+    ],
+    "printsCount": null,
+    "releaseEu": "2009-03-03T00:00:00.000000Z",
+    "releaseEuDayUnknown": false,
+    "releaseEuMonthUnknown": false,
+    "releaseNa": "2009-03-03T00:00:00.000000Z",
+    "releaseNaDayUnknown": false,
+    "releaseNaMonthUnknown": false,
+    "tournamentLegal": "2009-03-07T00:00:00.000000Z",
+    "setNumber": "CRMS",
+    "slug": "crimson-crisis",
+    "scanCounts": {
+      "en": 26,
+      "de": 43
+    }
+  }
+}

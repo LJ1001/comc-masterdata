@@ -1,0 +1,1318 @@
+[
+  {
+    "data": {
+      "allowed": [],
+      "allowedAdditional": {
+        "banlist-65": 3,
+        "banlist-37": 3
+      },
+      "alternativeArtworks": [],
+      "archetypes": [],
+      "attack": null,
+      "cardEffect": "When there are 3 face-up \"7\" cards on your side of the field, draw 3 cards from your Deck. Then destroy all \"7\" cards. When this card is sent directly from the field to your Graveyard, increase your Life Points by 700 points.",
+      "cardTypes": [
+        16
+      ],
+      "cardTypeOrder": "33",
+      "color": null,
+      "defense": null,
+      "id": 6789,
+      "image": null,
+      "isPlayable": true,
+      "level": null,
+      "linkArrows": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "mentions": [],
+      "name": "7",
+      "masterDuelRarity": 68,
+      "genesysProvision": 0,
+      "ocgOnlyCards": null,
+      "passcode": "67048711",
+      "pendulumEffect": null,
+      "prints": [
+        {
+          "cardNumber": "091",
+          "id": 11910,
+          "isFirstPrint": true,
+          "prerelease": false,
+          "rarity": 1,
+          "artworkNumber": null,
+          "artworkCategory": null,
+          "release": null,
+          "set": {
+            "format": 1,
+            "languages": [
+              {
+                "id": 570,
+                "language": "en-US",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": "",
+                "firstEdition": true,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 571,
+                "language": "fr",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 572,
+                "language": "de",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 573,
+                "language": "it",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 574,
+                "language": "pt",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 575,
+                "language": "es",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              }
+            ],
+            "name": "Ancient Sanctuary",
+            "releaseEu": "2004-06-15T00:00:00.000000Z",
+            "releaseNa": "2004-06-15T00:00:00.000000Z",
+            "tcgNotConfirmed": false,
+            "setNumber": "AST",
+            "slug": "ancient-sanctuary"
+          },
+          "image": null,
+          "imageIsPlaceholder": true,
+          "language": null,
+          "decoration": null
+        },
+        {
+          "cardNumber": "204",
+          "id": 13210,
+          "isFirstPrint": false,
+          "prerelease": false,
+          "rarity": 1,
+          "artworkNumber": null,
+          "artworkCategory": null,
+          "release": null,
+          "set": {
+            "format": 1,
+            "languages": [
+              {
+                "id": 1450,
+                "language": "de",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 1451,
+                "language": "en",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 1452,
+                "language": "fr",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 1453,
+                "language": "it",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 1454,
+                "language": "es",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              }
+            ],
+            "name": "Dark Revelation Volume 2",
+            "releaseEu": "2005-10-20T00:00:00.000000Z",
+            "releaseNa": "2005-10-20T00:00:00.000000Z",
+            "tcgNotConfirmed": false,
+            "setNumber": "DR2",
+            "slug": "dark-revelation-volume-2"
+          },
+          "image": null,
+          "imageIsPlaceholder": true,
+          "language": null,
+          "decoration": null
+        }
+      ],
+      "printsCount": null,
+      "slug": "7",
+      "synonyms": [],
+      "type": "spell",
+      "cardEffectEn": "When there are 3 face-up \"7\" cards on your side of the field, draw 3 cards from your Deck. Then destroy all \"7\" cards. When this card is sent directly from the field to your Graveyard, increase your Life Points by 700 points.",
+      "cardEffectDe": "Wenn sich auf deiner Spielfeldseite 3 offene „7“-Karten befinden, ziehe 3 Karten von deinem Deck. Zerstöre dann alle „7“-Karten. Wenn diese Karte vom Spielfeld auf den Friedhof gelegt wird, erhöhe deine Life Points um 700 Punkte.",
+      "cardEffectFr": "Lorsque vous avez 3 \"7\" face recto sur votre Terrain, piochez 3 cartes de votre Deck. Détruisez ensuite toutes les cartes \"7\". Lorsque cette carte est envoyée depuis le Terrain au Cimetière, augmentez vos Life Points de 700 points.",
+      "cardEffectIt": "Quando ci sono 3 carte \"7\" scoperte sul tuo Terreno, pesca 3 carte dal tuo Deck. Distruggi quindi tutte le carte \"7\". Quando questa carta viene mandata dal Terreno al Cimitero, aumenta i tuoi Life Points di 700 punti.",
+      "cardEffectEs": "Cuando hay 3 cartas \"7\" boca arriba en tu Campo, roba 3 cartas de tu Deck. Destruye todas las cartas \"7\". Cuando esta carta es mandada del Campo al Cementerio, aumenta tus Life Points en 700 puntos.",
+      "cardEffectPt": null,
+      "cardEffectJp": null,
+      "nameEn": "7",
+      "nameDe": "7",
+      "nameFr": "7",
+      "nameIt": "7",
+      "nameEs": "7",
+      "namePt": null,
+      "nameJp": null
+    }
+  },
+  {
+    "data": {
+      "allowed": [],
+      "allowedAdditional": {
+        "banlist-65": 3,
+        "banlist-37": 3
+      },
+      "alternativeArtworks": [],
+      "archetypes": [],
+      "attack": 1800,
+      "cardEffect": "A rare rainbow fish that has never been caught by mortal man.",
+      "cardTypes": [
+        1
+      ],
+      "cardTypeOrder": "13",
+      "color": "#53597a",
+      "defense": 800,
+      "id": 6163,
+      "image": "https://cardcluster.com/storage/cards/MRD/MRD-G098-16d2122b24",
+      "isPlayable": true,
+      "level": 4,
+      "linkArrows": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "mentions": [],
+      "monsterAttribute": 6,
+      "monsterType": 10,
+      "name": "7 Colored Fish",
+      "masterDuelRarity": 68,
+      "genesysProvision": 0,
+      "ocgOnlyCards": null,
+      "passcode": "23771716",
+      "pendulumEffect": null,
+      "prints": [
+        {
+          "cardNumber": "098",
+          "id": 10718,
+          "isFirstPrint": true,
+          "prerelease": false,
+          "rarity": 1,
+          "artworkNumber": null,
+          "artworkCategory": null,
+          "release": null,
+          "set": {
+            "format": 1,
+            "languages": [
+              {
+                "id": 23,
+                "language": "en-US",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": "",
+                "firstEdition": true,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 24,
+                "language": "en-EU",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": "E",
+                "firstEdition": true,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 25,
+                "language": "fr",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": "F",
+                "firstEdition": true,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 26,
+                "language": "de",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": "G",
+                "firstEdition": true,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 27,
+                "language": "it",
+                "alternateSetNumber": "PMT",
+                "alternateLanguageCode": "I",
+                "firstEdition": true,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 29,
+                "language": "pt",
+                "alternateSetNumber": "PMT",
+                "alternateLanguageCode": "P",
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 30,
+                "language": "es",
+                "alternateSetNumber": "PMT",
+                "alternateLanguageCode": "S",
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              }
+            ],
+            "name": "Metal Raiders",
+            "releaseEu": "2003-07-11T00:00:00.000000Z",
+            "releaseNa": "2002-06-26T00:00:00.000000Z",
+            "tcgNotConfirmed": false,
+            "setNumber": "MRD",
+            "slug": "metal-raiders"
+          },
+          "image": "https://cardcluster.com/storage/cards/MRD/MRD-G098-16d2122b24",
+          "imageIsPlaceholder": true,
+          "language": null,
+          "decoration": null
+        },
+        {
+          "cardNumber": "001",
+          "id": 19418,
+          "isFirstPrint": false,
+          "prerelease": false,
+          "rarity": 1,
+          "artworkNumber": null,
+          "artworkCategory": null,
+          "release": null,
+          "set": {
+            "format": 1,
+            "languages": [
+              {
+                "id": 1681,
+                "language": "de",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": false,
+                "limitedEdition": true
+              },
+              {
+                "id": 1682,
+                "language": "en",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": false,
+                "limitedEdition": true
+              },
+              {
+                "id": 1683,
+                "language": "fr",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": false,
+                "limitedEdition": true
+              },
+              {
+                "id": 1684,
+                "language": "it",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": false,
+                "limitedEdition": true
+              },
+              {
+                "id": 1685,
+                "language": "es",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": false,
+                "limitedEdition": true
+              }
+            ],
+            "name": "Gold Series",
+            "releaseEu": "2008-04-09T00:00:00.000000Z",
+            "releaseNa": "2008-04-02T00:00:00.000000Z",
+            "tcgNotConfirmed": false,
+            "setNumber": "GLD1",
+            "slug": "gold-series"
+          },
+          "image": "https://cardcluster.com/storage/cards/MRD/MRD-G098-16d2122b24",
+          "imageIsPlaceholder": true,
+          "language": null,
+          "decoration": null
+        },
+        {
+          "cardNumber": "008",
+          "id": 21745,
+          "isFirstPrint": false,
+          "prerelease": false,
+          "rarity": 1,
+          "artworkNumber": null,
+          "artworkCategory": null,
+          "release": null,
+          "set": {
+            "format": 1,
+            "languages": [
+              {
+                "id": 392,
+                "language": "en-US",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": "",
+                "firstEdition": true,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 393,
+                "language": "fr",
+                "alternateSetNumber": "DDJ",
+                "alternateLanguageCode": "F",
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 394,
+                "language": "de",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": "G",
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 395,
+                "language": "it",
+                "alternateSetNumber": "MIJ",
+                "alternateLanguageCode": "I",
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 396,
+                "language": "pt",
+                "alternateSetNumber": "DIJ",
+                "alternateLanguageCode": "P",
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 397,
+                "language": "es",
+                "alternateSetNumber": "BIJ",
+                "alternateLanguageCode": "S",
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              }
+            ],
+            "name": "Starter Deck: Joey",
+            "releaseEu": "2003-03-31T00:00:00.000000Z",
+            "releaseNa": "2003-03-30T00:00:00.000000Z",
+            "tcgNotConfirmed": false,
+            "setNumber": "SDJ",
+            "slug": "starter-deck-joey"
+          },
+          "image": "https://cardcluster.com/storage/cards/SDJ/SDJ-G008-f6471e9380",
+          "imageIsPlaceholder": true,
+          "language": null,
+          "decoration": null
+        },
+        {
+          "cardNumber": "002",
+          "id": 22866,
+          "isFirstPrint": false,
+          "prerelease": false,
+          "rarity": 1,
+          "artworkNumber": null,
+          "artworkCategory": null,
+          "release": null,
+          "set": {
+            "format": 1,
+            "languages": [
+              {
+                "id": 2249,
+                "language": "de",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 2250,
+                "language": "en",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 2251,
+                "language": "fr",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 2252,
+                "language": "it",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 2253,
+                "language": "pt",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 2254,
+                "language": "es",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              }
+            ],
+            "name": "Structure Deck: Fury from the Deep",
+            "releaseEu": "2005-05-09T00:00:00.000000Z",
+            "releaseNa": "2005-05-09T00:00:00.000000Z",
+            "tcgNotConfirmed": false,
+            "setNumber": "SD4",
+            "slug": "structure-deck-fury-from-the-deep"
+          },
+          "image": "https://cardcluster.com/storage/cards/MRD/MRD-G098-16d2122b24",
+          "imageIsPlaceholder": true,
+          "language": null,
+          "decoration": null
+        },
+        {
+          "cardNumber": "098",
+          "id": 60204,
+          "isFirstPrint": false,
+          "prerelease": false,
+          "rarity": 1,
+          "artworkNumber": null,
+          "artworkCategory": null,
+          "release": null,
+          "set": {
+            "format": 1,
+            "languages": [
+              {
+                "id": 1092,
+                "language": "de",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 1093,
+                "language": "en",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 1094,
+                "language": "fr",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 1095,
+                "language": "it",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 1096,
+                "language": "pt",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 1097,
+                "language": "es",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              }
+            ],
+            "name": "Metal Raiders (25th Anniversary Edition) - Series 11+ card layout",
+            "releaseEu": "2023-04-20T00:00:00.000000Z",
+            "releaseNa": "2023-04-21T00:00:00.000000Z",
+            "tcgNotConfirmed": false,
+            "setNumber": "MRD",
+            "slug": "metal-raiders-25th-anniversary-edition-series-11-card-layout"
+          },
+          "image": "https://cardcluster.com/storage/cards/MRD_25TH/MRD_25TH-DE098-eaba223d82",
+          "imageIsPlaceholder": true,
+          "language": null,
+          "decoration": null
+        },
+        {
+          "cardNumber": "C09",
+          "id": 63059,
+          "isFirstPrint": false,
+          "prerelease": false,
+          "rarity": 1,
+          "artworkNumber": null,
+          "artworkCategory": null,
+          "release": null,
+          "set": {
+            "format": 3,
+            "languages": [
+              {
+                "id": 2702,
+                "language": "de",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 2703,
+                "language": "en",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 2704,
+                "language": "fr",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 2705,
+                "language": "it",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 2706,
+                "language": "pt",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 2707,
+                "language": "es",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              }
+            ],
+            "name": "Speed Duel: Streets of Battle City",
+            "releaseEu": "2023-08-24T00:00:00.000000Z",
+            "releaseNa": "2023-08-25T00:00:00.000000Z",
+            "tcgNotConfirmed": false,
+            "setNumber": "SBC1",
+            "slug": "speed-duel-streets-of-battle-city"
+          },
+          "image": "https://cardcluster.com/storage/cards/SBC1/SBC1-DEC09-915b6ccac8",
+          "imageIsPlaceholder": true,
+          "language": null,
+          "decoration": null
+        },
+        {
+          "cardNumber": "098",
+          "id": 79622,
+          "isFirstPrint": false,
+          "prerelease": false,
+          "rarity": 1,
+          "artworkNumber": null,
+          "artworkCategory": null,
+          "release": null,
+          "set": {
+            "format": 1,
+            "languages": [
+              {
+                "id": 4191,
+                "language": "en",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              }
+            ],
+            "name": "Metal Raiders (2004 reprint) - Series 4-6 card layout",
+            "releaseEu": "2004-12-01T00:00:00.000000Z",
+            "releaseNa": "2004-12-01T00:00:00.000000Z",
+            "tcgNotConfirmed": false,
+            "setNumber": "MRD",
+            "slug": "metal-raiders-2004-reprint-series-4-6-card-layout"
+          },
+          "image": "https://cardcluster.com/storage/cards/MRD/MRD-G098-16d2122b24",
+          "imageIsPlaceholder": true,
+          "language": null,
+          "decoration": null
+        }
+      ],
+      "printsCount": null,
+      "slug": "7-colored-fish",
+      "synonyms": [],
+      "type": "monster",
+      "cardEffectEn": "A rare rainbow fish that has never been caught by mortal man.",
+      "cardEffectDe": "Ein seltener Regenbogenfisch, der noch nie von einem sterblichen Menschen gefangen werden konnte.",
+      "cardEffectFr": "Aucun mortel n'a jamais réussi à capturer ce poisson arc-en-ciel très rare.",
+      "cardEffectIt": "Il rarissimo pesce arcobaleno non è mai stato catturato da un mortale.",
+      "cardEffectEs": "Un raro pez color arco iris que nunca ha sido atrapado por hombres mortales.",
+      "cardEffectPt": "Um raro peixe arco-íris que nunca foi apanhado por homens mortais.",
+      "cardEffectJp": null,
+      "nameEn": "7 Colored Fish",
+      "nameDe": "Siebenfarbiger Fisch",
+      "nameFr": "Poisson aux 7 Couleurs",
+      "nameIt": "Pesce dei 7 Colori",
+      "nameEs": "Pez de 7 Colores",
+      "namePt": "Peixe de 7 Cores",
+      "nameJp": null
+    }
+  },
+  {
+    "data": {
+      "allowed": [],
+      "allowedAdditional": {
+        "banlist-65": 3,
+        "banlist-37": 3
+      },
+      "alternativeArtworks": [],
+      "archetypes": [
+        {
+          "id": 698,
+          "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN050-a6b8c48bc2",
+          "coverCardSlug": "incoming-machine",
+          "coverCardName": "Incoming Machine!",
+          "coverArtworkId": null,
+          "color": "#151418",
+          "decks": null,
+          "name": "Bandit Keith",
+          "slug": "bandit-keith",
+          "firstPrint": "2002-03-08T00:00:00.000000Z",
+          "isFirstPrint": 0,
+          "cards": [],
+          "type": "character",
+          "parents": [],
+          "sets": null,
+          "ocgCards": null,
+          "hasDuplicate": null,
+          "deckAssignable": true,
+          "description": "cards used or inspired by him (anime, manga)",
+          "pivotType": "member"
+        }
+      ],
+      "attack": null,
+      "cardEffect": "Activate this card by choosing ATK or DEF; equip only to a Machine monster. It gains 700 ATK or DEF, depending on the choice.",
+      "cardTypes": [
+        18
+      ],
+      "cardTypeOrder": "35",
+      "color": "#2a242d",
+      "defense": null,
+      "id": 4735,
+      "image": "https://cardcluster.com/storage/cards/PSV/PSV-G004-4294f90d26",
+      "isPlayable": true,
+      "level": null,
+      "linkArrows": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "mentions": [],
+      "name": "7 Completed",
+      "masterDuelRarity": 68,
+      "genesysProvision": 0,
+      "ocgOnlyCards": null,
+      "passcode": "86198326",
+      "pendulumEffect": null,
+      "prints": [
+        {
+          "cardNumber": "135",
+          "id": 6971,
+          "isFirstPrint": false,
+          "prerelease": false,
+          "rarity": 1,
+          "artworkNumber": null,
+          "artworkCategory": null,
+          "release": null,
+          "set": {
+            "format": 1,
+            "languages": [
+              {
+                "id": 1873,
+                "language": "de",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 1874,
+                "language": "en",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 1875,
+                "language": "fr",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 1876,
+                "language": "it",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 1877,
+                "language": "pt",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 1878,
+                "language": "es",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              }
+            ],
+            "name": "Battle Pack 3: Monster League",
+            "releaseEu": "2014-07-31T00:00:00.000000Z",
+            "releaseNa": "2014-08-01T00:00:00.000000Z",
+            "tcgNotConfirmed": false,
+            "setNumber": "BP03",
+            "slug": "battle-pack-3-monster-league"
+          },
+          "image": "https://cardcluster.com/storage/cards/PSV/PSV-G004-4294f90d26",
+          "imageIsPlaceholder": true,
+          "language": null,
+          "decoration": null
+        },
+        {
+          "cardNumber": "135",
+          "id": 8938,
+          "isFirstPrint": false,
+          "prerelease": false,
+          "rarity": 15,
+          "artworkNumber": null,
+          "artworkCategory": null,
+          "release": null,
+          "set": {
+            "format": 1,
+            "languages": [
+              {
+                "id": 1873,
+                "language": "de",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 1874,
+                "language": "en",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 1875,
+                "language": "fr",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 1876,
+                "language": "it",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 1877,
+                "language": "pt",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 1878,
+                "language": "es",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              }
+            ],
+            "name": "Battle Pack 3: Monster League",
+            "releaseEu": "2014-07-31T00:00:00.000000Z",
+            "releaseNa": "2014-08-01T00:00:00.000000Z",
+            "tcgNotConfirmed": false,
+            "setNumber": "BP03",
+            "slug": "battle-pack-3-monster-league"
+          },
+          "image": "https://cardcluster.com/storage/cards/PSV/PSV-G004-4294f90d26",
+          "imageIsPlaceholder": true,
+          "language": null,
+          "decoration": null
+        },
+        {
+          "cardNumber": "004",
+          "id": 10899,
+          "isFirstPrint": true,
+          "prerelease": false,
+          "rarity": 1,
+          "artworkNumber": null,
+          "artworkCategory": null,
+          "release": null,
+          "set": {
+            "format": 1,
+            "languages": [
+              {
+                "id": 41,
+                "language": "en-US",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": "",
+                "firstEdition": true,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 42,
+                "language": "en-EU",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": "E",
+                "firstEdition": true,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 43,
+                "language": "fr",
+                "alternateSetNumber": "SDP",
+                "alternateLanguageCode": "F",
+                "firstEdition": true,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 44,
+                "language": "de",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": "G",
+                "firstEdition": true,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 45,
+                "language": "it",
+                "alternateSetNumber": "SDF",
+                "alternateLanguageCode": "I",
+                "firstEdition": true,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              }
+            ],
+            "name": "Pharaoh's Servant",
+            "releaseEu": "2003-12-12T00:00:00.000000Z",
+            "releaseNa": "2002-10-20T00:00:00.000000Z",
+            "tcgNotConfirmed": false,
+            "setNumber": "PSV",
+            "slug": "pharaohs-servant"
+          },
+          "image": "https://cardcluster.com/storage/cards/PSV/PSV-G004-4294f90d26",
+          "imageIsPlaceholder": true,
+          "language": null,
+          "decoration": null
+        },
+        {
+          "cardNumber": "029",
+          "id": 24515,
+          "isFirstPrint": false,
+          "prerelease": false,
+          "rarity": 1,
+          "artworkNumber": null,
+          "artworkCategory": null,
+          "release": null,
+          "set": {
+            "format": 3,
+            "languages": [
+              {
+                "id": 2614,
+                "language": "de",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 2615,
+                "language": "en",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 2616,
+                "language": "fr",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 2617,
+                "language": "it",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 2618,
+                "language": "pt",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              },
+              {
+                "id": 2619,
+                "language": "es",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": true,
+                "unlimitedEdition": false,
+                "limitedEdition": false
+              }
+            ],
+            "name": "Speed Duel: Scars of Battle",
+            "releaseEu": "2019-08-01T00:00:00.000000Z",
+            "releaseNa": "2019-08-02T00:00:00.000000Z",
+            "tcgNotConfirmed": false,
+            "setNumber": "SBSC",
+            "slug": "speed-duel-scars-of-battle"
+          },
+          "image": "https://cardcluster.com/storage/cards/SBSC/SBSC-DE029-186bdd42c4",
+          "imageIsPlaceholder": true,
+          "language": null,
+          "decoration": null
+        },
+        {
+          "cardNumber": "038",
+          "id": 26179,
+          "isFirstPrint": false,
+          "prerelease": false,
+          "rarity": 23,
+          "artworkNumber": null,
+          "artworkCategory": null,
+          "release": null,
+          "set": {
+            "format": 1,
+            "languages": [
+              {
+                "id": 3809,
+                "language": "en",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": false,
+                "limitedEdition": true
+              }
+            ],
+            "name": "Duel Terminal 2",
+            "releaseEu": null,
+            "releaseNa": "2010-05-25T00:00:00.000000Z",
+            "tcgNotConfirmed": false,
+            "setNumber": "DT02",
+            "slug": "duel-terminal-2"
+          },
+          "image": "https://cardcluster.com/storage/cards/PSV/PSV-G004-4294f90d26",
+          "imageIsPlaceholder": true,
+          "language": null,
+          "decoration": null
+        },
+        {
+          "cardNumber": "004",
+          "id": 60358,
+          "isFirstPrint": false,
+          "prerelease": false,
+          "rarity": 1,
+          "artworkNumber": null,
+          "artworkCategory": null,
+          "release": null,
+          "set": {
+            "format": 1,
+            "languages": [
+              {
+                "id": 1104,
+                "language": "de",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 1105,
+                "language": "en",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 1106,
+                "language": "fr",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 1107,
+                "language": "it",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 1108,
+                "language": "pt",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              },
+              {
+                "id": 1109,
+                "language": "es",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              }
+            ],
+            "name": "Pharaoh's Servant (25th Anniversary Edition) - Series 11+ card layout",
+            "releaseEu": "2023-04-20T00:00:00.000000Z",
+            "releaseNa": "2023-04-21T00:00:00.000000Z",
+            "tcgNotConfirmed": false,
+            "setNumber": "PSV",
+            "slug": "pharaohs-servant-25th-anniversary-edition-series-11-card-layout"
+          },
+          "image": "https://cardcluster.com/storage/cards/PSV_25TH/PSV_25TH-DE004-b0f7c1ad86",
+          "imageIsPlaceholder": true,
+          "language": null,
+          "decoration": null
+        },
+        {
+          "cardNumber": "004",
+          "id": 78989,
+          "isFirstPrint": false,
+          "prerelease": false,
+          "rarity": 1,
+          "artworkNumber": null,
+          "artworkCategory": null,
+          "release": null,
+          "set": {
+            "format": 1,
+            "languages": [
+              {
+                "id": 4159,
+                "language": "en",
+                "alternateSetNumber": null,
+                "alternateLanguageCode": null,
+                "firstEdition": false,
+                "unlimitedEdition": true,
+                "limitedEdition": false
+              }
+            ],
+            "name": "Pharaoh's Servant (2004 reprint) - Series 4-6 card layout",
+            "releaseEu": "2004-12-01T00:00:00.000000Z",
+            "releaseNa": "2004-12-01T00:00:00.000000Z",
+            "tcgNotConfirmed": false,
+            "setNumber": "PSV",
+            "slug": "pharaohs-servant-2004-reprint-series-4-6-card-layout"
+          },
+          "image": "https://cardcluster.com/storage/cards/PSV/PSV-G004-4294f90d26",
+          "imageIsPlaceholder": true,
+          "language": null,
+          "decoration": null
+        }
+      ],
+      "printsCount": null,
+      "slug": "7-completed",
+      "synonyms": [],
+      "type": "spell",
+      "cardEffectEn": "Activate this card by choosing ATK or DEF; equip only to a Machine monster. It gains 700 ATK or DEF, depending on the choice.",
+      "cardEffectDe": "Aktiviere diese Karte, indem du ATK oder DEF bestimmst; rüste nur ein Maschine-Monster mit dieser Karte aus. Es erhält 700 ATK oder DEF, abhängig von der Entscheidung.",
+      "cardEffectFr": "Activez cette carte en choisissant ATK ou DEF ; équipable uniquement à un monstre Machine. Il gagne 700 ATK ou DEF, selon le choix.",
+      "cardEffectIt": "Attiva questa carta selezionando ATK o DEF; equipaggia solo a un mostro Macchina. Esso guadagna 700 ATK o DEF, a seconda della tua scelta.",
+      "cardEffectEs": "Activa esta carta eligiendo ATK o DEF; sólo puedes equiparla a un monstruo Máquina. Éste gana 700 ATK o DEF, dependiendo de tu elección.",
+      "cardEffectPt": "Ative este card ao escolher ATK ou DEF; só pode ser equipado a um monstro Máquina. Ele ganha 700 de ATK ou DEF, dependendo da sua escolha.",
+      "cardEffectJp": null,
+      "nameEn": "7 Completed",
+      "nameDe": "7 vollendet",
+      "nameFr": "Brelan de 7",
+      "nameIt": "7 Completati",
+      "nameEs": "7 Completado",
+      "namePt": "7 Completados",
+      "nameJp": null
+    }
+  }
+]

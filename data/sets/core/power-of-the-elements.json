@@ -1,0 +1,3577 @@
+{
+  "data": {
+    "archetypes": [
+      {
+        "id": 686,
+        "name": "Ghoti",
+        "slug": "ghoti",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA04/RA04-DE060-SR-4fae2983ef",
+        "isFirstPrint": false
+      },
+      {
+        "id": 62,
+        "name": "Elemental HERO",
+        "slug": "elemental-hero",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLC1/BLC1-EN155-c51f580f79",
+        "isFirstPrint": false
+      },
+      {
+        "id": 159,
+        "name": "Neos",
+        "slug": "neos",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MGED/MGED-EN004-be73840665",
+        "isFirstPrint": false
+      },
+      {
+        "id": 402,
+        "name": "HERO",
+        "slug": "hero",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLC1/BLC1-EN003-ed90406424",
+        "isFirstPrint": false
+      },
+      {
+        "id": 883,
+        "name": "Jaden Yuki",
+        "slug": "jaden-yuki",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/MP23/MP23-DE137-f9450a67ca",
+        "isFirstPrint": false
+      },
+      {
+        "id": 158,
+        "name": "Neo-Spacian",
+        "slug": "neo-spacian",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SAST/SAST-DE071-61ac79894b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 672,
+        "name": "Spright",
+        "slug": "spright",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLTR/BLTR-EN075-da1839fec7",
+        "isFirstPrint": true
+      },
+      {
+        "id": 659,
+        "name": "Therion",
+        "slug": "therion",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DIFO/DIFO-EN007-SCR-442ad918fd",
+        "isFirstPrint": false
+      },
+      {
+        "id": 631,
+        "name": "Icejade",
+        "slug": "icejade",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN068-9e99a00125",
+        "isFirstPrint": false
+      },
+      {
+        "id": 547,
+        "name": "Fallen of Albaz",
+        "slug": "fallen-of-albaz",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/CH01/CH01-EN001-e78b36a28a",
+        "isFirstPrint": false
+      },
+      {
+        "id": 675,
+        "name": "Tearlaments",
+        "slug": "tearlaments",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE072-ae60cc1955",
+        "isFirstPrint": true
+      },
+      {
+        "id": 670,
+        "name": "Vernusylph",
+        "slug": "vernusylph",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE016-f375e113f5",
+        "isFirstPrint": true
+      },
+      {
+        "id": 89,
+        "name": "Gem-Knight",
+        "slug": "gem-knight",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLMM/BLMM-DE143-baae99f637",
+        "isFirstPrint": false
+      },
+      {
+        "id": 148,
+        "name": "Melodious",
+        "slug": "melodious",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LEDE/LEDE-EN036-eb54801fa6",
+        "isFirstPrint": false
+      },
+      {
+        "id": 406,
+        "name": "Melffy",
+        "slug": "melffy",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN139-06ce1b35b5",
+        "isFirstPrint": false
+      },
+      {
+        "id": 235,
+        "name": "Vendread",
+        "slug": "vendread",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLCR/BLCR-EN091-ae8f853324",
+        "isFirstPrint": false
+      },
+      {
+        "id": 639,
+        "name": "Exosister",
+        "slug": "exosister",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA02/RA02-EN038-SCR-e159535488",
+        "isFirstPrint": false
+      },
+      {
+        "id": 529,
+        "name": "Gunkan",
+        "slug": "gunkan",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BODE/BODE-EN048-afb233dfd7",
+        "isFirstPrint": false
+      },
+      {
+        "id": 398,
+        "name": "Rikka",
+        "slug": "rikka",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MAZE/MAZE-EN053-UR-b95aefedb4",
+        "isFirstPrint": false
+      },
+      {
+        "id": 255,
+        "name": "Mathmech",
+        "slug": "mathmech",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE028-b69bc6f2ab",
+        "isFirstPrint": false
+      },
+      {
+        "id": 125,
+        "name": "Krawler",
+        "slug": "krawler",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE029-d53765e983",
+        "isFirstPrint": false
+      },
+      {
+        "id": 671,
+        "name": "Mokey Mokey",
+        "slug": "mokey-mokey",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SGX1/SGX1-ENI03-0201db560d",
+        "isFirstPrint": false
+      },
+      {
+        "id": 28,
+        "name": "Charmer",
+        "slug": "charmer",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CH02/CH02-EN031-adbfc353bf",
+        "isFirstPrint": false
+      },
+      {
+        "id": 635,
+        "name": "P.U.N.K.",
+        "slug": "punk",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLMM/BLMM-DE051-UR-c7fb894097",
+        "isFirstPrint": false
+      },
+      {
+        "id": 662,
+        "name": "Scareclaw",
+        "slug": "scareclaw",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DIFO/DIFO-EN059-11f96494c8",
+        "isFirstPrint": false
+      },
+      {
+        "id": 424,
+        "name": "Springans",
+        "slug": "springans",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLVO/BLVO-EN009-df7803bf42",
+        "isFirstPrint": false
+      },
+      {
+        "id": 439,
+        "name": "Branded",
+        "slug": "branded",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CH01/CH01-EN020-0647363186",
+        "isFirstPrint": false
+      },
+      {
+        "id": 409,
+        "name": "Dogmatika",
+        "slug": "dogmatika",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CH01/CH01-EN016-521c67b306",
+        "isFirstPrint": false
+      },
+      {
+        "id": 437,
+        "name": "Amazement",
+        "slug": "amazement",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LIOV/LIOV-EN006-fd577bdeaf",
+        "isFirstPrint": false
+      },
+      {
+        "id": 919,
+        "name": "Yuma Tsukumo | Astral",
+        "slug": "yuma-tsukumo-astral",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/DUPO/DUPO-DE010-5374889f7b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 387,
+        "name": "Trap Monster",
+        "slug": "trap-monster",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/CH02/CH02-EN040-bd5fa12877",
+        "isFirstPrint": false
+      },
+      {
+        "id": 276,
+        "name": "Lair of Darkness",
+        "slug": "lair-of-darkness",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/EGS1/EGS1-EN032-a507df3493",
+        "isFirstPrint": false
+      },
+      {
+        "id": 154,
+        "name": "Morphtronic",
+        "slug": "morphtronic",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SECE/SECE-DE030-d0f885951e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 817,
+        "name": "Leo",
+        "slug": "leo",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE099-7a6656cd4c",
+        "isFirstPrint": false
+      },
+      {
+        "id": 85,
+        "name": "Gadget",
+        "slug": "gadget",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DUPO/DUPO-DE039-53ad3894e2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 785,
+        "name": "Luna",
+        "slug": "luna",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/ALIN/ALIN-DE071-eebc3d5a2d",
+        "isFirstPrint": false
+      },
+      {
+        "id": 354,
+        "name": "Power Tool",
+        "slug": "power-tool",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CT06/CT06-EN001-b1073e7809",
+        "isFirstPrint": false
+      }
+    ],
+    "archetypesReprint": [
+      {
+        "id": 49,
+        "name": "Destiny HERO",
+        "slug": "destiny-hero",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BODE/BODE-EN039-568ee82aca",
+        "isFirstPrint": false
+      }
+    ],
+    "category": {
+      "name": "Series 11",
+      "slug": "series-11",
+      "sets": [
+        {
+          "image": "https://cardcluster.com/storage/sets/CYAC-21eb3fe9ebd07dc607ac",
+          "format": 1,
+          "name": "Cyberstorm Access",
+          "releaseEu": "2023-05-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2023-05-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CYAC",
+          "slug": "cyberstorm-access",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/PHHY-728895d71f82a2e6f832",
+          "format": 1,
+          "name": "Photon Hypernova",
+          "releaseEu": "2023-02-09T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2023-02-10T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "PHHY",
+          "slug": "photon-hypernova",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/DABL-cfa6bf49df40a9e69b7c",
+          "format": 1,
+          "name": "Darkwing Blast",
+          "releaseEu": "2022-10-20T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2022-10-21T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "DABL",
+          "slug": "darkwing-blast",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/POTE-e20856187e1d8c1515dd",
+          "format": 1,
+          "name": "Power of the Elements",
+          "releaseEu": "2022-08-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2022-08-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "POTE",
+          "slug": "power-of-the-elements",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/DIFO-34599fd241d0f61061ee",
+          "format": 1,
+          "name": "Dimension Force",
+          "releaseEu": "2022-05-19T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2022-05-20T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "DIFO",
+          "slug": "dimension-force",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/BACH-08ae9a3cb22440c2f8ee",
+          "format": 1,
+          "name": "Battle of Chaos",
+          "releaseEu": "2022-02-10T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2022-02-11T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "BACH",
+          "slug": "battle-of-chaos",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/BODE-60936fb2b58bdaafc03a",
+          "format": 1,
+          "name": "Burst of Destiny",
+          "releaseEu": "2021-11-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2021-11-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "BODE",
+          "slug": "burst-of-destiny",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/DAMA-c31119d7f01fc44870c6",
+          "format": 1,
+          "name": "Dawn of Majesty",
+          "releaseEu": "2021-08-12T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2021-08-13T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "DAMA",
+          "slug": "dawn-of-majesty",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/LIOV-8b437fe9aa9d34168df6",
+          "format": 1,
+          "name": "Lightning Overdrive",
+          "releaseEu": "2021-06-03T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2021-06-04T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "LIOV",
+          "slug": "lightning-overdrive",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/BLVO-9f78221561d9d4c697e7",
+          "format": 1,
+          "name": "Blazing Vortex",
+          "releaseEu": "2021-02-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2021-02-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "BLVO",
+          "slug": "blazing-vortex",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/PHRA-fb1d2022e03495580a2d",
+          "format": 1,
+          "name": "Phantom Rage",
+          "releaseEu": "2020-11-05T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2020-11-06T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "PHRA",
+          "slug": "phantom-rage",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/ROTD-887e716ca77218df6fd0",
+          "format": 1,
+          "name": "Rise of the Duelist",
+          "releaseEu": "2020-08-06T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2020-08-07T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "ROTD",
+          "slug": "rise-of-the-duelist",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        }
+      ],
+      "setsCount": 12,
+      "format": 1,
+      "parent": {
+        "name": "Core Boosters",
+        "slug": "core-boosters",
+        "setsCount": 102,
+        "format": 1,
+        "parent": {
+          "name": "Booster Packs",
+          "slug": "booster-packs",
+          "setsCount": 326,
+          "format": 1,
+          "parent": null
+        }
+      }
+    },
+    "disableSetList": false,
+    "format": 1,
+    "game": 1,
+    "id": 722,
+    "image": "https://cardcluster.com/storage/sets/POTE-e20856187e1d8c1515dd",
+    "languages": [
+      {
+        "id": 1011,
+        "language": "de",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 1012,
+        "language": "fr",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 1013,
+        "language": "it",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 1014,
+        "language": "pt",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 1015,
+        "language": "es",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 1016,
+        "language": "en",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      }
+    ],
+    "name": "Power of the Elements",
+    "next": {
+      "name": "Darkwing Blast",
+      "setNumber": "DABL",
+      "slug": "darkwing-blast",
+      "format": 1,
+      "releaseEu": "2022-10-20T00:00:00.000000Z",
+      "releaseNa": "2022-10-21T00:00:00.000000Z"
+    },
+    "previous": {
+      "name": "Dimension Force",
+      "setNumber": "DIFO",
+      "slug": "dimension-force",
+      "format": 1,
+      "releaseEu": "2022-05-19T00:00:00.000000Z",
+      "releaseNa": "2022-05-20T00:00:00.000000Z"
+    },
+    "prints": [
+      {
+        "cardNumber": "000",
+        "card": {
+          "name": "Ghoti of the Deep Beyond",
+          "nameEn": "Ghoti of the Deep Beyond",
+          "nameOriginal": null,
+          "slug": "ghoti-of-the-deep-beyond",
+          "archetypeIds": [
+            686
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 55124,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE000-9c8a401509",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "001",
+        "card": {
+          "name": "Elemental HERO Spirit of Neos",
+          "nameEn": "Elemental HERO Spirit of Neos",
+          "nameOriginal": null,
+          "slug": "elemental-hero-spirit-of-neos",
+          "archetypeIds": [
+            62,
+            159,
+            402,
+            883
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 48109,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE001-18520a6c0b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "002",
+        "card": {
+          "name": "Cross Keeper",
+          "nameEn": "Cross Keeper",
+          "nameOriginal": null,
+          "slug": "cross-keeper",
+          "archetypeIds": [
+            62,
+            158,
+            883
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 48111,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE002-f97944c384",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "003",
+        "card": {
+          "name": "Spright Blue",
+          "nameEn": "Spright Blue",
+          "nameOriginal": null,
+          "slug": "spright-blue",
+          "archetypeIds": [
+            672
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-06-21T00:00:00.000000Z"
+        },
+        "id": 53417,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE003-7038619b02",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "004",
+        "card": {
+          "name": "Spright Jet",
+          "nameEn": "Spright Jet",
+          "nameOriginal": null,
+          "slug": "spright-jet",
+          "archetypeIds": [
+            672
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-06-21T00:00:00.000000Z"
+        },
+        "id": 53418,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE004-508d2c7982",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "005",
+        "card": {
+          "name": "Spright Pixies",
+          "nameEn": "Spright Pixies",
+          "nameOriginal": null,
+          "slug": "spright-pixies",
+          "archetypeIds": [
+            672
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-06-21T00:00:00.000000Z"
+        },
+        "id": 53419,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE005-e266f8d2c5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "006",
+        "card": {
+          "name": "Spright Red",
+          "nameEn": "Spright Red",
+          "nameOriginal": null,
+          "slug": "spright-red",
+          "archetypeIds": [
+            672
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-06-21T00:00:00.000000Z"
+        },
+        "id": 53420,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE006-b6122f5cc5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "007",
+        "card": {
+          "name": "Spright Carrot",
+          "nameEn": "Spright Carrot",
+          "nameOriginal": null,
+          "slug": "spright-carrot",
+          "archetypeIds": [
+            672
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-06-23T00:00:00.000000Z"
+        },
+        "id": 53427,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE007-012944d2aa",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "008",
+        "card": {
+          "name": "Therion \"Empress\" Alasia",
+          "nameEn": "Therion \"Empress\" Alasia",
+          "nameOriginal": null,
+          "slug": "therion-empress-alasia",
+          "archetypeIds": [
+            659
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 53428,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE008-4b21ff1625",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "009",
+        "card": {
+          "name": "Therion Irregular",
+          "nameEn": "Therion Irregular",
+          "nameOriginal": null,
+          "slug": "therion-irregular",
+          "archetypeIds": [
+            659
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 53429,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE009-bca9103f71",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "010",
+        "card": {
+          "name": "Icejade Creation Aegirocassis",
+          "nameEn": "Icejade Creation Aegirocassis",
+          "nameOriginal": null,
+          "slug": "icejade-creation-aegirocassis",
+          "archetypeIds": [
+            631
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 53466,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE010-06ff0e65c4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "011",
+        "card": {
+          "name": "Albaz the Ashen",
+          "nameEn": "Albaz the Ashen",
+          "nameOriginal": null,
+          "slug": "albaz-the-ashen",
+          "archetypeIds": [
+            547
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 53653,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE011-b081630fdc",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "012",
+        "card": {
+          "name": "Tearlaments Merrli",
+          "nameEn": "Tearlaments Merrli",
+          "nameOriginal": null,
+          "slug": "tearlaments-merrli",
+          "archetypeIds": [
+            675
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-02-09T00:00:00.000000Z"
+        },
+        "id": 53618,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE012-5d1efe2354",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "013",
+        "card": {
+          "name": "Tearlaments Havnis",
+          "nameEn": "Tearlaments Havnis",
+          "nameOriginal": null,
+          "slug": "tearlaments-havnis",
+          "archetypeIds": [
+            675
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-02-09T00:00:00.000000Z"
+        },
+        "id": 53619,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE013-cc8c48c0c5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "014",
+        "card": {
+          "name": "Tearlaments Scheiren",
+          "nameEn": "Tearlaments Scheiren",
+          "nameOriginal": null,
+          "slug": "tearlaments-scheiren",
+          "archetypeIds": [
+            675
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 53620,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE014-4c50dd8871",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "015",
+        "card": {
+          "name": "Tearlaments Reinoheart",
+          "nameEn": "Tearlaments Reinoheart",
+          "nameOriginal": null,
+          "slug": "tearlaments-reinoheart",
+          "archetypeIds": [
+            675
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-02-09T00:00:00.000000Z"
+        },
+        "id": 53621,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE015-d1f11bfd2e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "016",
+        "card": {
+          "name": "Vernusylph of the Flourishing Hills",
+          "nameEn": "Vernusylph of the Flourishing Hills",
+          "nameOriginal": null,
+          "slug": "vernusylph-of-the-flourishing-hills",
+          "archetypeIds": [
+            670
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 49889,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE016-f375e113f5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "017",
+        "card": {
+          "name": "Vernusylph of the Awakening Forests",
+          "nameEn": "Vernusylph of the Awakening Forests",
+          "nameOriginal": null,
+          "slug": "vernusylph-of-the-awakening-forests",
+          "archetypeIds": [
+            670
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 49890,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE017-e898f465ce",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "018",
+        "card": {
+          "name": "Vernusylph of the Flowering Fields",
+          "nameEn": "Vernusylph of the Flowering Fields",
+          "nameOriginal": null,
+          "slug": "vernusylph-of-the-flowering-fields",
+          "archetypeIds": [
+            670
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 49891,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE018-f9e0f3f9e8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "019",
+        "card": {
+          "name": "Vernusylph of the Thawing Mountains",
+          "nameEn": "Vernusylph of the Thawing Mountains",
+          "nameOriginal": null,
+          "slug": "vernusylph-of-the-thawing-mountains",
+          "archetypeIds": [
+            670
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 49892,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE019-920d225b6c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "020",
+        "card": {
+          "name": "Gem-Knight Quartz",
+          "nameEn": "Gem-Knight Quartz",
+          "nameOriginal": null,
+          "slug": "gem-knight-quartz",
+          "archetypeIds": [
+            89
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 50285,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE020-4efea90596",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "021",
+        "card": {
+          "name": "Brilliant Rose",
+          "nameEn": "Brilliant Rose",
+          "nameOriginal": null,
+          "slug": "brilliant-rose",
+          "archetypeIds": [
+            89,
+            148
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 50286,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE021-504c7749d0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "022",
+        "card": {
+          "name": "Melffy Wally",
+          "nameEn": "Melffy Wally",
+          "nameOriginal": null,
+          "slug": "melffy-wally",
+          "archetypeIds": [
+            406
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 53614,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE022-01c20bff92",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "023",
+        "card": {
+          "name": "Melffy Pinny",
+          "nameEn": "Melffy Pinny",
+          "nameOriginal": null,
+          "slug": "melffy-pinny",
+          "archetypeIds": [
+            406
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 53615,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE023-a320d89f0e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "024",
+        "card": {
+          "name": "Scar of the Vendread",
+          "nameEn": "Scar of the Vendread",
+          "nameOriginal": null,
+          "slug": "scar-of-the-vendread",
+          "archetypeIds": [
+            235
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 53434,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE024-8ca6acc0f5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "025",
+        "card": {
+          "name": "Exosister Martha",
+          "nameEn": "Exosister Martha",
+          "nameOriginal": null,
+          "slug": "exosister-martha",
+          "archetypeIds": [
+            639
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 50177,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE025-SCR-93457be074",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "025",
+        "card": {
+          "name": "Exosister Martha",
+          "nameEn": "Exosister Martha",
+          "nameOriginal": null,
+          "slug": "exosister-martha",
+          "archetypeIds": [
+            639
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 55125,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MP23/MP23-DE127-8a4279c2ae",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "026",
+        "card": {
+          "name": "Gunkan Suship Shari Red",
+          "nameEn": "Gunkan Suship Shari Red",
+          "nameOriginal": null,
+          "slug": "gunkan-suship-shari-red",
+          "archetypeIds": [
+            529
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 53176,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE026-8cbf16d457",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "027",
+        "card": {
+          "name": "Rikka Princess",
+          "nameEn": "Rikka Princess",
+          "nameOriginal": null,
+          "slug": "rikka-princess",
+          "archetypeIds": [
+            398
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 53432,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE027-e3807ae15a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "028",
+        "card": {
+          "name": "Mathmech Circular",
+          "nameEn": "Mathmech Circular",
+          "nameOriginal": null,
+          "slug": "mathmech-circular",
+          "archetypeIds": [
+            255
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 53415,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE028-b69bc6f2ab",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "029",
+        "card": {
+          "name": "Krawler Soma",
+          "nameEn": "Krawler Soma",
+          "nameOriginal": null,
+          "slug": "krawler-soma",
+          "archetypeIds": [
+            125
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 52901,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE029-d53765e983",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "030",
+        "card": {
+          "name": "Mokey Mokey Adrift",
+          "nameEn": "Mokey Mokey Adrift",
+          "nameOriginal": null,
+          "slug": "mokey-mokey-adrift",
+          "archetypeIds": [
+            671
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": null
+        },
+        "id": 53173,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE030-96efd87332",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "031",
+        "card": {
+          "name": "Kurikara Divincarnate",
+          "nameEn": "Kurikara Divincarnate",
+          "nameOriginal": null,
+          "slug": "kurikara-divincarnate",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2026-04-10T00:00:00.000000Z"
+        },
+        "id": 53628,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE031-SCR-2550b427f5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "031",
+        "card": {
+          "name": "Kurikara Divincarnate",
+          "nameEn": "Kurikara Divincarnate",
+          "nameOriginal": null,
+          "slug": "kurikara-divincarnate",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2026-04-10T00:00:00.000000Z"
+        },
+        "id": 55126,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE031-SLR-d3d1c0eacb",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "032",
+        "card": {
+          "name": "Aussa the Earth Channeler",
+          "nameEn": "Aussa the Earth Channeler",
+          "nameOriginal": null,
+          "slug": "aussa-the-earth-channeler",
+          "archetypeIds": [
+            28
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2026-01-23T00:00:00.000000Z"
+        },
+        "id": 53658,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE032-UR-1ca4bd7b64",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "032",
+        "card": {
+          "name": "Aussa the Earth Channeler",
+          "nameEn": "Aussa the Earth Channeler",
+          "nameOriginal": null,
+          "slug": "aussa-the-earth-channeler",
+          "archetypeIds": [
+            28
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2026-01-23T00:00:00.000000Z"
+        },
+        "id": 55120,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CH02/CH02-EN012-5b73f7d3c0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "033",
+        "card": {
+          "name": "Grandtusk Dragon",
+          "nameEn": "Grandtusk Dragon",
+          "nameOriginal": null,
+          "slug": "grandtusk-dragon",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 53656,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE033-5664f24dfe",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "034",
+        "card": {
+          "name": "Eka the Flame Buddy",
+          "nameEn": "Eka the Flame Buddy",
+          "nameOriginal": null,
+          "slug": "eka-the-flame-buddy",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 53762,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE034-9c94634b13",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "035",
+        "card": {
+          "name": "Propa Gandake",
+          "nameEn": "Propa Gandake",
+          "nameOriginal": null,
+          "slug": "propa-gandake",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 53763,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE035-d801dd372f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "036",
+        "card": {
+          "name": "Cartorhyn the Hidden Gem of the Seafront",
+          "nameEn": "Cartorhyn the Hidden Gem of the Seafront",
+          "nameOriginal": null,
+          "slug": "cartorhyn-the-hidden-gem-of-the-seafront",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 53764,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE036-64f0cb897f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "037",
+        "card": {
+          "name": "Emperor Tanuki's Critter Count",
+          "nameEn": "Emperor Tanuki's Critter Count",
+          "nameOriginal": null,
+          "slug": "emperor-tanukis-critter-count",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 48527,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE037-389d2dc56a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "038",
+        "card": {
+          "name": "Nightmell the Dark Bonder",
+          "nameEn": "Nightmell the Dark Bonder",
+          "nameOriginal": null,
+          "slug": "nightmell-the-dark-bonder",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 53765,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE038-77b0740547",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "039",
+        "card": {
+          "name": "Hydralander Orbit",
+          "nameEn": "Hydralander Orbit",
+          "nameOriginal": null,
+          "slug": "hydralander-orbit",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 53464,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE039-c2d6176cc0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "040",
+        "card": {
+          "name": "Vendread Scavenger",
+          "nameEn": "Vendread Scavenger",
+          "nameOriginal": null,
+          "slug": "vendread-scavenger",
+          "archetypeIds": [
+            235
+          ],
+          "cardTypeOrder": "14",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 53435,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE040-98f1b9910f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "041",
+        "card": {
+          "name": "Elemental HERO Shining Neos Wingman",
+          "nameEn": "Elemental HERO Shining Neos Wingman",
+          "nameOriginal": null,
+          "slug": "elemental-hero-shining-neos-wingman",
+          "archetypeIds": [
+            62,
+            159,
+            402,
+            883
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 48110,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE041-7dbe80bd73",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "042",
+        "card": {
+          "name": "Tearlaments Kitkallos",
+          "nameEn": "Tearlaments Kitkallos",
+          "nameOriginal": null,
+          "slug": "tearlaments-kitkallos",
+          "archetypeIds": [
+            675
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 53622,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE042-1642f7481e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "043",
+        "card": {
+          "name": "Tearlaments Kaleido-Heart",
+          "nameEn": "Tearlaments Kaleido-Heart",
+          "nameOriginal": null,
+          "slug": "tearlaments-kaleido-heart",
+          "archetypeIds": [
+            675
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 53623,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE043-c7bbdef774",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "044",
+        "card": {
+          "name": "Gem-Knight Lady Rose Diamond",
+          "nameEn": "Gem-Knight Lady Rose Diamond",
+          "nameOriginal": null,
+          "slug": "gem-knight-lady-rose-diamond",
+          "archetypeIds": [
+            89
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 50287,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE044-f1cf2aab57",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "045",
+        "card": {
+          "name": "Merry Melffys",
+          "nameEn": "Merry Melffys",
+          "nameOriginal": null,
+          "slug": "merry-melffys",
+          "archetypeIds": [
+            406
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 53616,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE045-f671c5c6d3",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "046",
+        "card": {
+          "name": "P.U.N.K. JAM Dragon Drive",
+          "nameEn": "P.U.N.K. JAM Dragon Drive",
+          "nameOriginal": null,
+          "slug": "punk-jam-dragon-drive",
+          "archetypeIds": [
+            635
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2026-04-10T00:00:00.000000Z"
+        },
+        "id": 50179,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE046-65232bb3c6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "047",
+        "card": {
+          "name": "Gigantic Spright",
+          "nameEn": "Gigantic Spright",
+          "nameOriginal": null,
+          "slug": "gigantic-spright",
+          "archetypeIds": [
+            672
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-06-21T00:00:00.000000Z"
+        },
+        "id": 53422,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE047-8ffe2f043e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "048",
+        "card": {
+          "name": "Ashura King",
+          "nameEn": "Ashura King",
+          "nameOriginal": null,
+          "slug": "ashura-king",
+          "archetypeIds": [],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 53766,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE048-3b48682d5a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "049",
+        "card": {
+          "name": "Spright Elf",
+          "nameEn": "Spright Elf",
+          "nameOriginal": null,
+          "slug": "spright-elf",
+          "archetypeIds": [
+            672
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 53423,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE049-56953f37ff",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "050",
+        "card": {
+          "name": "Scareclaw Light-Heart",
+          "nameEn": "Scareclaw Light-Heart",
+          "nameOriginal": null,
+          "slug": "scareclaw-light-heart",
+          "archetypeIds": [
+            662
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 53430,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE050-82744609c4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "051",
+        "card": {
+          "name": "EN - Engage Neo Space",
+          "nameEn": "EN - Engage Neo Space",
+          "nameOriginal": null,
+          "slug": "en-engage-neo-space",
+          "archetypeIds": [
+            62,
+            158,
+            883
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 48112,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE051-420d226c26",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "052",
+        "card": {
+          "name": "Instant Contact",
+          "nameEn": "Instant Contact",
+          "nameOriginal": null,
+          "slug": "instant-contact",
+          "archetypeIds": [
+            62,
+            158,
+            883
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 48113,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE052-c05ad92874",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "053",
+        "card": {
+          "name": "EN Wave",
+          "nameEn": "EN Wave",
+          "nameOriginal": null,
+          "slug": "en-wave",
+          "archetypeIds": [
+            62,
+            158,
+            883
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 48114,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE053-56bf62ce0e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "054",
+        "card": {
+          "name": "Over Fusion",
+          "nameEn": "Over Fusion",
+          "nameOriginal": null,
+          "slug": "over-fusion",
+          "archetypeIds": [
+            62,
+            883,
+            158
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 48115,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE054-1146385c2b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "055",
+        "card": {
+          "name": "Spright Starter",
+          "nameEn": "Spright Starter",
+          "nameOriginal": null,
+          "slug": "spright-starter",
+          "archetypeIds": [
+            672
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-06-21T00:00:00.000000Z"
+        },
+        "id": 53424,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE055-f343301e93",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "056",
+        "card": {
+          "name": "Spright Gamma Burst",
+          "nameEn": "Spright Gamma Burst",
+          "nameOriginal": null,
+          "slug": "spright-gamma-burst",
+          "archetypeIds": [
+            672
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-06-21T00:00:00.000000Z"
+        },
+        "id": 53425,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE056-a31d947949",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "057",
+        "card": {
+          "name": "Spright Smashers",
+          "nameEn": "Spright Smashers",
+          "nameOriginal": null,
+          "slug": "spright-smashers",
+          "archetypeIds": [
+            424,
+            659,
+            672
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-06-23T00:00:00.000000Z"
+        },
+        "id": 53426,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE057-600dc30892",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "058",
+        "card": {
+          "name": "Branded in Central Dogmatika",
+          "nameEn": "Branded in Central Dogmatika",
+          "nameOriginal": null,
+          "slug": "branded-in-central-dogmatika",
+          "archetypeIds": [
+            439,
+            409
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 53467,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE058-f48c08f1f9",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "059",
+        "card": {
+          "name": "Scareclaw Straddle",
+          "nameEn": "Scareclaw Straddle",
+          "nameOriginal": null,
+          "slug": "scareclaw-straddle",
+          "archetypeIds": [
+            662
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 53431,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE059-65de283948",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "060",
+        "card": {
+          "name": "Primeval Planet Perlereino",
+          "nameEn": "Primeval Planet Perlereino",
+          "nameOriginal": null,
+          "slug": "primeval-planet-perlereino",
+          "archetypeIds": [
+            675
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-05-24T00:00:00.000000Z"
+        },
+        "id": 53624,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE060-e991602bb2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "061",
+        "card": {
+          "name": "Vernusylph Corolla",
+          "nameEn": "Vernusylph Corolla",
+          "nameOriginal": null,
+          "slug": "vernusylph-corolla",
+          "archetypeIds": [
+            670
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 49893,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE061-5f9dcb5fe5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "062",
+        "card": {
+          "name": "Scatter Fusion",
+          "nameEn": "Scatter Fusion",
+          "nameOriginal": null,
+          "slug": "scatter-fusion",
+          "archetypeIds": [
+            89
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 50288,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE062-9ddc7084f7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "063",
+        "card": {
+          "name": "Melffy Staring Contest",
+          "nameEn": "Melffy Staring Contest",
+          "nameOriginal": null,
+          "slug": "melffy-staring-contest",
+          "archetypeIds": [
+            406
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 53617,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE063-fd3a8b279f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "064",
+        "card": {
+          "name": "Ravenous Vendread",
+          "nameEn": "Ravenous Vendread",
+          "nameOriginal": null,
+          "slug": "ravenous-vendread",
+          "archetypeIds": [
+            235
+          ],
+          "cardTypeOrder": "36",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 53436,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE064-74e174043d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "065",
+        "card": {
+          "name": "P.U.N.K. JAM Extreme Session",
+          "nameEn": "P.U.N.K. JAM Extreme Session",
+          "nameOriginal": null,
+          "slug": "punk-jam-extreme-session",
+          "archetypeIds": [
+            635
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2025-08-28T00:00:00.000000Z"
+        },
+        "id": 50180,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE065-0f01f0180e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "066",
+        "card": {
+          "name": "Rikka Konkon",
+          "nameEn": "Rikka Konkon",
+          "nameOriginal": null,
+          "slug": "rikka-konkon",
+          "archetypeIds": [
+            398
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 53433,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE066-f39d25ddaf",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "067",
+        "card": {
+          "name": "Ultimate Slayer",
+          "nameEn": "Ultimate Slayer",
+          "nameOriginal": null,
+          "slug": "ultimate-slayer",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-05-24T00:00:00.000000Z"
+        },
+        "id": 53162,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE067-SCR-5e6a69ebf6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "067",
+        "card": {
+          "name": "Ultimate Slayer",
+          "nameEn": "Ultimate Slayer",
+          "nameOriginal": null,
+          "slug": "ultimate-slayer",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-05-24T00:00:00.000000Z"
+        },
+        "id": 55127,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/RA02/RA02-EN070-SCR-44831e31c8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "068",
+        "card": {
+          "name": "Digit Jamming",
+          "nameEn": "Digit Jamming",
+          "nameOriginal": null,
+          "slug": "digit-jamming",
+          "archetypeIds": [],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 53767,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE068-69731e2cd2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "069",
+        "card": {
+          "name": "Favorite Contact",
+          "nameEn": "Favorite Contact",
+          "nameOriginal": null,
+          "slug": "favorite-contact",
+          "archetypeIds": [
+            402,
+            883
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 48116,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE069-cabbb63e42",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "070",
+        "card": {
+          "name": "Branded Expulsion",
+          "nameEn": "Branded Expulsion",
+          "nameOriginal": null,
+          "slug": "branded-expulsion",
+          "archetypeIds": [
+            547,
+            439
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 53654,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE070-64591604f9",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "071",
+        "card": {
+          "name": "Tearlaments Metanoise",
+          "nameEn": "Tearlaments Metanoise",
+          "nameOriginal": null,
+          "slug": "tearlaments-metanoise",
+          "archetypeIds": [
+            675
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 53625,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE071-3d6574b6e2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "072",
+        "card": {
+          "name": "Tearlaments Sulliek",
+          "nameEn": "Tearlaments Sulliek",
+          "nameOriginal": null,
+          "slug": "tearlaments-sulliek",
+          "archetypeIds": [
+            675
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 53626,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE072-ae60cc1955",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "073",
+        "card": {
+          "name": "Tearlaments Cryme",
+          "nameEn": "Tearlaments Cryme",
+          "nameOriginal": null,
+          "slug": "tearlaments-cryme",
+          "archetypeIds": [
+            675
+          ],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 53627,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE073-d2511a07b7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "074",
+        "card": {
+          "name": "Vernusylph and the Changing Season",
+          "nameEn": "Vernusylph and the Changing Season",
+          "nameOriginal": null,
+          "slug": "vernusylph-and-the-changing-season",
+          "archetypeIds": [
+            670
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 49894,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE074-8cad5ff4e1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "075",
+        "card": {
+          "name": "Vernusylph and the Flower Buds",
+          "nameEn": "Vernusylph and the Flower Buds",
+          "nameOriginal": null,
+          "slug": "vernusylph-and-the-flower-buds",
+          "archetypeIds": [
+            670
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 49895,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE075-d8f3529125",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "076",
+        "card": {
+          "name": "Exosister Returnia",
+          "nameEn": "Exosister Returnia",
+          "nameOriginal": null,
+          "slug": "exosister-returnia",
+          "archetypeIds": [
+            639
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 50178,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE076-d6c50618f6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "077",
+        "card": {
+          "name": "Amaze Attraction Thrill Train",
+          "nameEn": "Amaze Attraction Thrill Train",
+          "nameOriginal": null,
+          "slug": "amaze-attraction-thrill-train",
+          "archetypeIds": [
+            437
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 53175,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE077-7270de1b93",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "078",
+        "card": {
+          "name": "Terrors of the Overroot",
+          "nameEn": "Terrors of the Overroot",
+          "nameOriginal": null,
+          "slug": "terrors-of-the-overroot",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-02-14T00:00:00.000000Z"
+        },
+        "id": 53768,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE078-eb75d9f1c6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "079",
+        "card": {
+          "name": "Draco-Utopian Aura",
+          "nameEn": "Draco-Utopian Aura",
+          "nameOriginal": null,
+          "slug": "draco-utopian-aura",
+          "archetypeIds": [
+            919
+          ],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 53657,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE079-5c525d9c51",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "080",
+        "card": {
+          "name": "Double Dust Tornado Twins",
+          "nameEn": "Double Dust Tornado Twins",
+          "nameOriginal": null,
+          "slug": "double-dust-tornado-twins",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 53769,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE080-b1e856f2e0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "081",
+        "card": {
+          "name": "Vanguard of the Underground Emperor",
+          "nameEn": "Vanguard of the Underground Emperor",
+          "nameOriginal": null,
+          "slug": "vanguard-of-the-underground-emperor",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 55110,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE081-05fe6454ab",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "082",
+        "card": {
+          "name": "Garura, Wings of Resonant Life",
+          "nameEn": "Garura, Wings of Resonant Life",
+          "nameOriginal": null,
+          "slug": "garura-wings-of-resonant-life",
+          "archetypeIds": [],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-05-24T00:00:00.000000Z"
+        },
+        "id": 55104,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE082-df80bfee60",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "083",
+        "card": {
+          "name": "Pitknight Earlie",
+          "nameEn": "Pitknight Earlie",
+          "nameOriginal": null,
+          "slug": "pitknight-earlie",
+          "archetypeIds": [],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 55118,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE083-282473b2f4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "084",
+        "card": {
+          "name": "Moray of Avarice",
+          "nameEn": "Moray of Avarice",
+          "nameOriginal": null,
+          "slug": "moray-of-avarice",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 55122,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE084-659766b151",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "085",
+        "card": {
+          "name": "Mimesis Elephant",
+          "nameEn": "Mimesis Elephant",
+          "nameOriginal": null,
+          "slug": "mimesis-elephant",
+          "archetypeIds": [
+            387
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 55117,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE085-b2568fc712",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "086",
+        "card": {
+          "name": "Paces, Light of the Ghoti",
+          "nameEn": "Paces, Light of the Ghoti",
+          "nameOriginal": null,
+          "slug": "paces-light-of-the-ghoti",
+          "archetypeIds": [
+            686
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 55123,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE086-ce10cc59fb",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "087",
+        "card": {
+          "name": "Shif, Fairy of the Ghoti",
+          "nameEn": "Shif, Fairy of the Ghoti",
+          "nameOriginal": null,
+          "slug": "shif-fairy-of-the-ghoti",
+          "archetypeIds": [
+            686
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 55116,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE087-d8fe65d2c4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "088",
+        "card": {
+          "name": "Eanoc, Sentry of the Ghoti",
+          "nameEn": "Eanoc, Sentry of the Ghoti",
+          "nameOriginal": null,
+          "slug": "eanoc-sentry-of-the-ghoti",
+          "archetypeIds": [
+            686
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 55107,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE088-c198958f5d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "089",
+        "card": {
+          "name": "Askaan, the Bicorned Ghoti",
+          "nameEn": "Askaan, the Bicorned Ghoti",
+          "nameOriginal": null,
+          "slug": "askaan-the-bicorned-ghoti",
+          "archetypeIds": [
+            686
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 55105,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE089-55e8cd2ca4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "090",
+        "card": {
+          "name": "The Most Distant, Deepest Depths",
+          "nameEn": "The Most Distant, Deepest Depths",
+          "nameOriginal": null,
+          "slug": "the-most-distant-deepest-depths",
+          "archetypeIds": [
+            686
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 55112,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE090-c1c9337e09",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "091",
+        "card": {
+          "name": "Ghoti Chain",
+          "nameEn": "Ghoti Chain",
+          "nameOriginal": null,
+          "slug": "ghoti-chain",
+          "archetypeIds": [
+            686
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 55119,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE091-988c1e8be8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "092",
+        "card": {
+          "name": "Loris, Lady of Lament",
+          "nameEn": "Loris, Lady of Lament",
+          "nameOriginal": null,
+          "slug": "loris-lady-of-lament",
+          "archetypeIds": [
+            276
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 55121,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE092-add6c0eae8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "093",
+        "card": {
+          "name": "Morphtronic Telefon",
+          "nameEn": "Morphtronic Telefon",
+          "nameOriginal": null,
+          "slug": "morphtronic-telefon",
+          "archetypeIds": [
+            154,
+            817
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 55106,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE093-8f5fc45fd5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "094",
+        "card": {
+          "name": "Gadget Gamer",
+          "nameEn": "Gadget Gamer",
+          "nameOriginal": null,
+          "slug": "gadget-gamer",
+          "archetypeIds": [
+            154,
+            85,
+            817
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-10-26T00:00:00.000000Z"
+        },
+        "id": 55111,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE094-fc561c878e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "095",
+        "card": {
+          "name": "Morphtronic Scannen",
+          "nameEn": "Morphtronic Scannen",
+          "nameOriginal": null,
+          "slug": "morphtronic-scannen",
+          "archetypeIds": [
+            154,
+            817
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 55113,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE095-332def819c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "096",
+        "card": {
+          "name": "Morphtronic Earfon",
+          "nameEn": "Morphtronic Earfon",
+          "nameOriginal": null,
+          "slug": "morphtronic-earfon",
+          "archetypeIds": [
+            154,
+            817,
+            785
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-10-26T00:00:00.000000Z"
+        },
+        "id": 55115,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE096-52d259340c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "097",
+        "card": {
+          "name": "Power Tool Braver Dragon",
+          "nameEn": "Power Tool Braver Dragon",
+          "nameOriginal": null,
+          "slug": "power-tool-braver-dragon",
+          "archetypeIds": [
+            354,
+            817
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 55114,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE097-865d959cd0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "098",
+        "card": {
+          "name": "Morphtronic Converter",
+          "nameEn": "Morphtronic Converter",
+          "nameOriginal": null,
+          "slug": "morphtronic-converter",
+          "archetypeIds": [
+            154,
+            817
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 55109,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE098-017b9ae0d1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "099",
+        "card": {
+          "name": "Life Extreme",
+          "nameEn": "Life Extreme",
+          "nameOriginal": null,
+          "slug": "life-extreme",
+          "archetypeIds": [
+            354,
+            817
+          ],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-08-04T00:00:00.000000Z",
+          "lastPrint": "2022-08-05T00:00:00.000000Z"
+        },
+        "id": 55108,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE099-7a6656cd4c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "100",
+        "card": {
+          "name": "Destiny HERO - Destroyer Phoenix Enforcer",
+          "nameEn": "Destiny HERO - Destroyer Phoenix Enforcer",
+          "nameOriginal": null,
+          "slug": "destiny-hero-destroyer-phoenix-enforcer",
+          "archetypeIds": [
+            49,
+            402
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2021-11-04T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 55036,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BODE/BODE-EN039-568ee82aca",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      }
+    ],
+    "printsCount": null,
+    "releaseEu": "2022-08-04T00:00:00.000000Z",
+    "releaseEuDayUnknown": false,
+    "releaseEuMonthUnknown": false,
+    "releaseNa": "2022-08-05T00:00:00.000000Z",
+    "releaseNaDayUnknown": false,
+    "releaseNaMonthUnknown": false,
+    "tournamentLegal": null,
+    "setNumber": "POTE",
+    "slug": "power-of-the-elements",
+    "scanCounts": {
+      "en": 0,
+      "de": 101
+    }
+  }
+}

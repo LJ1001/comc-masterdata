@@ -1,0 +1,951 @@
+{
+  "data": {
+    "archetypes": [],
+    "archetypesReprint": [
+      {
+        "id": 4,
+        "name": "Ally of Justice",
+        "slug": "ally-of-justice",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CT10/CT10-EN006-caac7e83e1",
+        "isFirstPrint": false
+      },
+      {
+        "id": 931,
+        "name": "Kite Tenjo",
+        "slug": "kite-tenjo",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LDS2/LDS2-EN056-41693bfd03",
+        "isFirstPrint": false
+      },
+      {
+        "id": 162,
+        "name": "Ninja",
+        "slug": "ninja",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN040-2a7fcd1008",
+        "isFirstPrint": false
+      },
+      {
+        "id": 85,
+        "name": "Gadget",
+        "slug": "gadget",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DUPO/DUPO-DE039-53ad3894e2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 858,
+        "name": "Yugi Muto | Yami Yugi",
+        "slug": "yugi-muto-yami-yugi",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/MP22/MP22-EN273-69e63915d2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 194,
+        "name": "X-Saber",
+        "slug": "x-saber",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/INOV/INOV-DE090-90230b0c99",
+        "isFirstPrint": false
+      },
+      {
+        "id": 465,
+        "name": "Horus",
+        "slug": "horus",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CH02/CH02-EN022-fffbf14ed4",
+        "isFirstPrint": false
+      },
+      {
+        "id": 799,
+        "name": "Yusei Fudo",
+        "slug": "yusei-fudo",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/OP16/OP16-DE025-784a52b541",
+        "isFirstPrint": false
+      },
+      {
+        "id": 8,
+        "name": "Ancient Gear",
+        "slug": "ancient-gear",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LEDE/LEDE-EN055-b47aa98abd",
+        "isFirstPrint": false
+      },
+      {
+        "id": 702,
+        "name": "Marik Ishtar | Yami Marik",
+        "slug": "marik-ishtar-yami-marik",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LED7/LED7-DE005-d1440640ac",
+        "isFirstPrint": false
+      },
+      {
+        "id": 698,
+        "name": "Bandit Keith",
+        "slug": "bandit-keith",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN050-a6b8c48bc2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 727,
+        "name": "Rex Raptor",
+        "slug": "rex-raptor",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN362-a9a7dd5c95",
+        "isFirstPrint": false
+      },
+      {
+        "id": 476,
+        "name": "Herald",
+        "slug": "herald",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/GEIM/GEIM-DE046-afcd113163",
+        "isFirstPrint": false
+      },
+      {
+        "id": 21,
+        "name": "Blackwing",
+        "slug": "blackwing",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/L5DD/L5DD-ENC10-b493182090",
+        "isFirstPrint": false
+      }
+    ],
+    "category": {
+      "name": "Turbo Packs",
+      "slug": "turbo-packs",
+      "sets": [
+        {
+          "image": null,
+          "format": 1,
+          "name": "Turbo Pack: Booster Eight",
+          "releaseEu": "2012-06-28T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2012-06-01T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "TU08",
+          "slug": "turbo-pack-booster-eight",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Turbo Pack: Booster Seven",
+          "releaseEu": "2012-01-19T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2012-01-01T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "TU07",
+          "slug": "turbo-pack-booster-seven",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Turbo Pack: Booster Six",
+          "releaseEu": "2011-08-11T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2011-08-04T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "TU06",
+          "slug": "turbo-pack-booster-six",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Turbo Pack: Booster Five",
+          "releaseEu": "2011-04-09T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2011-04-09T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "TU05",
+          "slug": "turbo-pack-booster-five",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Turbo Pack: Booster Four",
+          "releaseEu": "2010-11-19T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2010-11-13T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "TU04",
+          "slug": "turbo-pack-booster-four",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Turbo Pack: Booster Three",
+          "releaseEu": "2010-07-23T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2010-07-10T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "TU03",
+          "slug": "turbo-pack-booster-three",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Turbo Pack: Booster Two",
+          "releaseEu": "2010-02-22T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2010-01-09T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "TU02",
+          "slug": "turbo-pack-booster-two",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Turbo Pack: Booster One",
+          "releaseEu": "2009-09-12T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2009-08-15T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "TU01",
+          "slug": "turbo-pack-booster-one",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        }
+      ],
+      "setsCount": 8,
+      "format": 1,
+      "parent": {
+        "name": "Prize Packs",
+        "slug": "prize-packs",
+        "setsCount": 62,
+        "format": 1,
+        "parent": {
+          "name": "Booster Packs",
+          "slug": "booster-packs",
+          "setsCount": 326,
+          "format": 1,
+          "parent": null
+        }
+      }
+    },
+    "disableSetList": false,
+    "format": 1,
+    "game": 1,
+    "id": 163,
+    "image": null,
+    "languages": [
+      {
+        "id": 223,
+        "language": "de",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": false,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 224,
+        "language": "en",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": false,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 225,
+        "language": "fr",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": false,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 226,
+        "language": "it",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": false,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 227,
+        "language": "es",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": false,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      }
+    ],
+    "name": "Turbo Pack: Booster Seven",
+    "next": {
+      "name": "Turbo Pack: Booster Eight",
+      "setNumber": "TU08",
+      "slug": "turbo-pack-booster-eight",
+      "format": 1,
+      "releaseEu": "2012-06-28T00:00:00.000000Z",
+      "releaseNa": "2012-06-01T00:00:00.000000Z"
+    },
+    "previous": {
+      "name": "Turbo Pack: Booster Six",
+      "setNumber": "TU06",
+      "slug": "turbo-pack-booster-six",
+      "format": 1,
+      "releaseEu": "2011-08-11T00:00:00.000000Z",
+      "releaseNa": "2011-08-04T00:00:00.000000Z"
+    },
+    "prints": [
+      {
+        "cardNumber": "000",
+        "card": {
+          "name": "Ally of Justice Catastor",
+          "nameEn": "Ally of Justice Catastor",
+          "nameOriginal": null,
+          "slug": "ally-of-justice-catastor",
+          "archetypeIds": [
+            4
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2009-11-05T00:00:00.000000Z",
+          "lastPrint": "2024-11-08T00:00:00.000000Z"
+        },
+        "id": 20720,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CT10/CT10-EN006-caac7e83e1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "001",
+        "card": {
+          "name": "Book of Moon",
+          "nameEn": "Book of Moon",
+          "nameOriginal": null,
+          "slug": "book-of-moon",
+          "archetypeIds": [
+            931
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2003-07-18T00:00:00.000000Z",
+          "lastPrint": "2025-11-27T00:00:00.000000Z"
+        },
+        "id": 20721,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/L5DD/L5DD-ENC18-35cee4e441",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "002",
+        "card": {
+          "name": "Ninja Grandmaster Sasuke",
+          "nameEn": "Ninja Grandmaster Sasuke",
+          "nameOriginal": null,
+          "slug": "ninja-grandmaster-sasuke",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2004-10-01T00:00:00.000000Z",
+          "lastPrint": "2013-06-28T00:00:00.000000Z"
+        },
+        "id": 20722,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/YSDJ/YSDJ-DE014-55cfb94a57",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "003",
+        "card": {
+          "name": "Yellow Gadget",
+          "nameEn": "Yellow Gadget",
+          "nameOriginal": null,
+          "slug": "yellow-gadget",
+          "archetypeIds": [
+            85,
+            858
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-01-17T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 20723,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/YGLD_RP_2021/YGLD_RP_2021-ENC18-70a349ccc2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "004",
+        "card": {
+          "name": "X-Saber Pashuul",
+          "nameEn": "X-Saber Pashuul",
+          "nameOriginal": null,
+          "slug": "x-saber-pashuul",
+          "archetypeIds": [
+            194
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2010-05-06T00:00:00.000000Z",
+          "lastPrint": "2012-01-19T00:00:00.000000Z"
+        },
+        "id": 20724,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/TSHD/TSHD-EN094-ae52b04a1d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "005",
+        "card": {
+          "name": "Horn of the Phantom Beast",
+          "nameEn": "Horn of the Phantom Beast",
+          "nameOriginal": null,
+          "slug": "horn-of-the-phantom-beast",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2010-08-12T00:00:00.000000Z",
+          "lastPrint": "2024-11-08T00:00:00.000000Z"
+        },
+        "id": 20725,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SBCB/SBCB-DE061-8369534917",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "006",
+        "card": {
+          "name": "Dark Horus",
+          "nameEn": "Dark Horus",
+          "nameOriginal": null,
+          "slug": "dark-horus",
+          "archetypeIds": [
+            465
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2008-02-08T00:00:00.000000Z",
+          "lastPrint": "2024-02-14T00:00:00.000000Z"
+        },
+        "id": 20726,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PTDN/PTDN-DE016-UR-4cc00a5ab2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "007",
+        "card": {
+          "name": "Lightning Warrior",
+          "nameEn": "Lightning Warrior",
+          "nameOriginal": null,
+          "slug": "lightning-warrior",
+          "archetypeIds": [
+            799
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2010-12-31T00:00:00.000000Z",
+          "lastPrint": "2014-10-24T00:00:00.000000Z"
+        },
+        "id": 20727,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LC5D/LC5D-DE042-440c44677e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "008",
+        "card": {
+          "name": "Primal Seed",
+          "nameEn": "Primal Seed",
+          "nameOriginal": null,
+          "slug": "primal-seed",
+          "archetypeIds": [
+            858
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2004-03-01T00:00:00.000000Z",
+          "lastPrint": "2023-04-21T00:00:00.000000Z"
+        },
+        "id": 20728,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/IOC/IOC-DE042-99665ea071",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "009",
+        "card": {
+          "name": "Big Evolution Pill",
+          "nameEn": "Big Evolution Pill",
+          "nameOriginal": null,
+          "slug": "big-evolution-pill",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2006-10-20T00:00:00.000000Z",
+          "lastPrint": null
+        },
+        "id": 20729,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SD09/SD09-DE017-074d83e375",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "010",
+        "card": {
+          "name": "Tail Swipe",
+          "nameEn": "Tail Swipe",
+          "nameOriginal": null,
+          "slug": "tail-swipe",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2006-10-20T00:00:00.000000Z",
+          "lastPrint": null
+        },
+        "id": 20730,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SD09/SD09-DE018-a654d2c45a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "011",
+        "card": {
+          "name": "Geartown",
+          "nameEn": "Geartown",
+          "nameOriginal": null,
+          "slug": "geartown",
+          "archetypeIds": [
+            8
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2008-09-02T00:00:00.000000Z",
+          "lastPrint": "2024-11-08T00:00:00.000000Z"
+        },
+        "id": 20731,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SGX1/SGX1-END14-25a2620dd8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "012",
+        "card": {
+          "name": "Seiyaryu",
+          "nameEn": "Seiyaryu",
+          "nameOriginal": null,
+          "slug": "seiyaryu",
+          "archetypeIds": [
+            702,
+            698,
+            858
+          ],
+          "cardTypeOrder": "13",
+          "cardTypeSection": "monster",
+          "firstPrint": "2002-03-19T00:00:00.000000Z",
+          "lastPrint": "2021-04-16T00:00:00.000000Z"
+        },
+        "id": 20732,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SDD_EU/SDD_EU-E001-b1aa695652",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "013",
+        "card": {
+          "name": "Serpent Night Dragon",
+          "nameEn": "Serpent Night Dragon",
+          "nameOriginal": null,
+          "slug": "serpent-night-dragon",
+          "archetypeIds": [
+            727
+          ],
+          "cardTypeOrder": "13",
+          "cardTypeSection": "monster",
+          "firstPrint": "2002-09-16T00:00:00.000000Z",
+          "lastPrint": "2023-04-21T00:00:00.000000Z"
+        },
+        "id": 20733,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SS03/SS03-DEA01-1548266510",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "014",
+        "card": {
+          "name": "Kotodama",
+          "nameEn": "Kotodama",
+          "nameOriginal": null,
+          "slug": "kotodama",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2002-09-16T00:00:00.000000Z",
+          "lastPrint": "2023-04-21T00:00:00.000000Z"
+        },
+        "id": 20734,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SRL_EU/SRL_EU-G095-3477902e98",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "015",
+        "card": {
+          "name": "Gokipon",
+          "nameEn": "Gokipon",
+          "nameOriginal": null,
+          "slug": "gokipon",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2006-03-01T00:00:00.000000Z",
+          "lastPrint": "2019-08-02T00:00:00.000000Z"
+        },
+        "id": 20735,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/TU07/TU07-DE015-013d7a14e0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "016",
+        "card": {
+          "name": "Goe Goe the Gallant Ninja",
+          "nameEn": "Goe Goe the Gallant Ninja",
+          "nameOriginal": null,
+          "slug": "goe-goe-the-gallant-ninja",
+          "archetypeIds": [
+            162,
+            799
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-05-16T00:00:00.000000Z",
+          "lastPrint": "2012-01-19T00:00:00.000000Z"
+        },
+        "id": 20736,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/FOTB/FOTB-DE024-R-b507bbaf3f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "017",
+        "card": {
+          "name": "Herald of Orange Light",
+          "nameEn": "Herald of Orange Light",
+          "nameOriginal": null,
+          "slug": "herald-of-orange-light",
+          "archetypeIds": [
+            476
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2008-09-02T00:00:00.000000Z",
+          "lastPrint": "2025-08-28T00:00:00.000000Z"
+        },
+        "id": 20737,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BP03/BP03-EN050-C-fd0bbfada6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "018",
+        "card": {
+          "name": "Blackwing - Sirocco the Dawn",
+          "nameEn": "Blackwing - Sirocco the Dawn",
+          "nameOriginal": null,
+          "slug": "blackwing-sirocco-the-dawn",
+          "archetypeIds": [
+            21
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2009-03-03T00:00:00.000000Z",
+          "lastPrint": "2022-11-18T00:00:00.000000Z"
+        },
+        "id": 20738,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BLCR/BLCR-EN058-d3b7810ba7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "019",
+        "card": {
+          "name": "Ninjitsu Art of Transformation",
+          "nameEn": "Ninjitsu Art of Transformation",
+          "nameOriginal": null,
+          "slug": "ninjitsu-art-of-transformation",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2004-06-15T00:00:00.000000Z",
+          "lastPrint": "2018-08-17T00:00:00.000000Z"
+        },
+        "id": 20739,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/AST/AST-DE052-86e4a6e65f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "020",
+        "card": {
+          "name": "Ninjitsu Art of Decoy",
+          "nameEn": "Ninjitsu Art of Decoy",
+          "nameOriginal": null,
+          "slug": "ninjitsu-art-of-decoy",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2004-10-01T00:00:00.000000Z",
+          "lastPrint": "2022-10-26T00:00:00.000000Z"
+        },
+        "id": 20740,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOD/SOD-DE052-0d4267c98a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      }
+    ],
+    "printsCount": null,
+    "releaseEu": "2012-01-19T00:00:00.000000Z",
+    "releaseEuDayUnknown": false,
+    "releaseEuMonthUnknown": false,
+    "releaseNa": "2012-01-01T00:00:00.000000Z",
+    "releaseNaDayUnknown": false,
+    "releaseNaMonthUnknown": false,
+    "tournamentLegal": null,
+    "setNumber": "TU07",
+    "slug": "turbo-pack-booster-seven",
+    "scanCounts": {
+      "en": 0,
+      "de": 1
+    }
+  }
+}

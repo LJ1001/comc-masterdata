@@ -1,0 +1,3586 @@
+{
+  "data": {
+    "archetypes": [
+      {
+        "id": 259,
+        "name": "Gaia The Fierce Knight",
+        "slug": "gaia-the-fierce-knight",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN100-4b37837dac",
+        "isFirstPrint": false
+      },
+      {
+        "id": 586,
+        "name": "Gaia Knight",
+        "slug": "gaia-knight",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN124-d1784071c6",
+        "isFirstPrint": false
+      },
+      {
+        "id": 858,
+        "name": "Yugi Muto | Yami Yugi",
+        "slug": "yugi-muto-yami-yugi",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/MP22/MP22-EN273-69e63915d2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 409,
+        "name": "Dogmatika",
+        "slug": "dogmatika",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CH01/CH01-EN016-521c67b306",
+        "isFirstPrint": true
+      },
+      {
+        "id": 547,
+        "name": "Fallen of Albaz",
+        "slug": "fallen-of-albaz",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/CH01/CH01-EN001-e78b36a28a",
+        "isFirstPrint": true
+      },
+      {
+        "id": 163,
+        "name": "Noble Knight",
+        "slug": "noble-knight",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/AMDE/AMDE-EN052-SR-4f792c124c",
+        "isFirstPrint": false
+      },
+      {
+        "id": 404,
+        "name": "Infernoble Knight",
+        "slug": "infernoble-knight",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN100-c23d2bd8fd",
+        "isFirstPrint": false
+      },
+      {
+        "id": 406,
+        "name": "Melffy",
+        "slug": "melffy",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN139-06ce1b35b5",
+        "isFirstPrint": false
+      },
+      {
+        "id": 61,
+        "name": "Fluffal",
+        "slug": "fluffal",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/FUEN/FUEN-EN016-3708b8de7a",
+        "isFirstPrint": false
+      },
+      {
+        "id": 47,
+        "name": "Darklord",
+        "slug": "darklord",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE040-9eba224bbc",
+        "isFirstPrint": false
+      },
+      {
+        "id": 134,
+        "name": "Machina",
+        "slug": "machina",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN094-38eae9ec98",
+        "isFirstPrint": false
+      },
+      {
+        "id": 255,
+        "name": "Mathmech",
+        "slug": "mathmech",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE028-b69bc6f2ab",
+        "isFirstPrint": false
+      },
+      {
+        "id": 273,
+        "name": "Nemeses",
+        "slug": "nemeses",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA03/RA03-EN023-SCR-9bb031028d",
+        "isFirstPrint": false
+      },
+      {
+        "id": 123,
+        "name": "Koa'ki Meiru",
+        "slug": "koaki-meiru",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE065-c9ccbabeb8",
+        "isFirstPrint": false
+      },
+      {
+        "id": 572,
+        "name": "Hand",
+        "slug": "hand",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/SDBT/SDBT-EN020-d7e3494f60",
+        "isFirstPrint": false
+      },
+      {
+        "id": 499,
+        "name": "Gizmek",
+        "slug": "gizmek",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/AMDE/AMDE-EN058-6037acba43",
+        "isFirstPrint": false
+      },
+      {
+        "id": 577,
+        "name": "Potan",
+        "slug": "potan",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE034-1848dea6f4",
+        "isFirstPrint": false
+      },
+      {
+        "id": 266,
+        "name": "Megalith",
+        "slug": "megalith",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE036-99e944ec56",
+        "isFirstPrint": false
+      },
+      {
+        "id": 695,
+        "name": "Chaos",
+        "slug": "chaos",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/RA01/RA01-EN065-SCR-ae1baf3a05",
+        "isFirstPrint": false
+      },
+      {
+        "id": 398,
+        "name": "Rikka",
+        "slug": "rikka",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MAZE/MAZE-EN053-UR-b95aefedb4",
+        "isFirstPrint": false
+      },
+      {
+        "id": 265,
+        "name": "Ancient Warriors",
+        "slug": "ancient-warriors",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE048-6e3667c198",
+        "isFirstPrint": false
+      },
+      {
+        "id": 651,
+        "name": "Umi",
+        "slug": "umi",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/MAMA/MAMA-EN079-cceba2047c",
+        "isFirstPrint": false
+      },
+      {
+        "id": 274,
+        "name": "Adamancipator",
+        "slug": "adamancipator",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN142-9320a263ef",
+        "isFirstPrint": false
+      },
+      {
+        "id": 700,
+        "name": "Mako Tsunami",
+        "slug": "mako-tsunami",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LED9/LED9-EN030-8899920229",
+        "isFirstPrint": false
+      },
+      {
+        "id": 216,
+        "name": "Tenyi",
+        "slug": "tenyi",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP20/MP20-DE205-b904529ac5",
+        "isFirstPrint": false
+      },
+      {
+        "id": 198,
+        "name": "Shaddoll",
+        "slug": "shaddoll",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DUPO/DUPO-DE090-0a1e8cb6c3",
+        "isFirstPrint": false
+      },
+      {
+        "id": 256,
+        "name": "Dragonmaid",
+        "slug": "dragonmaid",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN065-332fb733c2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 118,
+        "name": "Junk",
+        "slug": "junk",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/L5DD/L5DD-ENY35-4fa98a4448",
+        "isFirstPrint": false
+      },
+      {
+        "id": 2,
+        "name": "Abyss Actor",
+        "slug": "abyss-actor",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/PHHY/PHHY-EN063-28ee7628ab",
+        "isFirstPrint": false
+      },
+      {
+        "id": 823,
+        "name": "Sylvio Sawatari",
+        "slug": "sylvio-sawatari",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/RIRA/RIRA-DE009-998276661e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 176,
+        "name": "Performapal",
+        "slug": "performapal",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/OP19/OP19-DE021-ef90dde279",
+        "isFirstPrint": false
+      },
+      {
+        "id": 929,
+        "name": "Yuya Sakaki | Z-ARC",
+        "slug": "yuya-sakaki-z-arc",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN265-b465d5a7bd",
+        "isFirstPrint": false
+      },
+      {
+        "id": 166,
+        "name": "Odd-Eyes",
+        "slug": "odd-eyes",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DIFO/DIFO-EN034-c0c00b4451",
+        "isFirstPrint": false
+      },
+      {
+        "id": 932,
+        "name": "Declan Akaba",
+        "slug": "declan-akaba",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/YA07/YA07-EN001-a6fe8881c1",
+        "isFirstPrint": false
+      },
+      {
+        "id": 28,
+        "name": "Charmer",
+        "slug": "charmer",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CH02/CH02-EN031-adbfc353bf",
+        "isFirstPrint": false
+      },
+      {
+        "id": 203,
+        "name": "Speedroid",
+        "slug": "speedroid",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LED8/LED8-EN009-b41ca82023",
+        "isFirstPrint": false
+      },
+      {
+        "id": 363,
+        "name": "roid",
+        "slug": "roid",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SGX2/SGX2-ENB20-137fba1dd2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 186,
+        "name": "Raidraptor",
+        "slug": "raidraptor",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/PHNI/PHNI-EN045-UR-ccfdc5ed46",
+        "isFirstPrint": false
+      },
+      {
+        "id": 187,
+        "name": "Rank-Up-Magic",
+        "slug": "rank-up-magic",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/JOTL/JOTL-DE059-UR-55bc39d1e9",
+        "isFirstPrint": false
+      },
+      {
+        "id": 211,
+        "name": "Superheavy Samurai",
+        "slug": "superheavy-samurai",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN076-3a3f203642",
+        "isFirstPrint": false
+      }
+    ],
+    "archetypesReprint": [
+      {
+        "id": 512,
+        "name": "D.D.",
+        "slug": "dd",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/RA02/RA02-EN002-SCR-951ad40964",
+        "isFirstPrint": false
+      }
+    ],
+    "category": {
+      "name": "Series 11",
+      "slug": "series-11",
+      "sets": [
+        {
+          "image": "https://cardcluster.com/storage/sets/CYAC-21eb3fe9ebd07dc607ac",
+          "format": 1,
+          "name": "Cyberstorm Access",
+          "releaseEu": "2023-05-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2023-05-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CYAC",
+          "slug": "cyberstorm-access",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/PHHY-728895d71f82a2e6f832",
+          "format": 1,
+          "name": "Photon Hypernova",
+          "releaseEu": "2023-02-09T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2023-02-10T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "PHHY",
+          "slug": "photon-hypernova",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/DABL-cfa6bf49df40a9e69b7c",
+          "format": 1,
+          "name": "Darkwing Blast",
+          "releaseEu": "2022-10-20T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2022-10-21T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "DABL",
+          "slug": "darkwing-blast",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/POTE-e20856187e1d8c1515dd",
+          "format": 1,
+          "name": "Power of the Elements",
+          "releaseEu": "2022-08-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2022-08-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "POTE",
+          "slug": "power-of-the-elements",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/DIFO-34599fd241d0f61061ee",
+          "format": 1,
+          "name": "Dimension Force",
+          "releaseEu": "2022-05-19T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2022-05-20T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "DIFO",
+          "slug": "dimension-force",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/BACH-08ae9a3cb22440c2f8ee",
+          "format": 1,
+          "name": "Battle of Chaos",
+          "releaseEu": "2022-02-10T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2022-02-11T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "BACH",
+          "slug": "battle-of-chaos",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/BODE-60936fb2b58bdaafc03a",
+          "format": 1,
+          "name": "Burst of Destiny",
+          "releaseEu": "2021-11-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2021-11-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "BODE",
+          "slug": "burst-of-destiny",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/DAMA-c31119d7f01fc44870c6",
+          "format": 1,
+          "name": "Dawn of Majesty",
+          "releaseEu": "2021-08-12T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2021-08-13T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "DAMA",
+          "slug": "dawn-of-majesty",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/LIOV-8b437fe9aa9d34168df6",
+          "format": 1,
+          "name": "Lightning Overdrive",
+          "releaseEu": "2021-06-03T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2021-06-04T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "LIOV",
+          "slug": "lightning-overdrive",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/BLVO-9f78221561d9d4c697e7",
+          "format": 1,
+          "name": "Blazing Vortex",
+          "releaseEu": "2021-02-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2021-02-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "BLVO",
+          "slug": "blazing-vortex",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/PHRA-fb1d2022e03495580a2d",
+          "format": 1,
+          "name": "Phantom Rage",
+          "releaseEu": "2020-11-05T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2020-11-06T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "PHRA",
+          "slug": "phantom-rage",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/ROTD-887e716ca77218df6fd0",
+          "format": 1,
+          "name": "Rise of the Duelist",
+          "releaseEu": "2020-08-06T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2020-08-07T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "ROTD",
+          "slug": "rise-of-the-duelist",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        }
+      ],
+      "setsCount": 12,
+      "format": 1,
+      "parent": {
+        "name": "Core Boosters",
+        "slug": "core-boosters",
+        "setsCount": 102,
+        "format": 1,
+        "parent": {
+          "name": "Booster Packs",
+          "slug": "booster-packs",
+          "setsCount": 326,
+          "format": 1,
+          "parent": null
+        }
+      }
+    },
+    "disableSetList": false,
+    "format": 1,
+    "game": 1,
+    "id": 640,
+    "image": "https://cardcluster.com/storage/sets/ROTD-887e716ca77218df6fd0",
+    "languages": [
+      {
+        "id": 963,
+        "language": "de",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 964,
+        "language": "en",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 965,
+        "language": "fr",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 966,
+        "language": "it",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 967,
+        "language": "pt",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 968,
+        "language": "es",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      }
+    ],
+    "name": "Rise of the Duelist",
+    "next": {
+      "name": "Phantom Rage",
+      "setNumber": "PHRA",
+      "slug": "phantom-rage",
+      "format": 1,
+      "releaseEu": "2020-11-05T00:00:00.000000Z",
+      "releaseNa": "2020-11-06T00:00:00.000000Z"
+    },
+    "previous": null,
+    "prints": [
+      {
+        "cardNumber": "000",
+        "card": {
+          "name": "Gaia the Fierce Knight Origin",
+          "nameEn": "Gaia the Fierce Knight Origin",
+          "nameOriginal": null,
+          "slug": "gaia-the-fierce-knight-origin",
+          "archetypeIds": [
+            259,
+            586,
+            858
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28407,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE000-516bd97e0f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "001",
+        "card": {
+          "name": "Gaia the Magical Knight",
+          "nameEn": "Gaia the Magical Knight",
+          "nameOriginal": null,
+          "slug": "gaia-the-magical-knight",
+          "archetypeIds": [
+            259,
+            586,
+            858
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27389,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE001-7f4cd79ee7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "002",
+        "card": {
+          "name": "Curse of Dragon, the Cursed Dragon",
+          "nameEn": "Curse of Dragon, the Cursed Dragon",
+          "nameOriginal": null,
+          "slug": "curse-of-dragon-the-cursed-dragon",
+          "archetypeIds": [
+            858
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27390,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE002-7b6a061d49",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "003",
+        "card": {
+          "name": "Artillery Catapult Turtle",
+          "nameEn": "Artillery Catapult Turtle",
+          "nameOriginal": null,
+          "slug": "artillery-catapult-turtle",
+          "archetypeIds": [
+            259,
+            858
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27391,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE003-c24e90383c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "004",
+        "card": {
+          "name": "Soldier Gaia the Fierce Knight",
+          "nameEn": "Soldier Gaia the Fierce Knight",
+          "nameOriginal": null,
+          "slug": "soldier-gaia-the-fierce-knight",
+          "archetypeIds": [
+            259,
+            586,
+            858
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27392,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE004-eb24a8f42d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "005",
+        "card": {
+          "name": "Dogmatika Ecclesia, the Virtuous",
+          "nameEn": "Dogmatika Ecclesia, the Virtuous",
+          "nameOriginal": null,
+          "slug": "dogmatika-ecclesia-the-virtuous",
+          "archetypeIds": [
+            409
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2025-10-24T00:00:00.000000Z"
+        },
+        "id": 27755,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE005-UR-66ee27cefd",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "005",
+        "card": {
+          "name": "Dogmatika Ecclesia, the Virtuous",
+          "nameEn": "Dogmatika Ecclesia, the Virtuous",
+          "nameOriginal": null,
+          "slug": "dogmatika-ecclesia-the-virtuous",
+          "archetypeIds": [
+            409
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2025-10-24T00:00:00.000000Z"
+        },
+        "id": 28429,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE005-SLR-30806fa3aa",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "006",
+        "card": {
+          "name": "Dogmatika Theo, the Iron Punch",
+          "nameEn": "Dogmatika Theo, the Iron Punch",
+          "nameOriginal": null,
+          "slug": "dogmatika-theo-the-iron-punch",
+          "archetypeIds": [
+            409
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27756,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE006-dd71ba17b9",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "007",
+        "card": {
+          "name": "Dogmatika Adin, the Enlightened",
+          "nameEn": "Dogmatika Adin, the Enlightened",
+          "nameOriginal": null,
+          "slug": "dogmatika-adin-the-enlightened",
+          "archetypeIds": [
+            409
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27757,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE007-4043d33fe2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "008",
+        "card": {
+          "name": "Dogmatika Fleurdelis, the Knighted",
+          "nameEn": "Dogmatika Fleurdelis, the Knighted",
+          "nameOriginal": null,
+          "slug": "dogmatika-fleurdelis-the-knighted",
+          "archetypeIds": [
+            409
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2025-10-24T00:00:00.000000Z"
+        },
+        "id": 27758,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE008-3f48ea2655",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "009",
+        "card": {
+          "name": "Dogmatika Maximus",
+          "nameEn": "Dogmatika Maximus",
+          "nameOriginal": null,
+          "slug": "dogmatika-maximus",
+          "archetypeIds": [
+            409
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2025-10-24T00:00:00.000000Z"
+        },
+        "id": 27759,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE009-798b60e81c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "010",
+        "card": {
+          "name": "Dogmatika Nexus",
+          "nameEn": "Dogmatika Nexus",
+          "nameOriginal": null,
+          "slug": "dogmatika-nexus",
+          "archetypeIds": [
+            409
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27760,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE010-408247b230",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "011",
+        "card": {
+          "name": "Fallen of Albaz",
+          "nameEn": "Fallen of Albaz",
+          "nameOriginal": null,
+          "slug": "fallen-of-albaz",
+          "archetypeIds": [
+            547
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2025-10-24T00:00:00.000000Z"
+        },
+        "id": 27765,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE011-4a38c2a4e5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "012",
+        "card": {
+          "name": "Infernoble Knight Astolfo",
+          "nameEn": "Infernoble Knight Astolfo",
+          "nameOriginal": null,
+          "slug": "infernoble-knight-astolfo",
+          "archetypeIds": [
+            163,
+            404
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27617,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE012-08d11ae86a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "013",
+        "card": {
+          "name": "Infernoble Knight Ogier",
+          "nameEn": "Infernoble Knight Ogier",
+          "nameOriginal": null,
+          "slug": "infernoble-knight-ogier",
+          "archetypeIds": [
+            163,
+            404
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27618,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE013-c95389de59",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "014",
+        "card": {
+          "name": "Infernoble Knight Oliver",
+          "nameEn": "Infernoble Knight Oliver",
+          "nameOriginal": null,
+          "slug": "infernoble-knight-oliver",
+          "archetypeIds": [
+            163,
+            404
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27619,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE014-8796eb25dc",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "015",
+        "card": {
+          "name": "Infernoble Knight Maugis",
+          "nameEn": "Infernoble Knight Maugis",
+          "nameOriginal": null,
+          "slug": "infernoble-knight-maugis",
+          "archetypeIds": [
+            163,
+            404
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27620,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE015-1c8ace9e13",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "016",
+        "card": {
+          "name": "Melffy Rabby",
+          "nameEn": "Melffy Rabby",
+          "nameOriginal": null,
+          "slug": "melffy-rabby",
+          "archetypeIds": [
+            406
+          ],
+          "cardTypeOrder": "13",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27627,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE016-ff800eb81c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "017",
+        "card": {
+          "name": "Melffy Fenny",
+          "nameEn": "Melffy Fenny",
+          "nameOriginal": null,
+          "slug": "melffy-fenny",
+          "archetypeIds": [
+            406
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27628,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE017-90a2b32892",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "018",
+        "card": {
+          "name": "Melffy Catty",
+          "nameEn": "Melffy Catty",
+          "nameOriginal": null,
+          "slug": "melffy-catty",
+          "archetypeIds": [
+            406
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27629,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE018-d2f8258160",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "019",
+        "card": {
+          "name": "Melffy Puppy",
+          "nameEn": "Melffy Puppy",
+          "nameOriginal": null,
+          "slug": "melffy-puppy",
+          "archetypeIds": [
+            406
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27630,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE019-20d7ff5f4c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "020",
+        "card": {
+          "name": "Melffy Pony",
+          "nameEn": "Melffy Pony",
+          "nameOriginal": null,
+          "slug": "melffy-pony",
+          "archetypeIds": [
+            406
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27631,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE020-9112ce1836",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "021",
+        "card": {
+          "name": "Fluffal Dolphin",
+          "nameEn": "Fluffal Dolphin",
+          "nameOriginal": null,
+          "slug": "fluffal-dolphin",
+          "archetypeIds": [
+            61
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 27708,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE021-ee044cbcf4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "022",
+        "card": {
+          "name": "Edge Imp Scythe",
+          "nameEn": "Edge Imp Scythe",
+          "nameOriginal": null,
+          "slug": "edge-imp-scythe",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 27709,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE022-dd4fa53544",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "023",
+        "card": {
+          "name": "Capricious Darklord",
+          "nameEn": "Capricious Darklord",
+          "nameOriginal": null,
+          "slug": "capricious-darklord",
+          "archetypeIds": [
+            47
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27702,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE023-8a7427e30b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "024",
+        "card": {
+          "name": "Indulged Darklord",
+          "nameEn": "Indulged Darklord",
+          "nameOriginal": null,
+          "slug": "indulged-darklord",
+          "archetypeIds": [
+            47
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27703,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE024-9050e91776",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "025",
+        "card": {
+          "name": "Darklord Nergal",
+          "nameEn": "Darklord Nergal",
+          "nameOriginal": null,
+          "slug": "darklord-nergal",
+          "archetypeIds": [
+            47
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27704,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE025-9ec88178f4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "026",
+        "card": {
+          "name": "Machina Resavenger",
+          "nameEn": "Machina Resavenger",
+          "nameOriginal": null,
+          "slug": "machina-resavenger",
+          "archetypeIds": [
+            134
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 27606,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE026-0b904eb397",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "027",
+        "card": {
+          "name": "Unauthorized Bootup Device",
+          "nameEn": "Unauthorized Bootup Device",
+          "nameOriginal": null,
+          "slug": "unauthorized-bootup-device",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 27607,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE027-542675d80f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "028",
+        "card": {
+          "name": "Mathmech Diameter",
+          "nameEn": "Mathmech Diameter",
+          "nameOriginal": null,
+          "slug": "mathmech-diameter",
+          "archetypeIds": [
+            255
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 27608,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE028-114d5e33e8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "029",
+        "card": {
+          "name": "Nemeses Keystone",
+          "nameEn": "Nemeses Keystone",
+          "nameOriginal": null,
+          "slug": "nemeses-keystone",
+          "archetypeIds": [
+            273
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 27401,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE029-04a447c832",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "030",
+        "card": {
+          "name": "Koa'ki Meiru Supplier",
+          "nameEn": "Koa'ki Meiru Supplier",
+          "nameOriginal": null,
+          "slug": "koaki-meiru-supplier",
+          "archetypeIds": [
+            123
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2022-11-18T00:00:00.000000Z"
+        },
+        "id": 27800,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE030-ff255e09b7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "031",
+        "card": {
+          "name": "Thunder Hand",
+          "nameEn": "Thunder Hand",
+          "nameOriginal": null,
+          "slug": "thunder-hand",
+          "archetypeIds": [
+            572
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2023-02-24T00:00:00.000000Z"
+        },
+        "id": 27699,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE031-870b367cc4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "032",
+        "card": {
+          "name": "Gizmek Okami, the Dreaded Deluge Dragon",
+          "nameEn": "Gizmek Okami, the Dreaded Deluge Dragon",
+          "nameOriginal": null,
+          "slug": "gizmek-okami-the-dreaded-deluge-dragon",
+          "archetypeIds": [
+            499
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27795,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE032-fe75b6b7cc",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "033",
+        "card": {
+          "name": "Lifeless Leaffish",
+          "nameEn": "Lifeless Leaffish",
+          "nameOriginal": null,
+          "slug": "lifeless-leaffish",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27666,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE033-07f6dbe99c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "034",
+        "card": {
+          "name": "Red Potan",
+          "nameEn": "Red Potan",
+          "nameOriginal": null,
+          "slug": "red-potan",
+          "archetypeIds": [
+            577
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 27799,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE034-1848dea6f4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "035",
+        "card": {
+          "name": "Dracoon Lamp",
+          "nameEn": "Dracoon Lamp",
+          "nameOriginal": null,
+          "slug": "dracoon-lamp",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27797,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE035-a646a7452e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "036",
+        "card": {
+          "name": "Megalith Phul",
+          "nameEn": "Megalith Phul",
+          "nameOriginal": null,
+          "slug": "megalith-phul",
+          "archetypeIds": [
+            266
+          ],
+          "cardTypeOrder": "14",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2025-10-15T00:00:00.000000Z"
+        },
+        "id": 27402,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE036-99e944ec56",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "037",
+        "card": {
+          "name": "Gaia the Magical Knight of Dragons",
+          "nameEn": "Gaia the Magical Knight of Dragons",
+          "nameOriginal": null,
+          "slug": "gaia-the-magical-knight-of-dragons",
+          "archetypeIds": [
+            259,
+            586,
+            858
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27393,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE037-SR-2fa45a0506",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "037",
+        "card": {
+          "name": "Gaia the Magical Knight of Dragons",
+          "nameEn": "Gaia the Magical Knight of Dragons",
+          "nameOriginal": null,
+          "slug": "gaia-the-magical-knight-of-dragons",
+          "archetypeIds": [
+            259,
+            586,
+            858
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28432,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN124-d1784071c6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "038",
+        "card": {
+          "name": "Titaniklad the Ash Dragon",
+          "nameEn": "Titaniklad the Ash Dragon",
+          "nameOriginal": null,
+          "slug": "titaniklad-the-ash-dragon",
+          "archetypeIds": [
+            409,
+            547
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2025-10-24T00:00:00.000000Z"
+        },
+        "id": 27766,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE038-17308a174c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "039",
+        "card": {
+          "name": "Frightfur Cruel Whale",
+          "nameEn": "Frightfur Cruel Whale",
+          "nameOriginal": null,
+          "slug": "frightfur-cruel-whale",
+          "archetypeIds": [
+            61
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 27710,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE039-35108004a7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "040",
+        "card": {
+          "name": "The First Darklord",
+          "nameEn": "The First Darklord",
+          "nameOriginal": null,
+          "slug": "the-first-darklord",
+          "archetypeIds": [
+            47
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 27705,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE040-9eba224bbc",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "041",
+        "card": {
+          "name": "Infernoble Knight Captain Roland",
+          "nameEn": "Infernoble Knight Captain Roland",
+          "nameOriginal": null,
+          "slug": "infernoble-knight-captain-roland",
+          "archetypeIds": [
+            163,
+            404
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27621,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE041-435e7289d4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "042",
+        "card": {
+          "name": "Infernoble Knight Emperor Charles",
+          "nameEn": "Infernoble Knight Emperor Charles",
+          "nameOriginal": null,
+          "slug": "infernoble-knight-emperor-charles",
+          "archetypeIds": [
+            163,
+            404
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2023-07-19T00:00:00.000000Z"
+        },
+        "id": 27622,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE042-39567e3eef",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "043",
+        "card": {
+          "name": "Chaos Ruler, the Chaotic Magical Dragon",
+          "nameEn": "Chaos Ruler, the Chaotic Magical Dragon",
+          "nameOriginal": null,
+          "slug": "chaos-ruler-the-chaotic-magical-dragon",
+          "archetypeIds": [
+            695,
+            27
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 27748,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE043-6c9adbdd4f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "044",
+        "card": {
+          "name": "Melffy of the Forest",
+          "nameEn": "Melffy of the Forest",
+          "nameOriginal": null,
+          "slug": "melffy-of-the-forest",
+          "archetypeIds": [
+            406
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27632,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE044-bf721698a9",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "045",
+        "card": {
+          "name": "Melffy Mommy",
+          "nameEn": "Melffy Mommy",
+          "nameOriginal": null,
+          "slug": "melffy-mommy",
+          "archetypeIds": [
+            406
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27633,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE045-6f5b778601",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "046",
+        "card": {
+          "name": "Rikka Queen Strenna",
+          "nameEn": "Rikka Queen Strenna",
+          "nameOriginal": null,
+          "slug": "rikka-queen-strenna",
+          "archetypeIds": [
+            398
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27747,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE046-eda7fa484b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "047",
+        "card": {
+          "name": "Drill Driver Vespenato",
+          "nameEn": "Drill Driver Vespenato",
+          "nameOriginal": null,
+          "slug": "drill-driver-vespenato",
+          "archetypeIds": [],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27767,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE047-bddb93f52e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "048",
+        "card": {
+          "name": "Ancient Warriors Oath - Double Dragon Lords",
+          "nameEn": "Ancient Warriors Oath - Double Dragon Lords",
+          "nameOriginal": null,
+          "slug": "ancient-warriors-oath-double-dragon-lords",
+          "archetypeIds": [
+            265
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 27403,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE048-6e3667c198",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "049",
+        "card": {
+          "name": "Galloping Gaia",
+          "nameEn": "Galloping Gaia",
+          "nameOriginal": null,
+          "slug": "galloping-gaia",
+          "archetypeIds": [
+            259,
+            858
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 27394,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE049-554a16561d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "050",
+        "card": {
+          "name": "Spiral Fusion",
+          "nameEn": "Spiral Fusion",
+          "nameOriginal": null,
+          "slug": "spiral-fusion",
+          "archetypeIds": [
+            858
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27395,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE050-1293a0ed14",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "051",
+        "card": {
+          "name": "Dogmatika Nation",
+          "nameEn": "Dogmatika Nation",
+          "nameOriginal": null,
+          "slug": "dogmatika-nation",
+          "archetypeIds": [
+            409
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27761,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE051-749b4643d8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "052",
+        "card": {
+          "name": "Nadir Servant",
+          "nameEn": "Nadir Servant",
+          "nameOriginal": null,
+          "slug": "nadir-servant",
+          "archetypeIds": [
+            409,
+            547
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2025-10-24T00:00:00.000000Z"
+        },
+        "id": 27762,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE052-e69d4e5fb7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "053",
+        "card": {
+          "name": "\"Infernoble Arms - Durendal\"",
+          "nameEn": "\"Infernoble Arms - Durendal\"",
+          "nameOriginal": null,
+          "slug": "infernoble-arms-durendal",
+          "archetypeIds": [],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2023-01-20T00:00:00.000000Z"
+        },
+        "id": 27623,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE053-49203bb0a5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "054",
+        "card": {
+          "name": "\"Infernoble Arms - Hauteclere\"",
+          "nameEn": "\"Infernoble Arms - Hauteclere\"",
+          "nameOriginal": null,
+          "slug": "infernoble-arms-hauteclere",
+          "archetypeIds": [],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27624,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE054-6a59ee0451",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "055",
+        "card": {
+          "name": "\"Infernoble Arms - Joyeuse\"",
+          "nameEn": "\"Infernoble Arms - Joyeuse\"",
+          "nameOriginal": null,
+          "slug": "infernoble-arms-joyeuse",
+          "archetypeIds": [],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27625,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE055-553fa7df33",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "056",
+        "card": {
+          "name": "Melffy Tag",
+          "nameEn": "Melffy Tag",
+          "nameOriginal": null,
+          "slug": "melffy-tag",
+          "archetypeIds": [
+            406
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27634,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE056-9a7079c7f9",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "057",
+        "card": {
+          "name": "Melffy Hide-and-Seek",
+          "nameEn": "Melffy Hide-and-Seek",
+          "nameOriginal": null,
+          "slug": "melffy-hide-and-seek",
+          "archetypeIds": [
+            406
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 27635,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE057-0ded5b0188",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "058",
+        "card": {
+          "name": "Frightfur Repair",
+          "nameEn": "Frightfur Repair",
+          "nameOriginal": null,
+          "slug": "frightfur-repair",
+          "archetypeIds": [
+            61
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 27711,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE058-3ed8f72da6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "059",
+        "card": {
+          "name": "Magellanica, the Deep Sea City",
+          "nameEn": "Magellanica, the Deep Sea City",
+          "nameOriginal": null,
+          "slug": "magellanica-the-deep-sea-city",
+          "archetypeIds": [
+            651
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27404,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE059-1fde3de53e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "060",
+        "card": {
+          "name": "Ancient Warriors Saga - East-by-South Winds",
+          "nameEn": "Ancient Warriors Saga - East-by-South Winds",
+          "nameOriginal": null,
+          "slug": "ancient-warriors-saga-east-by-south-winds",
+          "archetypeIds": [
+            265
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 27405,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE060-f0e6693043",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "061",
+        "card": {
+          "name": "Adamancipator Friends",
+          "nameEn": "Adamancipator Friends",
+          "nameOriginal": null,
+          "slug": "adamancipator-friends",
+          "archetypeIds": [
+            274
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27730,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE061-d0e8bf38dc",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "062",
+        "card": {
+          "name": "Triple Tactics Talent",
+          "nameEn": "Triple Tactics Talent",
+          "nameOriginal": null,
+          "slug": "triple-tactics-talent",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2025-08-28T00:00:00.000000Z"
+        },
+        "id": 27768,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE062-SCR-6233f6f37c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "062",
+        "card": {
+          "name": "Triple Tactics Talent",
+          "nameEn": "Triple Tactics Talent",
+          "nameOriginal": null,
+          "slug": "triple-tactics-talent",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2025-08-28T00:00:00.000000Z"
+        },
+        "id": 28430,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MAMA/MAMA-EN090-UR-46be63ff12",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "063",
+        "card": {
+          "name": "Blizzard",
+          "nameEn": "Blizzard",
+          "nameOriginal": null,
+          "slug": "blizzard",
+          "archetypeIds": [],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27673,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE063-03354a762b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "064",
+        "card": {
+          "name": "Fury of Kairyu-Shin",
+          "nameEn": "Fury of Kairyu-Shin",
+          "nameOriginal": null,
+          "slug": "fury-of-kairyu-shin",
+          "archetypeIds": [
+            700
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2022-06-17T00:00:00.000000Z"
+        },
+        "id": 27671,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE064-dc3e466a4e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "065",
+        "card": {
+          "name": "Forbidden Droplet",
+          "nameEn": "Forbidden Droplet",
+          "nameOriginal": null,
+          "slug": "forbidden-droplet",
+          "archetypeIds": [],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2025-11-21T00:00:00.000000Z"
+        },
+        "id": 27672,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE065-a3af50cd8d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "066",
+        "card": {
+          "name": "Heavenly Dragon Circle",
+          "nameEn": "Heavenly Dragon Circle",
+          "nameOriginal": null,
+          "slug": "heavenly-dragon-circle",
+          "archetypeIds": [
+            216
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2025-03-14T00:00:00.000000Z"
+        },
+        "id": 27609,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE066-db01cd27c6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "067",
+        "card": {
+          "name": "Diced Dice",
+          "nameEn": "Diced Dice",
+          "nameOriginal": null,
+          "slug": "diced-dice",
+          "archetypeIds": [],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27796,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE067-c2f009e630",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "068",
+        "card": {
+          "name": "Spiral Discharge",
+          "nameEn": "Spiral Discharge",
+          "nameOriginal": null,
+          "slug": "spiral-discharge",
+          "archetypeIds": [
+            858
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 27396,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE068-e5ff226669",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "069",
+        "card": {
+          "name": "Spiral Reborn",
+          "nameEn": "Spiral Reborn",
+          "nameOriginal": null,
+          "slug": "spiral-reborn",
+          "archetypeIds": [
+            858
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 27397,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE069-0bc3fd3e8b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "070",
+        "card": {
+          "name": "Dogmatika Punishment",
+          "nameEn": "Dogmatika Punishment",
+          "nameOriginal": null,
+          "slug": "dogmatika-punishment",
+          "archetypeIds": [
+            409
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2025-10-24T00:00:00.000000Z"
+        },
+        "id": 27763,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE070-2f9730ca8a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "071",
+        "card": {
+          "name": "Dogmatika Encounter",
+          "nameEn": "Dogmatika Encounter",
+          "nameOriginal": null,
+          "slug": "dogmatika-encounter",
+          "archetypeIds": [
+            409,
+            547
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27764,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE071-9afa3254e2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "072",
+        "card": {
+          "name": "Horn of Olifant",
+          "nameEn": "Horn of Olifant",
+          "nameOriginal": null,
+          "slug": "horn-of-olifant",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2023-07-19T00:00:00.000000Z"
+        },
+        "id": 27626,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE072-c015ce2238",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "073",
+        "card": {
+          "name": "Melffy Playhouse",
+          "nameEn": "Melffy Playhouse",
+          "nameOriginal": null,
+          "slug": "melffy-playhouse",
+          "archetypeIds": [
+            406
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27636,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE073-d98609948a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "074",
+        "card": {
+          "name": "Frightfur Jar",
+          "nameEn": "Frightfur Jar",
+          "nameOriginal": null,
+          "slug": "frightfur-jar",
+          "archetypeIds": [],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 27712,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE074-d880e71983",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "075",
+        "card": {
+          "name": "Darklord Uprising",
+          "nameEn": "Darklord Uprising",
+          "nameOriginal": null,
+          "slug": "darklord-uprising",
+          "archetypeIds": [
+            47
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27706,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE075-5f00072c8f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "076",
+        "card": {
+          "name": "Shaddoll Schism",
+          "nameEn": "Shaddoll Schism",
+          "nameOriginal": null,
+          "slug": "shaddoll-schism",
+          "archetypeIds": [
+            198
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2023-11-03T00:00:00.000000Z"
+        },
+        "id": 27406,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE076-3d379fe47a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "077",
+        "card": {
+          "name": "Dragonmaid Tidying",
+          "nameEn": "Dragonmaid Tidying",
+          "nameOriginal": null,
+          "slug": "dragonmaid-tidying",
+          "archetypeIds": [
+            256
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2025-08-28T00:00:00.000000Z"
+        },
+        "id": 27610,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE077-65d2d0a948",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "078",
+        "card": {
+          "name": "Redeemable Jar",
+          "nameEn": "Redeemable Jar",
+          "nameOriginal": null,
+          "slug": "redeemable-jar",
+          "archetypeIds": [],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27700,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE078-8207f04466",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "079",
+        "card": {
+          "name": "Ice Dragon's Prison",
+          "nameEn": "Ice Dragon's Prison",
+          "nameOriginal": null,
+          "slug": "ice-dragons-prison",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2023-11-03T00:00:00.000000Z"
+        },
+        "id": 27701,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE079-209fff2163",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "080",
+        "card": {
+          "name": "Junk Sleep",
+          "nameEn": "Junk Sleep",
+          "nameOriginal": null,
+          "slug": "junk-sleep",
+          "archetypeIds": [
+            118
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27798,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE080-cec975e29e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "081",
+        "card": {
+          "name": "Abyss Actor - Twinkle Little Star",
+          "nameEn": "Abyss Actor - Twinkle Little Star",
+          "nameOriginal": null,
+          "slug": "abyss-actor-twinkle-little-star",
+          "archetypeIds": [
+            2,
+            823
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 28408,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE081-182a305d5c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "082",
+        "card": {
+          "name": "Performapal Card Gardna",
+          "nameEn": "Performapal Card Gardna",
+          "nameOriginal": null,
+          "slug": "performapal-card-gardna",
+          "archetypeIds": [
+            176,
+            929
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 28409,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE082-410987ae06",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "083",
+        "card": {
+          "name": "Odd-Eyes Revolution Dragon",
+          "nameEn": "Odd-Eyes Revolution Dragon",
+          "nameOriginal": null,
+          "slug": "odd-eyes-revolution-dragon",
+          "archetypeIds": [
+            166,
+            929
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28410,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE083-00d1784b8f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "084",
+        "card": {
+          "name": "D/D Ark",
+          "nameEn": "D/D Ark",
+          "nameOriginal": null,
+          "slug": "dd-ark",
+          "archetypeIds": [
+            932
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 28411,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE084-5ac44aaa76",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "085",
+        "card": {
+          "name": "D/D Evil",
+          "nameEn": "D/D Evil",
+          "nameOriginal": null,
+          "slug": "dd-evil",
+          "archetypeIds": [
+            932
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 28412,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE085-f315a3c202",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "086",
+        "card": {
+          "name": "Wynn the Wind Channeler",
+          "nameEn": "Wynn the Wind Channeler",
+          "nameOriginal": null,
+          "slug": "wynn-the-wind-channeler",
+          "archetypeIds": [
+            28
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2026-01-23T00:00:00.000000Z"
+        },
+        "id": 28413,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE086-UR-7e7e86c908",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "086",
+        "card": {
+          "name": "Wynn the Wind Channeler",
+          "nameEn": "Wynn the Wind Channeler",
+          "nameOriginal": null,
+          "slug": "wynn-the-wind-channeler",
+          "archetypeIds": [
+            28
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2026-01-23T00:00:00.000000Z"
+        },
+        "id": 28431,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CH02/CH02-EN011-a801c7a44f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "087",
+        "card": {
+          "name": "Seleglare the Luminous Lunar Dragon",
+          "nameEn": "Seleglare the Luminous Lunar Dragon",
+          "nameOriginal": null,
+          "slug": "seleglare-the-luminous-lunar-dragon",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28414,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE087-d9ca5b2e94",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "088",
+        "card": {
+          "name": "Ret-time Reviver Emit-ter",
+          "nameEn": "Ret-time Reviver Emit-ter",
+          "nameOriginal": null,
+          "slug": "ret-time-reviver-emit-ter",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28415,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE088-703f8c3ec6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "089",
+        "card": {
+          "name": "Speedroid Block-n-Roll",
+          "nameEn": "Speedroid Block-n-Roll",
+          "nameOriginal": null,
+          "slug": "speedroid-block-n-roll",
+          "archetypeIds": [
+            203,
+            363,
+            929
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28416,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE089-291faceb27",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "090",
+        "card": {
+          "name": "Speedroid CarTurbo",
+          "nameEn": "Speedroid CarTurbo",
+          "nameOriginal": null,
+          "slug": "speedroid-carturbo",
+          "archetypeIds": [
+            203,
+            363,
+            929
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2025-02-26T00:00:00.000000Z"
+        },
+        "id": 28417,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE090-aab14118ee",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "091",
+        "card": {
+          "name": "D/D Dog",
+          "nameEn": "D/D Dog",
+          "nameOriginal": null,
+          "slug": "dd-dog",
+          "archetypeIds": [
+            932
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 28418,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE091-428fef09d5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "092",
+        "card": {
+          "name": "Performapal Odd-Eyes Metal Claw",
+          "nameEn": "Performapal Odd-Eyes Metal Claw",
+          "nameOriginal": null,
+          "slug": "performapal-odd-eyes-metal-claw",
+          "archetypeIds": [
+            166,
+            176,
+            929
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 28419,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE092-bf0d1d863a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "093",
+        "card": {
+          "name": "Rampaging Smashtank Rhynosaber",
+          "nameEn": "Rampaging Smashtank Rhynosaber",
+          "nameOriginal": null,
+          "slug": "rampaging-smashtank-rhynosaber",
+          "archetypeIds": [],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2024-01-26T00:00:00.000000Z"
+        },
+        "id": 28420,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE093-ec9af561ef",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "094",
+        "card": {
+          "name": "Raidraptor - Arsenal Falcon",
+          "nameEn": "Raidraptor - Arsenal Falcon",
+          "nameOriginal": null,
+          "slug": "raidraptor-arsenal-falcon",
+          "archetypeIds": [
+            186
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 28421,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE094-e49d0f3157",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "095",
+        "card": {
+          "name": "Raidraptor - Revolution Falcon - Air Raid",
+          "nameEn": "Raidraptor - Revolution Falcon - Air Raid",
+          "nameOriginal": null,
+          "slug": "raidraptor-revolution-falcon-air-raid",
+          "archetypeIds": [
+            186,
+            187
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 28422,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE095-917b142a2e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "096",
+        "card": {
+          "name": "Linkerbell",
+          "nameEn": "Linkerbell",
+          "nameOriginal": null,
+          "slug": "linkerbell",
+          "archetypeIds": [],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28423,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE096-575c7cb906",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "097",
+        "card": {
+          "name": "Superheavy Samurai Scarecrow",
+          "nameEn": "Superheavy Samurai Scarecrow",
+          "nameOriginal": null,
+          "slug": "superheavy-samurai-scarecrow",
+          "archetypeIds": [
+            211
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28424,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE097-b1d858509b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "098",
+        "card": {
+          "name": "Yaminabe Party",
+          "nameEn": "Yaminabe Party",
+          "nameOriginal": null,
+          "slug": "yaminabe-party",
+          "archetypeIds": [],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 28425,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE098-c539863ce2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "099",
+        "card": {
+          "name": "Revenge Rally",
+          "nameEn": "Revenge Rally",
+          "nameOriginal": null,
+          "slug": "revenge-rally",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-08-06T00:00:00.000000Z",
+          "lastPrint": "2020-08-07T00:00:00.000000Z"
+        },
+        "id": 28426,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE099-3383b9ccfa",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "100",
+        "card": {
+          "name": "D.D. Crow",
+          "nameEn": "D.D. Crow",
+          "nameOriginal": null,
+          "slug": "dd-crow",
+          "archetypeIds": [
+            512
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-02-28T00:00:00.000000Z",
+          "lastPrint": "2025-10-09T00:00:00.000000Z"
+        },
+        "id": 28427,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE100-df489e5c7a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      }
+    ],
+    "printsCount": null,
+    "releaseEu": "2020-08-06T00:00:00.000000Z",
+    "releaseEuDayUnknown": false,
+    "releaseEuMonthUnknown": false,
+    "releaseNa": "2020-08-07T00:00:00.000000Z",
+    "releaseNaDayUnknown": false,
+    "releaseNaMonthUnknown": false,
+    "tournamentLegal": null,
+    "setNumber": "ROTD",
+    "slug": "rise-of-the-duelist",
+    "scanCounts": {
+      "en": 0,
+      "de": 102
+    }
+  }
+}

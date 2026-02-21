@@ -1,0 +1,3627 @@
+{
+  "data": {
+    "archetypes": [
+      {
+        "id": 930,
+        "name": "Yusaku Fujiki | Playmaker",
+        "slug": "yusaku-fujiki-playmaker",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/MP22/MP22-DE271-cfc3d0b586",
+        "isFirstPrint": false
+      },
+      {
+        "id": 272,
+        "name": "Codebreaker",
+        "slug": "codebreaker",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE002-dfb47d77ad",
+        "isFirstPrint": true
+      },
+      {
+        "id": 195,
+        "name": "Salamangreat",
+        "slug": "salamangreat",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LD10/LD10-EN008-84df08109c",
+        "isFirstPrint": false
+      },
+      {
+        "id": 363,
+        "name": "roid",
+        "slug": "roid",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SGX2/SGX2-ENB20-137fba1dd2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 816,
+        "name": "Theodore Hamilton | Soulburner",
+        "slug": "theodore-hamilton-soulburner",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/SDSB/SDSB-DE040-ALT2-3ce70da973",
+        "isFirstPrint": false
+      },
+      {
+        "id": 97,
+        "name": "Gouki",
+        "slug": "gouki",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP18/MP18-DE039-0783ec9714",
+        "isFirstPrint": false
+      },
+      {
+        "id": 914,
+        "name": "George Gore | The Gore | Grim Gore",
+        "slug": "george-gore-the-gore-grim-gore",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/DOOD/DOOD-EN056-ce3f091bad",
+        "isFirstPrint": false
+      },
+      {
+        "id": 142,
+        "name": "Marincess",
+        "slug": "marincess",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LED9/LED9-EN034-19bbd51c73",
+        "isFirstPrint": false
+      },
+      {
+        "id": 814,
+        "name": "Skye Zaizen | Blue Angel | Blue Gal | Blue Maiden",
+        "slug": "skye-zaizen-blue-angel-blue-gal-blue-maiden",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/MZTM/MZTM-DE031-ee3fd91b6e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 872,
+        "name": "Roken Kogami | Varis",
+        "slug": "roken-kogami-varis",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/tmp/TMP-CARD-14153-60af400fa6-a06fe24706",
+        "isFirstPrint": false
+      },
+      {
+        "id": 273,
+        "name": "Nemeses",
+        "slug": "nemeses",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA03/RA03-EN023-SCR-9bb031028d",
+        "isFirstPrint": true
+      },
+      {
+        "id": 270,
+        "name": "Deep Sea",
+        "slug": "deep-sea",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/RA03/RA03-EN004-SCR-c88ff13df9",
+        "isFirstPrint": false
+      },
+      {
+        "id": 927,
+        "name": "Jack Atlas",
+        "slug": "jack-atlas",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/L5DD/L5DD-ENY22-215ad17c7a",
+        "isFirstPrint": false
+      },
+      {
+        "id": 190,
+        "name": "Resonator",
+        "slug": "resonator",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SDCK/SDCK-EN007-ee4f428fa3",
+        "isFirstPrint": false
+      },
+      {
+        "id": 199,
+        "name": "Shark",
+        "slug": "shark",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA03/RA03-EN030-SCR-8d544bc188",
+        "isFirstPrint": false
+      },
+      {
+        "id": 813,
+        "name": "Reginald \"Shark\" Kastle | Nash",
+        "slug": "reginald-shark-kastle-nash",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LED9/LED9-EN005-f4211008d2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 265,
+        "name": "Ancient Warriors",
+        "slug": "ancient-warriors",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE048-6e3667c198",
+        "isFirstPrint": false
+      },
+      {
+        "id": 146,
+        "name": "Mekk-Knight",
+        "slug": "mekk-knight",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SDBT/SDBT-EN017-249c82b077",
+        "isFirstPrint": false
+      },
+      {
+        "id": 169,
+        "name": "Orcust",
+        "slug": "orcust",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA01/RA01-EN040-SCR-2e0f2d6e88",
+        "isFirstPrint": false
+      },
+      {
+        "id": 244,
+        "name": "World Legacy",
+        "slug": "world-legacy",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DANE/DANE-DE075-44bd68d912",
+        "isFirstPrint": false
+      },
+      {
+        "id": 220,
+        "name": "Thunder Dragon",
+        "slug": "thunder-dragon",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA03/RA03-EN036-SCR-aa7134d28d",
+        "isFirstPrint": false
+      },
+      {
+        "id": 256,
+        "name": "Dragonmaid",
+        "slug": "dragonmaid",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN065-332fb733c2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 257,
+        "name": "Generaider",
+        "slug": "generaider",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE028-467e8b6820",
+        "isFirstPrint": false
+      },
+      {
+        "id": 267,
+        "name": "Unchained",
+        "slug": "unchained",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN101-82bbf19075",
+        "isFirstPrint": false
+      },
+      {
+        "id": 499,
+        "name": "Gizmek",
+        "slug": "gizmek",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/AMDE/AMDE-EN058-6037acba43",
+        "isFirstPrint": false
+      },
+      {
+        "id": 276,
+        "name": "Lair of Darkness",
+        "slug": "lair-of-darkness",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/EGS1/EGS1-EN032-a507df3493",
+        "isFirstPrint": false
+      },
+      {
+        "id": 451,
+        "name": "Lost World",
+        "slug": "lost-world",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/WISU/WISU-EN057-e438494bca",
+        "isFirstPrint": false
+      },
+      {
+        "id": 114,
+        "name": "Invoked",
+        "slug": "invoked",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/FUEN/FUEN-EN026-40e02d31e2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 225,
+        "name": "Traptrix",
+        "slug": "traptrix",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MAMA/MAMA-EN074-4d8fc69016",
+        "isFirstPrint": false
+      },
+      {
+        "id": 34,
+        "name": "Code Talker",
+        "slug": "code-talker",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA01/RA01-EN048-SCR-24ea1bd5ca",
+        "isFirstPrint": false
+      },
+      {
+        "id": 264,
+        "name": "@Ignister",
+        "slug": "ignister",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BROL/BROL-EN042-f24757cb93",
+        "isFirstPrint": false
+      },
+      {
+        "id": 254,
+        "name": "Cyberse",
+        "slug": "cyberse",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/MGED/MGED-EN135-20e0ad9715",
+        "isFirstPrint": false
+      },
+      {
+        "id": 867,
+        "name": "Ai",
+        "slug": "ai",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LIOV/LIOV-EN076-664e82cabf",
+        "isFirstPrint": false
+      },
+      {
+        "id": 28,
+        "name": "Charmer",
+        "slug": "charmer",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CH02/CH02-EN031-adbfc353bf",
+        "isFirstPrint": false
+      },
+      {
+        "id": 223,
+        "name": "Tindangle",
+        "slug": "tindangle",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/EXFO/EXFO-DE045-a773ca52de",
+        "isFirstPrint": false
+      },
+      {
+        "id": 135,
+        "name": "Madolche",
+        "slug": "madolche",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DUOV/DUOV-DE082-652e5fb034",
+        "isFirstPrint": false
+      },
+      {
+        "id": 112,
+        "name": "Infernoid",
+        "slug": "infernoid",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLTR/BLTR-EN016-1b95313b13",
+        "isFirstPrint": false
+      },
+      {
+        "id": 113,
+        "name": "Infinitrack",
+        "slug": "infinitrack",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP20/MP20-DE215-31f6c3c70b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 242,
+        "name": "Witchcrafter",
+        "slug": "witchcrafter",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MAMA/MAMA-EN020-6834759b29",
+        "isFirstPrint": false
+      },
+      {
+        "id": 66,
+        "name": "Evil Eye",
+        "slug": "evil-eye",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP20/MP20-DE232-81159140ef",
+        "isFirstPrint": false
+      },
+      {
+        "id": 266,
+        "name": "Megalith",
+        "slug": "megalith",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/ROTD/ROTD-DE036-99e944ec56",
+        "isFirstPrint": false
+      },
+      {
+        "id": 275,
+        "name": "Plunder Patroll",
+        "slug": "plunder-patroll",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLCR/BLCR-EN094-c260df230d",
+        "isFirstPrint": false
+      },
+      {
+        "id": 211,
+        "name": "Superheavy Samurai",
+        "slug": "superheavy-samurai",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN076-3a3f203642",
+        "isFirstPrint": false
+      },
+      {
+        "id": 176,
+        "name": "Performapal",
+        "slug": "performapal",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/OP19/OP19-DE021-ef90dde279",
+        "isFirstPrint": false
+      },
+      {
+        "id": 929,
+        "name": "Yuya Sakaki | Z-ARC",
+        "slug": "yuya-sakaki-z-arc",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN265-b465d5a7bd",
+        "isFirstPrint": false
+      },
+      {
+        "id": 134,
+        "name": "Machina",
+        "slug": "machina",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN094-38eae9ec98",
+        "isFirstPrint": false
+      }
+    ],
+    "archetypesReprint": [
+      {
+        "id": 799,
+        "name": "Yusei Fudo",
+        "slug": "yusei-fudo",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/OP16/OP16-DE025-784a52b541",
+        "isFirstPrint": false
+      }
+    ],
+    "category": {
+      "name": "Series 10",
+      "slug": "series-10",
+      "sets": [
+        {
+          "image": "https://cardcluster.com/storage/sets/ETCO-a9b49ff90ceb1ff62aaa",
+          "format": 1,
+          "name": "Eternity Code",
+          "releaseEu": "2020-04-30T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2020-06-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "ETCO",
+          "slug": "eternity-code",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/IGAS-ebe47204b65a3d7a2cb2",
+          "format": 1,
+          "name": "Ignition Assault",
+          "releaseEu": "2020-01-30T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2020-01-31T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "IGAS",
+          "slug": "ignition-assault",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/CHIM-b6953945f9ae73024252",
+          "format": 1,
+          "name": "Chaos Impact",
+          "releaseEu": "2019-10-24T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2019-10-25T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CHIM",
+          "slug": "chaos-impact",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/RIRA-7790d9bd7fa0bf086f96",
+          "format": 1,
+          "name": "Rising Rampage",
+          "releaseEu": "2019-07-25T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2019-07-26T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "RIRA",
+          "slug": "rising-rampage",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/DANE-ecd83d94704fce4619a2",
+          "format": 1,
+          "name": "Dark Neostorm",
+          "releaseEu": "2019-05-02T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2019-05-03T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "DANE",
+          "slug": "dark-neostorm",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/SAST-1616d4469888fc7d90e0",
+          "format": 1,
+          "name": "Savage Strike",
+          "releaseEu": "2019-01-31T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2019-02-01T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "SAST",
+          "slug": "savage-strike",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Soul Fusion",
+          "releaseEu": "2018-10-18T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2018-10-19T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "SOFU",
+          "slug": "soul-fusion",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Cybernetic Horizon",
+          "releaseEu": "2018-07-26T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2018-07-27T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CYHO",
+          "slug": "cybernetic-horizon",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Flames of Destruction",
+          "releaseEu": "2018-05-03T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2018-05-04T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "FLOD",
+          "slug": "flames-of-destruction",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Extreme Force",
+          "releaseEu": "2018-02-01T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2018-02-02T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "EXFO",
+          "slug": "extreme-force",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Circuit Break",
+          "releaseEu": "2017-10-19T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2017-10-20T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CIBR",
+          "slug": "circuit-break",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Code of the Duelist",
+          "releaseEu": "2017-08-03T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2017-08-04T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "COTD",
+          "slug": "code-of-the-duelist",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        }
+      ],
+      "setsCount": 12,
+      "format": 1,
+      "parent": {
+        "name": "Core Boosters",
+        "slug": "core-boosters",
+        "setsCount": 102,
+        "format": 1,
+        "parent": {
+          "name": "Booster Packs",
+          "slug": "booster-packs",
+          "setsCount": 326,
+          "format": 1,
+          "parent": null
+        }
+      }
+    },
+    "disableSetList": false,
+    "format": 1,
+    "game": 1,
+    "id": 475,
+    "image": "https://cardcluster.com/storage/sets/ETCO-a9b49ff90ceb1ff62aaa",
+    "languages": [
+      {
+        "id": 957,
+        "language": "de",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 958,
+        "language": "en",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 959,
+        "language": "fr",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 960,
+        "language": "it",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 961,
+        "language": "pt",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 962,
+        "language": "es",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      }
+    ],
+    "name": "Eternity Code",
+    "next": null,
+    "previous": {
+      "name": "Ignition Assault",
+      "setNumber": "IGAS",
+      "slug": "ignition-assault",
+      "format": 1,
+      "releaseEu": "2020-01-30T00:00:00.000000Z",
+      "releaseNa": "2020-01-31T00:00:00.000000Z"
+    },
+    "prints": [
+      {
+        "cardNumber": "000",
+        "card": {
+          "name": "Piwraithe the Ghost Pirate",
+          "nameEn": "Piwraithe the Ghost Pirate",
+          "nameOriginal": null,
+          "slug": "piwraithe-the-ghost-pirate",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27783,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE000-b6d7603b47",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "001",
+        "card": {
+          "name": "Parallel eXceed",
+          "nameEn": "Parallel eXceed",
+          "nameOriginal": null,
+          "slug": "parallel-exceed",
+          "archetypeIds": [
+            930
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 27030,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE001-f8818dc3b5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "002",
+        "card": {
+          "name": "Codebreaker Zero Day",
+          "nameEn": "Codebreaker Zero Day",
+          "nameOriginal": null,
+          "slug": "codebreaker-zero-day",
+          "archetypeIds": [
+            272
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27259,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE002-dfb47d77ad",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "003",
+        "card": {
+          "name": "Salamangreat Zebroid X",
+          "nameEn": "Salamangreat Zebroid X",
+          "nameOriginal": null,
+          "slug": "salamangreat-zebroid-x",
+          "archetypeIds": [
+            195,
+            363,
+            816
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27260,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE003-6730aed09a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "004",
+        "card": {
+          "name": "Gouki Iron Claw",
+          "nameEn": "Gouki Iron Claw",
+          "nameOriginal": null,
+          "slug": "gouki-iron-claw",
+          "archetypeIds": [
+            97,
+            914
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27275,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE004-67fa53bbaf",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "005",
+        "card": {
+          "name": "Gouki Guts",
+          "nameEn": "Gouki Guts",
+          "nameOriginal": null,
+          "slug": "gouki-guts",
+          "archetypeIds": [
+            97,
+            914
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27276,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE005-f44485d553",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "006",
+        "card": {
+          "name": "Marincess Basilalima",
+          "nameEn": "Marincess Basilalima",
+          "nameOriginal": null,
+          "slug": "marincess-basilalima",
+          "archetypeIds": [
+            142,
+            814
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27261,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE006-24148e73ca",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "007",
+        "card": {
+          "name": "Noctovision Dragon",
+          "nameEn": "Noctovision Dragon",
+          "nameOriginal": null,
+          "slug": "noctovision-dragon",
+          "archetypeIds": [
+            872
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27277,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE007-420f4a1f73",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "008",
+        "card": {
+          "name": "Archnemeses Protos",
+          "nameEn": "Archnemeses Protos",
+          "nameOriginal": null,
+          "slug": "archnemeses-protos",
+          "archetypeIds": [
+            273
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2024-11-08T00:00:00.000000Z"
+        },
+        "id": 27264,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE008-aba8e2ff09",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "009",
+        "card": {
+          "name": "Archnemeses Eschatos",
+          "nameEn": "Archnemeses Eschatos",
+          "nameOriginal": null,
+          "slug": "archnemeses-eschatos",
+          "archetypeIds": [
+            273
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2023-11-17T00:00:00.000000Z"
+        },
+        "id": 27252,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE009-d5c33360d9",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "010",
+        "card": {
+          "name": "Nemeses Flag",
+          "nameEn": "Nemeses Flag",
+          "nameOriginal": null,
+          "slug": "nemeses-flag",
+          "archetypeIds": [
+            273
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2024-11-08T00:00:00.000000Z"
+        },
+        "id": 27265,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE010-c307d40fab",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "011",
+        "card": {
+          "name": "Nemeses Umbrella",
+          "nameEn": "Nemeses Umbrella",
+          "nameOriginal": null,
+          "slug": "nemeses-umbrella",
+          "archetypeIds": [
+            273
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27266,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE011-7751ae8feb",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "012",
+        "card": {
+          "name": "Nemeses Corridor",
+          "nameEn": "Nemeses Corridor",
+          "nameOriginal": null,
+          "slug": "nemeses-corridor",
+          "archetypeIds": [
+            273
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2024-11-08T00:00:00.000000Z"
+        },
+        "id": 27267,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE012-73a10c5183",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "013",
+        "card": {
+          "name": "Deep Sea Artisan",
+          "nameEn": "Deep Sea Artisan",
+          "nameOriginal": null,
+          "slug": "deep-sea-artisan",
+          "archetypeIds": [
+            270
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27222,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE013-7b8ff85881",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "014",
+        "card": {
+          "name": "Deep Sea Sentry",
+          "nameEn": "Deep Sea Sentry",
+          "nameOriginal": null,
+          "slug": "deep-sea-sentry",
+          "archetypeIds": [
+            270
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27223,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE014-7b7f06835c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "015",
+        "card": {
+          "name": "Deep Sea Minstrel",
+          "nameEn": "Deep Sea Minstrel",
+          "nameOriginal": null,
+          "slug": "deep-sea-minstrel",
+          "archetypeIds": [
+            270
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27224,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE015-066e88ffc1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "016",
+        "card": {
+          "name": "Red Familiar",
+          "nameEn": "Red Familiar",
+          "nameOriginal": null,
+          "slug": "red-familiar",
+          "archetypeIds": [
+            927
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 27233,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE016-a15f74df9a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "017",
+        "card": {
+          "name": "Crimson Resonator",
+          "nameEn": "Crimson Resonator",
+          "nameOriginal": null,
+          "slug": "crimson-resonator",
+          "archetypeIds": [
+            190,
+            927
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2023-09-22T00:00:00.000000Z"
+        },
+        "id": 27234,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE017-d218aff2c5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "018",
+        "card": {
+          "name": "Lantern Shark",
+          "nameEn": "Lantern Shark",
+          "nameOriginal": null,
+          "slug": "lantern-shark",
+          "archetypeIds": [
+            199,
+            813
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2024-10-17T00:00:00.000000Z"
+        },
+        "id": 27237,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE018-0de8d9d95d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "019",
+        "card": {
+          "name": "Buzzsaw Shark",
+          "nameEn": "Buzzsaw Shark",
+          "nameOriginal": null,
+          "slug": "buzzsaw-shark",
+          "archetypeIds": [
+            199,
+            813
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2024-10-17T00:00:00.000000Z"
+        },
+        "id": 27238,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE019-63ffc1ffb1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "020",
+        "card": {
+          "name": "Ancient Warriors - Ambitious Cao De",
+          "nameEn": "Ancient Warriors - Ambitious Cao De",
+          "nameOriginal": null,
+          "slug": "ancient-warriors-ambitious-cao-de",
+          "archetypeIds": [
+            265
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27217,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE020-0ec0c3b1ab",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "021",
+        "card": {
+          "name": "Ancient Warriors - Fearsome Zhang Yuan",
+          "nameEn": "Ancient Warriors - Fearsome Zhang Yuan",
+          "nameOriginal": null,
+          "slug": "ancient-warriors-fearsome-zhang-yuan",
+          "archetypeIds": [
+            265
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27218,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE021-2bb0117915",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "022",
+        "card": {
+          "name": "Ancient Warriors - Deceptive Jia Wen",
+          "nameEn": "Ancient Warriors - Deceptive Jia Wen",
+          "nameOriginal": null,
+          "slug": "ancient-warriors-deceptive-jia-wen",
+          "archetypeIds": [
+            265
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27219,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE022-04eddebae6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "023",
+        "card": {
+          "name": "Ancient Warriors - Ingenious Zhuge Kong",
+          "nameEn": "Ancient Warriors - Ingenious Zhuge Kong",
+          "nameOriginal": null,
+          "slug": "ancient-warriors-ingenious-zhuge-kong",
+          "archetypeIds": [
+            265
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27220,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE023-a74a4d8bb7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "024",
+        "card": {
+          "name": "Girsu, the Orcust Mekk-Knight",
+          "nameEn": "Girsu, the Orcust Mekk-Knight",
+          "nameOriginal": null,
+          "slug": "girsu-the-orcust-mekk-knight",
+          "archetypeIds": [
+            146,
+            169,
+            244
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2025-08-28T00:00:00.000000Z"
+        },
+        "id": 27278,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE024-f9c44199f6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "025",
+        "card": {
+          "name": "Thunder Dragonlord",
+          "nameEn": "Thunder Dragonlord",
+          "nameOriginal": null,
+          "slug": "thunder-dragonlord",
+          "archetypeIds": [
+            220
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27279,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE025-b40766bac3",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "026",
+        "card": {
+          "name": "Chamber Dragonmaid",
+          "nameEn": "Chamber Dragonmaid",
+          "nameOriginal": null,
+          "slug": "chamber-dragonmaid",
+          "archetypeIds": [
+            256
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2025-08-28T00:00:00.000000Z"
+        },
+        "id": 27272,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE026-SCR-a9b4c363f9",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "026",
+        "card": {
+          "name": "Chamber Dragonmaid",
+          "nameEn": "Chamber Dragonmaid",
+          "nameOriginal": null,
+          "slug": "chamber-dragonmaid",
+          "archetypeIds": [
+            256
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2025-08-28T00:00:00.000000Z"
+        },
+        "id": 27802,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE026-SLR-5e4a93f416",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "027",
+        "card": {
+          "name": "Harr, Generaider Boss of Storms",
+          "nameEn": "Harr, Generaider Boss of Storms",
+          "nameOriginal": null,
+          "slug": "harr-generaider-boss-of-storms",
+          "archetypeIds": [
+            257
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27280,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE027-7be2f27049",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "028",
+        "card": {
+          "name": "Loptr, Shadow of the Generaider Bosses",
+          "nameEn": "Loptr, Shadow of the Generaider Bosses",
+          "nameOriginal": null,
+          "slug": "loptr-shadow-of-the-generaider-bosses",
+          "archetypeIds": [
+            257
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27232,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE028-467e8b6820",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "029",
+        "card": {
+          "name": "Unchained Twins - Sarama",
+          "nameEn": "Unchained Twins - Sarama",
+          "nameOriginal": null,
+          "slug": "unchained-twins-sarama",
+          "archetypeIds": [
+            267
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27244,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE029-d83d8c4f3e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "030",
+        "card": {
+          "name": "King Beast Barbaros",
+          "nameEn": "King Beast Barbaros",
+          "nameOriginal": null,
+          "slug": "king-beast-barbaros",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27245,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE030-2c86a52ff0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "031",
+        "card": {
+          "name": "Gizmek Uka, the Festive Fox of Fecundity",
+          "nameEn": "Gizmek Uka, the Festive Fox of Fecundity",
+          "nameOriginal": null,
+          "slug": "gizmek-uka-the-festive-fox-of-fecundity",
+          "archetypeIds": [
+            499
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-06-18T00:00:00.000000Z"
+        },
+        "id": 27269,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE031-7b3862f4c7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "032",
+        "card": {
+          "name": "Trias Hierarchia",
+          "nameEn": "Trias Hierarchia",
+          "nameOriginal": null,
+          "slug": "trias-hierarchia",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2024-06-12T00:00:00.000000Z"
+        },
+        "id": 27281,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE032-4bd5fd6034",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "033",
+        "card": {
+          "name": "Cataclysmic Circumpolar Chilblainia",
+          "nameEn": "Cataclysmic Circumpolar Chilblainia",
+          "nameOriginal": null,
+          "slug": "cataclysmic-circumpolar-chilblainia",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27282,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE033-9cdc2c1e3f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "034",
+        "card": {
+          "name": "Union Driver",
+          "nameEn": "Union Driver",
+          "nameOriginal": null,
+          "slug": "union-driver",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27247,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE034-40c2dc491a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "035",
+        "card": {
+          "name": "Malice, Lady of Lament",
+          "nameEn": "Malice, Lady of Lament",
+          "nameOriginal": null,
+          "slug": "malice-lady-of-lament",
+          "archetypeIds": [
+            276
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2022-08-26T00:00:00.000000Z"
+        },
+        "id": 27242,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE035-0389b08638",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "036",
+        "card": {
+          "name": "Ghost Mourner & Moonlit Chill",
+          "nameEn": "Ghost Mourner & Moonlit Chill",
+          "nameOriginal": null,
+          "slug": "ghost-mourner-moonlit-chill",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2026-04-10T00:00:00.000000Z"
+        },
+        "id": 27243,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE036-SCR-15d7c614e2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "036",
+        "card": {
+          "name": "Ghost Mourner & Moonlit Chill",
+          "nameEn": "Ghost Mourner & Moonlit Chill",
+          "nameOriginal": null,
+          "slug": "ghost-mourner-moonlit-chill",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2026-04-10T00:00:00.000000Z"
+        },
+        "id": 27803,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/L5DD/L5DD-ENC11-1e44979897",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "037",
+        "card": {
+          "name": "Animadorned Archosaur",
+          "nameEn": "Animadorned Archosaur",
+          "nameOriginal": null,
+          "slug": "animadorned-archosaur",
+          "archetypeIds": [
+            451
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": null
+        },
+        "id": 27248,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE037-3d9f2f7d29",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "038",
+        "card": {
+          "name": "Goldilocks the Battle Landscaper",
+          "nameEn": "Goldilocks the Battle Landscaper",
+          "nameOriginal": null,
+          "slug": "goldilocks-the-battle-landscaper",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27283,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE038-b7f976c792",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "039",
+        "card": {
+          "name": "Magical Hound",
+          "nameEn": "Magical Hound",
+          "nameOriginal": null,
+          "slug": "magical-hound",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27284,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE039-672f317041",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "040",
+        "card": {
+          "name": "Invoked Augoeides",
+          "nameEn": "Invoked Augoeides",
+          "nameOriginal": null,
+          "slug": "invoked-augoeides",
+          "archetypeIds": [
+            114
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27230,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE040-5a43315a06",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "041",
+        "card": {
+          "name": "Dragonmaid Sheou",
+          "nameEn": "Dragonmaid Sheou",
+          "nameOriginal": null,
+          "slug": "dragonmaid-sheou",
+          "archetypeIds": [
+            256
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2025-08-28T00:00:00.000000Z"
+        },
+        "id": 27231,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE041-b99812adc9",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "042",
+        "card": {
+          "name": "Deep Sea Prima Donna",
+          "nameEn": "Deep Sea Prima Donna",
+          "nameOriginal": null,
+          "slug": "deep-sea-prima-donna",
+          "archetypeIds": [
+            270
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27225,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE042-f209e18063",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "043",
+        "card": {
+          "name": "Ravenous Crocodragon Archethys",
+          "nameEn": "Ravenous Crocodragon Archethys",
+          "nameOriginal": null,
+          "slug": "ravenous-crocodragon-archethys",
+          "archetypeIds": [],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27249,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE043-a3d29643c1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "044",
+        "card": {
+          "name": "Valiant Shark Lancer",
+          "nameEn": "Valiant Shark Lancer",
+          "nameOriginal": null,
+          "slug": "valiant-shark-lancer",
+          "archetypeIds": [
+            813
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2024-10-17T00:00:00.000000Z"
+        },
+        "id": 27239,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE044-6c843b69b6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "045",
+        "card": {
+          "name": "Traptrix Allomerus",
+          "nameEn": "Traptrix Allomerus",
+          "nameOriginal": null,
+          "slug": "traptrix-allomerus",
+          "archetypeIds": [
+            225
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2023-02-24T00:00:00.000000Z"
+        },
+        "id": 27229,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE045-UR-d3194d25a1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "045",
+        "card": {
+          "name": "Traptrix Allomerus",
+          "nameEn": "Traptrix Allomerus",
+          "nameOriginal": null,
+          "slug": "traptrix-allomerus",
+          "archetypeIds": [
+            225
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2023-02-24T00:00:00.000000Z"
+        },
+        "id": 27804,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SDBT/SDBT-EN040-13aeae1c8f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "046",
+        "card": {
+          "name": "Accesscode Talker",
+          "nameEn": "Accesscode Talker",
+          "nameOriginal": null,
+          "slug": "accesscode-talker",
+          "archetypeIds": [
+            34,
+            930
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2026-01-23T00:00:00.000000Z"
+        },
+        "id": 27031,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE046-1d52b03a74",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "047",
+        "card": {
+          "name": "Proxy F Magician",
+          "nameEn": "Proxy F Magician",
+          "nameOriginal": null,
+          "slug": "proxy-f-magician",
+          "archetypeIds": [
+            930
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2024-06-21T00:00:00.000000Z"
+        },
+        "id": 27032,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE047-c3727b9e6c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "048",
+        "card": {
+          "name": "Splash Mage",
+          "nameEn": "Splash Mage",
+          "nameOriginal": null,
+          "slug": "splash-mage",
+          "archetypeIds": [
+            930
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 27033,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE048-c7b8e9cad6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "049",
+        "card": {
+          "name": "Linkross",
+          "nameEn": "Linkross",
+          "nameOriginal": null,
+          "slug": "linkross",
+          "archetypeIds": [
+            930
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27034,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE049-32ddf7bd20",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "050",
+        "card": {
+          "name": "The Arrival Cyberse @Ignister",
+          "nameEn": "The Arrival Cyberse @Ignister",
+          "nameOriginal": null,
+          "slug": "the-arrival-cyberse-ignister",
+          "archetypeIds": [
+            264,
+            254,
+            867
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2025-08-17T00:00:00.000000Z"
+        },
+        "id": 27035,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE050-5f6be99a64",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "051",
+        "card": {
+          "name": "Codebreaker Virus Berserker",
+          "nameEn": "Codebreaker Virus Berserker",
+          "nameOriginal": null,
+          "slug": "codebreaker-virus-berserker",
+          "archetypeIds": [
+            272
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27228,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE051-3e3db9cb18",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "052",
+        "card": {
+          "name": "Codebreaker Virus Swordsman",
+          "nameEn": "Codebreaker Virus Swordsman",
+          "nameOriginal": null,
+          "slug": "codebreaker-virus-swordsman",
+          "archetypeIds": [
+            272
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27262,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE052-09670ff42a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "053",
+        "card": {
+          "name": "Gouki The Powerload Ogre",
+          "nameEn": "Gouki The Powerload Ogre",
+          "nameOriginal": null,
+          "slug": "gouki-the-powerload-ogre",
+          "archetypeIds": [
+            97,
+            914
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27285,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE053-040eb52142",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "054",
+        "card": {
+          "name": "Marincess Great Bubble Reef",
+          "nameEn": "Marincess Great Bubble Reef",
+          "nameOriginal": null,
+          "slug": "marincess-great-bubble-reef",
+          "archetypeIds": [
+            142,
+            814
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27286,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE054-80ef2bdc2a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "055",
+        "card": {
+          "name": "Eria the Water Charmer, Gentle",
+          "nameEn": "Eria the Water Charmer, Gentle",
+          "nameOriginal": null,
+          "slug": "eria-the-water-charmer-gentle",
+          "archetypeIds": [
+            28
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2026-01-23T00:00:00.000000Z"
+        },
+        "id": 27227,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE055-SR-60ebff9562",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "055",
+        "card": {
+          "name": "Eria the Water Charmer, Gentle",
+          "nameEn": "Eria the Water Charmer, Gentle",
+          "nameOriginal": null,
+          "slug": "eria-the-water-charmer-gentle",
+          "archetypeIds": [
+            28
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2026-01-23T00:00:00.000000Z"
+        },
+        "id": 27805,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CH02/CH02-EN042-66d2a89da2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "056",
+        "card": {
+          "name": "A.I. Contact",
+          "nameEn": "A.I. Contact",
+          "nameOriginal": null,
+          "slug": "ai-contact",
+          "archetypeIds": [
+            867
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27036,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE056-e330d23caa",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "057",
+        "card": {
+          "name": "Burning Draw",
+          "nameEn": "Burning Draw",
+          "nameOriginal": null,
+          "slug": "burning-draw",
+          "archetypeIds": [
+            195,
+            816
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2023-08-11T00:00:00.000000Z"
+        },
+        "id": 27287,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE057-5e3d03d55f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "058",
+        "card": {
+          "name": "Link Burst",
+          "nameEn": "Link Burst",
+          "nameOriginal": null,
+          "slug": "link-burst",
+          "archetypeIds": [
+            872
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27263,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE058-435fcadbad",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "059",
+        "card": {
+          "name": "Stairs of Mail",
+          "nameEn": "Stairs of Mail",
+          "nameOriginal": null,
+          "slug": "stairs-of-mail",
+          "archetypeIds": [
+            223
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27288,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE059-285d8b4576",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "060",
+        "card": {
+          "name": "Nemeses Adrastea",
+          "nameEn": "Nemeses Adrastea",
+          "nameOriginal": null,
+          "slug": "nemeses-adrastea",
+          "archetypeIds": [
+            273
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27268,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE060-fde5f7e6e1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "061",
+        "card": {
+          "name": "Deep Sea Aria",
+          "nameEn": "Deep Sea Aria",
+          "nameOriginal": null,
+          "slug": "deep-sea-aria",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27226,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE061-3f0adba720",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "062",
+        "card": {
+          "name": "Resonator Command",
+          "nameEn": "Resonator Command",
+          "nameOriginal": null,
+          "slug": "resonator-command",
+          "archetypeIds": [
+            190,
+            927
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2023-09-22T00:00:00.000000Z"
+        },
+        "id": 27235,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE062-9eeb698393",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "063",
+        "card": {
+          "name": "Torpedo Takedown",
+          "nameEn": "Torpedo Takedown",
+          "nameOriginal": null,
+          "slug": "torpedo-takedown",
+          "archetypeIds": [
+            813
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27240,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE063-91d50bf087",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "064",
+        "card": {
+          "name": "Madolche Salon",
+          "nameEn": "Madolche Salon",
+          "nameOriginal": null,
+          "slug": "madolche-salon",
+          "archetypeIds": [
+            135
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2024-11-08T00:00:00.000000Z"
+        },
+        "id": 27289,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE064-a5658e955a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "065",
+        "card": {
+          "name": "Void Apocalypse",
+          "nameEn": "Void Apocalypse",
+          "nameOriginal": null,
+          "slug": "void-apocalypse",
+          "archetypeIds": [
+            112
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27250,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE065-a68b0950d2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "066",
+        "card": {
+          "name": "Heavy Forward",
+          "nameEn": "Heavy Forward",
+          "nameOriginal": null,
+          "slug": "heavy-forward",
+          "archetypeIds": [
+            113
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27290,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE066-6ce715b4a9",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "067",
+        "card": {
+          "name": "Witchcrafter Unveiling",
+          "nameEn": "Witchcrafter Unveiling",
+          "nameOriginal": null,
+          "slug": "witchcrafter-unveiling",
+          "archetypeIds": [
+            242
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27273,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE067-0b316de2ae",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "068",
+        "card": {
+          "name": "Evil Eye Reemergence",
+          "nameEn": "Evil Eye Reemergence",
+          "nameOriginal": null,
+          "slug": "evil-eye-reemergence",
+          "archetypeIds": [
+            66
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27270,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE068-722560b70c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "069",
+        "card": {
+          "name": "Ancient Warriors Saga - Borrowing of Arrows",
+          "nameEn": "Ancient Warriors Saga - Borrowing of Arrows",
+          "nameOriginal": null,
+          "slug": "ancient-warriors-saga-borrowing-of-arrows",
+          "archetypeIds": [
+            265
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27221,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE069-eb93a6a77e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "070",
+        "card": {
+          "name": "Megalith Unformed",
+          "nameEn": "Megalith Unformed",
+          "nameOriginal": null,
+          "slug": "megalith-unformed",
+          "archetypeIds": [
+            266
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27271,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE070-b52faaaa9c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "071",
+        "card": {
+          "name": "Fusion Deployment",
+          "nameEn": "Fusion Deployment",
+          "nameOriginal": null,
+          "slug": "fusion-deployment",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2025-10-24T00:00:00.000000Z"
+        },
+        "id": 27253,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE071-b683540f4a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "072",
+        "card": {
+          "name": "Flourishing Frolic",
+          "nameEn": "Flourishing Frolic",
+          "nameOriginal": null,
+          "slug": "flourishing-frolic",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27246,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE072-4f538dc4f3",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "073",
+        "card": {
+          "name": "A.I.Q",
+          "nameEn": "A.I.Q",
+          "nameOriginal": null,
+          "slug": "aiq",
+          "archetypeIds": [
+            264,
+            867
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27037,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE073-55861c1e9d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "074",
+        "card": {
+          "name": "Red Reign",
+          "nameEn": "Red Reign",
+          "nameOriginal": null,
+          "slug": "red-reign",
+          "archetypeIds": [
+            927
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2023-09-22T00:00:00.000000Z"
+        },
+        "id": 27236,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE074-4f05bd2fd7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "075",
+        "card": {
+          "name": "Xyz Revive Splash",
+          "nameEn": "Xyz Revive Splash",
+          "nameOriginal": null,
+          "slug": "xyz-revive-splash",
+          "archetypeIds": [
+            813
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27241,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE075-66ac16601b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "076",
+        "card": {
+          "name": "Madolche Promenade",
+          "nameEn": "Madolche Promenade",
+          "nameOriginal": null,
+          "slug": "madolche-promenade",
+          "archetypeIds": [
+            135
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27254,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE076-3c55e37c36",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "077",
+        "card": {
+          "name": "Witchcrafter Patronus",
+          "nameEn": "Witchcrafter Patronus",
+          "nameOriginal": null,
+          "slug": "witchcrafter-patronus",
+          "archetypeIds": [
+            242
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27291,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE077-4e964e4edc",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "078",
+        "card": {
+          "name": "Gravedigger's Trap Hole",
+          "nameEn": "Gravedigger's Trap Hole",
+          "nameOriginal": null,
+          "slug": "gravediggers-trap-hole",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2023-02-24T00:00:00.000000Z"
+        },
+        "id": 27251,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE078-45093ed87a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "079",
+        "card": {
+          "name": "Titanocider",
+          "nameEn": "Titanocider",
+          "nameOriginal": null,
+          "slug": "titanocider",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27292,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE079-17e76a7a5d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "080",
+        "card": {
+          "name": "Pinpoint Dash",
+          "nameEn": "Pinpoint Dash",
+          "nameOriginal": null,
+          "slug": "pinpoint-dash",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27293,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE080-baf707f3bf",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "081",
+        "card": {
+          "name": "Rose Girl",
+          "nameEn": "Rose Girl",
+          "nameOriginal": null,
+          "slug": "rose-girl",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2025-11-21T00:00:00.000000Z"
+        },
+        "id": 27789,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE081-a10423491f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "082",
+        "card": {
+          "name": "Scrypton",
+          "nameEn": "Scrypton",
+          "nameOriginal": null,
+          "slug": "scrypton",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27782,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE082-beaf9b4e3e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "083",
+        "card": {
+          "name": "Taotie Dragon",
+          "nameEn": "Taotie Dragon",
+          "nameOriginal": null,
+          "slug": "taotie-dragon",
+          "archetypeIds": [],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27790,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE083-57c50e979f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "084",
+        "card": {
+          "name": "Necroquip Prism",
+          "nameEn": "Necroquip Prism",
+          "nameOriginal": null,
+          "slug": "necroquip-prism",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27780,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE084-416bdcfa27",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "085",
+        "card": {
+          "name": "Bluebeard, the Plunder Patroll Shipwright",
+          "nameEn": "Bluebeard, the Plunder Patroll Shipwright",
+          "nameOriginal": null,
+          "slug": "bluebeard-the-plunder-patroll-shipwright",
+          "archetypeIds": [
+            275
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2022-05-06T00:00:00.000000Z"
+        },
+        "id": 27784,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE085-17490d345e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "086",
+        "card": {
+          "name": "Goldenhair, the Newest Plunder Patroll",
+          "nameEn": "Goldenhair, the Newest Plunder Patroll",
+          "nameOriginal": null,
+          "slug": "goldenhair-the-newest-plunder-patroll",
+          "archetypeIds": [
+            275
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2022-05-06T00:00:00.000000Z"
+        },
+        "id": 27779,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE086-3d17d68141",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "087",
+        "card": {
+          "name": "Plunder Patrollship Lys",
+          "nameEn": "Plunder Patrollship Lys",
+          "nameOriginal": null,
+          "slug": "plunder-patrollship-lys",
+          "archetypeIds": [
+            275
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2022-05-06T00:00:00.000000Z"
+        },
+        "id": 27791,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE087-68f5bdb8b8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "088",
+        "card": {
+          "name": "Plunder Patroll Shipshape Ships Shipping",
+          "nameEn": "Plunder Patroll Shipshape Ships Shipping",
+          "nameOriginal": null,
+          "slug": "plunder-patroll-shipshape-ships-shipping",
+          "archetypeIds": [
+            275
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27785,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE088-9f02309a34",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "089",
+        "card": {
+          "name": "Emblem of the Plunder Patroll",
+          "nameEn": "Emblem of the Plunder Patroll",
+          "nameOriginal": null,
+          "slug": "emblem-of-the-plunder-patroll",
+          "archetypeIds": [
+            275
+          ],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2022-11-18T00:00:00.000000Z"
+        },
+        "id": 27792,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE089-e7832ba125",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "090",
+        "card": {
+          "name": "Pride of the Plunder Patroll",
+          "nameEn": "Pride of the Plunder Patroll",
+          "nameOriginal": null,
+          "slug": "pride-of-the-plunder-patroll",
+          "archetypeIds": [
+            275
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27778,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE090-18f750b37b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "091",
+        "card": {
+          "name": "Plunder Patroll Parrrty",
+          "nameEn": "Plunder Patroll Parrrty",
+          "nameOriginal": null,
+          "slug": "plunder-patroll-parrrty",
+          "archetypeIds": [
+            275
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27781,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE091-9f2849e7e6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "092",
+        "card": {
+          "name": "Superheavy Samurai Wagon",
+          "nameEn": "Superheavy Samurai Wagon",
+          "nameOriginal": null,
+          "slug": "superheavy-samurai-wagon",
+          "archetypeIds": [
+            211
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27775,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE092-34612ea60d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "093",
+        "card": {
+          "name": "Rain Bozu",
+          "nameEn": "Rain Bozu",
+          "nameOriginal": null,
+          "slug": "rain-bozu",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27777,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE093-ec5f9eb62f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "094",
+        "card": {
+          "name": "Performapal Turn Trooper",
+          "nameEn": "Performapal Turn Trooper",
+          "nameOriginal": null,
+          "slug": "performapal-turn-trooper",
+          "archetypeIds": [
+            176,
+            929
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27773,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE094-f94b885863",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "095",
+        "card": {
+          "name": "Armored Bitron",
+          "nameEn": "Armored Bitron",
+          "nameOriginal": null,
+          "slug": "armored-bitron",
+          "archetypeIds": [
+            930
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2020-06-05T00:00:00.000000Z"
+        },
+        "id": 27793,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE095-2f793a6c6e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "096",
+        "card": {
+          "name": "Gussari @Ignister",
+          "nameEn": "Gussari @Ignister",
+          "nameOriginal": null,
+          "slug": "gussari-ignister",
+          "archetypeIds": [
+            264,
+            867
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27772,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE096-197292d511",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "097",
+        "card": {
+          "name": "Gatchiri @Ignister",
+          "nameEn": "Gatchiri @Ignister",
+          "nameOriginal": null,
+          "slug": "gatchiri-ignister",
+          "archetypeIds": [
+            264,
+            867
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27774,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE097-d120de5865",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "098",
+        "card": {
+          "name": "Machina Metalcruncher",
+          "nameEn": "Machina Metalcruncher",
+          "nameOriginal": null,
+          "slug": "machina-metalcruncher",
+          "archetypeIds": [
+            134
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27770,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE098-ee0ab7aa0e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "099",
+        "card": {
+          "name": "Superheavy Samurai Swordmaster Musashi",
+          "nameEn": "Superheavy Samurai Swordmaster Musashi",
+          "nameOriginal": null,
+          "slug": "superheavy-samurai-swordmaster-musashi",
+          "archetypeIds": [
+            211
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-04-30T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 27776,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ETCO/ETCO-DE099-26640abc02",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "100",
+        "card": {
+          "name": "Effect Veiler",
+          "nameEn": "Effect Veiler",
+          "nameOriginal": null,
+          "slug": "effect-veiler",
+          "archetypeIds": [
+            799
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2010-08-12T00:00:00.000000Z",
+          "lastPrint": "2025-11-21T00:00:00.000000Z"
+        },
+        "id": 27801,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/L5DD/L5DD-ENY16-3237550faf",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      }
+    ],
+    "printsCount": null,
+    "releaseEu": "2020-04-30T00:00:00.000000Z",
+    "releaseEuDayUnknown": false,
+    "releaseEuMonthUnknown": false,
+    "releaseNa": "2020-06-05T00:00:00.000000Z",
+    "releaseNaDayUnknown": false,
+    "releaseNaMonthUnknown": false,
+    "tournamentLegal": null,
+    "setNumber": "ETCO",
+    "slug": "eternity-code",
+    "scanCounts": {
+      "en": 0,
+      "de": 101
+    }
+  }
+}

@@ -1,0 +1,3500 @@
+{
+  "data": {
+    "archetypes": [
+      {
+        "id": 212,
+        "name": "Sylvan",
+        "slug": "sylvan",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP15/MP15-DE028-f1544dcfdf",
+        "isFirstPrint": true
+      },
+      {
+        "id": 59,
+        "name": "Duston",
+        "slug": "duston",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MACR/MACR-DE080-e27603c654",
+        "isFirstPrint": false
+      },
+      {
+        "id": 232,
+        "name": "Utopia",
+        "slug": "utopia",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/KICO/KICO-EN042-R-17174ed439",
+        "isFirstPrint": false
+      },
+      {
+        "id": 251,
+        "name": "ZW -",
+        "slug": "zw",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP22/MP22-DE082-99fd86e43c",
+        "isFirstPrint": false
+      },
+      {
+        "id": 919,
+        "name": "Yuma Tsukumo | Astral",
+        "slug": "yuma-tsukumo-astral",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/DUPO/DUPO-DE010-5374889f7b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 126,
+        "name": "Kuriboh",
+        "slug": "kuriboh",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BROL/BROL-EN006-782252cb5b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 931,
+        "name": "Kite Tenjo",
+        "slug": "kite-tenjo",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LDS2/LDS2-EN056-41693bfd03",
+        "isFirstPrint": false
+      },
+      {
+        "id": 178,
+        "name": "Photon",
+        "slug": "photon",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MAZE/MAZE-EN046-R-920567c422",
+        "isFirstPrint": false
+      },
+      {
+        "id": 30,
+        "name": "Chronomaly",
+        "slug": "chronomaly",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DAMA/DAMA-EN044-7805317dff",
+        "isFirstPrint": false
+      },
+      {
+        "id": 374,
+        "name": "Sphinx",
+        "slug": "sphinx",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LIOV/LIOV-EN024-049e6c329d",
+        "isFirstPrint": false
+      },
+      {
+        "id": 96,
+        "name": "Gorgonic",
+        "slug": "gorgonic",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE051-3cb080f50d",
+        "isFirstPrint": true
+      },
+      {
+        "id": 907,
+        "name": "Rio Kastle | Marin",
+        "slug": "rio-kastle-marin",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE043-5214a5c359",
+        "isFirstPrint": false
+      },
+      {
+        "id": 91,
+        "name": "Ghostrick",
+        "slug": "ghostrick",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BACH/BACH-EN047-6872b16082",
+        "isFirstPrint": false
+      },
+      {
+        "id": 24,
+        "name": "Bujin",
+        "slug": "bujin",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LIOV/LIOV-DE013-b9ed3919b0",
+        "isFirstPrint": false
+      },
+      {
+        "id": 99,
+        "name": "Gravekeeper's",
+        "slug": "gravekeepers",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP19/MP19-DE181-ffd72679e9",
+        "isFirstPrint": false
+      },
+      {
+        "id": 565,
+        "name": "Mystical Beast of the Forest",
+        "slug": "mystical-beast-of-the-forest",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DAMA/DAMA-EN022-3f44a79e7f",
+        "isFirstPrint": false
+      },
+      {
+        "id": 541,
+        "name": "Spirit",
+        "slug": "spirit",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/BLMR/BLMR-EN070-94a16c67df",
+        "isFirstPrint": false
+      },
+      {
+        "id": 510,
+        "name": "Monarch",
+        "slug": "monarch",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/RA04/RA04-DE018-SR-2a2db7dae9",
+        "isFirstPrint": false
+      },
+      {
+        "id": 823,
+        "name": "Sylvio Sawatari",
+        "slug": "sylvio-sawatari",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/RIRA/RIRA-DE009-998276661e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 174,
+        "name": "Number",
+        "slug": "number",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA01/RA01-EN039-SCR-2587bc13cc",
+        "isFirstPrint": false
+      },
+      {
+        "id": 813,
+        "name": "Reginald \"Shark\" Kastle | Nash",
+        "slug": "reginald-shark-kastle-nash",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LED9/LED9-EN005-f4211008d2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 101,
+        "name": "Guardian",
+        "slug": "guardian",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DLCS/DLCS-DE011-2fdd1f4b05",
+        "isFirstPrint": false
+      },
+      {
+        "id": 452,
+        "name": "lswarm",
+        "slug": "lswarm",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DUSA/DUSA-EN090-09a568e8c8",
+        "isFirstPrint": false
+      },
+      {
+        "id": 187,
+        "name": "Rank-Up-Magic",
+        "slug": "rank-up-magic",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/JOTL/JOTL-DE059-UR-55bc39d1e9",
+        "isFirstPrint": false
+      },
+      {
+        "id": 410,
+        "name": "Numeron",
+        "slug": "numeron",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MGED/MGED-EN087-acb059f8ae",
+        "isFirstPrint": false
+      },
+      {
+        "id": 53,
+        "name": "Dododo",
+        "slug": "dododo",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DUAD/DUAD-DE004-UR-103717da07",
+        "isFirstPrint": false
+      },
+      {
+        "id": 86,
+        "name": "Gagaga",
+        "slug": "gagaga",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LDS3/LDS3-DE127-27f2c7fdba",
+        "isFirstPrint": false
+      },
+      {
+        "id": 95,
+        "name": "Gogogo",
+        "slug": "gogogo",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DUAD/DUAD-DE003-b754ec740a",
+        "isFirstPrint": false
+      },
+      {
+        "id": 250,
+        "name": "Zubaba",
+        "slug": "zubaba",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DUAD/DUAD-DE001-f86df3cbf4",
+        "isFirstPrint": false
+      },
+      {
+        "id": 350,
+        "name": "Onomat",
+        "slug": "onomat",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLMM/BLMM-EN163-65fc03a022",
+        "isFirstPrint": true
+      },
+      {
+        "id": 163,
+        "name": "Noble Knight",
+        "slug": "noble-knight",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/AMDE/AMDE-EN052-SR-4f792c124c",
+        "isFirstPrint": false
+      },
+      {
+        "id": 387,
+        "name": "Trap Monster",
+        "slug": "trap-monster",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/CH02/CH02-EN040-bd5fa12877",
+        "isFirstPrint": false
+      },
+      {
+        "id": 783,
+        "name": "Akiza Izinski",
+        "slug": "akiza-izinski",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/DOOD/DOOD-DE039-SCR-f7e2fb6a7b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 799,
+        "name": "Yusei Fudo",
+        "slug": "yusei-fudo",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/OP16/OP16-DE025-784a52b541",
+        "isFirstPrint": false
+      },
+      {
+        "id": 894,
+        "name": "Eviluder",
+        "slug": "eviluder",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE092-18a224813d",
+        "isFirstPrint": true
+      }
+    ],
+    "archetypesReprint": [],
+    "category": {
+      "name": "Series 8",
+      "slug": "series-8",
+      "sets": [
+        {
+          "image": null,
+          "format": 1,
+          "name": "Primal Origin",
+          "releaseEu": "2014-05-15T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2014-05-16T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "PRIO",
+          "slug": "primal-origin",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Legacy of the Valiant",
+          "releaseEu": "2014-01-23T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2014-01-24T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "LVAL",
+          "slug": "legacy-of-the-valiant",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Shadow Specters",
+          "releaseEu": "2013-11-07T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2013-11-08T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "SHSP",
+          "slug": "shadow-specters",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Judgment of the Light",
+          "releaseEu": "2013-08-08T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2013-08-09T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "JOTL",
+          "slug": "judgment-of-the-light",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Lord of the Tachyon Galaxy",
+          "releaseEu": "2013-05-16T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2013-05-17T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "LTGY",
+          "slug": "lord-of-the-tachyon-galaxy",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Cosmo Blazer",
+          "releaseEu": "2013-01-24T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2013-01-25T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CBLZ",
+          "slug": "cosmo-blazer",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Abyss Rising",
+          "releaseEu": "2012-11-09T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2012-11-09T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "ABYR",
+          "slug": "abyss-rising",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Return of the Duelist",
+          "releaseEu": "2012-08-23T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2012-08-28T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "REDU",
+          "slug": "return-of-the-duelist",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        }
+      ],
+      "setsCount": 8,
+      "format": 1,
+      "parent": {
+        "name": "Core Boosters",
+        "slug": "core-boosters",
+        "setsCount": 102,
+        "format": 1,
+        "parent": {
+          "name": "Booster Packs",
+          "slug": "booster-packs",
+          "setsCount": 326,
+          "format": 1,
+          "parent": null
+        }
+      }
+    },
+    "disableSetList": false,
+    "format": 1,
+    "game": 1,
+    "id": 119,
+    "image": null,
+    "languages": [
+      {
+        "id": 807,
+        "language": "de",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 808,
+        "language": "en",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 809,
+        "language": "fr",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 810,
+        "language": "it",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 811,
+        "language": "pt",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 812,
+        "language": "es",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      }
+    ],
+    "name": "Legacy of the Valiant",
+    "next": {
+      "name": "Primal Origin",
+      "setNumber": "PRIO",
+      "slug": "primal-origin",
+      "format": 1,
+      "releaseEu": "2014-05-15T00:00:00.000000Z",
+      "releaseNa": "2014-05-16T00:00:00.000000Z"
+    },
+    "previous": {
+      "name": "Shadow Specters",
+      "setNumber": "SHSP",
+      "slug": "shadow-specters",
+      "format": 1,
+      "releaseEu": "2013-11-07T00:00:00.000000Z",
+      "releaseNa": "2013-11-08T00:00:00.000000Z"
+    },
+    "prints": [
+      {
+        "cardNumber": "000",
+        "card": {
+          "name": "Sylvan Bladefender",
+          "nameEn": "Sylvan Bladefender",
+          "nameOriginal": null,
+          "slug": "sylvan-bladefender",
+          "archetypeIds": [
+            212
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9046,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MP14/MP14-EN186-673334125f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "001",
+        "card": {
+          "name": "White Duston",
+          "nameEn": "White Duston",
+          "nameOriginal": null,
+          "slug": "white-duston",
+          "archetypeIds": [
+            59
+          ],
+          "cardTypeOrder": "13",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9047,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE001-571e3014d0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "002",
+        "card": {
+          "name": "ZW - Asura Strike",
+          "nameEn": "ZW - Asura Strike",
+          "nameOriginal": null,
+          "slug": "zw-asura-strike",
+          "archetypeIds": [
+            232,
+            251,
+            919
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9048,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE002-690696964d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "003",
+        "card": {
+          "name": "Gillagillancer",
+          "nameEn": "Gillagillancer",
+          "nameOriginal": null,
+          "slug": "gillagillancer",
+          "archetypeIds": [
+            919
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9049,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE003-fe660f4786",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "004",
+        "card": {
+          "name": "Rainbow Kuriboh",
+          "nameEn": "Rainbow Kuriboh",
+          "nameOriginal": null,
+          "slug": "rainbow-kuriboh",
+          "archetypeIds": [
+            126,
+            919
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2019-09-27T00:00:00.000000Z"
+        },
+        "id": 9050,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/AC19/AC19-DE010-1531168667",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "005",
+        "card": {
+          "name": "Overlay Sentinel",
+          "nameEn": "Overlay Sentinel",
+          "nameOriginal": null,
+          "slug": "overlay-sentinel",
+          "archetypeIds": [
+            931
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9051,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE005-d53729baa3",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "006",
+        "card": {
+          "name": "Overlay Booster",
+          "nameEn": "Overlay Booster",
+          "nameOriginal": null,
+          "slug": "overlay-booster",
+          "archetypeIds": [
+            931
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2025-08-01T00:00:00.000000Z"
+        },
+        "id": 9052,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE006-e8487f562c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "007",
+        "card": {
+          "name": "Photon Chargeman",
+          "nameEn": "Photon Chargeman",
+          "nameOriginal": null,
+          "slug": "photon-chargeman",
+          "archetypeIds": [
+            178,
+            931
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9053,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE007-554e1932a7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "008",
+        "card": {
+          "name": "Chronomaly Moai Carrier",
+          "nameEn": "Chronomaly Moai Carrier",
+          "nameOriginal": null,
+          "slug": "chronomaly-moai-carrier",
+          "archetypeIds": [
+            30
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9054,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE008-2b97fdf5d8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "009",
+        "card": {
+          "name": "Chronomaly Winged Sphinx",
+          "nameEn": "Chronomaly Winged Sphinx",
+          "nameOriginal": null,
+          "slug": "chronomaly-winged-sphinx",
+          "archetypeIds": [
+            30,
+            374
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9055,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE009-3d3a128be4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "010",
+        "card": {
+          "name": "Deep-Space Cruiser IX",
+          "nameEn": "Deep-Space Cruiser IX",
+          "nameOriginal": null,
+          "slug": "deep-space-cruiser-ix",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9056,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE010-0b040ecd9e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "011",
+        "card": {
+          "name": "Gorgonic Golem",
+          "nameEn": "Gorgonic Golem",
+          "nameOriginal": null,
+          "slug": "gorgonic-golem",
+          "archetypeIds": [
+            96,
+            907
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9057,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE011-f37e872921",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "012",
+        "card": {
+          "name": "Gorgonic Gargoyle",
+          "nameEn": "Gorgonic Gargoyle",
+          "nameOriginal": null,
+          "slug": "gorgonic-gargoyle",
+          "archetypeIds": [
+            96,
+            907
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9058,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE012-172d1cf8ae",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "013",
+        "card": {
+          "name": "Gorgonic Ghoul",
+          "nameEn": "Gorgonic Ghoul",
+          "nameOriginal": null,
+          "slug": "gorgonic-ghoul",
+          "archetypeIds": [
+            96
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9059,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE013-f772b4968a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "014",
+        "card": {
+          "name": "Gorgonic Cerberus",
+          "nameEn": "Gorgonic Cerberus",
+          "nameOriginal": null,
+          "slug": "gorgonic-cerberus",
+          "archetypeIds": [
+            96
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9060,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE014-983926d83a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "015",
+        "card": {
+          "name": "Sylvan Peaskeeper",
+          "nameEn": "Sylvan Peaskeeper",
+          "nameOriginal": null,
+          "slug": "sylvan-peaskeeper",
+          "archetypeIds": [
+            212
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9061,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE015-153eeb0c2c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "016",
+        "card": {
+          "name": "Sylvan Komushroomo",
+          "nameEn": "Sylvan Komushroomo",
+          "nameOriginal": null,
+          "slug": "sylvan-komushroomo",
+          "archetypeIds": [
+            212
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9062,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE016-acd8c29ea2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "017",
+        "card": {
+          "name": "Sylvan Marshalleaf",
+          "nameEn": "Sylvan Marshalleaf",
+          "nameOriginal": null,
+          "slug": "sylvan-marshalleaf",
+          "archetypeIds": [
+            212
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9063,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE017-dff817bbe2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "018",
+        "card": {
+          "name": "Sylvan Flowerknight",
+          "nameEn": "Sylvan Flowerknight",
+          "nameOriginal": null,
+          "slug": "sylvan-flowerknight",
+          "archetypeIds": [
+            212
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9064,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE018-5f84ec65f4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "019",
+        "card": {
+          "name": "Sylvan Guardioak",
+          "nameEn": "Sylvan Guardioak",
+          "nameOriginal": null,
+          "slug": "sylvan-guardioak",
+          "archetypeIds": [
+            212
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9065,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE019-bdb9f59a6f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "020",
+        "card": {
+          "name": "Sylvan Hermitree",
+          "nameEn": "Sylvan Hermitree",
+          "nameOriginal": null,
+          "slug": "sylvan-hermitree",
+          "archetypeIds": [
+            212
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9066,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": null,
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "021",
+        "card": {
+          "name": "Ghostrick Jackfrost",
+          "nameEn": "Ghostrick Jackfrost",
+          "nameOriginal": null,
+          "slug": "ghostrick-jackfrost",
+          "archetypeIds": [
+            91
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2018-11-02T00:00:00.000000Z"
+        },
+        "id": 9067,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE021-c518439a8b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "022",
+        "card": {
+          "name": "Ghostrick Mary",
+          "nameEn": "Ghostrick Mary",
+          "nameOriginal": null,
+          "slug": "ghostrick-mary",
+          "archetypeIds": [
+            91
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2022-05-06T00:00:00.000000Z"
+        },
+        "id": 9068,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE022-4614ea4069",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "023",
+        "card": {
+          "name": "Ghostrick Nekomusume",
+          "nameEn": "Ghostrick Nekomusume",
+          "nameOriginal": null,
+          "slug": "ghostrick-nekomusume",
+          "archetypeIds": [
+            91
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9069,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE023-26ed0fb2a7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "024",
+        "card": {
+          "name": "Ghostrick Skeleton",
+          "nameEn": "Ghostrick Skeleton",
+          "nameOriginal": null,
+          "slug": "ghostrick-skeleton",
+          "archetypeIds": [
+            91
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9070,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE024-9e81b3755e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "025",
+        "card": {
+          "name": "Ghostrick Mummy",
+          "nameEn": "Ghostrick Mummy",
+          "nameOriginal": null,
+          "slug": "ghostrick-mummy",
+          "archetypeIds": [
+            91
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2022-05-06T00:00:00.000000Z"
+        },
+        "id": 9071,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE025-85cad53341",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "026",
+        "card": {
+          "name": "Bujin Arasuda",
+          "nameEn": "Bujin Arasuda",
+          "nameOriginal": null,
+          "slug": "bujin-arasuda",
+          "archetypeIds": [
+            24
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9072,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE026-a29542db2d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "027",
+        "card": {
+          "name": "Bujingi Peacock",
+          "nameEn": "Bujingi Peacock",
+          "nameOriginal": null,
+          "slug": "bujingi-peacock",
+          "archetypeIds": [
+            24
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9073,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE027-8d7e82ed24",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "028",
+        "card": {
+          "name": "Bujingi Swallow",
+          "nameEn": "Bujingi Swallow",
+          "nameOriginal": null,
+          "slug": "bujingi-swallow",
+          "archetypeIds": [
+            24
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9074,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE028-db3558448f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "029",
+        "card": {
+          "name": "Bujingi Fox",
+          "nameEn": "Bujingi Fox",
+          "nameOriginal": null,
+          "slug": "bujingi-fox",
+          "archetypeIds": [
+            24
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9075,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE029-f2d3f3b605",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "030",
+        "card": {
+          "name": "Bujingi Hare",
+          "nameEn": "Bujingi Hare",
+          "nameOriginal": null,
+          "slug": "bujingi-hare",
+          "archetypeIds": [
+            24
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9076,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE030-aaac5f48f7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "031",
+        "card": {
+          "name": "Gravekeeper's Nobleman",
+          "nameEn": "Gravekeeper's Nobleman",
+          "nameOriginal": null,
+          "slug": "gravekeepers-nobleman",
+          "archetypeIds": [
+            99
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9077,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE031-0a2464f47e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "032",
+        "card": {
+          "name": "Gravekeeper's Ambusher",
+          "nameEn": "Gravekeeper's Ambusher",
+          "nameOriginal": null,
+          "slug": "gravekeepers-ambusher",
+          "archetypeIds": [
+            99
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2019-03-29T00:00:00.000000Z"
+        },
+        "id": 9078,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE032-6d184a9615",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "033",
+        "card": {
+          "name": "Gravekeeper's Shaman",
+          "nameEn": "Gravekeeper's Shaman",
+          "nameOriginal": null,
+          "slug": "gravekeepers-shaman",
+          "archetypeIds": [
+            99
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2019-01-25T00:00:00.000000Z"
+        },
+        "id": 9079,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SS01/SS01-DEB09-5a8b8cc685",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "034",
+        "card": {
+          "name": "Gravekeeper's Oracle",
+          "nameEn": "Gravekeeper's Oracle",
+          "nameOriginal": null,
+          "slug": "gravekeepers-oracle",
+          "archetypeIds": [
+            99
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": null
+        },
+        "id": 9080,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SS01/SS01-DEB10-de3dbe2c44",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "035",
+        "card": {
+          "name": "Mystic Macrocarpa Seed",
+          "nameEn": "Mystic Macrocarpa Seed",
+          "nameOriginal": null,
+          "slug": "mystic-macrocarpa-seed",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9081,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE035-f8b0938f2b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "036",
+        "card": {
+          "name": "Kalantosa, Mystical Beast of the Forest",
+          "nameEn": "Kalantosa, Mystical Beast of the Forest",
+          "nameOriginal": null,
+          "slug": "kalantosa-mystical-beast-of-the-forest",
+          "archetypeIds": [
+            565
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2024-02-23T00:00:00.000000Z"
+        },
+        "id": 9082,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE036-7945c5bc80",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "037",
+        "card": {
+          "name": "Nikitama",
+          "nameEn": "Nikitama",
+          "nameOriginal": null,
+          "slug": "nikitama",
+          "archetypeIds": [
+            541
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9083,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE037-34ab9a14fe",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "038",
+        "card": {
+          "name": "Black Brachios",
+          "nameEn": "Black Brachios",
+          "nameOriginal": null,
+          "slug": "black-brachios",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2022-04-01T00:00:00.000000Z"
+        },
+        "id": 9084,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE038-ef414b26dc",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "039",
+        "card": {
+          "name": "Chirubimé, Princess of Autumn Leaves",
+          "nameEn": "Chirubimé, Princess of Autumn Leaves",
+          "nameOriginal": null,
+          "slug": "chirubim-princess-of-autumn-leaves",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2020-04-16T00:00:00.000000Z"
+        },
+        "id": 9085,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE039-80bfa8469c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "040",
+        "card": {
+          "name": "Mobius the Mega Monarch",
+          "nameEn": "Mobius the Mega Monarch",
+          "nameOriginal": null,
+          "slug": "mobius-the-mega-monarch",
+          "archetypeIds": [
+            510,
+            823
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2015-06-18T00:00:00.000000Z"
+        },
+        "id": 9086,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE040-0c739e5a99",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "040",
+        "card": {
+          "name": "Mobius the Mega Monarch",
+          "nameEn": "Mobius the Mega Monarch",
+          "nameOriginal": null,
+          "slug": "mobius-the-mega-monarch",
+          "archetypeIds": [
+            510,
+            823
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2015-06-18T00:00:00.000000Z"
+        },
+        "id": 9087,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 8,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-EN040-GHR-a71146f583",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "041",
+        "card": {
+          "name": "Sirenorca",
+          "nameEn": "Sirenorca",
+          "nameOriginal": null,
+          "slug": "sirenorca",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9088,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE041-ce66fe0be1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "042",
+        "card": {
+          "name": "Xyz Avenger",
+          "nameEn": "Xyz Avenger",
+          "nameOriginal": null,
+          "slug": "xyz-avenger",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9089,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE042-3c72c36d3f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "043",
+        "card": {
+          "name": "Tackle Crusader",
+          "nameEn": "Tackle Crusader",
+          "nameOriginal": null,
+          "slug": "tackle-crusader",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2021-04-16T00:00:00.000000Z"
+        },
+        "id": 9090,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE043-9f4a4ce276",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "044",
+        "card": {
+          "name": "Majiosheldon",
+          "nameEn": "Majiosheldon",
+          "nameOriginal": null,
+          "slug": "majiosheldon",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9091,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE044-8495263383",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "045",
+        "card": {
+          "name": "Paladin of Photon Dragon",
+          "nameEn": "Paladin of Photon Dragon",
+          "nameOriginal": null,
+          "slug": "paladin-of-photon-dragon",
+          "archetypeIds": [
+            178,
+            931
+          ],
+          "cardTypeOrder": "14",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9092,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE045-36b68b2848",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "046",
+        "card": {
+          "name": "Number C101: Silent Honor DARK",
+          "nameEn": "Number C101: Silent Honor DARK",
+          "nameOriginal": null,
+          "slug": "number-c101-silent-honor-dark",
+          "archetypeIds": [
+            174,
+            813
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 9093,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE046-UR-2547d8c79f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "046",
+        "card": {
+          "name": "Number C101: Silent Honor DARK",
+          "nameEn": "Number C101: Silent Honor DARK",
+          "nameOriginal": null,
+          "slug": "number-c101-silent-honor-dark",
+          "archetypeIds": [
+            174,
+            813
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 9094,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE046-UMR-e5a1d38934",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "047",
+        "card": {
+          "name": "Number 101: Silent Honor ARK",
+          "nameEn": "Number 101: Silent Honor ARK",
+          "nameOriginal": null,
+          "slug": "number-101-silent-honor-ark",
+          "archetypeIds": [
+            174,
+            813
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 9095,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MAGO/MAGO-DE060-df84a0b55b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "047",
+        "card": {
+          "name": "Number 101: Silent Honor ARK",
+          "nameEn": "Number 101: Silent Honor ARK",
+          "nameOriginal": null,
+          "slug": "number-101-silent-honor-ark",
+          "archetypeIds": [
+            174,
+            813
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 9096,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE047-UMR-f78014d23f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "048",
+        "card": {
+          "name": "Number 39: Utopia Roots",
+          "nameEn": "Number 39: Utopia Roots",
+          "nameOriginal": null,
+          "slug": "number-39-utopia-roots",
+          "archetypeIds": [
+            174,
+            232,
+            919
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9097,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE048-R-a2764dcd87",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "048",
+        "card": {
+          "name": "Number 39: Utopia Roots",
+          "nameEn": "Number 39: Utopia Roots",
+          "nameOriginal": null,
+          "slug": "number-39-utopia-roots",
+          "archetypeIds": [
+            174,
+            232,
+            919
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9098,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE048-R-a2764dcd87",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "049",
+        "card": {
+          "name": "Number C69: Heraldry Crest of Horror",
+          "nameEn": "Number C69: Heraldry Crest of Horror",
+          "nameOriginal": null,
+          "slug": "number-c69-heraldry-crest-of-horror",
+          "archetypeIds": [
+            174
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9099,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE049-e8645bfccf",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "050",
+        "card": {
+          "name": "Number C92: Heart-eartH Chaos Dragon",
+          "nameEn": "Number C92: Heart-eartH Chaos Dragon",
+          "nameOriginal": null,
+          "slug": "number-c92-heart-earth-chaos-dragon",
+          "archetypeIds": [
+            174
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2024-02-23T00:00:00.000000Z"
+        },
+        "id": 9100,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE050-0825967c97",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "051",
+        "card": {
+          "name": "Gorgonic Guardian",
+          "nameEn": "Gorgonic Guardian",
+          "nameOriginal": null,
+          "slug": "gorgonic-guardian",
+          "archetypeIds": [
+            96,
+            101,
+            907
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9101,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE051-3cb080f50d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "052",
+        "card": {
+          "name": "Alsei, the Sylvan High Protector",
+          "nameEn": "Alsei, the Sylvan High Protector",
+          "nameOriginal": null,
+          "slug": "alsei-the-sylvan-high-protector",
+          "archetypeIds": [
+            212
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2023-03-10T00:00:00.000000Z"
+        },
+        "id": 9102,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MAZE/MAZE-EN052-a2d35d5193",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "053",
+        "card": {
+          "name": "Ghostrick Dullahan",
+          "nameEn": "Ghostrick Dullahan",
+          "nameOriginal": null,
+          "slug": "ghostrick-dullahan",
+          "archetypeIds": [
+            91
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2022-05-06T00:00:00.000000Z"
+        },
+        "id": 9103,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE053-2dcfa3ed72",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "054",
+        "card": {
+          "name": "Bujintei Tsukuyomi",
+          "nameEn": "Bujintei Tsukuyomi",
+          "nameOriginal": null,
+          "slug": "bujintei-tsukuyomi",
+          "archetypeIds": [
+            24
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2017-07-07T00:00:00.000000Z"
+        },
+        "id": 9104,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BLLR/BLLR-DE069-3932782572",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "054",
+        "card": {
+          "name": "Bujintei Tsukuyomi",
+          "nameEn": "Bujintei Tsukuyomi",
+          "nameOriginal": null,
+          "slug": "bujintei-tsukuyomi",
+          "archetypeIds": [
+            24
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2017-07-07T00:00:00.000000Z"
+        },
+        "id": 9105,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE054-UMR-a5440f7f08",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "055",
+        "card": {
+          "name": "Fairy Knight Ingunar",
+          "nameEn": "Fairy Knight Ingunar",
+          "nameOriginal": null,
+          "slug": "fairy-knight-ingunar",
+          "archetypeIds": [],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9106,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-EN055-e10c62fadf",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "056",
+        "card": {
+          "name": "Evilswarm Exciton Knight",
+          "nameEn": "Evilswarm Exciton Knight",
+          "nameOriginal": null,
+          "slug": "evilswarm-exciton-knight",
+          "archetypeIds": [
+            452
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 9107,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-EN056-b986a4fcba",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "057",
+        "card": {
+          "name": "Downerd Magician",
+          "nameEn": "Downerd Magician",
+          "nameOriginal": null,
+          "slug": "downerd-magician",
+          "archetypeIds": [],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2023-11-03T00:00:00.000000Z"
+        },
+        "id": 9108,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE057-3672bf9d78",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "058",
+        "card": {
+          "name": "Leo, the Keeper of the Sacred Tree",
+          "nameEn": "Leo, the Keeper of the Sacred Tree",
+          "nameOriginal": null,
+          "slug": "leo-the-keeper-of-the-sacred-tree",
+          "archetypeIds": [],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2018-10-12T00:00:00.000000Z"
+        },
+        "id": 9109,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LEHD/LEHD-DEB33-6894e5007e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "059",
+        "card": {
+          "name": "Rank-Up-Magic Astral Force",
+          "nameEn": "Rank-Up-Magic Astral Force",
+          "nameOriginal": null,
+          "slug": "rank-up-magic-astral-force",
+          "archetypeIds": [
+            187,
+            919
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 9110,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/INCH/INCH-DE044-81c0a31084",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "059",
+        "card": {
+          "name": "Rank-Up-Magic Astral Force",
+          "nameEn": "Rank-Up-Magic Astral Force",
+          "nameOriginal": null,
+          "slug": "rank-up-magic-astral-force",
+          "archetypeIds": [
+            187,
+            919
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 9111,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/INCH/INCH-DE044-81c0a31084",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "060",
+        "card": {
+          "name": "Rank-Down-Magic Numeron Fall",
+          "nameEn": "Rank-Down-Magic Numeron Fall",
+          "nameOriginal": null,
+          "slug": "rank-down-magic-numeron-fall",
+          "archetypeIds": [
+            232,
+            410,
+            919
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9112,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE060-01aa54b6a2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "061",
+        "card": {
+          "name": "Xyz Shift",
+          "nameEn": "Xyz Shift",
+          "nameOriginal": null,
+          "slug": "xyz-shift",
+          "archetypeIds": [
+            919
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9113,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE061-c0fbbf4bd0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "062",
+        "card": {
+          "name": "Luminous Dragon Ritual",
+          "nameEn": "Luminous Dragon Ritual",
+          "nameOriginal": null,
+          "slug": "luminous-dragon-ritual",
+          "archetypeIds": [
+            931
+          ],
+          "cardTypeOrder": "36",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9114,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE062-3cabd2df67",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "063",
+        "card": {
+          "name": "Mount Sylvania",
+          "nameEn": "Mount Sylvania",
+          "nameOriginal": null,
+          "slug": "mount-sylvania",
+          "archetypeIds": [
+            212
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9115,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-EN063-4e9bab7b05",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "064",
+        "card": {
+          "name": "Ghostrick Museum",
+          "nameEn": "Ghostrick Museum",
+          "nameOriginal": null,
+          "slug": "ghostrick-museum",
+          "archetypeIds": [
+            91
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9116,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE064-117efecf70",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "065",
+        "card": {
+          "name": "Bujinunity",
+          "nameEn": "Bujinunity",
+          "nameOriginal": null,
+          "slug": "bujinunity",
+          "archetypeIds": [
+            24
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9117,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE065-ee6d252f1f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "066",
+        "card": {
+          "name": "Hidden Temples of Necrovalley",
+          "nameEn": "Hidden Temples of Necrovalley",
+          "nameOriginal": null,
+          "slug": "hidden-temples-of-necrovalley",
+          "archetypeIds": [
+            99
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2020-11-13T00:00:00.000000Z"
+        },
+        "id": 9118,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE066-aff59d84e0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "067",
+        "card": {
+          "name": "Onomatopaira",
+          "nameEn": "Onomatopaira",
+          "nameOriginal": null,
+          "slug": "onomatopaira",
+          "archetypeIds": [
+            53,
+            86,
+            95,
+            250,
+            350,
+            919
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 9119,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE067-05b27171a8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "068",
+        "card": {
+          "name": "Xyz Override",
+          "nameEn": "Xyz Override",
+          "nameOriginal": null,
+          "slug": "xyz-override",
+          "archetypeIds": [],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9120,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE068-000201c0da",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "069",
+        "card": {
+          "name": "Stand-Off",
+          "nameEn": "Stand-Off",
+          "nameOriginal": null,
+          "slug": "stand-off",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9121,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE069-08661d393e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "070",
+        "card": {
+          "name": "Shared Ride",
+          "nameEn": "Shared Ride",
+          "nameOriginal": null,
+          "slug": "shared-ride",
+          "archetypeIds": [],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2020-11-13T00:00:00.000000Z"
+        },
+        "id": 9122,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE070-2b89ef4bff",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "071",
+        "card": {
+          "name": "Release, Reverse, Burst",
+          "nameEn": "Release, Reverse, Burst",
+          "nameOriginal": null,
+          "slug": "release-reverse-burst",
+          "archetypeIds": [
+            232,
+            919
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9123,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE071-e81df039de",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "072",
+        "card": {
+          "name": "Purge Ray",
+          "nameEn": "Purge Ray",
+          "nameOriginal": null,
+          "slug": "purge-ray",
+          "archetypeIds": [
+            174,
+            919
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9124,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE072-cfed1199cd",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "073",
+        "card": {
+          "name": "Sylvan Blessing",
+          "nameEn": "Sylvan Blessing",
+          "nameOriginal": null,
+          "slug": "sylvan-blessing",
+          "archetypeIds": [
+            212
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9125,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE073-1ab0d32c77",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "074",
+        "card": {
+          "name": "Ghostrick-Go-Round",
+          "nameEn": "Ghostrick-Go-Round",
+          "nameOriginal": null,
+          "slug": "ghostrick-go-round",
+          "archetypeIds": [
+            91
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9126,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE074-27526956a4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "075",
+        "card": {
+          "name": "Bujin Regalia - The Jewel",
+          "nameEn": "Bujin Regalia - The Jewel",
+          "nameOriginal": null,
+          "slug": "bujin-regalia-the-jewel",
+          "archetypeIds": [
+            24
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9127,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE075-2b558d80d2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "076",
+        "card": {
+          "name": "Imperial Tombs of Necrovalley",
+          "nameEn": "Imperial Tombs of Necrovalley",
+          "nameOriginal": null,
+          "slug": "imperial-tombs-of-necrovalley",
+          "archetypeIds": [
+            99
+          ],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2020-11-13T00:00:00.000000Z"
+        },
+        "id": 9128,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE076-c512d78f51",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "077",
+        "card": {
+          "name": "The Monarchs Awaken",
+          "nameEn": "The Monarchs Awaken",
+          "nameOriginal": null,
+          "slug": "the-monarchs-awaken",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2016-01-29T00:00:00.000000Z"
+        },
+        "id": 9129,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE077-b5dba511eb",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "078",
+        "card": {
+          "name": "Skill Prisoner",
+          "nameEn": "Skill Prisoner",
+          "nameOriginal": null,
+          "slug": "skill-prisoner",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9130,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE078-bdda868d56",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "079",
+        "card": {
+          "name": "Oath of Companionship",
+          "nameEn": "Oath of Companionship",
+          "nameOriginal": null,
+          "slug": "oath-of-companionship",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9131,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE079-df55f14816",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "080",
+        "card": {
+          "name": "Duston Roller",
+          "nameEn": "Duston Roller",
+          "nameOriginal": null,
+          "slug": "duston-roller",
+          "archetypeIds": [
+            59
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9132,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE080-414bd23a52",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "081",
+        "card": {
+          "name": "Sylvan Mikorange",
+          "nameEn": "Sylvan Mikorange",
+          "nameOriginal": null,
+          "slug": "sylvan-mikorange",
+          "archetypeIds": [
+            212
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9133,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE081-22a28d4383",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "082",
+        "card": {
+          "name": "Ghostrick Yeti",
+          "nameEn": "Ghostrick Yeti",
+          "nameOriginal": null,
+          "slug": "ghostrick-yeti",
+          "archetypeIds": [
+            91
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2018-11-02T00:00:00.000000Z"
+        },
+        "id": 9134,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE082-be2f95fae1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "083",
+        "card": {
+          "name": "Bujingi Pavo",
+          "nameEn": "Bujingi Pavo",
+          "nameOriginal": null,
+          "slug": "bujingi-pavo",
+          "archetypeIds": [
+            24
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9135,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE083-8b9f452d8a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "084",
+        "card": {
+          "name": "Gravekeeper's Heretic",
+          "nameEn": "Gravekeeper's Heretic",
+          "nameOriginal": null,
+          "slug": "gravekeepers-heretic",
+          "archetypeIds": [
+            99
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9136,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE084-bf818e681a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "085",
+        "card": {
+          "name": "Noble Knight Peredur",
+          "nameEn": "Noble Knight Peredur",
+          "nameOriginal": null,
+          "slug": "noble-knight-peredur",
+          "archetypeIds": [
+            163
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-11-21T00:00:00.000000Z"
+        },
+        "id": 9137,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE085-e02a3c2d67",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "086",
+        "card": {
+          "name": "Gwenhwyfar, Queen of Noble Arms",
+          "nameEn": "Gwenhwyfar, Queen of Noble Arms",
+          "nameOriginal": null,
+          "slug": "gwenhwyfar-queen-of-noble-arms",
+          "archetypeIds": [
+            163
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-11-21T00:00:00.000000Z"
+        },
+        "id": 9138,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE086-e15047678d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "087",
+        "card": {
+          "name": "Powered Inzektron",
+          "nameEn": "Powered Inzektron",
+          "nameOriginal": null,
+          "slug": "powered-inzektron",
+          "archetypeIds": [],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9139,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE087-55d2e73acb",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "088",
+        "card": {
+          "name": "Obedience Schooled",
+          "nameEn": "Obedience Schooled",
+          "nameOriginal": null,
+          "slug": "obedience-schooled",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2025-08-01T00:00:00.000000Z"
+        },
+        "id": 9140,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/JUSH/JUSH-DE029-R-143e7c530d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "089",
+        "card": {
+          "name": "The First Monarch",
+          "nameEn": "The First Monarch",
+          "nameOriginal": null,
+          "slug": "the-first-monarch",
+          "archetypeIds": [
+            387
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2020-11-13T00:00:00.000000Z"
+        },
+        "id": 9141,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE089-eafe3e311b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "090",
+        "card": {
+          "name": "Dark Artist",
+          "nameEn": "Dark Artist",
+          "nameOriginal": null,
+          "slug": "dark-artist",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9142,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE090-3f5bd16407",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "091",
+        "card": {
+          "name": "Swordsman from a Distant Land",
+          "nameEn": "Swordsman from a Distant Land",
+          "nameOriginal": null,
+          "slug": "swordsman-from-a-distant-land",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9143,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE091-541673eabe",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "092",
+        "card": {
+          "name": "Queen Angel of Roses",
+          "nameEn": "Queen Angel of Roses",
+          "nameOriginal": null,
+          "slug": "queen-angel-of-roses",
+          "archetypeIds": [
+            783
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2021-01-22T00:00:00.000000Z"
+        },
+        "id": 9144,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LDS2/LDS2-EN101-4481518cdc",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "093",
+        "card": {
+          "name": "Rose Witch",
+          "nameEn": "Rose Witch",
+          "nameOriginal": null,
+          "slug": "rose-witch",
+          "archetypeIds": [
+            783
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2021-01-22T00:00:00.000000Z"
+        },
+        "id": 9145,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE093-5eeae2dc82",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "094",
+        "card": {
+          "name": "Snapdragon",
+          "nameEn": "Snapdragon",
+          "nameOriginal": null,
+          "slug": "snapdragon",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9146,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE094-d5205f2668",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "095",
+        "card": {
+          "name": "Alpacaribou, Mystical Beast of the Forest",
+          "nameEn": "Alpacaribou, Mystical Beast of the Forest",
+          "nameOriginal": null,
+          "slug": "alpacaribou-mystical-beast-of-the-forest",
+          "archetypeIds": [
+            565
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9147,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE095-153c2038c7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "096",
+        "card": {
+          "name": "Mighty Warrior",
+          "nameEn": "Mighty Warrior",
+          "nameOriginal": null,
+          "slug": "mighty-warrior",
+          "archetypeIds": [
+            799
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-01-24T00:00:00.000000Z"
+        },
+        "id": 9148,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE096-a16670f836",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "097",
+        "card": {
+          "name": "Dododo Buster",
+          "nameEn": "Dododo Buster",
+          "nameOriginal": null,
+          "slug": "dododo-buster",
+          "archetypeIds": [
+            53,
+            919
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2020-01-17T00:00:00.000000Z"
+        },
+        "id": 9149,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE097-773a899069",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "098",
+        "card": {
+          "name": "Interplanetarypurplythorny Beast",
+          "nameEn": "Interplanetarypurplythorny Beast",
+          "nameOriginal": null,
+          "slug": "interplanetarypurplythorny-beast",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9150,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE098-7815668354",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "099",
+        "card": {
+          "name": "Starship Spy Plane",
+          "nameEn": "Starship Spy Plane",
+          "nameOriginal": null,
+          "slug": "starship-spy-plane",
+          "archetypeIds": [
+            894
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-01-23T00:00:00.000000Z",
+          "lastPrint": "2014-08-29T00:00:00.000000Z"
+        },
+        "id": 9151,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LVAL/LVAL-DE099-827868443c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      }
+    ],
+    "printsCount": null,
+    "releaseEu": "2014-01-23T00:00:00.000000Z",
+    "releaseEuDayUnknown": false,
+    "releaseEuMonthUnknown": false,
+    "releaseNa": "2014-01-24T00:00:00.000000Z",
+    "releaseNaDayUnknown": false,
+    "releaseNaMonthUnknown": false,
+    "tournamentLegal": null,
+    "setNumber": "LVAL",
+    "slug": "legacy-of-the-valiant",
+    "scanCounts": {
+      "en": 4,
+      "de": 89
+    }
+  }
+}

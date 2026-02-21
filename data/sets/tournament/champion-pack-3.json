@@ -1,0 +1,913 @@
+{
+  "data": {
+    "archetypes": [
+      {
+        "id": 858,
+        "name": "Yugi Muto | Yami Yugi",
+        "slug": "yugi-muto-yami-yugi",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/MP22/MP22-EN273-69e63915d2",
+        "isFirstPrint": false
+      }
+    ],
+    "archetypesReprint": [
+      {
+        "id": 99,
+        "name": "Gravekeeper's",
+        "slug": "gravekeepers",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP19/MP19-DE181-ffd72679e9",
+        "isFirstPrint": false
+      },
+      {
+        "id": 46,
+        "name": "Dark World",
+        "slug": "dark-world",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SR13/SR13-EN045-cc2c653277",
+        "isFirstPrint": false
+      },
+      {
+        "id": 512,
+        "name": "D.D.",
+        "slug": "dd",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/RA02/RA02-EN002-SCR-951ad40964",
+        "isFirstPrint": false
+      },
+      {
+        "id": 217,
+        "name": "The Agent",
+        "slug": "the-agent",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/GFP2/GFP2-DE049-162b8e3ca1",
+        "isFirstPrint": false
+      },
+      {
+        "id": 906,
+        "name": "Blair Flannigan",
+        "slug": "blair-flannigan",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/tmp/TMP-CARD-13947-c3b5f70543-f51cdc264e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 784,
+        "name": "Greiger",
+        "slug": "greiger",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN016-4fcd72ab5d",
+        "isFirstPrint": false
+      },
+      {
+        "id": 929,
+        "name": "Yuya Sakaki | Z-ARC",
+        "slug": "yuya-sakaki-z-arc",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN265-b465d5a7bd",
+        "isFirstPrint": false
+      },
+      {
+        "id": 919,
+        "name": "Yuma Tsukumo | Astral",
+        "slug": "yuma-tsukumo-astral",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/DUPO/DUPO-DE010-5374889f7b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 876,
+        "name": "Seto Kaiba",
+        "slug": "seto-kaiba",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LDS2/LDS2-EN029-UR-6737cf8624",
+        "isFirstPrint": false
+      },
+      {
+        "id": 15,
+        "name": "B.E.S.",
+        "slug": "bes",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP20/MP20-DE111-b2dc60b604",
+        "isFirstPrint": false
+      },
+      {
+        "id": 905,
+        "name": "Chumley Huffington",
+        "slug": "chumley-huffington",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/SGX1/SGX1-ENI13-51ecefcee6",
+        "isFirstPrint": false
+      },
+      {
+        "id": 827,
+        "name": "Chazz Princeton",
+        "slug": "chazz-princeton",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/BLMR/BLMR-EN002-SCR-8498b5d6a6",
+        "isFirstPrint": false
+      },
+      {
+        "id": 819,
+        "name": "Quattro",
+        "slug": "quattro",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/INFO/INFO-EN042-dafca3a277",
+        "isFirstPrint": false
+      }
+    ],
+    "category": {
+      "name": "Champion Packs",
+      "slug": "champion-packs",
+      "sets": [
+        {
+          "image": null,
+          "format": 1,
+          "name": "Champion Pack 8",
+          "releaseEu": "2009-01-05T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2009-01-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CP08",
+          "slug": "champion-pack-8",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Champion Pack 7",
+          "releaseEu": "2008-09-01T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2008-09-01T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CP07",
+          "slug": "champion-pack-7",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Champion Pack 6",
+          "releaseEu": "2008-05-12T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2008-05-12T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CP06",
+          "slug": "champion-pack-6",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Champion Pack 5",
+          "releaseEu": "2008-01-08T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2008-01-08T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CP05",
+          "slug": "champion-pack-5",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Champion Pack 4",
+          "releaseEu": "2007-09-06T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2007-09-06T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CP04",
+          "slug": "champion-pack-4",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Champion Pack 3",
+          "releaseEu": "2007-05-15T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2007-05-15T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CP03",
+          "slug": "champion-pack-3",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Champion Pack 2",
+          "releaseEu": "2007-02-06T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2007-02-06T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CP02",
+          "slug": "champion-pack-2",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Champion Pack 1",
+          "releaseEu": "2006-11-11T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2006-11-11T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CP01",
+          "slug": "champion-pack-1",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        }
+      ],
+      "setsCount": 8,
+      "format": 1,
+      "parent": {
+        "name": "Prize Packs",
+        "slug": "prize-packs",
+        "setsCount": 62,
+        "format": 1,
+        "parent": {
+          "name": "Booster Packs",
+          "slug": "booster-packs",
+          "setsCount": 326,
+          "format": 1,
+          "parent": null
+        }
+      }
+    },
+    "disableSetList": false,
+    "format": 1,
+    "game": 1,
+    "id": 353,
+    "image": null,
+    "languages": [
+      {
+        "id": 278,
+        "language": "de",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": false,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 279,
+        "language": "en",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": false,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 280,
+        "language": "fr",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": false,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 281,
+        "language": "it",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": false,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      }
+    ],
+    "name": "Champion Pack 3",
+    "next": {
+      "name": "Champion Pack 4",
+      "setNumber": "CP04",
+      "slug": "champion-pack-4",
+      "format": 1,
+      "releaseEu": "2007-09-06T00:00:00.000000Z",
+      "releaseNa": "2007-09-06T00:00:00.000000Z"
+    },
+    "previous": {
+      "name": "Champion Pack 2",
+      "setNumber": "CP02",
+      "slug": "champion-pack-2",
+      "format": 1,
+      "releaseEu": "2007-02-06T00:00:00.000000Z",
+      "releaseNa": "2007-02-06T00:00:00.000000Z"
+    },
+    "prints": [
+      {
+        "cardNumber": "001",
+        "card": {
+          "name": "Magicians Unite",
+          "nameEn": "Magicians Unite",
+          "nameOriginal": null,
+          "slug": "magicians-unite",
+          "archetypeIds": [
+            858
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-05-15T00:00:00.000000Z",
+          "lastPrint": "2024-03-14T00:00:00.000000Z"
+        },
+        "id": 20907,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/YGLD_RP_2021/YGLD_RP_2021-ENC30-bd3a02733c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "002",
+        "card": {
+          "name": "Spirit Reaper",
+          "nameEn": "Spirit Reaper",
+          "nameOriginal": null,
+          "slug": "spirit-reaper",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2003-07-18T00:00:00.000000Z",
+          "lastPrint": null
+        },
+        "id": 20908,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LCJW/LCJW-EN190-b207ba6f4d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "003",
+        "card": {
+          "name": "Gravekeeper's Spy",
+          "nameEn": "Gravekeeper's Spy",
+          "nameOriginal": null,
+          "slug": "gravekeepers-spy",
+          "archetypeIds": [
+            99
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2003-07-18T00:00:00.000000Z",
+          "lastPrint": "2025-11-27T00:00:00.000000Z"
+        },
+        "id": 20909,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/KICO/KICO-EN031-0a33f739f5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "004",
+        "card": {
+          "name": "Snipe Hunter",
+          "nameEn": "Snipe Hunter",
+          "nameOriginal": null,
+          "slug": "snipe-hunter",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2006-11-15T00:00:00.000000Z",
+          "lastPrint": null
+        },
+        "id": 20910,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CDIP/CDIP-DE015-e9455d3a45",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "005",
+        "card": {
+          "name": "Dark World Lightning",
+          "nameEn": "Dark World Lightning",
+          "nameOriginal": null,
+          "slug": "dark-world-lightning",
+          "archetypeIds": [
+            46
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2005-11-16T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 20911,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SR13/SR13-EN030-6c7aa76d91",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "006",
+        "card": {
+          "name": "D.D. Assailant",
+          "nameEn": "D.D. Assailant",
+          "nameOriginal": null,
+          "slug": "dd-assailant",
+          "archetypeIds": [
+            512
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2004-10-26T00:00:00.000000Z",
+          "lastPrint": "2024-11-08T00:00:00.000000Z"
+        },
+        "id": 20912,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BP01/BP01-EN133-SFR-2385feae86",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "007",
+        "card": {
+          "name": "Goldd, Wu-Lord of Dark World",
+          "nameEn": "Goldd, Wu-Lord of Dark World",
+          "nameOriginal": null,
+          "slug": "goldd-wu-lord-of-dark-world",
+          "archetypeIds": [
+            46
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2005-11-16T00:00:00.000000Z",
+          "lastPrint": "2024-11-08T00:00:00.000000Z"
+        },
+        "id": 20913,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SR13/SR13-EN007-d792ea46fd",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "008",
+        "card": {
+          "name": "Manticore of Darkness",
+          "nameEn": "Manticore of Darkness",
+          "nameOriginal": null,
+          "slug": "manticore-of-darkness",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2004-03-01T00:00:00.000000Z",
+          "lastPrint": "2023-04-21T00:00:00.000000Z"
+        },
+        "id": 20914,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/IOC/IOC-DE067-518dbe3788",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "009",
+        "card": {
+          "name": "The Agent of Judgment - Saturn",
+          "nameEn": "The Agent of Judgment - Saturn",
+          "nameOriginal": null,
+          "slug": "the-agent-of-judgment-saturn",
+          "archetypeIds": [
+            217
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2004-06-15T00:00:00.000000Z",
+          "lastPrint": "2022-05-06T00:00:00.000000Z"
+        },
+        "id": 20915,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GFP2/GFP2-DE053-12fad2b41c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "010",
+        "card": {
+          "name": "Pikeru's Circle of Enchantment",
+          "nameEn": "Pikeru's Circle of Enchantment",
+          "nameOriginal": null,
+          "slug": "pikerus-circle-of-enchantment",
+          "archetypeIds": [
+            906
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2004-12-01T00:00:00.000000Z",
+          "lastPrint": "2022-10-07T00:00:00.000000Z"
+        },
+        "id": 20916,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SGX2/SGX2-ENE09-2f583bf35a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "011",
+        "card": {
+          "name": "Widespread Ruin",
+          "nameEn": "Widespread Ruin",
+          "nameOriginal": null,
+          "slug": "widespread-ruin",
+          "archetypeIds": [
+            784,
+            929
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2004-03-23T00:00:00.000000Z",
+          "lastPrint": "2023-09-06T00:00:00.000000Z"
+        },
+        "id": 20917,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/5DS2/5DS2-EN040-3952d102b3",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "012",
+        "card": {
+          "name": "Fairy Dragon",
+          "nameEn": "Fairy Dragon",
+          "nameOriginal": null,
+          "slug": "fairy-dragon",
+          "archetypeIds": [],
+          "cardTypeOrder": "13",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-05-15T00:00:00.000000Z",
+          "lastPrint": "2007-05-15T00:00:00.000000Z"
+        },
+        "id": 20918,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CP03/CP03-DE012-21c91b7882",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "013",
+        "card": {
+          "name": "Chiron the Mage",
+          "nameEn": "Chiron the Mage",
+          "nameOriginal": null,
+          "slug": "chiron-the-mage",
+          "archetypeIds": [
+            919
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2005-03-01T00:00:00.000000Z",
+          "lastPrint": "2024-01-26T00:00:00.000000Z"
+        },
+        "id": 20919,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/STAX/STAX-EN021-c4ae753629",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "014",
+        "card": {
+          "name": "Kaibaman",
+          "nameEn": "Kaibaman",
+          "nameOriginal": null,
+          "slug": "kaibaman",
+          "archetypeIds": [
+            876
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2005-02-15T00:00:00.000000Z",
+          "lastPrint": "2025-10-09T00:00:00.000000Z"
+        },
+        "id": 20920,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LDS2/LDS2-EN002-d04d445f3c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "015",
+        "card": {
+          "name": "B.E.S. Crystal Core",
+          "nameEn": "B.E.S. Crystal Core",
+          "nameOriginal": null,
+          "slug": "bes-crystal-core",
+          "archetypeIds": [
+            15
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2005-08-15T00:00:00.000000Z",
+          "lastPrint": null
+        },
+        "id": 20921,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CRV/CRV-DE021-SR-11fe5ddde1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "016",
+        "card": {
+          "name": "Gravekeeper's Chief",
+          "nameEn": "Gravekeeper's Chief",
+          "nameOriginal": null,
+          "slug": "gravekeepers-chief",
+          "archetypeIds": [
+            99
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2003-07-18T00:00:00.000000Z",
+          "lastPrint": "2025-11-27T00:00:00.000000Z"
+        },
+        "id": 20922,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/RP02/RP02-DE076-8052ada94c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "017",
+        "card": {
+          "name": "Wild Nature's Release",
+          "nameEn": "Wild Nature's Release",
+          "nameOriginal": null,
+          "slug": "wild-natures-release",
+          "archetypeIds": [
+            905
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2004-03-01T00:00:00.000000Z",
+          "lastPrint": "2023-04-21T00:00:00.000000Z"
+        },
+        "id": 20923,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DR2/DR2-DE033-d2985a4487",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "018",
+        "card": {
+          "name": "A Feather of the Phoenix",
+          "nameEn": "A Feather of the Phoenix",
+          "nameOriginal": null,
+          "slug": "a-feather-of-the-phoenix",
+          "archetypeIds": [
+            827
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2005-03-01T00:00:00.000000Z",
+          "lastPrint": "2018-10-12T00:00:00.000000Z"
+        },
+        "id": 20924,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/YSDS/YSDS-DE029-c414b6c1d7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "019",
+        "card": {
+          "name": "Contract with the Abyss",
+          "nameEn": "Contract with the Abyss",
+          "nameOriginal": null,
+          "slug": "contract-with-the-abyss",
+          "archetypeIds": [],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2003-12-01T00:00:00.000000Z",
+          "lastPrint": "2023-04-21T00:00:00.000000Z"
+        },
+        "id": 20925,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DCR/DCR-DE086-6ee0e0df2b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "020",
+        "card": {
+          "name": "Necrovalley",
+          "nameEn": "Necrovalley",
+          "nameOriginal": null,
+          "slug": "necrovalley",
+          "archetypeIds": [
+            99,
+            819
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2003-07-18T00:00:00.000000Z",
+          "lastPrint": "2025-11-27T00:00:00.000000Z"
+        },
+        "id": 20926,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/RP02/RP02-DE079-b35e4d015a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      }
+    ],
+    "printsCount": null,
+    "releaseEu": "2007-05-15T00:00:00.000000Z",
+    "releaseEuDayUnknown": false,
+    "releaseEuMonthUnknown": false,
+    "releaseNa": "2007-05-15T00:00:00.000000Z",
+    "releaseNaDayUnknown": false,
+    "releaseNaMonthUnknown": false,
+    "tournamentLegal": null,
+    "setNumber": "CP03",
+    "slug": "champion-pack-3",
+    "scanCounts": {
+      "en": 0,
+      "de": 1
+    }
+  }
+}

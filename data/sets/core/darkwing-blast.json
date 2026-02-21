@@ -1,0 +1,3516 @@
+{
+  "data": {
+    "archetypes": [
+      {
+        "id": 21,
+        "name": "Blackwing",
+        "slug": "blackwing",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/L5DD/L5DD-ENC10-b493182090",
+        "isFirstPrint": false
+      },
+      {
+        "id": 683,
+        "name": "Bystial",
+        "slug": "bystial",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CH01/CH01-EN010-9a3ded94cc",
+        "isFirstPrint": true
+      },
+      {
+        "id": 439,
+        "name": "Branded",
+        "slug": "branded",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CH01/CH01-EN020-0647363186",
+        "isFirstPrint": false
+      },
+      {
+        "id": 547,
+        "name": "Fallen of Albaz",
+        "slug": "fallen-of-albaz",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/CH01/CH01-EN001-e78b36a28a",
+        "isFirstPrint": false
+      },
+      {
+        "id": 682,
+        "name": "Kashtira",
+        "slug": "kashtira",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN323-00e16c29bc",
+        "isFirstPrint": true
+      },
+      {
+        "id": 162,
+        "name": "Ninja",
+        "slug": "ninja",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN040-2a7fcd1008",
+        "isFirstPrint": false
+      },
+      {
+        "id": 181,
+        "name": "Prediction Princess",
+        "slug": "prediction-princess",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DLCS/DLCS-DE086-5ea7cbe468",
+        "isFirstPrint": false
+      },
+      {
+        "id": 156,
+        "name": "Naturia",
+        "slug": "naturia",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP23/MP23-EN170-831d6634a5",
+        "isFirstPrint": false
+      },
+      {
+        "id": 54,
+        "name": "Dracoslayer",
+        "slug": "dracoslayer",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/ANGU/ANGU-EN048-c3d4ded24b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 109,
+        "name": "Igknight",
+        "slug": "igknight",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP16/MP16-DE066-c877af4b2b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 139,
+        "name": "Majespecter",
+        "slug": "majespecter",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/PHNI/PHNI-EN069-67f896f8e6",
+        "isFirstPrint": false
+      },
+      {
+        "id": 50,
+        "name": "Dinomist",
+        "slug": "dinomist",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MACR/MACR-DE076-f27a4f714d",
+        "isFirstPrint": false
+      },
+      {
+        "id": 670,
+        "name": "Vernusylph",
+        "slug": "vernusylph",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE016-f375e113f5",
+        "isFirstPrint": false
+      },
+      {
+        "id": 84,
+        "name": "Fur Hire",
+        "slug": "fur-hire",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP19/MP19-DE253-49eb5ef422",
+        "isFirstPrint": false
+      },
+      {
+        "id": 638,
+        "name": "Adventurer",
+        "slug": "adventurer",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/GRCR/GRCR-EN029-UR-0317a6aee0",
+        "isFirstPrint": false
+      },
+      {
+        "id": 668,
+        "name": "Labrynth",
+        "slug": "labrynth",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/TAMA/TAMA-EN014-UR-694903c5dc",
+        "isFirstPrint": false
+      },
+      {
+        "id": 685,
+        "name": "Martial Art Spirit",
+        "slug": "martial-art-spirit",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/FLOD/FLOD-DE000-0060e477c6",
+        "isFirstPrint": false
+      },
+      {
+        "id": 541,
+        "name": "Spirit",
+        "slug": "spirit",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/BLMR/BLMR-EN070-94a16c67df",
+        "isFirstPrint": false
+      },
+      {
+        "id": 645,
+        "name": "Psychic",
+        "slug": "psychic",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/RA02/RA02-EN032-SCR-0a3ca9796f",
+        "isFirstPrint": false
+      },
+      {
+        "id": 675,
+        "name": "Tearlaments",
+        "slug": "tearlaments",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/POTE/POTE-DE072-ae60cc1955",
+        "isFirstPrint": false
+      },
+      {
+        "id": 666,
+        "name": "Runick",
+        "slug": "runick",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/TAMA/TAMA-EN027-UR-f5d6f8fece",
+        "isFirstPrint": false
+      },
+      {
+        "id": 672,
+        "name": "Spright",
+        "slug": "spright",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLTR/BLTR-EN075-da1839fec7",
+        "isFirstPrint": false
+      },
+      {
+        "id": 424,
+        "name": "Springans",
+        "slug": "springans",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLVO/BLVO-EN009-df7803bf42",
+        "isFirstPrint": false
+      },
+      {
+        "id": 418,
+        "name": "Tri-Brigade",
+        "slug": "tri-brigade",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN198-38e895a548",
+        "isFirstPrint": false
+      },
+      {
+        "id": 662,
+        "name": "Scareclaw",
+        "slug": "scareclaw",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DIFO/DIFO-EN059-11f96494c8",
+        "isFirstPrint": false
+      },
+      {
+        "id": 173,
+        "name": "Pendulum",
+        "slug": "pendulum",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LED6/LED6-DE051-92000b6cfa",
+        "isFirstPrint": false
+      },
+      {
+        "id": 663,
+        "name": "Vaylantz",
+        "slug": "vaylantz",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/TAMA/TAMA-EN009-UR-9a568bb11c",
+        "isFirstPrint": false
+      },
+      {
+        "id": 11,
+        "name": "Archfiend",
+        "slug": "archfiend",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SR06/SR06-DE007-c59c0e023e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 686,
+        "name": "Ghoti",
+        "slug": "ghoti",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA04/RA04-DE060-SR-4fae2983ef",
+        "isFirstPrint": false
+      },
+      {
+        "id": 651,
+        "name": "Umi",
+        "slug": "umi",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/MAMA/MAMA-EN079-cceba2047c",
+        "isFirstPrint": false
+      },
+      {
+        "id": 6,
+        "name": "Amazoness",
+        "slug": "amazoness",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLCR/BLCR-EN038-1645588997",
+        "isFirstPrint": false
+      },
+      {
+        "id": 818,
+        "name": "Tyler Sisters",
+        "slug": "tyler-sisters",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN093-5572595792",
+        "isFirstPrint": false
+      }
+    ],
+    "archetypesReprint": [
+      {
+        "id": 799,
+        "name": "Yusei Fudo",
+        "slug": "yusei-fudo",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/OP16/OP16-DE025-784a52b541",
+        "isFirstPrint": false
+      }
+    ],
+    "category": {
+      "name": "Series 11",
+      "slug": "series-11",
+      "sets": [
+        {
+          "image": "https://cardcluster.com/storage/sets/CYAC-21eb3fe9ebd07dc607ac",
+          "format": 1,
+          "name": "Cyberstorm Access",
+          "releaseEu": "2023-05-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2023-05-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CYAC",
+          "slug": "cyberstorm-access",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/PHHY-728895d71f82a2e6f832",
+          "format": 1,
+          "name": "Photon Hypernova",
+          "releaseEu": "2023-02-09T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2023-02-10T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "PHHY",
+          "slug": "photon-hypernova",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/DABL-cfa6bf49df40a9e69b7c",
+          "format": 1,
+          "name": "Darkwing Blast",
+          "releaseEu": "2022-10-20T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2022-10-21T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "DABL",
+          "slug": "darkwing-blast",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/POTE-e20856187e1d8c1515dd",
+          "format": 1,
+          "name": "Power of the Elements",
+          "releaseEu": "2022-08-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2022-08-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "POTE",
+          "slug": "power-of-the-elements",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/DIFO-34599fd241d0f61061ee",
+          "format": 1,
+          "name": "Dimension Force",
+          "releaseEu": "2022-05-19T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2022-05-20T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "DIFO",
+          "slug": "dimension-force",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/BACH-08ae9a3cb22440c2f8ee",
+          "format": 1,
+          "name": "Battle of Chaos",
+          "releaseEu": "2022-02-10T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2022-02-11T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "BACH",
+          "slug": "battle-of-chaos",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/BODE-60936fb2b58bdaafc03a",
+          "format": 1,
+          "name": "Burst of Destiny",
+          "releaseEu": "2021-11-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2021-11-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "BODE",
+          "slug": "burst-of-destiny",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/DAMA-c31119d7f01fc44870c6",
+          "format": 1,
+          "name": "Dawn of Majesty",
+          "releaseEu": "2021-08-12T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2021-08-13T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "DAMA",
+          "slug": "dawn-of-majesty",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/LIOV-8b437fe9aa9d34168df6",
+          "format": 1,
+          "name": "Lightning Overdrive",
+          "releaseEu": "2021-06-03T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2021-06-04T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "LIOV",
+          "slug": "lightning-overdrive",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/BLVO-9f78221561d9d4c697e7",
+          "format": 1,
+          "name": "Blazing Vortex",
+          "releaseEu": "2021-02-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2021-02-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "BLVO",
+          "slug": "blazing-vortex",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/PHRA-fb1d2022e03495580a2d",
+          "format": 1,
+          "name": "Phantom Rage",
+          "releaseEu": "2020-11-05T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2020-11-06T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "PHRA",
+          "slug": "phantom-rage",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/ROTD-887e716ca77218df6fd0",
+          "format": 1,
+          "name": "Rise of the Duelist",
+          "releaseEu": "2020-08-06T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2020-08-07T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "ROTD",
+          "slug": "rise-of-the-duelist",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        }
+      ],
+      "setsCount": 12,
+      "format": 1,
+      "parent": {
+        "name": "Core Boosters",
+        "slug": "core-boosters",
+        "setsCount": 102,
+        "format": 1,
+        "parent": {
+          "name": "Booster Packs",
+          "slug": "booster-packs",
+          "setsCount": 326,
+          "format": 1,
+          "parent": null
+        }
+      }
+    },
+    "disableSetList": false,
+    "format": 1,
+    "game": 1,
+    "id": 928,
+    "image": "https://cardcluster.com/storage/sets/DABL-cfa6bf49df40a9e69b7c",
+    "languages": [
+      {
+        "id": 1017,
+        "language": "de",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 1018,
+        "language": "en",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 1019,
+        "language": "fr",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 1020,
+        "language": "it",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 1021,
+        "language": "pt",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 1022,
+        "language": "es",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      }
+    ],
+    "name": "Darkwing Blast",
+    "next": {
+      "name": "Photon Hypernova",
+      "setNumber": "PHHY",
+      "slug": "photon-hypernova",
+      "format": 1,
+      "releaseEu": "2023-02-09T00:00:00.000000Z",
+      "releaseNa": "2023-02-10T00:00:00.000000Z"
+    },
+    "previous": {
+      "name": "Power of the Elements",
+      "setNumber": "POTE",
+      "slug": "power-of-the-elements",
+      "format": 1,
+      "releaseEu": "2022-08-04T00:00:00.000000Z",
+      "releaseNa": "2022-08-05T00:00:00.000000Z"
+    },
+    "prints": [
+      {
+        "cardNumber": "000",
+        "card": {
+          "name": "Spellbound",
+          "nameEn": "Spellbound",
+          "nameOriginal": null,
+          "slug": "spellbound",
+          "archetypeIds": [],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 56179,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN000-72cc03f32d",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "001",
+        "card": {
+          "name": "Blackwing - Vata the Emblem of Wandering",
+          "nameEn": "Blackwing - Vata the Emblem of Wandering",
+          "nameOriginal": null,
+          "slug": "blackwing-vata-the-emblem-of-wandering",
+          "archetypeIds": [
+            21
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-11-21T00:00:00.000000Z"
+        },
+        "id": 54249,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN001-422d6fe36f",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "002",
+        "card": {
+          "name": "Blackwing - Shamal the Sandstorm",
+          "nameEn": "Blackwing - Shamal the Sandstorm",
+          "nameOriginal": null,
+          "slug": "blackwing-shamal-the-sandstorm",
+          "archetypeIds": [
+            21
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-11-21T00:00:00.000000Z"
+        },
+        "id": 54250,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN002-095db03d7f",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "003",
+        "card": {
+          "name": "Blackwing - Chinook the Snow Blast",
+          "nameEn": "Blackwing - Chinook the Snow Blast",
+          "nameOriginal": null,
+          "slug": "blackwing-chinook-the-snow-blast",
+          "archetypeIds": [
+            21
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-11-21T00:00:00.000000Z"
+        },
+        "id": 54251,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN003-28871735c3",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "004",
+        "card": {
+          "name": "Blackwing - Sudri the Phantom Glimmer",
+          "nameEn": "Blackwing - Sudri the Phantom Glimmer",
+          "nameOriginal": null,
+          "slug": "blackwing-sudri-the-phantom-glimmer",
+          "archetypeIds": [
+            21
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-11-21T00:00:00.000000Z"
+        },
+        "id": 54252,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN004-cf3cd02664",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "005",
+        "card": {
+          "name": "Blackwing - Zonda the Dusk",
+          "nameEn": "Blackwing - Zonda the Dusk",
+          "nameOriginal": null,
+          "slug": "blackwing-zonda-the-dusk",
+          "archetypeIds": [
+            21
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54253,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN005-3a477f7738",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "006",
+        "card": {
+          "name": "Bystial Magnamhut",
+          "nameEn": "Bystial Magnamhut",
+          "nameOriginal": null,
+          "slug": "bystial-magnamhut",
+          "archetypeIds": [
+            683
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-10-24T00:00:00.000000Z"
+        },
+        "id": 54553,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN006-5ececf97bf",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "007",
+        "card": {
+          "name": "Bystial Saronir",
+          "nameEn": "Bystial Saronir",
+          "nameOriginal": null,
+          "slug": "bystial-saronir",
+          "archetypeIds": [
+            439,
+            683
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-10-24T00:00:00.000000Z"
+        },
+        "id": 54554,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN007-4d23669a78",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "008",
+        "card": {
+          "name": "Bystial Druiswurm",
+          "nameEn": "Bystial Druiswurm",
+          "nameOriginal": null,
+          "slug": "bystial-druiswurm",
+          "archetypeIds": [
+            683
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-10-24T00:00:00.000000Z"
+        },
+        "id": 54555,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN008-7a3024f214",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "009",
+        "card": {
+          "name": "The Bystial Lubellion",
+          "nameEn": "The Bystial Lubellion",
+          "nameOriginal": null,
+          "slug": "the-bystial-lubellion",
+          "archetypeIds": [
+            439,
+            683
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-10-24T00:00:00.000000Z"
+        },
+        "id": 54556,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN009-ed8a9b8d28",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "010",
+        "card": {
+          "name": "The Bystial Alba Los",
+          "nameEn": "The Bystial Alba Los",
+          "nameOriginal": null,
+          "slug": "the-bystial-alba-los",
+          "archetypeIds": [
+            683
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54557,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN010-6f88fd1222",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "011",
+        "card": {
+          "name": "Blazing Cartesia, the Virtuous",
+          "nameEn": "Blazing Cartesia, the Virtuous",
+          "nameOriginal": null,
+          "slug": "blazing-cartesia-the-virtuous",
+          "archetypeIds": [
+            547
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-10-24T00:00:00.000000Z"
+        },
+        "id": 54562,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN011-SCR-3bd49decaa",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "011",
+        "card": {
+          "name": "Blazing Cartesia, the Virtuous",
+          "nameEn": "Blazing Cartesia, the Virtuous",
+          "nameOriginal": null,
+          "slug": "blazing-cartesia-the-virtuous",
+          "archetypeIds": [
+            547
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-10-24T00:00:00.000000Z"
+        },
+        "id": 56187,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN011-SLR-82e66de4a1",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "012",
+        "card": {
+          "name": "Kashtira Fenrir",
+          "nameEn": "Kashtira Fenrir",
+          "nameOriginal": null,
+          "slug": "kashtira-fenrir",
+          "archetypeIds": [
+            682
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2026-04-10T00:00:00.000000Z"
+        },
+        "id": 54349,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN012-ce3adf362c",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "013",
+        "card": {
+          "name": "Kashtira Unicorn",
+          "nameEn": "Kashtira Unicorn",
+          "nameOriginal": null,
+          "slug": "kashtira-unicorn",
+          "archetypeIds": [
+            682
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54350,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN013-fb74b154c0",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "014",
+        "card": {
+          "name": "Kashtira Ogre",
+          "nameEn": "Kashtira Ogre",
+          "nameOriginal": null,
+          "slug": "kashtira-ogre",
+          "archetypeIds": [
+            682
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54351,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN014-a5e7195a17",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "015",
+        "card": {
+          "name": "Tobari the Sky Ninja",
+          "nameEn": "Tobari the Sky Ninja",
+          "nameOriginal": null,
+          "slug": "tobari-the-sky-ninja",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54565,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN015-ef46fd868e",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "016",
+        "card": {
+          "name": "Mitsu the Insect Ninja",
+          "nameEn": "Mitsu the Insect Ninja",
+          "nameOriginal": null,
+          "slug": "mitsu-the-insect-ninja",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54566,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN016-UR-fb0467ff11",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "016",
+        "card": {
+          "name": "Mitsu the Insect Ninja",
+          "nameEn": "Mitsu the Insect Ninja",
+          "nameOriginal": null,
+          "slug": "mitsu-the-insect-ninja",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 56213,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-DE016-SLR-26af284dff",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "017",
+        "card": {
+          "name": "Baku the Beast Ninja",
+          "nameEn": "Baku the Beast Ninja",
+          "nameOriginal": null,
+          "slug": "baku-the-beast-ninja",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54567,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN017-0ec8271033",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "018",
+        "card": {
+          "name": "Kagero the Cannon Ninja",
+          "nameEn": "Kagero the Cannon Ninja",
+          "nameOriginal": null,
+          "slug": "kagero-the-cannon-ninja",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54568,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN018-956f2393e1",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "019",
+        "card": {
+          "name": "Prediction Princess Bibliomuse",
+          "nameEn": "Prediction Princess Bibliomuse",
+          "nameOriginal": null,
+          "slug": "prediction-princess-bibliomuse",
+          "archetypeIds": [
+            181
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-21T00:00:00.000000Z"
+        },
+        "id": 54573,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN019-03dfa8f8f7",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "020",
+        "card": {
+          "name": "Naturia Mole Cricket",
+          "nameEn": "Naturia Mole Cricket",
+          "nameOriginal": null,
+          "slug": "naturia-mole-cricket",
+          "archetypeIds": [
+            156
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54361,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN020-a6332b7ed1",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "021",
+        "card": {
+          "name": "Naturia Camellia",
+          "nameEn": "Naturia Camellia",
+          "nameOriginal": null,
+          "slug": "naturia-camellia",
+          "archetypeIds": [
+            156
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54362,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN021-8917346e8f",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "022",
+        "card": {
+          "name": "Ignis Phoenix, the Dracoslayer",
+          "nameEn": "Ignis Phoenix, the Dracoslayer",
+          "nameOriginal": null,
+          "slug": "ignis-phoenix-the-dracoslayer",
+          "archetypeIds": [
+            54,
+            109
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54499,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN022-d2677b36b4",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "023",
+        "card": {
+          "name": "Majesty Pegasus, the Dracoslayer",
+          "nameEn": "Majesty Pegasus, the Dracoslayer",
+          "nameOriginal": null,
+          "slug": "majesty-pegasus-the-dracoslayer",
+          "archetypeIds": [
+            54,
+            139
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54500,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN023-6ee7241e67",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "024",
+        "card": {
+          "name": "Dinomight Powerload, the Dracoslayer",
+          "nameEn": "Dinomight Powerload, the Dracoslayer",
+          "nameOriginal": null,
+          "slug": "dinomight-powerload-the-dracoslayer",
+          "archetypeIds": [
+            54,
+            50
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54501,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN024-c26f5f7290",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "025",
+        "card": {
+          "name": "Vera the Vernusylph Goddess",
+          "nameEn": "Vera the Vernusylph Goddess",
+          "nameOriginal": null,
+          "slug": "vera-the-vernusylph-goddess",
+          "archetypeIds": [
+            670
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-21T00:00:00.000000Z"
+        },
+        "id": 54364,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN025-58e28c5bd7",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "026",
+        "card": {
+          "name": "Vernusylph of the Misting Seedlings",
+          "nameEn": "Vernusylph of the Misting Seedlings",
+          "nameOriginal": null,
+          "slug": "vernusylph-of-the-misting-seedlings",
+          "archetypeIds": [
+            670
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-21T00:00:00.000000Z"
+        },
+        "id": 54365,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN026-97bf50bb74",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "027",
+        "card": {
+          "name": "Rex, Freight Fur Hire",
+          "nameEn": "Rex, Freight Fur Hire",
+          "nameOriginal": null,
+          "slug": "rex-freight-fur-hire",
+          "archetypeIds": [
+            84
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54551,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN027-5207e42c31",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "028",
+        "card": {
+          "name": "Celestial Apparatus Tesea",
+          "nameEn": "Celestial Apparatus Tesea",
+          "nameOriginal": null,
+          "slug": "celestial-apparatus-tesea",
+          "archetypeIds": [
+            638
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-06-23T00:00:00.000000Z"
+        },
+        "id": 54580,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN028-d2f12b24a3",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "029",
+        "card": {
+          "name": "Soul Scissors",
+          "nameEn": "Soul Scissors",
+          "nameOriginal": null,
+          "slug": "soul-scissors",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54563,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN029-440530bf01",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "030",
+        "card": {
+          "name": "Lady Labrynth of the Silver Castle",
+          "nameEn": "Lady Labrynth of the Silver Castle",
+          "nameOriginal": null,
+          "slug": "lady-labrynth-of-the-silver-castle",
+          "archetypeIds": [
+            668
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 54920,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN030-SCR-fcf2ee0449",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "030",
+        "card": {
+          "name": "Lady Labrynth of the Silver Castle",
+          "nameEn": "Lady Labrynth of the Silver Castle",
+          "nameOriginal": null,
+          "slug": "lady-labrynth-of-the-silver-castle",
+          "archetypeIds": [
+            668
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 56186,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN030-SCR-fcf2ee0449",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "031",
+        "card": {
+          "name": "Infernalqueen Salmon",
+          "nameEn": "Infernalqueen Salmon",
+          "nameOriginal": null,
+          "slug": "infernalqueen-salmon",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54561,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN031-f02a02486d",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "032",
+        "card": {
+          "name": "Han-Shi Kyudo Spirit",
+          "nameEn": "Han-Shi Kyudo Spirit",
+          "nameOriginal": null,
+          "slug": "han-shi-kyudo-spirit",
+          "archetypeIds": [
+            685,
+            541
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54936,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN032-86e87c1e0f",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "033",
+        "card": {
+          "name": "Laughing Puffin",
+          "nameEn": "Laughing Puffin",
+          "nameOriginal": null,
+          "slug": "laughing-puffin",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54937,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN033-9fca326050",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "034",
+        "card": {
+          "name": "Turbo-Tainted Hot Rod GT19",
+          "nameEn": "Turbo-Tainted Hot Rod GT19",
+          "nameOriginal": null,
+          "slug": "turbo-tainted-hot-rod-gt19",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54938,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN034-d768c6c77b",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "035",
+        "card": {
+          "name": "Psychic Rover",
+          "nameEn": "Psychic Rover",
+          "nameOriginal": null,
+          "slug": "psychic-rover",
+          "archetypeIds": [
+            645
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54939,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN035-0d2d58e5fd",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "036",
+        "card": {
+          "name": "Cucumber Horse",
+          "nameEn": "Cucumber Horse",
+          "nameOriginal": null,
+          "slug": "cucumber-horse",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54940,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN036-9359f84577",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "037",
+        "card": {
+          "name": "Silent Wolf Calupo",
+          "nameEn": "Silent Wolf Calupo",
+          "nameOriginal": null,
+          "slug": "silent-wolf-calupo",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54941,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN037-d7b0a9aba3",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "038",
+        "card": {
+          "name": "Prediction Princess Tarotreith",
+          "nameEn": "Prediction Princess Tarotreith",
+          "nameOriginal": null,
+          "slug": "prediction-princess-tarotreith",
+          "archetypeIds": [
+            181
+          ],
+          "cardTypeOrder": "14",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-21T00:00:00.000000Z"
+        },
+        "id": 54574,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN038-37a2e651cc",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "039",
+        "card": {
+          "name": "Tearlaments Rulkallos",
+          "nameEn": "Tearlaments Rulkallos",
+          "nameOriginal": null,
+          "slug": "tearlaments-rulkallos",
+          "archetypeIds": [
+            675
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-21T00:00:00.000000Z"
+        },
+        "id": 54336,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN039-SCR-b30a6a98f0",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "039",
+        "card": {
+          "name": "Tearlaments Rulkallos",
+          "nameEn": "Tearlaments Rulkallos",
+          "nameOriginal": null,
+          "slug": "tearlaments-rulkallos",
+          "archetypeIds": [
+            675
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-21T00:00:00.000000Z"
+        },
+        "id": 56180,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN039-SCR-b30a6a98f0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "040",
+        "card": {
+          "name": "Meizen the Battle Ninja",
+          "nameEn": "Meizen the Battle Ninja",
+          "nameOriginal": null,
+          "slug": "meizen-the-battle-ninja",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54569,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN040-2a7fcd1008",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "041",
+        "card": {
+          "name": "Freki the Runick Fangs",
+          "nameEn": "Freki the Runick Fangs",
+          "nameOriginal": null,
+          "slug": "freki-the-runick-fangs",
+          "archetypeIds": [
+            666
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54918,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN041-cd3f820dce",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "042",
+        "card": {
+          "name": "Black-Winged Assault Dragon",
+          "nameEn": "Black-Winged Assault Dragon",
+          "nameOriginal": null,
+          "slug": "black-winged-assault-dragon",
+          "archetypeIds": [],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-11-21T00:00:00.000000Z"
+        },
+        "id": 54254,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN042-ff97a6e40b",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "043",
+        "card": {
+          "name": "Blackwing - Boreastorm the Wicked Wind",
+          "nameEn": "Blackwing - Boreastorm the Wicked Wind",
+          "nameOriginal": null,
+          "slug": "blackwing-boreastorm-the-wicked-wind",
+          "archetypeIds": [
+            21
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-11-21T00:00:00.000000Z"
+        },
+        "id": 54255,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN043-4d9f202b34",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "044",
+        "card": {
+          "name": "Shamisen Samsara Sorrowcat",
+          "nameEn": "Shamisen Samsara Sorrowcat",
+          "nameOriginal": null,
+          "slug": "shamisen-samsara-sorrowcat",
+          "archetypeIds": [],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54942,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN044-4c4f474db1",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "045",
+        "card": {
+          "name": "Kashtira Shangri-Ira",
+          "nameEn": "Kashtira Shangri-Ira",
+          "nameOriginal": null,
+          "slug": "kashtira-shangri-ira",
+          "archetypeIds": [
+            682
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54352,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN045-2162fdbe6f",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "046",
+        "card": {
+          "name": "Mereologic Aggregator",
+          "nameEn": "Mereologic Aggregator",
+          "nameOriginal": null,
+          "slug": "mereologic-aggregator",
+          "archetypeIds": [],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-02-26T00:00:00.000000Z"
+        },
+        "id": 54934,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN046-05a6ed29e1",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "047",
+        "card": {
+          "name": "Wollow, Founder of the Drudge Dragons",
+          "nameEn": "Wollow, Founder of the Drudge Dragons",
+          "nameOriginal": null,
+          "slug": "wollow-founder-of-the-drudge-dragons",
+          "archetypeIds": [],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54943,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN047-dd3ade1f86",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "048",
+        "card": {
+          "name": "Spright Sprind",
+          "nameEn": "Spright Sprind",
+          "nameOriginal": null,
+          "slug": "spright-sprind",
+          "archetypeIds": [
+            672
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2024-06-21T00:00:00.000000Z"
+        },
+        "id": 54576,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN048-dfd495c4f3",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "049",
+        "card": {
+          "name": "Donner, Dagger Fur Hire",
+          "nameEn": "Donner, Dagger Fur Hire",
+          "nameOriginal": null,
+          "slug": "donner-dagger-fur-hire",
+          "archetypeIds": [
+            84
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54552,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN049-62753e9455",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "050",
+        "card": {
+          "name": "Worldsea Dragon Zealantis",
+          "nameEn": "Worldsea Dragon Zealantis",
+          "nameOriginal": null,
+          "slug": "worldsea-dragon-zealantis",
+          "archetypeIds": [],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 54564,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN050-26c3b15e03",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "051",
+        "card": {
+          "name": "Muckraker From the Underworld",
+          "nameEn": "Muckraker From the Underworld",
+          "nameOriginal": null,
+          "slug": "muckraker-from-the-underworld",
+          "archetypeIds": [],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54935,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN051-d3b8a8b28f",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "052",
+        "card": {
+          "name": "Black Feather Whirlwind",
+          "nameEn": "Black Feather Whirlwind",
+          "nameOriginal": null,
+          "slug": "black-feather-whirlwind",
+          "archetypeIds": [
+            21
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-11-21T00:00:00.000000Z"
+        },
+        "id": 54256,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN052-578966fd58",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "053",
+        "card": {
+          "name": "Branded Regained",
+          "nameEn": "Branded Regained",
+          "nameOriginal": null,
+          "slug": "branded-regained",
+          "archetypeIds": [
+            439,
+            683
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-10-24T00:00:00.000000Z"
+        },
+        "id": 54558,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN053-8ce525dce9",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "054",
+        "card": {
+          "name": "Decisive Battle of Golgonda",
+          "nameEn": "Decisive Battle of Golgonda",
+          "nameOriginal": null,
+          "slug": "decisive-battle-of-golgonda",
+          "archetypeIds": [
+            424,
+            547
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54578,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN054-39f9a7408c",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "055",
+        "card": {
+          "name": "Tri-Brigade Showdown",
+          "nameEn": "Tri-Brigade Showdown",
+          "nameOriginal": null,
+          "slug": "tri-brigade-showdown",
+          "archetypeIds": [
+            418
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54579,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN055-1b4b895a8c",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "056",
+        "card": {
+          "name": "Tearlaments Grief",
+          "nameEn": "Tearlaments Grief",
+          "nameOriginal": null,
+          "slug": "tearlaments-grief",
+          "archetypeIds": [
+            675
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-21T00:00:00.000000Z"
+        },
+        "id": 54337,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN056-2673a9dd88",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "057",
+        "card": {
+          "name": "Tearlaments Heartbeat",
+          "nameEn": "Tearlaments Heartbeat",
+          "nameOriginal": null,
+          "slug": "tearlaments-heartbeat",
+          "archetypeIds": [
+            675
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-21T00:00:00.000000Z"
+        },
+        "id": 54338,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN057-634df1ef74",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "058",
+        "card": {
+          "name": "Tearlaments Scream",
+          "nameEn": "Tearlaments Scream",
+          "nameOriginal": null,
+          "slug": "tearlaments-scream",
+          "archetypeIds": [
+            675
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-21T00:00:00.000000Z"
+        },
+        "id": 54339,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN058-9258a7cd47",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "059",
+        "card": {
+          "name": "Scareclaw Decline",
+          "nameEn": "Scareclaw Decline",
+          "nameOriginal": null,
+          "slug": "scareclaw-decline",
+          "archetypeIds": [
+            662
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54353,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN059-c7744d54d0",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "060",
+        "card": {
+          "name": "Kashtira Birth",
+          "nameEn": "Kashtira Birth",
+          "nameOriginal": null,
+          "slug": "kashtira-birth",
+          "archetypeIds": [
+            682
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54354,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN060-a3380d6e8d",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "061",
+        "card": {
+          "name": "Ninjitsu Art Notebook of Mystery",
+          "nameEn": "Ninjitsu Art Notebook of Mystery",
+          "nameOriginal": null,
+          "slug": "ninjitsu-art-notebook-of-mystery",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54570,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN061-36330a198f",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "062",
+        "card": {
+          "name": "Ninjitsu Art Tool - Iron Digger",
+          "nameEn": "Ninjitsu Art Tool - Iron Digger",
+          "nameOriginal": null,
+          "slug": "ninjitsu-art-tool-iron-digger",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54571,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN062-259967b13f",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "063",
+        "card": {
+          "name": "Underworld Ritual of Prediction",
+          "nameEn": "Underworld Ritual of Prediction",
+          "nameOriginal": null,
+          "slug": "underworld-ritual-of-prediction",
+          "archetypeIds": [
+            181
+          ],
+          "cardTypeOrder": "36",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54575,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN063-2a26e335b6",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "064",
+        "card": {
+          "name": "Naturia Blessing",
+          "nameEn": "Naturia Blessing",
+          "nameOriginal": null,
+          "slug": "naturia-blessing",
+          "archetypeIds": [
+            156
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54363,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN064-579bd43ab6",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "065",
+        "card": {
+          "name": "Dragonic Pendulum",
+          "nameEn": "Dragonic Pendulum",
+          "nameOriginal": null,
+          "slug": "dragonic-pendulum",
+          "archetypeIds": [
+            54,
+            173
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54502,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN065-39cab571b5",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "066",
+        "card": {
+          "name": "Vernusylph in Full Bloom",
+          "nameEn": "Vernusylph in Full Bloom",
+          "nameOriginal": null,
+          "slug": "vernusylph-in-full-bloom",
+          "archetypeIds": [
+            670
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-21T00:00:00.000000Z"
+        },
+        "id": 54366,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN066-8895d5dff2",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "067",
+        "card": {
+          "name": "Curse of Aramatir",
+          "nameEn": "Curse of Aramatir",
+          "nameOriginal": null,
+          "slug": "curse-of-aramatir",
+          "archetypeIds": [
+            638
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-06-23T00:00:00.000000Z"
+        },
+        "id": 54581,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN067-8cf35292f2",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "068",
+        "card": {
+          "name": "Vaylantz Wakening - Solo Activation",
+          "nameEn": "Vaylantz Wakening - Solo Activation",
+          "nameOriginal": null,
+          "slug": "vaylantz-wakening-solo-activation",
+          "archetypeIds": [
+            663
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-21T00:00:00.000000Z"
+        },
+        "id": 54919,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN068-86c74bd7b5",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "069",
+        "card": {
+          "name": "Terrors in the Hidden City",
+          "nameEn": "Terrors in the Hidden City",
+          "nameOriginal": null,
+          "slug": "terrors-in-the-hidden-city",
+          "archetypeIds": [],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-12-19T00:00:00.000000Z"
+        },
+        "id": 54944,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN069-c8b7affcf2",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "070",
+        "card": {
+          "name": "Original Bamboo Sword",
+          "nameEn": "Original Bamboo Sword",
+          "nameOriginal": null,
+          "slug": "original-bamboo-sword",
+          "archetypeIds": [],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-10-15T00:00:00.000000Z"
+        },
+        "id": 54945,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN070-4789dab9c8",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "071",
+        "card": {
+          "name": "Blackwing - Twin Shadow",
+          "nameEn": "Blackwing - Twin Shadow",
+          "nameOriginal": null,
+          "slug": "blackwing-twin-shadow",
+          "archetypeIds": [
+            21
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-11-21T00:00:00.000000Z"
+        },
+        "id": 54257,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN071-2fcc9d9154",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "072",
+        "card": {
+          "name": "Black Shadow Squall",
+          "nameEn": "Black Shadow Squall",
+          "nameOriginal": null,
+          "slug": "black-shadow-squall",
+          "archetypeIds": [],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54258,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN072-7957c02919",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "073",
+        "card": {
+          "name": "Branded Beast",
+          "nameEn": "Branded Beast",
+          "nameOriginal": null,
+          "slug": "branded-beast",
+          "archetypeIds": [
+            439,
+            683
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-10-24T00:00:00.000000Z"
+        },
+        "id": 54559,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN073-1f53b09088",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "074",
+        "card": {
+          "name": "Spright Double Cross",
+          "nameEn": "Spright Double Cross",
+          "nameOriginal": null,
+          "slug": "spright-double-cross",
+          "archetypeIds": [
+            672
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-21T00:00:00.000000Z"
+        },
+        "id": 54577,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN074-bfec947fe5",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "075",
+        "card": {
+          "name": "Scareclaw Twinsaw",
+          "nameEn": "Scareclaw Twinsaw",
+          "nameOriginal": null,
+          "slug": "scareclaw-twinsaw",
+          "archetypeIds": [
+            662
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54355,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN075-233176d5f9",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "076",
+        "card": {
+          "name": "Kashtira Preparations",
+          "nameEn": "Kashtira Preparations",
+          "nameOriginal": null,
+          "slug": "kashtira-preparations",
+          "archetypeIds": [
+            682
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54356,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN076-96c9436b44",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "077",
+        "card": {
+          "name": "Ninjitsu Art of Dancing Leaves",
+          "nameEn": "Ninjitsu Art of Dancing Leaves",
+          "nameOriginal": null,
+          "slug": "ninjitsu-art-of-dancing-leaves",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54572,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN077-627a786d7a",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "078",
+        "card": {
+          "name": "Simul Archfiends",
+          "nameEn": "Simul Archfiends",
+          "nameOriginal": null,
+          "slug": "simul-archfiends",
+          "archetypeIds": [
+            11
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54946,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN078-18e169d70c",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "079",
+        "card": {
+          "name": "Stars Align across the Milky Way",
+          "nameEn": "Stars Align across the Milky Way",
+          "nameOriginal": null,
+          "slug": "stars-align-across-the-milky-way",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54947,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN079-f81bc1db80",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "080",
+        "card": {
+          "name": "The Great Noodle Inversion",
+          "nameEn": "The Great Noodle Inversion",
+          "nameOriginal": null,
+          "slug": "the-great-noodle-inversion",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 54948,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN080-73af23e9cd",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "081",
+        "card": {
+          "name": "Bayerock Dragon",
+          "nameEn": "Bayerock Dragon",
+          "nameOriginal": null,
+          "slug": "bayerock-dragon",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-21T00:00:00.000000Z"
+        },
+        "id": 56183,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN081-d3014799c9",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "082",
+        "card": {
+          "name": "Zalamander Catalyzer",
+          "nameEn": "Zalamander Catalyzer",
+          "nameOriginal": null,
+          "slug": "zalamander-catalyzer",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 56178,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN082-c60c58a500",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "083",
+        "card": {
+          "name": "Tilting Entrainment",
+          "nameEn": "Tilting Entrainment",
+          "nameOriginal": null,
+          "slug": "tilting-entrainment",
+          "archetypeIds": [],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-21T00:00:00.000000Z"
+        },
+        "id": 56175,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN083-71e8ee63de",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "084",
+        "card": {
+          "name": "Destructive Daruma Karma Cannon",
+          "nameEn": "Destructive Daruma Karma Cannon",
+          "nameOriginal": null,
+          "slug": "destructive-daruma-karma-cannon",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2025-12-19T00:00:00.000000Z"
+        },
+        "id": 56130,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN084-324d71b86f",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "085",
+        "card": {
+          "name": "Zep, Ruby of the Ghoti",
+          "nameEn": "Zep, Ruby of the Ghoti",
+          "nameOriginal": null,
+          "slug": "zep-ruby-of-the-ghoti",
+          "archetypeIds": [
+            686
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-21T00:00:00.000000Z"
+        },
+        "id": 56123,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN085-2c88c572b3",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "086",
+        "card": {
+          "name": "Ixeep, Omen of the Ghoti",
+          "nameEn": "Ixeep, Omen of the Ghoti",
+          "nameOriginal": null,
+          "slug": "ixeep-omen-of-the-ghoti",
+          "archetypeIds": [
+            686
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-21T00:00:00.000000Z"
+        },
+        "id": 56121,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN086-73f5f37a54",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "087",
+        "card": {
+          "name": "Snopios, Shade of the Ghoti",
+          "nameEn": "Snopios, Shade of the Ghoti",
+          "nameOriginal": null,
+          "slug": "snopios-shade-of-the-ghoti",
+          "archetypeIds": [
+            686
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-21T00:00:00.000000Z"
+        },
+        "id": 56122,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN087-8f028e8110",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "088",
+        "card": {
+          "name": "Arionpos, Serpent of the Ghoti",
+          "nameEn": "Arionpos, Serpent of the Ghoti",
+          "nameOriginal": null,
+          "slug": "arionpos-serpent-of-the-ghoti",
+          "archetypeIds": [
+            686
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-21T00:00:00.000000Z"
+        },
+        "id": 56124,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN088-6795c3b416",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "089",
+        "card": {
+          "name": "Guoglim, Spear of the Ghoti",
+          "nameEn": "Guoglim, Spear of the Ghoti",
+          "nameOriginal": null,
+          "slug": "guoglim-spear-of-the-ghoti",
+          "archetypeIds": [
+            686
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-21T00:00:00.000000Z"
+        },
+        "id": 56125,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN089-cd502105a1",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "090",
+        "card": {
+          "name": "Ghoti Cosmos",
+          "nameEn": "Ghoti Cosmos",
+          "nameOriginal": null,
+          "slug": "ghoti-cosmos",
+          "archetypeIds": [
+            686
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-21T00:00:00.000000Z"
+        },
+        "id": 56126,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN090-be89790742",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "091",
+        "card": {
+          "name": "Ghoti Fury",
+          "nameEn": "Ghoti Fury",
+          "nameOriginal": null,
+          "slug": "ghoti-fury",
+          "archetypeIds": [
+            686
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-21T00:00:00.000000Z"
+        },
+        "id": 56127,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN091-ad03f24d91",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "092",
+        "card": {
+          "name": "Yorishiro of the Aqua",
+          "nameEn": "Yorishiro of the Aqua",
+          "nameOriginal": null,
+          "slug": "yorishiro-of-the-aqua",
+          "archetypeIds": [
+            651
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 56176,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN092-6923c9cb1e",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "093",
+        "card": {
+          "name": "Amazoness Golden Whip Master",
+          "nameEn": "Amazoness Golden Whip Master",
+          "nameOriginal": null,
+          "slug": "amazoness-golden-whip-master",
+          "archetypeIds": [
+            6,
+            818
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 56181,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN093-5572595792",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "094",
+        "card": {
+          "name": "Amazoness Silver Sword Master",
+          "nameEn": "Amazoness Silver Sword Master",
+          "nameOriginal": null,
+          "slug": "amazoness-silver-sword-master",
+          "archetypeIds": [
+            6,
+            818
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 56184,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN094-d50e911485",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "095",
+        "card": {
+          "name": "Amazoness War Chief",
+          "nameEn": "Amazoness War Chief",
+          "nameOriginal": null,
+          "slug": "amazoness-war-chief",
+          "archetypeIds": [
+            6,
+            818
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 56172,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN095-4f75fee9c7",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "096",
+        "card": {
+          "name": "Amazoness Spiritualist",
+          "nameEn": "Amazoness Spiritualist",
+          "nameOriginal": null,
+          "slug": "amazoness-spiritualist",
+          "archetypeIds": [
+            6,
+            818
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 56182,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN096-028e537c5c",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "097",
+        "card": {
+          "name": "Amazoness Augusta",
+          "nameEn": "Amazoness Augusta",
+          "nameOriginal": null,
+          "slug": "amazoness-augusta",
+          "archetypeIds": [
+            6,
+            818
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 56177,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN097-3c9ed560a3",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "098",
+        "card": {
+          "name": "Amazoness Pet Liger King",
+          "nameEn": "Amazoness Pet Liger King",
+          "nameOriginal": null,
+          "slug": "amazoness-pet-liger-king",
+          "archetypeIds": [
+            6,
+            818
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 56185,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN098-151a61745a",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "099",
+        "card": {
+          "name": "Amazoness Secret Arts",
+          "nameEn": "Amazoness Secret Arts",
+          "nameOriginal": null,
+          "slug": "amazoness-secret-arts",
+          "archetypeIds": [
+            6,
+            818
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2022-10-20T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 56174,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN099-dbeeb5a589",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "100",
+        "card": {
+          "name": "Black-Winged Dragon",
+          "nameEn": "Black-Winged Dragon",
+          "nameOriginal": null,
+          "slug": "black-winged-dragon",
+          "archetypeIds": [
+            799
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2010-05-06T00:00:00.000000Z",
+          "lastPrint": "2025-11-21T00:00:00.000000Z"
+        },
+        "id": 56212,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/L5DD/L5DD-ENC30-a3f19dbef7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      }
+    ],
+    "printsCount": null,
+    "releaseEu": "2022-10-20T00:00:00.000000Z",
+    "releaseEuDayUnknown": false,
+    "releaseEuMonthUnknown": false,
+    "releaseNa": "2022-10-21T00:00:00.000000Z",
+    "releaseNaDayUnknown": false,
+    "releaseNaMonthUnknown": false,
+    "tournamentLegal": null,
+    "setNumber": "DABL",
+    "slug": "darkwing-blast",
+    "scanCounts": {
+      "en": 101,
+      "de": 101
+    }
+  }
+}

@@ -1,0 +1,3353 @@
+{
+  "data": {
+    "archetypes": [
+      {
+        "id": 164,
+        "name": "Nordic",
+        "slug": "nordic",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/OP18/OP18-DE023-941ada6793",
+        "isFirstPrint": false
+      },
+      {
+        "id": 930,
+        "name": "Yusaku Fujiki | Playmaker",
+        "slug": "yusaku-fujiki-playmaker",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/MP22/MP22-DE271-cfc3d0b586",
+        "isFirstPrint": false
+      },
+      {
+        "id": 195,
+        "name": "Salamangreat",
+        "slug": "salamangreat",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LD10/LD10-EN008-84df08109c",
+        "isFirstPrint": true
+      },
+      {
+        "id": 816,
+        "name": "Theodore Hamilton | Soulburner",
+        "slug": "theodore-hamilton-soulburner",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/SDSB/SDSB-DE040-ALT2-3ce70da973",
+        "isFirstPrint": false
+      },
+      {
+        "id": 51,
+        "name": "Dinowrestler",
+        "slug": "dinowrestler",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLC1/BLC1-EN102-1ec379ec16",
+        "isFirstPrint": true
+      },
+      {
+        "id": 914,
+        "name": "George Gore | The Gore | Grim Gore",
+        "slug": "george-gore-the-gore-grim-gore",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/DOOD/DOOD-EN056-ce3f091bad",
+        "isFirstPrint": false
+      },
+      {
+        "id": 87,
+        "name": "Galaxy",
+        "slug": "galaxy",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE042-9fbca7a379",
+        "isFirstPrint": false
+      },
+      {
+        "id": 178,
+        "name": "Photon",
+        "slug": "photon",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MAZE/MAZE-EN046-R-920567c422",
+        "isFirstPrint": false
+      },
+      {
+        "id": 931,
+        "name": "Kite Tenjo",
+        "slug": "kite-tenjo",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LDS2/LDS2-EN056-41693bfd03",
+        "isFirstPrint": false
+      },
+      {
+        "id": 99,
+        "name": "Gravekeeper's",
+        "slug": "gravekeepers",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP19/MP19-DE181-ffd72679e9",
+        "isFirstPrint": false
+      },
+      {
+        "id": 169,
+        "name": "Orcust",
+        "slug": "orcust",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA01/RA01-EN040-SCR-2e0f2d6e88",
+        "isFirstPrint": true
+      },
+      {
+        "id": 244,
+        "name": "World Legacy",
+        "slug": "world-legacy",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DANE/DANE-DE075-44bd68d912",
+        "isFirstPrint": false
+      },
+      {
+        "id": 220,
+        "name": "Thunder Dragon",
+        "slug": "thunder-dragon",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA03/RA03-EN036-SCR-aa7134d28d",
+        "isFirstPrint": false
+      },
+      {
+        "id": 695,
+        "name": "Chaos",
+        "slug": "chaos",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/RA01/RA01-EN065-SCR-ae1baf3a05",
+        "isFirstPrint": false
+      },
+      {
+        "id": 110,
+        "name": "Impcantation",
+        "slug": "impcantation",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/WISU/WISU-EN051-2ae84df8e6",
+        "isFirstPrint": false
+      },
+      {
+        "id": 254,
+        "name": "Cyberse",
+        "slug": "cyberse",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/MGED/MGED-EN135-20e0ad9715",
+        "isFirstPrint": false
+      },
+      {
+        "id": 36,
+        "name": "Crusadia",
+        "slug": "crusadia",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP19/MP19-EN128-9efa1000d0",
+        "isFirstPrint": false
+      },
+      {
+        "id": 84,
+        "name": "Fur Hire",
+        "slug": "fur-hire",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP19/MP19-DE253-49eb5ef422",
+        "isFirstPrint": false
+      },
+      {
+        "id": 202,
+        "name": "Sky Striker",
+        "slug": "sky-striker",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MAMA/MAMA-EN004-6ee923c307",
+        "isFirstPrint": false
+      },
+      {
+        "id": 387,
+        "name": "Trap Monster",
+        "slug": "trap-monster",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/CH02/CH02-EN040-bd5fa12877",
+        "isFirstPrint": false
+      },
+      {
+        "id": 44,
+        "name": "Danger!",
+        "slug": "danger",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CYHO/CYHO-DE087-49bfe7d8a1",
+        "isFirstPrint": false
+      },
+      {
+        "id": 163,
+        "name": "Noble Knight",
+        "slug": "noble-knight",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/AMDE/AMDE-EN052-SR-4f792c124c",
+        "isFirstPrint": false
+      },
+      {
+        "id": 61,
+        "name": "Fluffal",
+        "slug": "fluffal",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/FUEN/FUEN-EN016-3708b8de7a",
+        "isFirstPrint": false
+      },
+      {
+        "id": 180,
+        "name": "Predaplant",
+        "slug": "predaplant",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MAMA/MAMA-EN065-de29a12a2b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 820,
+        "name": "Yuri",
+        "slug": "yuri",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LDS3/LDS3-DE080-e83f86e80b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 311,
+        "name": "D/D/D",
+        "slug": "ddd",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DUOV/DUOV-DE004-df75edf798",
+        "isFirstPrint": false
+      },
+      {
+        "id": 932,
+        "name": "Declan Akaba",
+        "slug": "declan-akaba",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/YA07/YA07-EN001-a6fe8881c1",
+        "isFirstPrint": false
+      },
+      {
+        "id": 148,
+        "name": "Melodious",
+        "slug": "melodious",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LEDE/LEDE-EN036-eb54801fa6",
+        "isFirstPrint": false
+      }
+    ],
+    "archetypesReprint": [],
+    "category": {
+      "name": "Series 10",
+      "slug": "series-10",
+      "sets": [
+        {
+          "image": "https://cardcluster.com/storage/sets/ETCO-a9b49ff90ceb1ff62aaa",
+          "format": 1,
+          "name": "Eternity Code",
+          "releaseEu": "2020-04-30T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2020-06-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "ETCO",
+          "slug": "eternity-code",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/IGAS-ebe47204b65a3d7a2cb2",
+          "format": 1,
+          "name": "Ignition Assault",
+          "releaseEu": "2020-01-30T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2020-01-31T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "IGAS",
+          "slug": "ignition-assault",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/CHIM-b6953945f9ae73024252",
+          "format": 1,
+          "name": "Chaos Impact",
+          "releaseEu": "2019-10-24T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2019-10-25T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CHIM",
+          "slug": "chaos-impact",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/RIRA-7790d9bd7fa0bf086f96",
+          "format": 1,
+          "name": "Rising Rampage",
+          "releaseEu": "2019-07-25T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2019-07-26T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "RIRA",
+          "slug": "rising-rampage",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/DANE-ecd83d94704fce4619a2",
+          "format": 1,
+          "name": "Dark Neostorm",
+          "releaseEu": "2019-05-02T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2019-05-03T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "DANE",
+          "slug": "dark-neostorm",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/SAST-1616d4469888fc7d90e0",
+          "format": 1,
+          "name": "Savage Strike",
+          "releaseEu": "2019-01-31T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2019-02-01T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "SAST",
+          "slug": "savage-strike",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Soul Fusion",
+          "releaseEu": "2018-10-18T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2018-10-19T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "SOFU",
+          "slug": "soul-fusion",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Cybernetic Horizon",
+          "releaseEu": "2018-07-26T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2018-07-27T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CYHO",
+          "slug": "cybernetic-horizon",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Flames of Destruction",
+          "releaseEu": "2018-05-03T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2018-05-04T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "FLOD",
+          "slug": "flames-of-destruction",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Extreme Force",
+          "releaseEu": "2018-02-01T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2018-02-02T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "EXFO",
+          "slug": "extreme-force",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Circuit Break",
+          "releaseEu": "2017-10-19T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2017-10-20T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CIBR",
+          "slug": "circuit-break",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Code of the Duelist",
+          "releaseEu": "2017-08-03T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2017-08-04T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "COTD",
+          "slug": "code-of-the-duelist",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        }
+      ],
+      "setsCount": 12,
+      "format": 1,
+      "parent": {
+        "name": "Core Boosters",
+        "slug": "core-boosters",
+        "setsCount": 102,
+        "format": 1,
+        "parent": {
+          "name": "Booster Packs",
+          "slug": "booster-packs",
+          "setsCount": 326,
+          "format": 1,
+          "parent": null
+        }
+      }
+    },
+    "disableSetList": false,
+    "format": 1,
+    "game": 1,
+    "id": 206,
+    "image": null,
+    "languages": [
+      {
+        "id": 921,
+        "language": "de",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 922,
+        "language": "en",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 923,
+        "language": "fr",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 924,
+        "language": "it",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 925,
+        "language": "pt",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 926,
+        "language": "es",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      }
+    ],
+    "name": "Soul Fusion",
+    "next": {
+      "name": "Savage Strike",
+      "setNumber": "SAST",
+      "slug": "savage-strike",
+      "format": 1,
+      "releaseEu": "2019-01-31T00:00:00.000000Z",
+      "releaseNa": "2019-02-01T00:00:00.000000Z"
+    },
+    "previous": {
+      "name": "Cybernetic Horizon",
+      "setNumber": "CYHO",
+      "slug": "cybernetic-horizon",
+      "format": 1,
+      "releaseEu": "2018-07-26T00:00:00.000000Z",
+      "releaseNa": "2018-07-27T00:00:00.000000Z"
+    },
+    "prints": [
+      {
+        "cardNumber": "000",
+        "card": {
+          "name": "Alviss of the Nordic Alfar",
+          "nameEn": "Alviss of the Nordic Alfar",
+          "nameOriginal": null,
+          "slug": "alviss-of-the-nordic-alfar",
+          "archetypeIds": [
+            164
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6607,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE000-6043bf1467",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "001",
+        "card": {
+          "name": "Clock Wyvern",
+          "nameEn": "Clock Wyvern",
+          "nameOriginal": null,
+          "slug": "clock-wyvern",
+          "archetypeIds": [
+            930
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2021-06-18T00:00:00.000000Z"
+        },
+        "id": 6608,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE001-5112ae3450",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "002",
+        "card": {
+          "name": "Salamangreat Meer",
+          "nameEn": "Salamangreat Meer",
+          "nameOriginal": null,
+          "slug": "salamangreat-meer",
+          "archetypeIds": [
+            195,
+            816
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6609,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE002-86b7c8c2a1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "003",
+        "card": {
+          "name": "Salamangreat Foxy",
+          "nameEn": "Salamangreat Foxy",
+          "nameOriginal": null,
+          "slug": "salamangreat-foxy",
+          "archetypeIds": [
+            195,
+            816
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2023-08-11T00:00:00.000000Z"
+        },
+        "id": 6610,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE003-1ca2b00e4a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "004",
+        "card": {
+          "name": "Salamangreat Falco",
+          "nameEn": "Salamangreat Falco",
+          "nameOriginal": null,
+          "slug": "salamangreat-falco",
+          "archetypeIds": [
+            195,
+            816
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2021-04-16T00:00:00.000000Z"
+        },
+        "id": 6611,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE004-57d7e47bdf",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "005",
+        "card": {
+          "name": "Salamangreat Jack Jaguar",
+          "nameEn": "Salamangreat Jack Jaguar",
+          "nameOriginal": null,
+          "slug": "salamangreat-jack-jaguar",
+          "archetypeIds": [
+            195,
+            816
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2023-08-11T00:00:00.000000Z"
+        },
+        "id": 6612,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE005-27cbf76c08",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "006",
+        "card": {
+          "name": "Dinowrestler Capoeiraptor",
+          "nameEn": "Dinowrestler Capoeiraptor",
+          "nameOriginal": null,
+          "slug": "dinowrestler-capoeiraptor",
+          "archetypeIds": [
+            51,
+            914
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6613,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE006-d1d17b282f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "007",
+        "card": {
+          "name": "Dinowrestler Capaptera",
+          "nameEn": "Dinowrestler Capaptera",
+          "nameOriginal": null,
+          "slug": "dinowrestler-capaptera",
+          "archetypeIds": [
+            51,
+            914
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6614,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE007-ef980f1d7e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "008",
+        "card": {
+          "name": "Dinowrestler Systegosaur",
+          "nameEn": "Dinowrestler Systegosaur",
+          "nameOriginal": null,
+          "slug": "dinowrestler-systegosaur",
+          "archetypeIds": [
+            51,
+            914
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6615,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE008-756ec51931",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "009",
+        "card": {
+          "name": "Dinowrestler Pankratops",
+          "nameEn": "Dinowrestler Pankratops",
+          "nameOriginal": null,
+          "slug": "dinowrestler-pankratops",
+          "archetypeIds": [
+            51,
+            914
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 6616,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE009-e0f79d338b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "010",
+        "card": {
+          "name": "Galaxy Cleric",
+          "nameEn": "Galaxy Cleric",
+          "nameOriginal": null,
+          "slug": "galaxy-cleric",
+          "archetypeIds": [
+            87,
+            178,
+            931
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6617,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE010-3dac698145",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "011",
+        "card": {
+          "name": "Galaxy Brave",
+          "nameEn": "Galaxy Brave",
+          "nameOriginal": null,
+          "slug": "galaxy-brave",
+          "archetypeIds": [
+            87,
+            178,
+            931
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6618,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE011-ed8db1cd13",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "012",
+        "card": {
+          "name": "Gravekeeper's Headman",
+          "nameEn": "Gravekeeper's Headman",
+          "nameOriginal": null,
+          "slug": "gravekeepers-headman",
+          "archetypeIds": [
+            99
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6619,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE012-f5a9cbe910",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "013",
+        "card": {
+          "name": "Gravekeeper's Spiritualist",
+          "nameEn": "Gravekeeper's Spiritualist",
+          "nameOriginal": null,
+          "slug": "gravekeepers-spiritualist",
+          "archetypeIds": [
+            99
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6620,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE013-2342c56d97",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "014",
+        "card": {
+          "name": "Orcust Brass Bombard",
+          "nameEn": "Orcust Brass Bombard",
+          "nameOriginal": null,
+          "slug": "orcust-brass-bombard",
+          "archetypeIds": [
+            169
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2025-08-28T00:00:00.000000Z"
+        },
+        "id": 6621,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE014-8b7b7a9897",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "015",
+        "card": {
+          "name": "Orcust Cymbal Skeleton",
+          "nameEn": "Orcust Cymbal Skeleton",
+          "nameOriginal": null,
+          "slug": "orcust-cymbal-skeleton",
+          "archetypeIds": [
+            169
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2025-08-28T00:00:00.000000Z"
+        },
+        "id": 6622,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE015-f03c9761b1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "016",
+        "card": {
+          "name": "Orcust Harp Horror",
+          "nameEn": "Orcust Harp Horror",
+          "nameOriginal": null,
+          "slug": "orcust-harp-horror",
+          "archetypeIds": [
+            169
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2025-08-28T00:00:00.000000Z"
+        },
+        "id": 6623,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE016-93365671dc",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "017",
+        "card": {
+          "name": "World Legacy - \"World Wand\"",
+          "nameEn": "World Legacy - \"World Wand\"",
+          "nameOriginal": null,
+          "slug": "world-legacy-world-wand",
+          "archetypeIds": [
+            169,
+            244
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2025-08-28T00:00:00.000000Z"
+        },
+        "id": 6624,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE017-8ba04c0169",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "018",
+        "card": {
+          "name": "Thunder Dragonmatrix",
+          "nameEn": "Thunder Dragonmatrix",
+          "nameOriginal": null,
+          "slug": "thunder-dragonmatrix",
+          "archetypeIds": [
+            220
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6625,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE018-16ac672d7f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "019",
+        "card": {
+          "name": "Thunder Dragondark",
+          "nameEn": "Thunder Dragondark",
+          "nameOriginal": null,
+          "slug": "thunder-dragondark",
+          "archetypeIds": [
+            220
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2024-11-08T00:00:00.000000Z"
+        },
+        "id": 6626,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE019-d10f785f38",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "020",
+        "card": {
+          "name": "Thunder Dragonhawk",
+          "nameEn": "Thunder Dragonhawk",
+          "nameOriginal": null,
+          "slug": "thunder-dragonhawk",
+          "archetypeIds": [
+            220
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2025-03-14T00:00:00.000000Z"
+        },
+        "id": 6627,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE020-0eed728282",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "021",
+        "card": {
+          "name": "Thunder Dragonroar",
+          "nameEn": "Thunder Dragonroar",
+          "nameOriginal": null,
+          "slug": "thunder-dragonroar",
+          "archetypeIds": [
+            220
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2025-03-14T00:00:00.000000Z"
+        },
+        "id": 6628,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE021-c90cdbf8eb",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "022",
+        "card": {
+          "name": "Thunder Dragonduo",
+          "nameEn": "Thunder Dragonduo",
+          "nameOriginal": null,
+          "slug": "thunder-dragonduo",
+          "archetypeIds": [
+            220,
+            695
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6629,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE022-fe0d82caac",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "023",
+        "card": {
+          "name": "Impcantation Penciplume",
+          "nameEn": "Impcantation Penciplume",
+          "nameOriginal": null,
+          "slug": "impcantation-penciplume",
+          "archetypeIds": [
+            110
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2023-06-02T00:00:00.000000Z"
+        },
+        "id": 6630,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE023-25e07142a4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "024",
+        "card": {
+          "name": "Impcantation Bookstone",
+          "nameEn": "Impcantation Bookstone",
+          "nameOriginal": null,
+          "slug": "impcantation-bookstone",
+          "archetypeIds": [
+            110
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2023-06-02T00:00:00.000000Z"
+        },
+        "id": 6631,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE024-0b9c2017e7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "025",
+        "card": {
+          "name": "Chaos Dragon Levianeer",
+          "nameEn": "Chaos Dragon Levianeer",
+          "nameOriginal": null,
+          "slug": "chaos-dragon-levianeer",
+          "archetypeIds": [
+            695
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 6632,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE025-01039cddf1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "026",
+        "card": {
+          "name": "Mystrick Hulder",
+          "nameEn": "Mystrick Hulder",
+          "nameOriginal": null,
+          "slug": "mystrick-hulder",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6633,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE026-159a60fb6e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "027",
+        "card": {
+          "name": "Diana the Light Spirit",
+          "nameEn": "Diana the Light Spirit",
+          "nameOriginal": null,
+          "slug": "diana-the-light-spirit",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6634,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE027-7f54c8b6d4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "028",
+        "card": {
+          "name": "Condemned Witch",
+          "nameEn": "Condemned Witch",
+          "nameOriginal": null,
+          "slug": "condemned-witch",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2021-06-18T00:00:00.000000Z"
+        },
+        "id": 6635,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE028-6a1e6c0b80",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "029",
+        "card": {
+          "name": "Bearblocker",
+          "nameEn": "Bearblocker",
+          "nameOriginal": null,
+          "slug": "bearblocker",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2022-08-26T00:00:00.000000Z"
+        },
+        "id": 6636,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE029-b923a663fd",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "030",
+        "card": {
+          "name": "Gokipole",
+          "nameEn": "Gokipole",
+          "nameOriginal": null,
+          "slug": "gokipole",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2022-01-28T00:00:00.000000Z"
+        },
+        "id": 6637,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE030-0c4da2792d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "031",
+        "card": {
+          "name": "Token Collector",
+          "nameEn": "Token Collector",
+          "nameOriginal": null,
+          "slug": "token-collector",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2022-11-18T00:00:00.000000Z"
+        },
+        "id": 6638,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE031-59b832a551",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "032",
+        "card": {
+          "name": "Two-for-One Team",
+          "nameEn": "Two-for-One Team",
+          "nameOriginal": null,
+          "slug": "two-for-one-team",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6639,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE032-95c9a98e41",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "033",
+        "card": {
+          "name": "Salamangreat Emerald Eagle",
+          "nameEn": "Salamangreat Emerald Eagle",
+          "nameOriginal": null,
+          "slug": "salamangreat-emerald-eagle",
+          "archetypeIds": [
+            195,
+            816
+          ],
+          "cardTypeOrder": "14",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6640,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE033-8deb0a38a6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "034",
+        "card": {
+          "name": "Cyberse Clock Dragon",
+          "nameEn": "Cyberse Clock Dragon",
+          "nameOriginal": null,
+          "slug": "cyberse-clock-dragon",
+          "archetypeIds": [
+            254,
+            930
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6641,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE034-7d79e3438a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "035",
+        "card": {
+          "name": "Gravekeeper's Supernaturalist",
+          "nameEn": "Gravekeeper's Supernaturalist",
+          "nameOriginal": null,
+          "slug": "gravekeepers-supernaturalist",
+          "archetypeIds": [
+            99
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6642,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE035-50f8d35043",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "036",
+        "card": {
+          "name": "Thunder Dragon Titan",
+          "nameEn": "Thunder Dragon Titan",
+          "nameOriginal": null,
+          "slug": "thunder-dragon-titan",
+          "archetypeIds": [
+            220
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6643,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE036-c886bada90",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "037",
+        "card": {
+          "name": "Thunder Dragon Colossus",
+          "nameEn": "Thunder Dragon Colossus",
+          "nameOriginal": null,
+          "slug": "thunder-dragon-colossus",
+          "archetypeIds": [
+            220
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2024-11-08T00:00:00.000000Z"
+        },
+        "id": 6644,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE037-2be5154baa",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "038",
+        "card": {
+          "name": "Diplexer Chimera",
+          "nameEn": "Diplexer Chimera",
+          "nameOriginal": null,
+          "slug": "diplexer-chimera",
+          "archetypeIds": [],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6645,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE038-e9424e66f7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "039",
+        "card": {
+          "name": "Clock Spartoi",
+          "nameEn": "Clock Spartoi",
+          "nameOriginal": null,
+          "slug": "clock-spartoi",
+          "archetypeIds": [
+            930
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6646,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE039-7e9bb3b82c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "040",
+        "card": {
+          "name": "Salamangreat Heatleo",
+          "nameEn": "Salamangreat Heatleo",
+          "nameOriginal": null,
+          "slug": "salamangreat-heatleo",
+          "archetypeIds": [
+            195,
+            816
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2023-08-11T00:00:00.000000Z"
+        },
+        "id": 6647,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE040-e782a83df0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "041",
+        "card": {
+          "name": "Dinowrestler King T Wrextle",
+          "nameEn": "Dinowrestler King T Wrextle",
+          "nameOriginal": null,
+          "slug": "dinowrestler-king-t-wrextle",
+          "archetypeIds": [
+            51,
+            914
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6648,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE041-98e3e78869",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "042",
+        "card": {
+          "name": "Galaxy-Eyes Solflare Dragon",
+          "nameEn": "Galaxy-Eyes Solflare Dragon",
+          "nameOriginal": null,
+          "slug": "galaxy-eyes-solflare-dragon",
+          "archetypeIds": [
+            87,
+            178,
+            931
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6649,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE042-9fbca7a379",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "043",
+        "card": {
+          "name": "Galatea, the Orcust Automaton",
+          "nameEn": "Galatea, the Orcust Automaton",
+          "nameOriginal": null,
+          "slug": "galatea-the-orcust-automaton",
+          "archetypeIds": [
+            169
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2025-08-28T00:00:00.000000Z"
+        },
+        "id": 6650,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE043-783a0949f7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "044",
+        "card": {
+          "name": "Longirsu, the Orcust Orchestrator",
+          "nameEn": "Longirsu, the Orcust Orchestrator",
+          "nameOriginal": null,
+          "slug": "longirsu-the-orcust-orchestrator",
+          "archetypeIds": [
+            169
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2025-08-28T00:00:00.000000Z"
+        },
+        "id": 6651,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE044-2ee323e9e1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "045",
+        "card": {
+          "name": "Orcustrion",
+          "nameEn": "Orcustrion",
+          "nameOriginal": null,
+          "slug": "orcustrion",
+          "archetypeIds": [
+            169
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2018-10-19T00:00:00.000000Z"
+        },
+        "id": 6652,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE045-ad1487ccb0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "046",
+        "card": {
+          "name": "Crusadia Spatha",
+          "nameEn": "Crusadia Spatha",
+          "nameOriginal": null,
+          "slug": "crusadia-spatha",
+          "archetypeIds": [
+            36
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6653,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE046-10706d621a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "047",
+        "card": {
+          "name": "Folgo, Justice Fur Hire",
+          "nameEn": "Folgo, Justice Fur Hire",
+          "nameOriginal": null,
+          "slug": "folgo-justice-fur-hire",
+          "archetypeIds": [
+            84
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6654,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE047-44d17ef3eb",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "048",
+        "card": {
+          "name": "Agave Dragon",
+          "nameEn": "Agave Dragon",
+          "nameOriginal": null,
+          "slug": "agave-dragon",
+          "archetypeIds": [],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6655,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE048-3b24760279",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "049",
+        "card": {
+          "name": "Some Summer Summoner",
+          "nameEn": "Some Summer Summoner",
+          "nameOriginal": null,
+          "slug": "some-summer-summoner",
+          "archetypeIds": [],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6656,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE049-5b2c3cdb53",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "050",
+        "card": {
+          "name": "Cynet Fusion",
+          "nameEn": "Cynet Fusion",
+          "nameOriginal": null,
+          "slug": "cynet-fusion",
+          "archetypeIds": [
+            930
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6657,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE050-b42bc48d05",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "051",
+        "card": {
+          "name": "Salamangreat Sanctuary",
+          "nameEn": "Salamangreat Sanctuary",
+          "nameOriginal": null,
+          "slug": "salamangreat-sanctuary",
+          "archetypeIds": [
+            195,
+            816
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2023-08-11T00:00:00.000000Z"
+        },
+        "id": 6658,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE051-c0607b1f54",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "052",
+        "card": {
+          "name": "Rise of the Salamangreat",
+          "nameEn": "Rise of the Salamangreat",
+          "nameOriginal": null,
+          "slug": "rise-of-the-salamangreat",
+          "archetypeIds": [
+            195,
+            816
+          ],
+          "cardTypeOrder": "36",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6659,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE052-e249a0941f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "053",
+        "card": {
+          "name": "Will of the Salamangreat",
+          "nameEn": "Will of the Salamangreat",
+          "nameOriginal": null,
+          "slug": "will-of-the-salamangreat",
+          "archetypeIds": [
+            195,
+            816
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2023-08-11T00:00:00.000000Z"
+        },
+        "id": 6660,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE053-9b5b71b0ae",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "054",
+        "card": {
+          "name": "World Dino Wrestling",
+          "nameEn": "World Dino Wrestling",
+          "nameOriginal": null,
+          "slug": "world-dino-wrestling",
+          "archetypeIds": [
+            51,
+            914
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6661,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE054-cc0473e137",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "055",
+        "card": {
+          "name": "Necrovalley Throne",
+          "nameEn": "Necrovalley Throne",
+          "nameOriginal": null,
+          "slug": "necrovalley-throne",
+          "archetypeIds": [
+            99
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2020-11-13T00:00:00.000000Z"
+        },
+        "id": 6662,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE055-6c609ec3ba",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "056",
+        "card": {
+          "name": "Galaxy Trance",
+          "nameEn": "Galaxy Trance",
+          "nameOriginal": null,
+          "slug": "galaxy-trance",
+          "archetypeIds": [
+            87,
+            178,
+            931
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6663,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE056-343d3ffcb0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "057",
+        "card": {
+          "name": "Orcustrated Babel",
+          "nameEn": "Orcustrated Babel",
+          "nameOriginal": null,
+          "slug": "orcustrated-babel",
+          "archetypeIds": [
+            169
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2025-08-28T00:00:00.000000Z"
+        },
+        "id": 6664,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE057-8c16ac15fa",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "058",
+        "card": {
+          "name": "Orcustrated Return",
+          "nameEn": "Orcustrated Return",
+          "nameOriginal": null,
+          "slug": "orcustrated-return",
+          "archetypeIds": [
+            169,
+            244
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2025-08-28T00:00:00.000000Z"
+        },
+        "id": 6665,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE058-ef6d3558c1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "059",
+        "card": {
+          "name": "Orcustrated Einsatz",
+          "nameEn": "Orcustrated Einsatz",
+          "nameOriginal": null,
+          "slug": "orcustrated-einsatz",
+          "archetypeIds": [
+            169,
+            244
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2018-10-19T00:00:00.000000Z"
+        },
+        "id": 6666,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE059-311a05ca7c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "060",
+        "card": {
+          "name": "Thunder Dragon Fusion",
+          "nameEn": "Thunder Dragon Fusion",
+          "nameOriginal": null,
+          "slug": "thunder-dragon-fusion",
+          "archetypeIds": [
+            220
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6667,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE060-15b4652083",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "061",
+        "card": {
+          "name": "Sky Striker Maneuver - Vector Blast",
+          "nameEn": "Sky Striker Maneuver - Vector Blast",
+          "nameOriginal": null,
+          "slug": "sky-striker-maneuver-vector-blast",
+          "archetypeIds": [
+            202
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2018-10-19T00:00:00.000000Z"
+        },
+        "id": 6668,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE061-9ef2c1fe91",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "062",
+        "card": {
+          "name": "Giant Ballpark",
+          "nameEn": "Giant Ballpark",
+          "nameOriginal": null,
+          "slug": "giant-ballpark",
+          "archetypeIds": [],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6669,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE062-81b53fa8e4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "063",
+        "card": {
+          "name": "Herald of the Abyss",
+          "nameEn": "Herald of the Abyss",
+          "nameOriginal": null,
+          "slug": "herald-of-the-abyss",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2023-12-08T00:00:00.000000Z"
+        },
+        "id": 6670,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE063-ec5078e3a4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "064",
+        "card": {
+          "name": "Concentrating Current",
+          "nameEn": "Concentrating Current",
+          "nameOriginal": null,
+          "slug": "concentrating-current",
+          "archetypeIds": [],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6671,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE064-44014f45e6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "065",
+        "card": {
+          "name": "Extra-Foolish Burial",
+          "nameEn": "Extra-Foolish Burial",
+          "nameOriginal": null,
+          "slug": "extra-foolish-burial",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2020-12-18T00:00:00.000000Z"
+        },
+        "id": 6672,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE065-ef91c50c29",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "066",
+        "card": {
+          "name": "Parallel Panzer",
+          "nameEn": "Parallel Panzer",
+          "nameOriginal": null,
+          "slug": "parallel-panzer",
+          "archetypeIds": [],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6673,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE066-ca0d3ad626",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "067",
+        "card": {
+          "name": "Salamangreat Gift",
+          "nameEn": "Salamangreat Gift",
+          "nameOriginal": null,
+          "slug": "salamangreat-gift",
+          "archetypeIds": [
+            195,
+            816
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6674,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE067-1188d7c0d7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "068",
+        "card": {
+          "name": "Necrovalley Temple",
+          "nameEn": "Necrovalley Temple",
+          "nameOriginal": null,
+          "slug": "necrovalley-temple",
+          "archetypeIds": [
+            99
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6675,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE068-90a2867044",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "069",
+        "card": {
+          "name": "Eternal Galaxy",
+          "nameEn": "Eternal Galaxy",
+          "nameOriginal": null,
+          "slug": "eternal-galaxy",
+          "archetypeIds": [
+            87,
+            178,
+            931
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6676,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE069-346da1a191",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "070",
+        "card": {
+          "name": "Orcustrated Attack",
+          "nameEn": "Orcustrated Attack",
+          "nameOriginal": null,
+          "slug": "orcustrated-attack",
+          "archetypeIds": [
+            169,
+            244
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2018-10-19T00:00:00.000000Z"
+        },
+        "id": 6677,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE070-a6dbc38045",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "071",
+        "card": {
+          "name": "Orcustrated Core",
+          "nameEn": "Orcustrated Core",
+          "nameOriginal": null,
+          "slug": "orcustrated-core",
+          "archetypeIds": [
+            169,
+            244
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2018-10-19T00:00:00.000000Z"
+        },
+        "id": 6678,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE071-161b5fcb8b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "072",
+        "card": {
+          "name": "Thunder Dragons' Hundred Thunders",
+          "nameEn": "Thunder Dragons' Hundred Thunders",
+          "nameOriginal": null,
+          "slug": "thunder-dragons-hundred-thunders",
+          "archetypeIds": [
+            220
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6679,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE072-4f261a8fd7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "073",
+        "card": {
+          "name": "Thunder Dragon Discharge",
+          "nameEn": "Thunder Dragon Discharge",
+          "nameOriginal": null,
+          "slug": "thunder-dragon-discharge",
+          "archetypeIds": [
+            220
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6680,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE073-c9fcdce29b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "074",
+        "card": {
+          "name": "Crusadia Krawler",
+          "nameEn": "Crusadia Krawler",
+          "nameOriginal": null,
+          "slug": "crusadia-krawler",
+          "archetypeIds": [
+            36,
+            244,
+            387
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6681,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE074-a770138b67",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "075",
+        "card": {
+          "name": "Necro Fusion",
+          "nameEn": "Necro Fusion",
+          "nameOriginal": null,
+          "slug": "necro-fusion",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2022-04-15T00:00:00.000000Z"
+        },
+        "id": 6682,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE075-e0a1c8d083",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "076",
+        "card": {
+          "name": "Invincibility Barrier",
+          "nameEn": "Invincibility Barrier",
+          "nameOriginal": null,
+          "slug": "invincibility-barrier",
+          "archetypeIds": [],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6683,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE076-1809ad8327",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "077",
+        "card": {
+          "name": "Toll Hike",
+          "nameEn": "Toll Hike",
+          "nameOriginal": null,
+          "slug": "toll-hike",
+          "archetypeIds": [],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6684,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE077-56ba3e026b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "078",
+        "card": {
+          "name": "Trap Trick",
+          "nameEn": "Trap Trick",
+          "nameOriginal": null,
+          "slug": "trap-trick",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2024-11-08T00:00:00.000000Z"
+        },
+        "id": 6685,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE078-1d0f2a66e3",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "079",
+        "card": {
+          "name": "The Revenge of the Normal",
+          "nameEn": "The Revenge of the Normal",
+          "nameOriginal": null,
+          "slug": "the-revenge-of-the-normal",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6686,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE079-8c43f85988",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "080",
+        "card": {
+          "name": "Subsurface Stage Divers",
+          "nameEn": "Subsurface Stage Divers",
+          "nameOriginal": null,
+          "slug": "subsurface-stage-divers",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6687,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE080-b8fd9ed592",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "081",
+        "card": {
+          "name": "Consolation Prize",
+          "nameEn": "Consolation Prize",
+          "nameOriginal": null,
+          "slug": "consolation-prize",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6688,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE081-619cd8c9b2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "082",
+        "card": {
+          "name": "Danger! Thunderbird!",
+          "nameEn": "Danger! Thunderbird!",
+          "nameOriginal": null,
+          "slug": "danger-thunderbird",
+          "archetypeIds": [
+            44
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2022-12-02T00:00:00.000000Z"
+        },
+        "id": 6689,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE082-8df664312f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "083",
+        "card": {
+          "name": "Danger! Dogman!",
+          "nameEn": "Danger! Dogman!",
+          "nameOriginal": null,
+          "slug": "danger-dogman",
+          "archetypeIds": [
+            44
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6690,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE083-6179d553fa",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "084",
+        "card": {
+          "name": "Danger! Mothman!",
+          "nameEn": "Danger! Mothman!",
+          "nameOriginal": null,
+          "slug": "danger-mothman",
+          "archetypeIds": [
+            44
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2022-12-02T00:00:00.000000Z"
+        },
+        "id": 6691,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE084-452bf20da7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "085",
+        "card": {
+          "name": "Danger!? Tsuchinoko?",
+          "nameEn": "Danger!? Tsuchinoko?",
+          "nameOriginal": null,
+          "slug": "danger-tsuchinoko",
+          "archetypeIds": [
+            44
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 6692,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE085-e7a499b1ba",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "086",
+        "card": {
+          "name": "Danger! Response Team",
+          "nameEn": "Danger! Response Team",
+          "nameOriginal": null,
+          "slug": "danger-response-team",
+          "archetypeIds": [
+            44
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6693,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE086-60787615d5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "087",
+        "card": {
+          "name": "Second Expedition into Danger!",
+          "nameEn": "Second Expedition into Danger!",
+          "nameOriginal": null,
+          "slug": "second-expedition-into-danger",
+          "archetypeIds": [
+            44
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2018-10-19T00:00:00.000000Z"
+        },
+        "id": 6694,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE087-4d34e65a54",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "088",
+        "card": {
+          "name": "Noble Knight Iyvanne",
+          "nameEn": "Noble Knight Iyvanne",
+          "nameOriginal": null,
+          "slug": "noble-knight-iyvanne",
+          "archetypeIds": [
+            163
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6695,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE088-9eb50d0460",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "089",
+        "card": {
+          "name": "Morgan, the Enchantress of Avalon",
+          "nameEn": "Morgan, the Enchantress of Avalon",
+          "nameOriginal": null,
+          "slug": "morgan-the-enchantress-of-avalon",
+          "archetypeIds": [
+            163
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6696,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE089-375e2fe3b6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "090",
+        "card": {
+          "name": "Heritage of the Chalice",
+          "nameEn": "Heritage of the Chalice",
+          "nameOriginal": null,
+          "slug": "heritage-of-the-chalice",
+          "archetypeIds": [
+            163
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6697,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE090-283bca0eb5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "091",
+        "card": {
+          "name": "Until Noble Arms are Needed Once Again",
+          "nameEn": "Until Noble Arms are Needed Once Again",
+          "nameOriginal": null,
+          "slug": "until-noble-arms-are-needed-once-again",
+          "archetypeIds": [
+            163
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6698,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE091-1aa7d0f319",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "092",
+        "card": {
+          "name": "Patchwork Fluffal",
+          "nameEn": "Patchwork Fluffal",
+          "nameOriginal": null,
+          "slug": "patchwork-fluffal",
+          "archetypeIds": [
+            61
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6699,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE092-3813076fa3",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "093",
+        "card": {
+          "name": "Edge Imp Cotton Eater",
+          "nameEn": "Edge Imp Cotton Eater",
+          "nameOriginal": null,
+          "slug": "edge-imp-cotton-eater",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6700,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE093-2e7ea1ab6d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "094",
+        "card": {
+          "name": "Predaplant Dragostapelia",
+          "nameEn": "Predaplant Dragostapelia",
+          "nameOriginal": null,
+          "slug": "predaplant-dragostapelia",
+          "archetypeIds": [
+            180,
+            820
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2023-11-03T00:00:00.000000Z"
+        },
+        "id": 6701,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE094-2d64471329",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "095",
+        "card": {
+          "name": "D/D/D Flame High King Genghis",
+          "nameEn": "D/D/D Flame High King Genghis",
+          "nameOriginal": null,
+          "slug": "ddd-flame-high-king-genghis",
+          "archetypeIds": [
+            311,
+            932
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2019-08-30T00:00:00.000000Z"
+        },
+        "id": 6702,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE095-3812f101c7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "096",
+        "card": {
+          "name": "D/D/D Super Doom King Purple Armageddon",
+          "nameEn": "D/D/D Super Doom King Purple Armageddon",
+          "nameOriginal": null,
+          "slug": "ddd-super-doom-king-purple-armageddon",
+          "archetypeIds": [
+            311,
+            932
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2025-10-15T00:00:00.000000Z"
+        },
+        "id": 6703,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE096-55222fcc20",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "097",
+        "card": {
+          "name": "Predaplast",
+          "nameEn": "Predaplast",
+          "nameOriginal": null,
+          "slug": "predaplast",
+          "archetypeIds": [
+            180,
+            820
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2022-07-22T00:00:00.000000Z"
+        },
+        "id": 6704,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE097-9df41fe5c0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "098",
+        "card": {
+          "name": "Ostinato",
+          "nameEn": "Ostinato",
+          "nameOriginal": null,
+          "slug": "ostinato",
+          "archetypeIds": [
+            148
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2024-11-08T00:00:00.000000Z"
+        },
+        "id": 6705,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE098-bb9015d2c5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "099",
+        "card": {
+          "name": "Frightfur Patchwork",
+          "nameEn": "Frightfur Patchwork",
+          "nameOriginal": null,
+          "slug": "frightfur-patchwork",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2018-10-18T00:00:00.000000Z",
+          "lastPrint": "2025-08-01T00:00:00.000000Z"
+        },
+        "id": 6706,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE099-cbdc55eb00",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      }
+    ],
+    "printsCount": null,
+    "releaseEu": "2018-10-18T00:00:00.000000Z",
+    "releaseEuDayUnknown": false,
+    "releaseEuMonthUnknown": false,
+    "releaseNa": "2018-10-19T00:00:00.000000Z",
+    "releaseNaDayUnknown": false,
+    "releaseNaMonthUnknown": false,
+    "tournamentLegal": null,
+    "setNumber": "SOFU",
+    "slug": "soul-fusion",
+    "scanCounts": {
+      "en": 0,
+      "de": 100
+    }
+  }
+}

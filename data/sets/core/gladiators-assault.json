@@ -1,0 +1,3471 @@
+{
+  "data": {
+    "archetypes": [
+      {
+        "id": 94,
+        "name": "Gladiator Beast",
+        "slug": "gladiator-beast",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP20/MP20-DE165-5f138d40de",
+        "isFirstPrint": true
+      },
+      {
+        "id": 197,
+        "name": "Six Samurai",
+        "slug": "six-samurai",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN039-UR-50d978a242",
+        "isFirstPrint": false
+      },
+      {
+        "id": 33,
+        "name": "Cloudian",
+        "slug": "cloudian",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SGX3/SGX3-DEH13-3c2a951dab",
+        "isFirstPrint": true
+      },
+      {
+        "id": 67,
+        "name": "Evil HERO",
+        "slug": "evil-hero",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SUDA/SUDA-DE067-d1218b8752",
+        "isFirstPrint": true
+      },
+      {
+        "id": 402,
+        "name": "HERO",
+        "slug": "hero",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLC1/BLC1-EN003-ed90406424",
+        "isFirstPrint": false
+      },
+      {
+        "id": 883,
+        "name": "Jaden Yuki",
+        "slug": "jaden-yuki",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/MP23/MP23-DE137-f9450a67ca",
+        "isFirstPrint": false
+      },
+      {
+        "id": 363,
+        "name": "roid",
+        "slug": "roid",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SGX2/SGX2-ENB20-137fba1dd2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 911,
+        "name": "Syrus Truesdale",
+        "slug": "syrus-truesdale",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/SGX2/SGX2-ENB24-5cc198ef63",
+        "isFirstPrint": false
+      },
+      {
+        "id": 8,
+        "name": "Ancient Gear",
+        "slug": "ancient-gear",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LEDE/LEDE-EN055-b47aa98abd",
+        "isFirstPrint": false
+      },
+      {
+        "id": 333,
+        "name": "Goblin",
+        "slug": "goblin",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BP01/BP01-EN118-C-09d7a1ae74",
+        "isFirstPrint": false
+      },
+      {
+        "id": 3,
+        "name": "Alien",
+        "slug": "alien",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/INOV/INOV-DE063-b1b73e6da9",
+        "isFirstPrint": false
+      },
+      {
+        "id": 62,
+        "name": "Elemental HERO",
+        "slug": "elemental-hero",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLC1/BLC1-EN155-c51f580f79",
+        "isFirstPrint": false
+      },
+      {
+        "id": 159,
+        "name": "Neos",
+        "slug": "neos",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MGED/MGED-EN004-be73840665",
+        "isFirstPrint": false
+      },
+      {
+        "id": 701,
+        "name": "Yami Bakura",
+        "slug": "yami-bakura",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LDS3/LDS3-DE021-7aefc0eb4a",
+        "isFirstPrint": false
+      },
+      {
+        "id": 702,
+        "name": "Marik Ishtar | Yami Marik",
+        "slug": "marik-ishtar-yami-marik",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LED7/LED7-DE005-d1440640ac",
+        "isFirstPrint": false
+      },
+      {
+        "id": 858,
+        "name": "Yugi Muto | Yami Yugi",
+        "slug": "yugi-muto-yami-yugi",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/MP22/MP22-EN273-69e63915d2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 827,
+        "name": "Chazz Princeton",
+        "slug": "chazz-princeton",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/BLMR/BLMR-EN002-SCR-8498b5d6a6",
+        "isFirstPrint": false
+      },
+      {
+        "id": 765,
+        "name": "Yako Tenma",
+        "slug": "yako-tenma",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/ANPR/ANPR-DE097-1d6d76a72a",
+        "isFirstPrint": false
+      },
+      {
+        "id": 876,
+        "name": "Seto Kaiba",
+        "slug": "seto-kaiba",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LDS2/LDS2-EN029-UR-6737cf8624",
+        "isFirstPrint": false
+      },
+      {
+        "id": 905,
+        "name": "Chumley Huffington",
+        "slug": "chumley-huffington",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/SGX1/SGX1-ENI13-51ecefcee6",
+        "isFirstPrint": false
+      }
+    ],
+    "archetypesReprint": [],
+    "category": {
+      "name": "Series 5",
+      "slug": "series-5",
+      "sets": [
+        {
+          "image": null,
+          "format": 1,
+          "name": "Light of Destruction",
+          "releaseEu": "2008-05-13T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2008-05-13T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "LODT",
+          "slug": "light-of-destruction",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Phantom Darkness",
+          "releaseEu": "2008-02-08T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2008-02-08T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "PTDN",
+          "slug": "phantom-darkness",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Gladiator's Assault",
+          "releaseEu": "2007-11-14T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2007-11-14T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "GLAS",
+          "slug": "gladiators-assault",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Tactical Evolution",
+          "releaseEu": "2007-08-15T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2007-08-15T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "TAEV",
+          "slug": "tactical-evolution",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Force of the Breaker",
+          "releaseEu": "2007-05-16T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2007-05-16T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "FOTB",
+          "slug": "force-of-the-breaker",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Strike of Neos",
+          "releaseEu": "2007-02-28T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2007-02-28T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "STON",
+          "slug": "strike-of-neos",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Cyberdark Impact",
+          "releaseEu": "2006-11-15T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2006-11-15T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CDIP",
+          "slug": "cyberdark-impact",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Power of the Duelist",
+          "releaseEu": "2006-08-16T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2006-08-16T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "POTD",
+          "slug": "power-of-the-duelist",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        }
+      ],
+      "setsCount": 8,
+      "format": 1,
+      "parent": {
+        "name": "Core Boosters",
+        "slug": "core-boosters",
+        "setsCount": 102,
+        "format": 1,
+        "parent": {
+          "name": "Booster Packs",
+          "slug": "booster-packs",
+          "setsCount": 326,
+          "format": 1,
+          "parent": null
+        }
+      }
+    },
+    "disableSetList": false,
+    "format": 1,
+    "game": 1,
+    "id": 301,
+    "image": null,
+    "languages": [
+      {
+        "id": 678,
+        "language": "de",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 679,
+        "language": "en",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 680,
+        "language": "fr",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 681,
+        "language": "it",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 682,
+        "language": "es",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      }
+    ],
+    "name": "Gladiator's Assault",
+    "next": {
+      "name": "Phantom Darkness",
+      "setNumber": "PTDN",
+      "slug": "phantom-darkness",
+      "format": 1,
+      "releaseEu": "2008-02-08T00:00:00.000000Z",
+      "releaseNa": "2008-02-08T00:00:00.000000Z"
+    },
+    "previous": {
+      "name": "Tactical Evolution",
+      "setNumber": "TAEV",
+      "slug": "tactical-evolution",
+      "format": 1,
+      "releaseEu": "2007-08-15T00:00:00.000000Z",
+      "releaseNa": "2007-08-15T00:00:00.000000Z"
+    },
+    "prints": [
+      {
+        "cardNumber": "000",
+        "card": {
+          "name": "Gladiator Beast Octavius",
+          "nameEn": "Gladiator Beast Octavius",
+          "nameOriginal": null,
+          "slug": "gladiator-beast-octavius",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2011-10-20T00:00:00.000000Z"
+        },
+        "id": 16790,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LCGX/LCGX-DE235-f60fd967af",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "001",
+        "card": {
+          "name": "Chamberlain of the Six Samurai",
+          "nameEn": "Chamberlain of the Six Samurai",
+          "nameOriginal": null,
+          "slug": "chamberlain-of-the-six-samurai",
+          "archetypeIds": [
+            197
+          ],
+          "cardTypeOrder": "13",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2014-07-11T00:00:00.000000Z"
+        },
+        "id": 16791,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LCGX/LCGX-DE222-9289489161",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "002",
+        "card": {
+          "name": "Cloudian - Smoke Ball",
+          "nameEn": "Cloudian - Smoke Ball",
+          "nameOriginal": null,
+          "slug": "cloudian-smoke-ball",
+          "archetypeIds": [
+            33
+          ],
+          "cardTypeOrder": "13",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16792,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE002-a0380b9998",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "003",
+        "card": {
+          "name": "Evil HERO Malicious Edge",
+          "nameEn": "Evil HERO Malicious Edge",
+          "nameOriginal": null,
+          "slug": "evil-hero-malicious-edge",
+          "archetypeIds": [
+            67,
+            402,
+            883
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16793,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DP06/DP06-DE006-ef95635eea",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "003",
+        "card": {
+          "name": "Evil HERO Malicious Edge",
+          "nameEn": "Evil HERO Malicious Edge",
+          "nameOriginal": null,
+          "slug": "evil-hero-malicious-edge",
+          "archetypeIds": [
+            67,
+            402,
+            883
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16885,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DP06/DP06-DE006-ef95635eea",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "004",
+        "card": {
+          "name": "Evil HERO Infernal Gainer",
+          "nameEn": "Evil HERO Infernal Gainer",
+          "nameOriginal": null,
+          "slug": "evil-hero-infernal-gainer",
+          "archetypeIds": [
+            67,
+            402,
+            883
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16794,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DP06/DP06-DE007-2ebb5d8c67",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "005",
+        "card": {
+          "name": "Cloudian - Eye of the Typhoon",
+          "nameEn": "Cloudian - Eye of the Typhoon",
+          "nameOriginal": null,
+          "slug": "cloudian-eye-of-the-typhoon",
+          "archetypeIds": [
+            33
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16795,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SGX3/SGX3-DEH02-8f774c20e3",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "005",
+        "card": {
+          "name": "Cloudian - Eye of the Typhoon",
+          "nameEn": "Cloudian - Eye of the Typhoon",
+          "nameOriginal": null,
+          "slug": "cloudian-eye-of-the-typhoon",
+          "archetypeIds": [
+            33
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16886,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SGX3/SGX3-DEH02-8f774c20e3",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "006",
+        "card": {
+          "name": "Cloudian - Ghost Fog",
+          "nameEn": "Cloudian - Ghost Fog",
+          "nameOriginal": null,
+          "slug": "cloudian-ghost-fog",
+          "archetypeIds": [
+            33
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16796,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE006-c342aa9b2e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "007",
+        "card": {
+          "name": "Cloudian - Nimbusman",
+          "nameEn": "Cloudian - Nimbusman",
+          "nameOriginal": null,
+          "slug": "cloudian-nimbusman",
+          "archetypeIds": [
+            33
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16797,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE007-ffaee6c4f8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "008",
+        "card": {
+          "name": "Cloudian - Sheep Cloud",
+          "nameEn": "Cloudian - Sheep Cloud",
+          "nameOriginal": null,
+          "slug": "cloudian-sheep-cloud",
+          "archetypeIds": [
+            33
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16798,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE008-SR-7e279617da",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "008",
+        "card": {
+          "name": "Cloudian - Sheep Cloud",
+          "nameEn": "Cloudian - Sheep Cloud",
+          "nameOriginal": null,
+          "slug": "cloudian-sheep-cloud",
+          "archetypeIds": [
+            33
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16887,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE008-SR-7e279617da",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "009",
+        "card": {
+          "name": "Cloudian - Poison Cloud",
+          "nameEn": "Cloudian - Poison Cloud",
+          "nameOriginal": null,
+          "slug": "cloudian-poison-cloud",
+          "archetypeIds": [
+            33
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2012-05-29T00:00:00.000000Z"
+        },
+        "id": 16799,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE009-13a014f8ee",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "010",
+        "card": {
+          "name": "Cloudian - Acid Cloud",
+          "nameEn": "Cloudian - Acid Cloud",
+          "nameOriginal": null,
+          "slug": "cloudian-acid-cloud",
+          "archetypeIds": [
+            33
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16800,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE010-1b2f48d2c9",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "011",
+        "card": {
+          "name": "Cloudian - Cirrostratus",
+          "nameEn": "Cloudian - Cirrostratus",
+          "nameOriginal": null,
+          "slug": "cloudian-cirrostratus",
+          "archetypeIds": [
+            33
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16801,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE011-fd81b559ba",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "012",
+        "card": {
+          "name": "Cloudian - Altus",
+          "nameEn": "Cloudian - Altus",
+          "nameOriginal": null,
+          "slug": "cloudian-altus",
+          "archetypeIds": [
+            33
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16802,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE012-0e63e64b0a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "013",
+        "card": {
+          "name": "Cloudian - Turbulence",
+          "nameEn": "Cloudian - Turbulence",
+          "nameOriginal": null,
+          "slug": "cloudian-turbulence",
+          "archetypeIds": [
+            33
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16803,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE013-1d58b4ae61",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "014",
+        "card": {
+          "name": "Truckroid",
+          "nameEn": "Truckroid",
+          "nameOriginal": null,
+          "slug": "truckroid",
+          "archetypeIds": [
+            363,
+            911
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2022-10-07T00:00:00.000000Z"
+        },
+        "id": 16804,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE014-30fa4f3599",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "015",
+        "card": {
+          "name": "Stealthroid",
+          "nameEn": "Stealthroid",
+          "nameOriginal": null,
+          "slug": "stealthroid",
+          "archetypeIds": [
+            363,
+            911
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2022-10-07T00:00:00.000000Z"
+        },
+        "id": 16805,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE015-6cb47822e6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "016",
+        "card": {
+          "name": "Expressroid",
+          "nameEn": "Expressroid",
+          "nameOriginal": null,
+          "slug": "expressroid",
+          "archetypeIds": [
+            363,
+            911
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2022-10-07T00:00:00.000000Z"
+        },
+        "id": 16806,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SGX2/SGX2-ENB07-4e0ee6202e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "017",
+        "card": {
+          "name": "Gladiator Beast Alexander",
+          "nameEn": "Gladiator Beast Alexander",
+          "nameOriginal": null,
+          "slug": "gladiator-beast-alexander",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2025-06-18T00:00:00.000000Z"
+        },
+        "id": 16807,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE017-SR-139078f738",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "017",
+        "card": {
+          "name": "Gladiator Beast Alexander",
+          "nameEn": "Gladiator Beast Alexander",
+          "nameOriginal": null,
+          "slug": "gladiator-beast-alexander",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2025-06-18T00:00:00.000000Z"
+        },
+        "id": 16888,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE017-SR-139078f738",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "018",
+        "card": {
+          "name": "Gladiator Beast Spartacus",
+          "nameEn": "Gladiator Beast Spartacus",
+          "nameOriginal": null,
+          "slug": "gladiator-beast-spartacus",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16808,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE018-8238641cbd",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "019",
+        "card": {
+          "name": "Gladiator Beast Murmillo",
+          "nameEn": "Gladiator Beast Murmillo",
+          "nameOriginal": null,
+          "slug": "gladiator-beast-murmillo",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2025-06-18T00:00:00.000000Z"
+        },
+        "id": 16809,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LCGX/LCGX-DE236-191859da1e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "020",
+        "card": {
+          "name": "Gladiator Beast Bestiari",
+          "nameEn": "Gladiator Beast Bestiari",
+          "nameOriginal": null,
+          "slug": "gladiator-beast-bestiari",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2025-03-14T00:00:00.000000Z"
+        },
+        "id": 16810,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MZTM/MZTM-DE066-31531105b2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "021",
+        "card": {
+          "name": "Gladiator Beast Laquari",
+          "nameEn": "Gladiator Beast Laquari",
+          "nameOriginal": null,
+          "slug": "gladiator-beast-laquari",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2025-06-18T00:00:00.000000Z"
+        },
+        "id": 16811,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MZTM/MZTM-DE067-e56482bcce",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "022",
+        "card": {
+          "name": "Gladiator Beast Hoplomus",
+          "nameEn": "Gladiator Beast Hoplomus",
+          "nameOriginal": null,
+          "slug": "gladiator-beast-hoplomus",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2011-10-20T00:00:00.000000Z"
+        },
+        "id": 16812,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LCGX/LCGX-DE239-f9eb72c5aa",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "023",
+        "card": {
+          "name": "Gladiator Beast Dimacari",
+          "nameEn": "Gladiator Beast Dimacari",
+          "nameOriginal": null,
+          "slug": "gladiator-beast-dimacari",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2025-06-18T00:00:00.000000Z"
+        },
+        "id": 16813,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE023-42c0ff5403",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "024",
+        "card": {
+          "name": "Gladiator Beast Secutor",
+          "nameEn": "Gladiator Beast Secutor",
+          "nameOriginal": null,
+          "slug": "gladiator-beast-secutor",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2025-06-18T00:00:00.000000Z"
+        },
+        "id": 16814,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LCGX/LCGX-DE240-f60f638caf",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "025",
+        "card": {
+          "name": "Test Ape",
+          "nameEn": "Test Ape",
+          "nameOriginal": null,
+          "slug": "test-ape",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16815,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE025-70e5c213ff",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "026",
+        "card": {
+          "name": "Witch Doctor of Sparta",
+          "nameEn": "Witch Doctor of Sparta",
+          "nameOriginal": null,
+          "slug": "witch-doctor-of-sparta",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16816,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE026-eb103c0abd",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "027",
+        "card": {
+          "name": "Infinity Dark",
+          "nameEn": "Infinity Dark",
+          "nameOriginal": null,
+          "slug": "infinity-dark",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16817,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE027-fb55d43115",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "028",
+        "card": {
+          "name": "Magical Reflect Slime",
+          "nameEn": "Magical Reflect Slime",
+          "nameOriginal": null,
+          "slug": "magical-reflect-slime",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-08-25T00:00:00.000000Z"
+        },
+        "id": 16818,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SBC1/SBC1-DEH08-3bfff0e5d8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "029",
+        "card": {
+          "name": "Ancient Gear Knight",
+          "nameEn": "Ancient Gear Knight",
+          "nameOriginal": null,
+          "slug": "ancient-gear-knight",
+          "archetypeIds": [
+            8
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2022-04-01T00:00:00.000000Z"
+        },
+        "id": 16819,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SGX1/SGX1-END10-017ce875d8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "030",
+        "card": {
+          "name": "Goblin Black Ops",
+          "nameEn": "Goblin Black Ops",
+          "nameOriginal": null,
+          "slug": "goblin-black-ops",
+          "archetypeIds": [
+            333
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16820,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE030-45ffb7d7ab",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "031",
+        "card": {
+          "name": "Gambler of Legend",
+          "nameEn": "Gambler of Legend",
+          "nameOriginal": null,
+          "slug": "gambler-of-legend",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16821,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE031-229c283241",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "032",
+        "card": {
+          "name": "Enishi, Shien's Chancellor",
+          "nameEn": "Enishi, Shien's Chancellor",
+          "nameOriginal": null,
+          "slug": "enishi-shiens-chancellor",
+          "archetypeIds": [
+            197
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2017-12-01T00:00:00.000000Z"
+        },
+        "id": 16822,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LCGX/LCGX-DE241-d538328f25",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "032",
+        "card": {
+          "name": "Enishi, Shien's Chancellor",
+          "nameEn": "Enishi, Shien's Chancellor",
+          "nameOriginal": null,
+          "slug": "enishi-shiens-chancellor",
+          "archetypeIds": [
+            197
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2017-12-01T00:00:00.000000Z"
+        },
+        "id": 16889,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LCGX/LCGX-DE241-d538328f25",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "033",
+        "card": {
+          "name": "Spirit of the Six Samurai",
+          "nameEn": "Spirit of the Six Samurai",
+          "nameOriginal": null,
+          "slug": "spirit-of-the-six-samurai",
+          "archetypeIds": [
+            197
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2012-06-26T00:00:00.000000Z"
+        },
+        "id": 16823,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE033-8bb6cd2059",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "034",
+        "card": {
+          "name": "Alien Telepath",
+          "nameEn": "Alien Telepath",
+          "nameOriginal": null,
+          "slug": "alien-telepath",
+          "archetypeIds": [
+            3
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16824,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": null,
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "035",
+        "card": {
+          "name": "Alien Hypno",
+          "nameEn": "Alien Hypno",
+          "nameOriginal": null,
+          "slug": "alien-hypno",
+          "archetypeIds": [
+            3
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16825,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE035-9ed3a8f100",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "036",
+        "card": {
+          "name": "Elemental HERO Chaos Neos",
+          "nameEn": "Elemental HERO Chaos Neos",
+          "nameOriginal": null,
+          "slug": "elemental-hero-chaos-neos",
+          "archetypeIds": [
+            62,
+            159,
+            402,
+            883
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2024-02-23T00:00:00.000000Z"
+        },
+        "id": 16826,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BLC1/BLC1-EN140-10fc90d1a6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "036",
+        "card": {
+          "name": "Elemental HERO Chaos Neos",
+          "nameEn": "Elemental HERO Chaos Neos",
+          "nameOriginal": null,
+          "slug": "elemental-hero-chaos-neos",
+          "archetypeIds": [
+            62,
+            159,
+            402,
+            883
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2024-02-23T00:00:00.000000Z"
+        },
+        "id": 16890,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 8,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BLC1/BLC1-EN140-10fc90d1a6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "037",
+        "card": {
+          "name": "Elemental HERO Plasma Vice",
+          "nameEn": "Elemental HERO Plasma Vice",
+          "nameOriginal": null,
+          "slug": "elemental-hero-plasma-vice",
+          "archetypeIds": [
+            62,
+            402,
+            883
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-09T00:00:00.000000Z"
+        },
+        "id": 16827,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SGX1/SGX1-ENA26-3e04e0307d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "038",
+        "card": {
+          "name": "Evil HERO Inferno Wing",
+          "nameEn": "Evil HERO Inferno Wing",
+          "nameOriginal": null,
+          "slug": "evil-hero-inferno-wing",
+          "archetypeIds": [
+            67,
+            402,
+            883
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16828,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SGX3/SGX3-DEA22-96940ebb2f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "038",
+        "card": {
+          "name": "Evil HERO Inferno Wing",
+          "nameEn": "Evil HERO Inferno Wing",
+          "nameOriginal": null,
+          "slug": "evil-hero-inferno-wing",
+          "archetypeIds": [
+            67,
+            402,
+            883
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16891,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SGX3/SGX3-DEA22-96940ebb2f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "039",
+        "card": {
+          "name": "Evil HERO Lightning Golem",
+          "nameEn": "Evil HERO Lightning Golem",
+          "nameOriginal": null,
+          "slug": "evil-hero-lightning-golem",
+          "archetypeIds": [
+            67,
+            402,
+            883
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16829,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SGX3/SGX3-DEA25-7a36cb3051",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "039",
+        "card": {
+          "name": "Evil HERO Lightning Golem",
+          "nameEn": "Evil HERO Lightning Golem",
+          "nameOriginal": null,
+          "slug": "evil-hero-lightning-golem",
+          "archetypeIds": [
+            67,
+            402,
+            883
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16892,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SGX3/SGX3-DEA25-7a36cb3051",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "040",
+        "card": {
+          "name": "Evil HERO Dark Gaia",
+          "nameEn": "Evil HERO Dark Gaia",
+          "nameOriginal": null,
+          "slug": "evil-hero-dark-gaia",
+          "archetypeIds": [
+            67,
+            402,
+            883
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-09-06T00:00:00.000000Z"
+        },
+        "id": 16830,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DP06/DP06-DE010-f31fe3ed13",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "041",
+        "card": {
+          "name": "Super Vehicroid - Stealth Union",
+          "nameEn": "Super Vehicroid - Stealth Union",
+          "nameOriginal": null,
+          "slug": "super-vehicroid-stealth-union",
+          "archetypeIds": [
+            363,
+            911
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2022-10-07T00:00:00.000000Z"
+        },
+        "id": 16831,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SGX2/SGX2-ENB24-5cc198ef63",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "042",
+        "card": {
+          "name": "Superalloy Beast Raptinus",
+          "nameEn": "Superalloy Beast Raptinus",
+          "nameOriginal": null,
+          "slug": "superalloy-beast-raptinus",
+          "archetypeIds": [],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16832,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE042-0d05a979cc",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "043",
+        "card": {
+          "name": "Gladiator Beast Gaiodiaz",
+          "nameEn": "Gladiator Beast Gaiodiaz",
+          "nameOriginal": null,
+          "slug": "gladiator-beast-gaiodiaz",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16833,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": null,
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "044",
+        "card": {
+          "name": "Gladiator Beast Heraklinos",
+          "nameEn": "Gladiator Beast Heraklinos",
+          "nameOriginal": null,
+          "slug": "gladiator-beast-heraklinos",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2025-03-14T00:00:00.000000Z"
+        },
+        "id": 16834,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MZTM/MZTM-DE084-e6aaeeafac",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "045",
+        "card": {
+          "name": "Contact Out",
+          "nameEn": "Contact Out",
+          "nameOriginal": null,
+          "slug": "contact-out",
+          "archetypeIds": [
+            159
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16835,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE045-52b673a43a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "046",
+        "card": {
+          "name": "Swing of Memories",
+          "nameEn": "Swing of Memories",
+          "nameOriginal": null,
+          "slug": "swing-of-memories",
+          "archetypeIds": [
+            883
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2024-01-26T00:00:00.000000Z"
+        },
+        "id": 16836,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/STAX/STAX-EN030-73538b377f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "047",
+        "card": {
+          "name": "Dark Fusion",
+          "nameEn": "Dark Fusion",
+          "nameOriginal": null,
+          "slug": "dark-fusion",
+          "archetypeIds": [
+            883
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2025-02-26T00:00:00.000000Z"
+        },
+        "id": 16837,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DP06/DP06-DE018-850ab6f4ee",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "048",
+        "card": {
+          "name": "Diamond-Dust Cyclone",
+          "nameEn": "Diamond-Dust Cyclone",
+          "nameOriginal": null,
+          "slug": "diamond-dust-cyclone",
+          "archetypeIds": [],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16838,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SGX3/SGX3-DEH16-5e49234761",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "049",
+        "card": {
+          "name": "Summon Cloud",
+          "nameEn": "Summon Cloud",
+          "nameOriginal": null,
+          "slug": "summon-cloud",
+          "archetypeIds": [
+            33
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16839,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE049-cff89c7e7c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "050",
+        "card": {
+          "name": "Lucky Cloud",
+          "nameEn": "Lucky Cloud",
+          "nameOriginal": null,
+          "slug": "lucky-cloud",
+          "archetypeIds": [
+            33
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16840,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE050-df47ddb43b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "051",
+        "card": {
+          "name": "Fog Control",
+          "nameEn": "Fog Control",
+          "nameOriginal": null,
+          "slug": "fog-control",
+          "archetypeIds": [
+            33
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16841,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE051-84a8125733",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "052",
+        "card": {
+          "name": "Cloudian Squall",
+          "nameEn": "Cloudian Squall",
+          "nameOriginal": null,
+          "slug": "cloudian-squall",
+          "archetypeIds": [],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16842,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE052-7513e6a758",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "053",
+        "card": {
+          "name": "Super Double Summon",
+          "nameEn": "Super Double Summon",
+          "nameOriginal": null,
+          "slug": "super-double-summon",
+          "archetypeIds": [],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16843,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE053-8c85da4262",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "054",
+        "card": {
+          "name": "Colosseum - Cage of the Gladiator Beasts",
+          "nameEn": "Colosseum - Cage of the Gladiator Beasts",
+          "nameOriginal": null,
+          "slug": "colosseum-cage-of-the-gladiator-beasts",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16844,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE054-c356c883b2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "055",
+        "card": {
+          "name": "Gladiator Beast's Battle Halberd",
+          "nameEn": "Gladiator Beast's Battle Halberd",
+          "nameOriginal": null,
+          "slug": "gladiator-beasts-battle-halberd",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16845,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE055-b14acb2a2c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "056",
+        "card": {
+          "name": "Gladiator Beast's Battle Gladius",
+          "nameEn": "Gladiator Beast's Battle Gladius",
+          "nameOriginal": null,
+          "slug": "gladiator-beasts-battle-gladius",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16846,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE056-44ce4ea179",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "057",
+        "card": {
+          "name": "Gladiator Beast's Battle Manica",
+          "nameEn": "Gladiator Beast's Battle Manica",
+          "nameOriginal": null,
+          "slug": "gladiator-beasts-battle-manica",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16847,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE057-6b38e53c58",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "058",
+        "card": {
+          "name": "Gladiator Beast's Respite",
+          "nameEn": "Gladiator Beast's Respite",
+          "nameOriginal": null,
+          "slug": "gladiator-beasts-respite",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2025-06-18T00:00:00.000000Z"
+        },
+        "id": 16848,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LCGX/LCGX-DE254-d43ff41ef2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "059",
+        "card": {
+          "name": "Gladiator's Return",
+          "nameEn": "Gladiator's Return",
+          "nameOriginal": null,
+          "slug": "gladiators-return",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2012-02-21T00:00:00.000000Z"
+        },
+        "id": 16849,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LCGX/LCGX-DE255-69e74a2ea8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "060",
+        "card": {
+          "name": "Soul Devouring Bamboo Sword",
+          "nameEn": "Soul Devouring Bamboo Sword",
+          "nameOriginal": null,
+          "slug": "soul-devouring-bamboo-sword",
+          "archetypeIds": [],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2022-10-26T00:00:00.000000Z"
+        },
+        "id": 16850,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE060-7b039c464b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "061",
+        "card": {
+          "name": "Cunning of the Six Samurai",
+          "nameEn": "Cunning of the Six Samurai",
+          "nameOriginal": null,
+          "slug": "cunning-of-the-six-samurai",
+          "archetypeIds": [
+            197
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2012-06-26T00:00:00.000000Z"
+        },
+        "id": 16851,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/RYMP/RYMP-DE109-8869375917",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "061",
+        "card": {
+          "name": "Cunning of the Six Samurai",
+          "nameEn": "Cunning of the Six Samurai",
+          "nameOriginal": null,
+          "slug": "cunning-of-the-six-samurai",
+          "archetypeIds": [
+            197
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2012-06-26T00:00:00.000000Z"
+        },
+        "id": 16893,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/RYMP/RYMP-DE109-8869375917",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "062",
+        "card": {
+          "name": "\"A\" Cell Incubator",
+          "nameEn": "\"A\" Cell Incubator",
+          "nameOriginal": null,
+          "slug": "a-cell-incubator",
+          "archetypeIds": [],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16852,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE062-b4fbea47dd",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "063",
+        "card": {
+          "name": "Over Limit",
+          "nameEn": "Over Limit",
+          "nameOriginal": null,
+          "slug": "over-limit",
+          "archetypeIds": [
+            883
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2008-01-22T00:00:00.000000Z"
+        },
+        "id": 16853,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/DP06/DP06-DE024-3951052117",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "064",
+        "card": {
+          "name": "No Entry!!",
+          "nameEn": "No Entry!!",
+          "nameOriginal": null,
+          "slug": "no-entry",
+          "archetypeIds": [
+            911
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2024-01-26T00:00:00.000000Z"
+        },
+        "id": 16854,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE064-b5d1d9dc4f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "065",
+        "card": {
+          "name": "Natural Disaster",
+          "nameEn": "Natural Disaster",
+          "nameOriginal": null,
+          "slug": "natural-disaster",
+          "archetypeIds": [
+            33
+          ],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16855,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE065-c15b662e4c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "066",
+        "card": {
+          "name": "Rain Storm",
+          "nameEn": "Rain Storm",
+          "nameOriginal": null,
+          "slug": "rain-storm",
+          "archetypeIds": [
+            33
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16856,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE066-4f57eb722a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "067",
+        "card": {
+          "name": "Updraft",
+          "nameEn": "Updraft",
+          "nameOriginal": null,
+          "slug": "updraft",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16857,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE067-SR-e646df63df",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "067",
+        "card": {
+          "name": "Updraft",
+          "nameEn": "Updraft",
+          "nameOriginal": null,
+          "slug": "updraft",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16894,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE067-SR-e646df63df",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "068",
+        "card": {
+          "name": "Release from Stone",
+          "nameEn": "Release from Stone",
+          "nameOriginal": null,
+          "slug": "release-from-stone",
+          "archetypeIds": [],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": null
+        },
+        "id": 16858,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE068-58397dd3b0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "069",
+        "card": {
+          "name": "Light-Imprisoning Mirror",
+          "nameEn": "Light-Imprisoning Mirror",
+          "nameOriginal": null,
+          "slug": "light-imprisoning-mirror",
+          "archetypeIds": [],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": null
+        },
+        "id": 16859,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE069-0bfdabe075",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "070",
+        "card": {
+          "name": "Shadow-Imprisoning Mirror",
+          "nameEn": "Shadow-Imprisoning Mirror",
+          "nameOriginal": null,
+          "slug": "shadow-imprisoning-mirror",
+          "archetypeIds": [],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": null
+        },
+        "id": 16860,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE070-16e69d20d0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "071",
+        "card": {
+          "name": "Disarm",
+          "nameEn": "Disarm",
+          "nameOriginal": null,
+          "slug": "disarm",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16861,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE071-ae7c47cc8b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "072",
+        "card": {
+          "name": "Parry",
+          "nameEn": "Parry",
+          "nameOriginal": null,
+          "slug": "parry",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16862,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE072-36f8319edf",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "073",
+        "card": {
+          "name": "Swiftstrike Armor",
+          "nameEn": "Swiftstrike Armor",
+          "nameOriginal": null,
+          "slug": "swiftstrike-armor",
+          "archetypeIds": [
+            197
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2011-10-20T00:00:00.000000Z"
+        },
+        "id": 16863,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE073-2e5bd07310",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "074",
+        "card": {
+          "name": "Double-Edged Sword Technique",
+          "nameEn": "Double-Edged Sword Technique",
+          "nameOriginal": null,
+          "slug": "double-edged-sword-technique",
+          "archetypeIds": [
+            197
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2017-11-17T00:00:00.000000Z"
+        },
+        "id": 16864,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE074-2c9f766a5f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "075",
+        "card": {
+          "name": "Energy-Absorbing Monolith",
+          "nameEn": "Energy-Absorbing Monolith",
+          "nameOriginal": null,
+          "slug": "energy-absorbing-monolith",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16865,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": null,
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "075",
+        "card": {
+          "name": "Energy-Absorbing Monolith",
+          "nameEn": "Energy-Absorbing Monolith",
+          "nameOriginal": null,
+          "slug": "energy-absorbing-monolith",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16895,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": null,
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "076",
+        "card": {
+          "name": "Cell Explosion Virus",
+          "nameEn": "Cell Explosion Virus",
+          "nameOriginal": null,
+          "slug": "cell-explosion-virus",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2009-01-05T00:00:00.000000Z"
+        },
+        "id": 16866,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CP08/CP08-DE020-0f48848a75",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "077",
+        "card": {
+          "name": "Detonator Circle \"A\"",
+          "nameEn": "Detonator Circle \"A\"",
+          "nameOriginal": null,
+          "slug": "detonator-circle-a",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16867,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE077-3baa67d404",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "078",
+        "card": {
+          "name": "Interdimensional Warp",
+          "nameEn": "Interdimensional Warp",
+          "nameOriginal": null,
+          "slug": "interdimensional-warp",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16868,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE078-186909e4a3",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "079",
+        "card": {
+          "name": "Foolish Revival",
+          "nameEn": "Foolish Revival",
+          "nameOriginal": null,
+          "slug": "foolish-revival",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16869,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": null,
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "080",
+        "card": {
+          "name": "An Unfortunate Report",
+          "nameEn": "An Unfortunate Report",
+          "nameOriginal": null,
+          "slug": "an-unfortunate-report",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16870,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE080-c653b5b575",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "081",
+        "card": {
+          "name": "Gladiator Beast Torax",
+          "nameEn": "Gladiator Beast Torax",
+          "nameOriginal": null,
+          "slug": "gladiator-beast-torax",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16871,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE081-119cb258b2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "081",
+        "card": {
+          "name": "Gladiator Beast Torax",
+          "nameEn": "Gladiator Beast Torax",
+          "nameOriginal": null,
+          "slug": "gladiator-beast-torax",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16896,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE081-119cb258b2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "082",
+        "card": {
+          "name": "Test Tiger",
+          "nameEn": "Test Tiger",
+          "nameOriginal": null,
+          "slug": "test-tiger",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2024-11-08T00:00:00.000000Z"
+        },
+        "id": 16872,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LCGX/LCGX-DE242-5c508349d7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "082",
+        "card": {
+          "name": "Test Tiger",
+          "nameEn": "Test Tiger",
+          "nameOriginal": null,
+          "slug": "test-tiger",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2024-11-08T00:00:00.000000Z"
+        },
+        "id": 16897,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LCGX/LCGX-DE242-5c508349d7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "083",
+        "card": {
+          "name": "Defensive Tactics",
+          "nameEn": "Defensive Tactics",
+          "nameOriginal": null,
+          "slug": "defensive-tactics",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2011-10-20T00:00:00.000000Z"
+        },
+        "id": 16873,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LCGX/LCGX-DE265-08f96109ca",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "083",
+        "card": {
+          "name": "Defensive Tactics",
+          "nameEn": "Defensive Tactics",
+          "nameOriginal": null,
+          "slug": "defensive-tactics",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2011-10-20T00:00:00.000000Z"
+        },
+        "id": 16898,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LCGX/LCGX-DE265-08f96109ca",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "084",
+        "card": {
+          "name": "Dragon Ice",
+          "nameEn": "Dragon Ice",
+          "nameOriginal": null,
+          "slug": "dragon-ice",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2013-06-28T00:00:00.000000Z"
+        },
+        "id": 16874,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BP02/BP02-EN057-C-813c6b1afa",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "085",
+        "card": {
+          "name": "Tongue Twister",
+          "nameEn": "Tongue Twister",
+          "nameOriginal": null,
+          "slug": "tongue-twister",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2007-11-14T00:00:00.000000Z"
+        },
+        "id": 16875,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE085-2125ba4c20",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "086",
+        "card": {
+          "name": "Skreech",
+          "nameEn": "Skreech",
+          "nameOriginal": null,
+          "slug": "skreech",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2019-08-02T00:00:00.000000Z"
+        },
+        "id": 16876,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GLAS/GLAS-DE086-39a17aa5d9",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "087",
+        "card": {
+          "name": "Royal Firestorm Guards",
+          "nameEn": "Royal Firestorm Guards",
+          "nameOriginal": null,
+          "slug": "royal-firestorm-guards",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-12-08T00:00:00.000000Z"
+        },
+        "id": 16877,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SR14/SR14-EN018-56a247e6a8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "088",
+        "card": {
+          "name": "Veil of Darkness",
+          "nameEn": "Veil of Darkness",
+          "nameOriginal": null,
+          "slug": "veil-of-darkness",
+          "archetypeIds": [],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 16878,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SGX3/SGX3-DEG12-00fa22b59b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "089",
+        "card": {
+          "name": "Security Orb",
+          "nameEn": "Security Orb",
+          "nameOriginal": null,
+          "slug": "security-orb",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2020-05-21T00:00:00.000000Z"
+        },
+        "id": 16879,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SS04/SS04-DEB28-70e13010ec",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "089",
+        "card": {
+          "name": "Security Orb",
+          "nameEn": "Security Orb",
+          "nameOriginal": null,
+          "slug": "security-orb",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2020-05-21T00:00:00.000000Z"
+        },
+        "id": 16899,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SS04/SS04-DEB28-70e13010ec",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "090",
+        "card": {
+          "name": "Necroface",
+          "nameEn": "Necroface",
+          "nameOriginal": null,
+          "slug": "necroface",
+          "archetypeIds": [
+            701
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2022-07-22T00:00:00.000000Z"
+        },
+        "id": 16880,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LDS3/LDS3-DE006-8e6e171664",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "091",
+        "card": {
+          "name": "Gil Garth",
+          "nameEn": "Gil Garth",
+          "nameOriginal": null,
+          "slug": "gil-garth",
+          "archetypeIds": [
+            702
+          ],
+          "cardTypeOrder": "13",
+          "cardTypeSection": "monster",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2024-01-26T00:00:00.000000Z"
+        },
+        "id": 16881,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/STAS/STAS-EN007-bf331d70b2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "092",
+        "card": {
+          "name": "Soul Taker",
+          "nameEn": "Soul Taker",
+          "nameOriginal": null,
+          "slug": "soul-taker",
+          "archetypeIds": [
+            858
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2021-12-31T00:00:00.000000Z"
+        },
+        "id": 16882,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/YGLD_RP_2021/YGLD_RP_2021-ENB25-62870dc37e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "093",
+        "card": {
+          "name": "Magic Formula",
+          "nameEn": "Magic Formula",
+          "nameOriginal": null,
+          "slug": "magic-formula",
+          "archetypeIds": [
+            858
+          ],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2021-06-17T00:00:00.000000Z"
+        },
+        "id": 16883,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/YGLD_RP_2021/YGLD_RP_2021-ENB20-f67ea783cd",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "094",
+        "card": {
+          "name": "Silent Doom",
+          "nameEn": "Silent Doom",
+          "nameOriginal": null,
+          "slug": "silent-doom",
+          "archetypeIds": [
+            827,
+            765,
+            876,
+            883,
+            905
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2007-11-14T00:00:00.000000Z",
+          "lastPrint": "2024-03-14T00:00:00.000000Z"
+        },
+        "id": 16884,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SBCB/SBCB-DE101-4ae654dacf",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      }
+    ],
+    "printsCount": null,
+    "releaseEu": "2007-11-14T00:00:00.000000Z",
+    "releaseEuDayUnknown": false,
+    "releaseEuMonthUnknown": false,
+    "releaseNa": "2007-11-14T00:00:00.000000Z",
+    "releaseNaDayUnknown": false,
+    "releaseNaMonthUnknown": false,
+    "tournamentLegal": "2007-12-01T00:00:00.000000Z",
+    "setNumber": "GLAS",
+    "slug": "gladiators-assault",
+    "scanCounts": {
+      "en": 0,
+      "de": 52
+    }
+  }
+}

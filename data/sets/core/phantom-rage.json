@@ -1,0 +1,3477 @@
+{
+  "data": {
+    "archetypes": [
+      {
+        "id": 426,
+        "name": "Myutant",
+        "slug": "myutant",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE091-6391bd6cea",
+        "isFirstPrint": true
+      },
+      {
+        "id": 186,
+        "name": "Raidraptor",
+        "slug": "raidraptor",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/PHNI/PHNI-EN045-UR-ccfdc5ed46",
+        "isFirstPrint": false
+      },
+      {
+        "id": 218,
+        "name": "Phantom Knights",
+        "slug": "phantom-knights",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN168-714d43ca27",
+        "isFirstPrint": false
+      },
+      {
+        "id": 418,
+        "name": "Tri-Brigade",
+        "slug": "tri-brigade",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN198-38e895a548",
+        "isFirstPrint": true
+      },
+      {
+        "id": 409,
+        "name": "Dogmatika",
+        "slug": "dogmatika",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CH01/CH01-EN016-521c67b306",
+        "isFirstPrint": false
+      },
+      {
+        "id": 417,
+        "name": "Virtual World",
+        "slug": "virtual-world",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN173-83fae38c72",
+        "isFirstPrint": true
+      },
+      {
+        "id": 416,
+        "name": "Dual Avatar",
+        "slug": "dual-avatar",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE057-75e61d3f05",
+        "isFirstPrint": false
+      },
+      {
+        "id": 111,
+        "name": "Infernity",
+        "slug": "infernity",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DUSA/DUSA-EN082-f7d47b1fbc",
+        "isFirstPrint": false
+      },
+      {
+        "id": 230,
+        "name": "U.A.",
+        "slug": "ua",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DUEA/DUEA-DE087-cb57a125f1",
+        "isFirstPrint": false
+      },
+      {
+        "id": 499,
+        "name": "Gizmek",
+        "slug": "gizmek",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/AMDE/AMDE-EN058-6037acba43",
+        "isFirstPrint": false
+      },
+      {
+        "id": 160,
+        "name": "Nephthys",
+        "slug": "nephthys",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/HISU/HISU-DE010-f785f42ac2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 547,
+        "name": "Fallen of Albaz",
+        "slug": "fallen-of-albaz",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/CH01/CH01-EN001-e78b36a28a",
+        "isFirstPrint": false
+      },
+      {
+        "id": 261,
+        "name": "Sacred Beast",
+        "slug": "sacred-beast",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/SDSA/SDSA-DE046-127b546b4e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 801,
+        "name": "Yubel (character)",
+        "slug": "yubel-character",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LEDE/LEDE-EN061-UR-e05dd42848",
+        "isFirstPrint": false
+      },
+      {
+        "id": 11,
+        "name": "Archfiend",
+        "slug": "archfiend",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SR06/SR06-DE007-c59c0e023e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 404,
+        "name": "Infernoble Knight",
+        "slug": "infernoble-knight",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN100-c23d2bd8fd",
+        "isFirstPrint": false
+      },
+      {
+        "id": 163,
+        "name": "Noble Knight",
+        "slug": "noble-knight",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/AMDE/AMDE-EN052-SR-4f792c124c",
+        "isFirstPrint": false
+      },
+      {
+        "id": 352,
+        "name": "Penguin",
+        "slug": "penguin",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN189-90a528f47e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 397,
+        "name": "Xyz Dragon",
+        "slug": "xyz-dragon",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LEDD/LEDD-DEC32-ALT2-ccfdf2a6bc",
+        "isFirstPrint": false
+      },
+      {
+        "id": 406,
+        "name": "Melffy",
+        "slug": "melffy",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN139-06ce1b35b5",
+        "isFirstPrint": false
+      },
+      {
+        "id": 179,
+        "name": "Prank-Kids",
+        "slug": "prank-kids",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MGED/MGED-EN113-69c8cccd6c",
+        "isFirstPrint": false
+      },
+      {
+        "id": 187,
+        "name": "Rank-Up-Magic",
+        "slug": "rank-up-magic",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/JOTL/JOTL-DE059-UR-55bc39d1e9",
+        "isFirstPrint": false
+      },
+      {
+        "id": 73,
+        "name": "F.A.",
+        "slug": "fa",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP19/MP19-DE061-ef5275305c",
+        "isFirstPrint": false
+      },
+      {
+        "id": 46,
+        "name": "Dark World",
+        "slug": "dark-world",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SR13/SR13-EN045-cc2c653277",
+        "isFirstPrint": false
+      },
+      {
+        "id": 10,
+        "name": "Arcana Force",
+        "slug": "arcana-force",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE064-0c14dd9b5e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 863,
+        "name": "Sartorius",
+        "slug": "sartorius",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/SUDA/SUDA-DE053-2d7d3ed8b0",
+        "isFirstPrint": false
+      },
+      {
+        "id": 84,
+        "name": "Fur Hire",
+        "slug": "fur-hire",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP19/MP19-DE253-49eb5ef422",
+        "isFirstPrint": false
+      }
+    ],
+    "archetypesReprint": [
+      {
+        "id": 28,
+        "name": "Charmer",
+        "slug": "charmer",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CH02/CH02-EN031-adbfc353bf",
+        "isFirstPrint": false
+      }
+    ],
+    "category": {
+      "name": "Series 11",
+      "slug": "series-11",
+      "sets": [
+        {
+          "image": "https://cardcluster.com/storage/sets/CYAC-21eb3fe9ebd07dc607ac",
+          "format": 1,
+          "name": "Cyberstorm Access",
+          "releaseEu": "2023-05-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2023-05-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CYAC",
+          "slug": "cyberstorm-access",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/PHHY-728895d71f82a2e6f832",
+          "format": 1,
+          "name": "Photon Hypernova",
+          "releaseEu": "2023-02-09T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2023-02-10T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "PHHY",
+          "slug": "photon-hypernova",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/DABL-cfa6bf49df40a9e69b7c",
+          "format": 1,
+          "name": "Darkwing Blast",
+          "releaseEu": "2022-10-20T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2022-10-21T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "DABL",
+          "slug": "darkwing-blast",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/POTE-e20856187e1d8c1515dd",
+          "format": 1,
+          "name": "Power of the Elements",
+          "releaseEu": "2022-08-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2022-08-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "POTE",
+          "slug": "power-of-the-elements",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/DIFO-34599fd241d0f61061ee",
+          "format": 1,
+          "name": "Dimension Force",
+          "releaseEu": "2022-05-19T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2022-05-20T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "DIFO",
+          "slug": "dimension-force",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/BACH-08ae9a3cb22440c2f8ee",
+          "format": 1,
+          "name": "Battle of Chaos",
+          "releaseEu": "2022-02-10T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2022-02-11T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "BACH",
+          "slug": "battle-of-chaos",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/BODE-60936fb2b58bdaafc03a",
+          "format": 1,
+          "name": "Burst of Destiny",
+          "releaseEu": "2021-11-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2021-11-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "BODE",
+          "slug": "burst-of-destiny",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/DAMA-c31119d7f01fc44870c6",
+          "format": 1,
+          "name": "Dawn of Majesty",
+          "releaseEu": "2021-08-12T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2021-08-13T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "DAMA",
+          "slug": "dawn-of-majesty",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/LIOV-8b437fe9aa9d34168df6",
+          "format": 1,
+          "name": "Lightning Overdrive",
+          "releaseEu": "2021-06-03T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2021-06-04T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "LIOV",
+          "slug": "lightning-overdrive",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/BLVO-9f78221561d9d4c697e7",
+          "format": 1,
+          "name": "Blazing Vortex",
+          "releaseEu": "2021-02-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2021-02-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "BLVO",
+          "slug": "blazing-vortex",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/PHRA-fb1d2022e03495580a2d",
+          "format": 1,
+          "name": "Phantom Rage",
+          "releaseEu": "2020-11-05T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2020-11-06T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "PHRA",
+          "slug": "phantom-rage",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/ROTD-887e716ca77218df6fd0",
+          "format": 1,
+          "name": "Rise of the Duelist",
+          "releaseEu": "2020-08-06T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2020-08-07T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "ROTD",
+          "slug": "rise-of-the-duelist",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        }
+      ],
+      "setsCount": 12,
+      "format": 1,
+      "parent": {
+        "name": "Core Boosters",
+        "slug": "core-boosters",
+        "setsCount": 102,
+        "format": 1,
+        "parent": {
+          "name": "Booster Packs",
+          "slug": "booster-packs",
+          "setsCount": 326,
+          "format": 1,
+          "parent": null
+        }
+      }
+    },
+    "disableSetList": false,
+    "format": 1,
+    "game": 1,
+    "id": 656,
+    "image": "https://cardcluster.com/storage/sets/PHRA-fb1d2022e03495580a2d",
+    "languages": [
+      {
+        "id": 969,
+        "language": "de",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 970,
+        "language": "en",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 971,
+        "language": "fr",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 972,
+        "language": "it",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 973,
+        "language": "pt",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 974,
+        "language": "es",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      }
+    ],
+    "name": "Phantom Rage",
+    "next": {
+      "name": "Blazing Vortex",
+      "setNumber": "BLVO",
+      "slug": "blazing-vortex",
+      "format": 1,
+      "releaseEu": "2021-02-04T00:00:00.000000Z",
+      "releaseNa": "2021-02-05T00:00:00.000000Z"
+    },
+    "previous": {
+      "name": "Rise of the Duelist",
+      "setNumber": "ROTD",
+      "slug": "rise-of-the-duelist",
+      "format": 1,
+      "releaseEu": "2020-08-06T00:00:00.000000Z",
+      "releaseNa": "2020-08-07T00:00:00.000000Z"
+    },
+    "prints": [
+      {
+        "cardNumber": "000",
+        "card": {
+          "name": "Myutant Cry",
+          "nameEn": "Myutant Cry",
+          "nameOriginal": null,
+          "slug": "myutant-cry",
+          "archetypeIds": [
+            426
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 29165,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE000-cc5d35f4ff",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "001",
+        "card": {
+          "name": "Raider's Wing",
+          "nameEn": "Raider's Wing",
+          "nameOriginal": null,
+          "slug": "raiders-wing",
+          "archetypeIds": [
+            186,
+            218
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2024-02-14T00:00:00.000000Z"
+        },
+        "id": 28045,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE001-183a86bffd",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "002",
+        "card": {
+          "name": "The Phantom Knights of Stained Greaves",
+          "nameEn": "The Phantom Knights of Stained Greaves",
+          "nameOriginal": null,
+          "slug": "the-phantom-knights-of-stained-greaves",
+          "archetypeIds": [
+            218
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28046,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE002-57c23d8eb4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "003",
+        "card": {
+          "name": "The Phantom Knights of Torn Scales",
+          "nameEn": "The Phantom Knights of Torn Scales",
+          "nameOriginal": null,
+          "slug": "the-phantom-knights-of-torn-scales",
+          "archetypeIds": [
+            218
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28047,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE003-SCR-51790fc2a2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "003",
+        "card": {
+          "name": "The Phantom Knights of Torn Scales",
+          "nameEn": "The Phantom Knights of Torn Scales",
+          "nameOriginal": null,
+          "slug": "the-phantom-knights-of-torn-scales",
+          "archetypeIds": [
+            218
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 29289,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN168-714d43ca27",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "004",
+        "card": {
+          "name": "Raidraptor - Heel Eagle",
+          "nameEn": "Raidraptor - Heel Eagle",
+          "nameOriginal": null,
+          "slug": "raidraptor-heel-eagle",
+          "archetypeIds": [
+            186
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28048,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE004-7d5c9b4eb3",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "005",
+        "card": {
+          "name": "Raidraptor - Strangle Lanius",
+          "nameEn": "Raidraptor - Strangle Lanius",
+          "nameOriginal": null,
+          "slug": "raidraptor-strangle-lanius",
+          "archetypeIds": [
+            186
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28049,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE005-ad1eb52325",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "006",
+        "card": {
+          "name": "Tri-Brigade Nervall",
+          "nameEn": "Tri-Brigade Nervall",
+          "nameOriginal": null,
+          "slug": "tri-brigade-nervall",
+          "archetypeIds": [
+            418
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28310,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE006-76370845ba",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "007",
+        "card": {
+          "name": "Tri-Brigade Kerass",
+          "nameEn": "Tri-Brigade Kerass",
+          "nameOriginal": null,
+          "slug": "tri-brigade-kerass",
+          "archetypeIds": [
+            418
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28311,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE007-b12577527f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "008",
+        "card": {
+          "name": "Tri-Brigade Fraktall",
+          "nameEn": "Tri-Brigade Fraktall",
+          "nameOriginal": null,
+          "slug": "tri-brigade-fraktall",
+          "archetypeIds": [
+            418
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2025-10-15T00:00:00.000000Z"
+        },
+        "id": 28312,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE008-b9b0ac872e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "009",
+        "card": {
+          "name": "Dogmatika Ashiyan",
+          "nameEn": "Dogmatika Ashiyan",
+          "nameOriginal": null,
+          "slug": "dogmatika-ashiyan",
+          "archetypeIds": [
+            409
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28393,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE009-20a7fa2eb7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "010",
+        "card": {
+          "name": "Virtual World Mai-Hime - Lulu",
+          "nameEn": "Virtual World Mai-Hime - Lulu",
+          "nameOriginal": null,
+          "slug": "virtual-world-mai-hime-lulu",
+          "archetypeIds": [
+            417
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28298,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE010-c4507d0a13",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "011",
+        "card": {
+          "name": "Virtual World Roshi - Laolao",
+          "nameEn": "Virtual World Roshi - Laolao",
+          "nameOriginal": null,
+          "slug": "virtual-world-roshi-laolao",
+          "archetypeIds": [
+            417
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28299,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE011-3f52e748b3",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "012",
+        "card": {
+          "name": "Virtual World Xiezhi - Jiji",
+          "nameEn": "Virtual World Xiezhi - Jiji",
+          "nameOriginal": null,
+          "slug": "virtual-world-xiezhi-jiji",
+          "archetypeIds": [
+            417
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28300,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE012-56ec452d37",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "013",
+        "card": {
+          "name": "Virtual World Kirin - Lili",
+          "nameEn": "Virtual World Kirin - Lili",
+          "nameOriginal": null,
+          "slug": "virtual-world-kirin-lili",
+          "archetypeIds": [
+            417
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28301,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE013-831d2dca9d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "014",
+        "card": {
+          "name": "Dual Avatar Fists - Yuhi",
+          "nameEn": "Dual Avatar Fists - Yuhi",
+          "nameOriginal": null,
+          "slug": "dual-avatar-fists-yuhi",
+          "archetypeIds": [
+            416
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28054,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE014-739df4bd85",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "015",
+        "card": {
+          "name": "Dual Avatar Feet - Kokoku",
+          "nameEn": "Dual Avatar Feet - Kokoku",
+          "nameOriginal": null,
+          "slug": "dual-avatar-feet-kokoku",
+          "archetypeIds": [
+            416
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28055,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE015-d6d709e893",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "016",
+        "card": {
+          "name": "Infernity Conjurer",
+          "nameEn": "Infernity Conjurer",
+          "nameOriginal": null,
+          "slug": "infernity-conjurer",
+          "archetypeIds": [
+            111
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28401,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE016-1293595dda",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "017",
+        "card": {
+          "name": "Infernity Wildcat",
+          "nameEn": "Infernity Wildcat",
+          "nameOriginal": null,
+          "slug": "infernity-wildcat",
+          "archetypeIds": [
+            111
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28400,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE017-a7fac86cf4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "018",
+        "card": {
+          "name": "U.A. Libero Spiker",
+          "nameEn": "U.A. Libero Spiker",
+          "nameOriginal": null,
+          "slug": "ua-libero-spiker",
+          "archetypeIds": [
+            230
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28064,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE018-fbd0d1e6c2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "019",
+        "card": {
+          "name": "U.A. Player Manager",
+          "nameEn": "U.A. Player Manager",
+          "nameOriginal": null,
+          "slug": "ua-player-manager",
+          "archetypeIds": [
+            230
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28065,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE019-0550312780",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "020",
+        "card": {
+          "name": "Awakening of the Possessed - Gagigobyte",
+          "nameEn": "Awakening of the Possessed - Gagigobyte",
+          "nameOriginal": null,
+          "slug": "awakening-of-the-possessed-gagigobyte",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2026-01-23T00:00:00.000000Z"
+        },
+        "id": 28435,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE020-336365c0f5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "021",
+        "card": {
+          "name": "Awakening of the Possessed - Rasenryu",
+          "nameEn": "Awakening of the Possessed - Rasenryu",
+          "nameOriginal": null,
+          "slug": "awakening-of-the-possessed-rasenryu",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2026-01-23T00:00:00.000000Z"
+        },
+        "id": 28436,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE021-ec1a0c8d14",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "022",
+        "card": {
+          "name": "Gizmek Makami, the Ferocious Fanged Fortress",
+          "nameEn": "Gizmek Makami, the Ferocious Fanged Fortress",
+          "nameOriginal": null,
+          "slug": "gizmek-makami-the-ferocious-fanged-fortress",
+          "archetypeIds": [
+            499
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-06-18T00:00:00.000000Z"
+        },
+        "id": 28433,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE022-98d2b7dcd8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "023",
+        "card": {
+          "name": "Alpha, the Master of Beasts",
+          "nameEn": "Alpha, the Master of Beasts",
+          "nameOriginal": null,
+          "slug": "alpha-the-master-of-beasts",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2023-12-08T00:00:00.000000Z"
+        },
+        "id": 28437,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE023-SCR-d73f13b1f9",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "023",
+        "card": {
+          "name": "Alpha, the Master of Beasts",
+          "nameEn": "Alpha, the Master of Beasts",
+          "nameOriginal": null,
+          "slug": "alpha-the-master-of-beasts",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2023-12-08T00:00:00.000000Z"
+        },
+        "id": 29288,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SR14/SR14-EN022-3786c77909",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "024",
+        "card": {
+          "name": "Prufinesse, the Tactical Trapper",
+          "nameEn": "Prufinesse, the Tactical Trapper",
+          "nameOriginal": null,
+          "slug": "prufinesse-the-tactical-trapper",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28439,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE024-8a96cf8488",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "025",
+        "card": {
+          "name": "Rock Band Xenoguitar",
+          "nameEn": "Rock Band Xenoguitar",
+          "nameOriginal": null,
+          "slug": "rock-band-xenoguitar",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28440,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE025-a6fc206980",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "026",
+        "card": {
+          "name": "Magical Broker",
+          "nameEn": "Magical Broker",
+          "nameOriginal": null,
+          "slug": "magical-broker",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2024-01-26T00:00:00.000000Z"
+        },
+        "id": 28445,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE026-87013a8795",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "027",
+        "card": {
+          "name": "Gluttonous Reptolphin Greethys",
+          "nameEn": "Gluttonous Reptolphin Greethys",
+          "nameOriginal": null,
+          "slug": "gluttonous-reptolphin-greethys",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28444,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE027-be42e9cddc",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "028",
+        "card": {
+          "name": "Cupid Fore",
+          "nameEn": "Cupid Fore",
+          "nameOriginal": null,
+          "slug": "cupid-fore",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28438,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE028-9e49fe2e36",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "029",
+        "card": {
+          "name": "Hinezumi Hanabi",
+          "nameEn": "Hinezumi Hanabi",
+          "nameOriginal": null,
+          "slug": "hinezumi-hanabi",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28443,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE029-80c0631cb8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "030",
+        "card": {
+          "name": "Conductor of Nephthys",
+          "nameEn": "Conductor of Nephthys",
+          "nameOriginal": null,
+          "slug": "conductor-of-nephthys",
+          "archetypeIds": [
+            160
+          ],
+          "cardTypeOrder": "14",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28308,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE030-6c59043254",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "031",
+        "card": {
+          "name": "Brigrand the Glory Dragon",
+          "nameEn": "Brigrand the Glory Dragon",
+          "nameOriginal": null,
+          "slug": "brigrand-the-glory-dragon",
+          "archetypeIds": [
+            418,
+            547
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2025-10-24T00:00:00.000000Z"
+        },
+        "id": 28395,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE031-959c2f35a9",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "032",
+        "card": {
+          "name": "Dual Avatar Fists - Armored Ah-Gyo",
+          "nameEn": "Dual Avatar Fists - Armored Ah-Gyo",
+          "nameOriginal": null,
+          "slug": "dual-avatar-fists-armored-ah-gyo",
+          "archetypeIds": [
+            416
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28056,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE032-83b77cab3f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "033",
+        "card": {
+          "name": "Dual Avatar Feet - Armored Un-Gyo",
+          "nameEn": "Dual Avatar Feet - Armored Un-Gyo",
+          "nameOriginal": null,
+          "slug": "dual-avatar-feet-armored-un-gyo",
+          "archetypeIds": [
+            416
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28057,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE033-b09c929ac0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "034",
+        "card": {
+          "name": "Dual Avatar - Empowered Kon-Gyo",
+          "nameEn": "Dual Avatar - Empowered Kon-Gyo",
+          "nameOriginal": null,
+          "slug": "dual-avatar-empowered-kon-gyo",
+          "archetypeIds": [
+            416
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28058,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE034-a40d3213da",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "035",
+        "card": {
+          "name": "Armityle the Chaos Phantasm - Phantom of Fury",
+          "nameEn": "Armityle the Chaos Phantasm - Phantom of Fury",
+          "nameOriginal": null,
+          "slug": "armityle-the-chaos-phantasm-phantom-of-fury",
+          "archetypeIds": [
+            261,
+            801
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28359,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE035-e586b8426d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "036",
+        "card": {
+          "name": "Virtual World Kyubi - Shenshen",
+          "nameEn": "Virtual World Kyubi - Shenshen",
+          "nameOriginal": null,
+          "slug": "virtual-world-kyubi-shenshen",
+          "archetypeIds": [
+            417
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2024-06-12T00:00:00.000000Z"
+        },
+        "id": 28302,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE036-bc13e35aca",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "037",
+        "card": {
+          "name": "Infernity Doom Archfiend",
+          "nameEn": "Infernity Doom Archfiend",
+          "nameOriginal": null,
+          "slug": "infernity-doom-archfiend",
+          "archetypeIds": [
+            111,
+            11
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28403,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE037-db15d79095",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "038",
+        "card": {
+          "name": "Infernoble Knight Captain Oliver",
+          "nameEn": "Infernoble Knight Captain Oliver",
+          "nameOriginal": null,
+          "slug": "infernoble-knight-captain-oliver",
+          "archetypeIds": [
+            404,
+            163
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28405,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE038-92671a810a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "039",
+        "card": {
+          "name": "Penguin Brave",
+          "nameEn": "Penguin Brave",
+          "nameOriginal": null,
+          "slug": "penguin-brave",
+          "archetypeIds": [
+            352
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-14T00:00:00.000000Z"
+        },
+        "id": 28358,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE039-1fa2e6362c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "040",
+        "card": {
+          "name": "Raider's Knight",
+          "nameEn": "Raider's Knight",
+          "nameOriginal": null,
+          "slug": "raiders-knight",
+          "archetypeIds": [
+            186,
+            397,
+            218
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28397,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE040-c5c7477baa",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "041",
+        "card": {
+          "name": "Arc Rebellion Xyz Dragon",
+          "nameEn": "Arc Rebellion Xyz Dragon",
+          "nameOriginal": null,
+          "slug": "arc-rebellion-xyz-dragon",
+          "archetypeIds": [
+            397
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28050,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE041-6842ac5520",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "042",
+        "card": {
+          "name": "Virtual World Shell - Jaja",
+          "nameEn": "Virtual World Shell - Jaja",
+          "nameOriginal": null,
+          "slug": "virtual-world-shell-jaja",
+          "archetypeIds": [
+            417
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28303,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE042-c7d572992d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "043",
+        "card": {
+          "name": "Virtual World Phoenix - Fanfan",
+          "nameEn": "Virtual World Phoenix - Fanfan",
+          "nameOriginal": null,
+          "slug": "virtual-world-phoenix-fanfan",
+          "archetypeIds": [
+            417
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28304,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE043-478d2d4384",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "044",
+        "card": {
+          "name": "Joyous Melffys",
+          "nameEn": "Joyous Melffys",
+          "nameOriginal": null,
+          "slug": "joyous-melffys",
+          "archetypeIds": [
+            406
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28399,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE044-3f80286a4c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "045",
+        "card": {
+          "name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+          "nameEn": "Divine Arsenal AA-ZEUS - Sky Thunder",
+          "nameOriginal": null,
+          "slug": "divine-arsenal-aa-zeus-sky-thunder",
+          "archetypeIds": [],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2026-04-10T00:00:00.000000Z"
+        },
+        "id": 28398,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE045-SCR-94d646e94d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "045",
+        "card": {
+          "name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+          "nameEn": "Divine Arsenal AA-ZEUS - Sky Thunder",
+          "nameOriginal": null,
+          "slug": "divine-arsenal-aa-zeus-sky-thunder",
+          "archetypeIds": [],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2026-04-10T00:00:00.000000Z"
+        },
+        "id": 29300,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/STAX/STAX-EN044-852472bcff",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "046",
+        "card": {
+          "name": "Tri-Brigade Ferrijit the Barren Blossom",
+          "nameEn": "Tri-Brigade Ferrijit the Barren Blossom",
+          "nameOriginal": null,
+          "slug": "tri-brigade-ferrijit-the-barren-blossom",
+          "archetypeIds": [
+            418
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28313,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE046-UR-eee34122d9",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "046",
+        "card": {
+          "name": "Tri-Brigade Ferrijit the Barren Blossom",
+          "nameEn": "Tri-Brigade Ferrijit the Barren Blossom",
+          "nameOriginal": null,
+          "slug": "tri-brigade-ferrijit-the-barren-blossom",
+          "archetypeIds": [
+            418
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 29299,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN196-5e6a48619d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "047",
+        "card": {
+          "name": "Tri-Brigade Rugal the Silver Sheller",
+          "nameEn": "Tri-Brigade Rugal the Silver Sheller",
+          "nameOriginal": null,
+          "slug": "tri-brigade-rugal-the-silver-sheller",
+          "archetypeIds": [
+            418
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28314,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE047-e3c44627b7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "048",
+        "card": {
+          "name": "Tri-Brigade Shuraig the Ominous Omen",
+          "nameEn": "Tri-Brigade Shuraig the Ominous Omen",
+          "nameOriginal": null,
+          "slug": "tri-brigade-shuraig-the-ominous-omen",
+          "archetypeIds": [
+            418
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2025-10-15T00:00:00.000000Z"
+        },
+        "id": 28315,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE048-7600aab28c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "049",
+        "card": {
+          "name": "Prank-Kids Meow-Meow-Mu",
+          "nameEn": "Prank-Kids Meow-Meow-Mu",
+          "nameOriginal": null,
+          "slug": "prank-kids-meow-meow-mu",
+          "archetypeIds": [
+            179
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-11-19T00:00:00.000000Z"
+        },
+        "id": 28309,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE049-ec3576224d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "050",
+        "card": {
+          "name": "Geonator Transverser",
+          "nameEn": "Geonator Transverser",
+          "nameOriginal": null,
+          "slug": "geonator-transverser",
+          "archetypeIds": [],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28384,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE050-702e4acdef",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "051",
+        "card": {
+          "name": "Phantom Knights' Rank-Up-Magic Force",
+          "nameEn": "Phantom Knights' Rank-Up-Magic Force",
+          "nameOriginal": null,
+          "slug": "phantom-knights-rank-up-magic-force",
+          "archetypeIds": [
+            218,
+            187,
+            397,
+            186
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28051,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE051-1306c650d2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "052",
+        "card": {
+          "name": "Tri-Brigade Stand-Off",
+          "nameEn": "Tri-Brigade Stand-Off",
+          "nameOriginal": null,
+          "slug": "tri-brigade-stand-off",
+          "archetypeIds": [
+            418
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28316,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE052-a27e2855d7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "053",
+        "card": {
+          "name": "Tri-Brigade Airborne Assault",
+          "nameEn": "Tri-Brigade Airborne Assault",
+          "nameOriginal": null,
+          "slug": "tri-brigade-airborne-assault",
+          "archetypeIds": [
+            418
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28317,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE053-77e83d5e0f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "054",
+        "card": {
+          "name": "Dogmatikacism",
+          "nameEn": "Dogmatikacism",
+          "nameOriginal": null,
+          "slug": "dogmatikacism",
+          "archetypeIds": [
+            409
+          ],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28394,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE054-64f205fa15",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "055",
+        "card": {
+          "name": "Virtual World City - Kauwloon",
+          "nameEn": "Virtual World City - Kauwloon",
+          "nameOriginal": null,
+          "slug": "virtual-world-city-kauwloon",
+          "archetypeIds": [
+            417
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28305,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE055-91d3d4487d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "056",
+        "card": {
+          "name": "Virtual World Gate - Qinglong",
+          "nameEn": "Virtual World Gate - Qinglong",
+          "nameOriginal": null,
+          "slug": "virtual-world-gate-qinglong",
+          "archetypeIds": [
+            417
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28306,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE056-88452771e2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "057",
+        "card": {
+          "name": "Dual Avatar Invitation",
+          "nameEn": "Dual Avatar Invitation",
+          "nameOriginal": null,
+          "slug": "dual-avatar-invitation",
+          "archetypeIds": [
+            416
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28059,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE057-75e61d3f05",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "058",
+        "card": {
+          "name": "Perfect Sync - A-Un",
+          "nameEn": "Perfect Sync - A-Un",
+          "nameOriginal": null,
+          "slug": "perfect-sync-a-un",
+          "archetypeIds": [
+            416
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 28060,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE058-618bcaaa4a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "059",
+        "card": {
+          "name": "Dual Avatar Defeating Evil",
+          "nameEn": "Dual Avatar Defeating Evil",
+          "nameOriginal": null,
+          "slug": "dual-avatar-defeating-evil",
+          "archetypeIds": [
+            416
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28061,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE059-50b904d768",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "060",
+        "card": {
+          "name": "Infernity Paranoia",
+          "nameEn": "Infernity Paranoia",
+          "nameOriginal": null,
+          "slug": "infernity-paranoia",
+          "archetypeIds": [
+            111
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28402,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE060-6fb1d55ed1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "061",
+        "card": {
+          "name": "U.A. Hyper Stadium",
+          "nameEn": "U.A. Hyper Stadium",
+          "nameOriginal": null,
+          "slug": "ua-hyper-stadium",
+          "archetypeIds": [
+            230,
+            73
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28066,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE061-3daac9755e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "062",
+        "card": {
+          "name": "U.A. Locker Room",
+          "nameEn": "U.A. Locker Room",
+          "nameOriginal": null,
+          "slug": "ua-locker-room",
+          "archetypeIds": [
+            73,
+            230
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28067,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE062-5ff4f19ead",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "063",
+        "card": {
+          "name": "Charge Into a Dark World",
+          "nameEn": "Charge Into a Dark World",
+          "nameOriginal": null,
+          "slug": "charge-into-a-dark-world",
+          "archetypeIds": [
+            46
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2022-12-02T00:00:00.000000Z"
+        },
+        "id": 28383,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE063-4ae0698332",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "064",
+        "card": {
+          "name": "Arcana Reading",
+          "nameEn": "Arcana Reading",
+          "nameOriginal": null,
+          "slug": "arcana-reading",
+          "archetypeIds": [
+            10,
+            863
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": null
+        },
+        "id": 28388,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE064-0c14dd9b5e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "065",
+        "card": {
+          "name": "Rookie Fur Hire",
+          "nameEn": "Rookie Fur Hire",
+          "nameOriginal": null,
+          "slug": "rookie-fur-hire",
+          "archetypeIds": [
+            84
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28428,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE065-a985e30706",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "066",
+        "card": {
+          "name": "Xyz Import",
+          "nameEn": "Xyz Import",
+          "nameOriginal": null,
+          "slug": "xyz-import",
+          "archetypeIds": [],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2023-01-20T00:00:00.000000Z"
+        },
+        "id": 28442,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE066-503473a016",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "067",
+        "card": {
+          "name": "Jack-In-The-Hand",
+          "nameEn": "Jack-In-The-Hand",
+          "nameOriginal": null,
+          "slug": "jack-in-the-hand",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2025-08-01T00:00:00.000000Z"
+        },
+        "id": 28446,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE067-78e940b1b5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "068",
+        "card": {
+          "name": "Raider's Unbreakable Mind",
+          "nameEn": "Raider's Unbreakable Mind",
+          "nameOriginal": null,
+          "slug": "raiders-unbreakable-mind",
+          "archetypeIds": [
+            186,
+            187,
+            218
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28052,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE068-b34faa1878",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "069",
+        "card": {
+          "name": "Raidraptor's Phantom Knights Claw",
+          "nameEn": "Raidraptor's Phantom Knights Claw",
+          "nameOriginal": null,
+          "slug": "raidraptors-phantom-knights-claw",
+          "archetypeIds": [
+            186,
+            218,
+            397
+          ],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28053,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE069-94ffa8628a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "070",
+        "card": {
+          "name": "Tri-Brigade Revolt",
+          "nameEn": "Tri-Brigade Revolt",
+          "nameOriginal": null,
+          "slug": "tri-brigade-revolt",
+          "archetypeIds": [
+            418
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2023-11-03T00:00:00.000000Z"
+        },
+        "id": 28318,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE070-6b98bed7d5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "071",
+        "card": {
+          "name": "Tri-Brigade Oath",
+          "nameEn": "Tri-Brigade Oath",
+          "nameOriginal": null,
+          "slug": "tri-brigade-oath",
+          "archetypeIds": [
+            418
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28319,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE071-6779fda5ff",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "072",
+        "card": {
+          "name": "Virtual World Gate - Chuche",
+          "nameEn": "Virtual World Gate - Chuche",
+          "nameOriginal": null,
+          "slug": "virtual-world-gate-chuche",
+          "archetypeIds": [
+            417
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28307,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE072-e40b7fc74f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "073",
+        "card": {
+          "name": "Dual Avatar Return",
+          "nameEn": "Dual Avatar Return",
+          "nameOriginal": null,
+          "slug": "dual-avatar-return",
+          "archetypeIds": [
+            416
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28062,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE073-32af6f815f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "074",
+        "card": {
+          "name": "Dual Avatar Compact",
+          "nameEn": "Dual Avatar Compact",
+          "nameOriginal": null,
+          "slug": "dual-avatar-compact",
+          "archetypeIds": [
+            416
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28063,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE074-2e3164d019",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "075",
+        "card": {
+          "name": "Infernity Suppression",
+          "nameEn": "Infernity Suppression",
+          "nameOriginal": null,
+          "slug": "infernity-suppression",
+          "archetypeIds": [
+            111
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28404,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE075-435079dbf7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "076",
+        "card": {
+          "name": "U.A. Man of the Match",
+          "nameEn": "U.A. Man of the Match",
+          "nameOriginal": null,
+          "slug": "ua-man-of-the-match",
+          "archetypeIds": [
+            73,
+            230
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28068,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE076-a92faf785a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "077",
+        "card": {
+          "name": "Free-Range Monsters",
+          "nameEn": "Free-Range Monsters",
+          "nameOriginal": null,
+          "slug": "free-range-monsters",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28441,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE077-f609f3f290",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "078",
+        "card": {
+          "name": "Warning Point",
+          "nameEn": "Warning Point",
+          "nameOriginal": null,
+          "slug": "warning-point",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2022-04-15T00:00:00.000000Z"
+        },
+        "id": 28406,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE078-10597d8e42",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "079",
+        "card": {
+          "name": "Banquet of Millions",
+          "nameEn": "Banquet of Millions",
+          "nameOriginal": null,
+          "slug": "banquet-of-millions",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 28389,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE079-f2e7c3e658",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "080",
+        "card": {
+          "name": "One or Eight",
+          "nameEn": "One or Eight",
+          "nameOriginal": null,
+          "slug": "one-or-eight",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 28447,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE080-f37d6392e4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "081",
+        "card": {
+          "name": "Mahaama the Fairy Dragon",
+          "nameEn": "Mahaama the Fairy Dragon",
+          "nameOriginal": null,
+          "slug": "mahaama-the-fairy-dragon",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 29183,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE081-e2bd71c579",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "082",
+        "card": {
+          "name": "Jabbing Panda",
+          "nameEn": "Jabbing Panda",
+          "nameOriginal": null,
+          "slug": "jabbing-panda",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 29184,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE082-d16abbf90e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "083",
+        "card": {
+          "name": "Periallis, Empress of Blossoms",
+          "nameEn": "Periallis, Empress of Blossoms",
+          "nameOriginal": null,
+          "slug": "periallis-empress-of-blossoms",
+          "archetypeIds": [],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2025-11-21T00:00:00.000000Z"
+        },
+        "id": 29185,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE083-559c85c4de",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "084",
+        "card": {
+          "name": "Myutant M-05",
+          "nameEn": "Myutant M-05",
+          "nameOriginal": null,
+          "slug": "myutant-m-05",
+          "archetypeIds": [
+            426
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 29166,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE084-7e03f780e1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "085",
+        "card": {
+          "name": "Myutant ST-46",
+          "nameEn": "Myutant ST-46",
+          "nameOriginal": null,
+          "slug": "myutant-st-46",
+          "archetypeIds": [
+            426
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 29167,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE085-4e681300f2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "086",
+        "card": {
+          "name": "Myutant GB-88",
+          "nameEn": "Myutant GB-88",
+          "nameOriginal": null,
+          "slug": "myutant-gb-88",
+          "archetypeIds": [
+            426
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 29168,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE086-15b932e42c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "087",
+        "card": {
+          "name": "Myutant Beast",
+          "nameEn": "Myutant Beast",
+          "nameOriginal": null,
+          "slug": "myutant-beast",
+          "archetypeIds": [
+            426
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 29169,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE087-d743647646",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "088",
+        "card": {
+          "name": "Myutant Mist",
+          "nameEn": "Myutant Mist",
+          "nameOriginal": null,
+          "slug": "myutant-mist",
+          "archetypeIds": [
+            426
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 29170,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE088-405f926060",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "089",
+        "card": {
+          "name": "Myutant Arsenal",
+          "nameEn": "Myutant Arsenal",
+          "nameOriginal": null,
+          "slug": "myutant-arsenal",
+          "archetypeIds": [
+            426
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 29171,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE089-7a51e7b1b9",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "090",
+        "card": {
+          "name": "Myutant Synthesis",
+          "nameEn": "Myutant Synthesis",
+          "nameOriginal": null,
+          "slug": "myutant-synthesis",
+          "archetypeIds": [
+            426
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 29172,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE090-a320bfcd89",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "091",
+        "card": {
+          "name": "Myutant Ultimus",
+          "nameEn": "Myutant Ultimus",
+          "nameOriginal": null,
+          "slug": "myutant-ultimus",
+          "archetypeIds": [
+            426
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 29173,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE091-6391bd6cea",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "092",
+        "card": {
+          "name": "Myutant Evolution Lab",
+          "nameEn": "Myutant Evolution Lab",
+          "nameOriginal": null,
+          "slug": "myutant-evolution-lab",
+          "archetypeIds": [
+            426
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 29174,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE092-4e360ab31a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "093",
+        "card": {
+          "name": "Myutant Fusion",
+          "nameEn": "Myutant Fusion",
+          "nameOriginal": null,
+          "slug": "myutant-fusion",
+          "archetypeIds": [
+            426
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 29175,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE093-94d8cd6c7e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "094",
+        "card": {
+          "name": "Myutant Blast",
+          "nameEn": "Myutant Blast",
+          "nameOriginal": null,
+          "slug": "myutant-blast",
+          "archetypeIds": [
+            426
+          ],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 29176,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE094-020ced8f4d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "095",
+        "card": {
+          "name": "Myutant Clash",
+          "nameEn": "Myutant Clash",
+          "nameOriginal": null,
+          "slug": "myutant-clash",
+          "archetypeIds": [
+            426
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 29186,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE095-bd0d05b99b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "096",
+        "card": {
+          "name": "Myutant Expansion",
+          "nameEn": "Myutant Expansion",
+          "nameOriginal": null,
+          "slug": "myutant-expansion",
+          "archetypeIds": [
+            426
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2020-11-06T00:00:00.000000Z"
+        },
+        "id": 29187,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE096-c6597d110b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "097",
+        "card": {
+          "name": "Virtual World Beast - Jiujiu",
+          "nameEn": "Virtual World Beast - Jiujiu",
+          "nameOriginal": null,
+          "slug": "virtual-world-beast-jiujiu",
+          "archetypeIds": [
+            417
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 29188,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE097-641cf4681e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "098",
+        "card": {
+          "name": "Virtual World Dragon - Longlong",
+          "nameEn": "Virtual World Dragon - Longlong",
+          "nameOriginal": null,
+          "slug": "virtual-world-dragon-longlong",
+          "archetypeIds": [
+            417
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2021-10-01T00:00:00.000000Z"
+        },
+        "id": 29161,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE098-ef33aca27d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "099",
+        "card": {
+          "name": "Virtual World Hime - Nyannyan",
+          "nameEn": "Virtual World Hime - Nyannyan",
+          "nameOriginal": null,
+          "slug": "virtual-world-hime-nyannyan",
+          "archetypeIds": [
+            417
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2020-11-05T00:00:00.000000Z",
+          "lastPrint": "2022-01-28T00:00:00.000000Z"
+        },
+        "id": 29162,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE099-97330ad9d8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "100",
+        "card": {
+          "name": "Hiita the Fire Charmer, Ablaze",
+          "nameEn": "Hiita the Fire Charmer, Ablaze",
+          "nameOriginal": null,
+          "slug": "hiita-the-fire-charmer-ablaze",
+          "archetypeIds": [
+            28
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2019-01-31T00:00:00.000000Z",
+          "lastPrint": "2026-01-23T00:00:00.000000Z"
+        },
+        "id": 29177,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CH02/CH02-EN043-5abc3f36a8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      }
+    ],
+    "printsCount": null,
+    "releaseEu": "2020-11-05T00:00:00.000000Z",
+    "releaseEuDayUnknown": false,
+    "releaseEuMonthUnknown": false,
+    "releaseNa": "2020-11-06T00:00:00.000000Z",
+    "releaseNaDayUnknown": false,
+    "releaseNaMonthUnknown": false,
+    "tournamentLegal": null,
+    "setNumber": "PHRA",
+    "slug": "phantom-rage",
+    "scanCounts": {
+      "en": 0,
+      "de": 100
+    }
+  }
+}

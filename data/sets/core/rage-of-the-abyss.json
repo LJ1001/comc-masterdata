@@ -1,0 +1,4039 @@
+{
+  "data": {
+    "archetypes": [
+      {
+        "id": 199,
+        "name": "Shark",
+        "slug": "shark",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA03/RA03-EN030-SCR-8d544bc188",
+        "isFirstPrint": false
+      },
+      {
+        "id": 813,
+        "name": "Reginald \"Shark\" Kastle | Nash",
+        "slug": "reginald-shark-kastle-nash",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LED9/LED9-EN005-f4211008d2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 22,
+        "name": "Blue-Eyes",
+        "slug": "blue-eyes",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SDWD/SDWD-EN038-c6f01267ac",
+        "isFirstPrint": false
+      },
+      {
+        "id": 791,
+        "name": "Millennium",
+        "slug": "millennium",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/INFO/INFO-EN003-UR-d28d58ac0b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 847,
+        "name": "Solomon Muto | Shimon Muran",
+        "slug": "solomon-muto-shimon-muran",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/INFO/INFO-EN055-2b4f24b3ae",
+        "isFirstPrint": false
+      },
+      {
+        "id": 858,
+        "name": "Yugi Muto | Yami Yugi",
+        "slug": "yugi-muto-yami-yugi",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/MP22/MP22-EN273-69e63915d2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 188,
+        "name": "Red-Eyes",
+        "slug": "red-eyes",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA01/RA01-EN038-SCR-dc3b08d48e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 837,
+        "name": "Metalmorph",
+        "slug": "metalmorph",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN071-240ecd5fb4",
+        "isFirstPrint": false
+      },
+      {
+        "id": 838,
+        "name": "Joey Wheeler",
+        "slug": "joey-wheeler",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN072-6904749327",
+        "isFirstPrint": false
+      },
+      {
+        "id": 698,
+        "name": "Bandit Keith",
+        "slug": "bandit-keith",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN050-a6b8c48bc2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 18,
+        "name": "Battlewasp",
+        "slug": "battlewasp",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLHR/BLHR-DE037-7c53c35f0e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 175,
+        "name": "Performage",
+        "slug": "performage",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MZTM/MZTM-DE055-222d4b8d96",
+        "isFirstPrint": false
+      },
+      {
+        "id": 295,
+        "name": "Allure Queen",
+        "slug": "allure-queen",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MZTM/MZTM-DE058-c43173a9c8",
+        "isFirstPrint": false
+      },
+      {
+        "id": 695,
+        "name": "Chaos",
+        "slug": "chaos",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/RA01/RA01-EN065-SCR-ae1baf3a05",
+        "isFirstPrint": false
+      },
+      {
+        "id": 754,
+        "name": "Goblin Biker",
+        "slug": "goblin-biker",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/PHNI/PHNI-EN047-SCR-140d1f57fb",
+        "isFirstPrint": false
+      },
+      {
+        "id": 333,
+        "name": "Goblin",
+        "slug": "goblin",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BP01/BP01-EN118-C-09d7a1ae74",
+        "isFirstPrint": false
+      },
+      {
+        "id": 834,
+        "name": "Primite",
+        "slug": "primite",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLMM/BLMM-DE130-844627c801",
+        "isFirstPrint": true
+      },
+      {
+        "id": 793,
+        "name": "Fiendsmith",
+        "slug": "fiendsmith",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SUDA/SUDA-DE079-de045f9d17",
+        "isFirstPrint": false
+      },
+      {
+        "id": 740,
+        "name": "Memento",
+        "slug": "memento",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/INFO/INFO-EN037-23bbe64b5a",
+        "isFirstPrint": false
+      },
+      {
+        "id": 741,
+        "name": "Centur-Ion",
+        "slug": "centur-ion",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN143-b3069a6af7",
+        "isFirstPrint": false
+      },
+      {
+        "id": 149,
+        "name": "Mermail",
+        "slug": "mermail",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN046-UR-ac5896b265",
+        "isFirstPrint": false
+      },
+      {
+        "id": 14,
+        "name": "Atlantean",
+        "slug": "atlantean",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN043-UR-eaec60bf0e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 197,
+        "name": "Six Samurai",
+        "slug": "six-samurai",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN039-UR-50d978a242",
+        "isFirstPrint": false
+      },
+      {
+        "id": 28,
+        "name": "Charmer",
+        "slug": "charmer",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CH02/CH02-EN031-adbfc353bf",
+        "isFirstPrint": false
+      },
+      {
+        "id": 845,
+        "name": "Azamina",
+        "slug": "azamina",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/ALIN/ALIN-DE035-89edc27475",
+        "isFirstPrint": true
+      },
+      {
+        "id": 174,
+        "name": "Number",
+        "slug": "number",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA01/RA01-EN039-SCR-2587bc13cc",
+        "isFirstPrint": false
+      },
+      {
+        "id": 808,
+        "name": "White Forest",
+        "slug": "white-forest",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/ALIN/ALIN-DE012-200778ea39",
+        "isFirstPrint": false
+      },
+      {
+        "id": 839,
+        "name": "Morganite",
+        "slug": "morganite",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DUAD/DUAD-DE026-99e474832d",
+        "isFirstPrint": false
+      },
+      {
+        "id": 656,
+        "name": "Puppet",
+        "slug": "puppet",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLMR/BLMR-EN017-801abe0158",
+        "isFirstPrint": false
+      },
+      {
+        "id": 819,
+        "name": "Quattro",
+        "slug": "quattro",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/INFO/INFO-EN042-dafca3a277",
+        "isFirstPrint": false
+      },
+      {
+        "id": 744,
+        "name": "Diabellstar",
+        "slug": "diabellstar",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA03/RA03-EN032-SCR-b8da0bbcfe",
+        "isFirstPrint": false
+      },
+      {
+        "id": 786,
+        "name": "Ragnaraika",
+        "slug": "ragnaraika",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LEDE/LEDE-EN013-SCR-3853aa1b86",
+        "isFirstPrint": false
+      },
+      {
+        "id": 387,
+        "name": "Trap Monster",
+        "slug": "trap-monster",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/CH02/CH02-EN040-bd5fa12877",
+        "isFirstPrint": false
+      },
+      {
+        "id": 742,
+        "name": "Vaalmonica",
+        "slug": "vaalmonica",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LEDE/LEDE-EN022-UR-94d0d66b1a",
+        "isFirstPrint": false
+      },
+      {
+        "id": 846,
+        "name": "Mimighoul",
+        "slug": "mimighoul",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/INFO/INFO-EN090-UR-0e6b9117de",
+        "isFirstPrint": false
+      },
+      {
+        "id": 76,
+        "name": "Fire King",
+        "slug": "fire-king",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SR14/SR14-EN044-d8db41c1bd",
+        "isFirstPrint": false
+      },
+      {
+        "id": 927,
+        "name": "Jack Atlas",
+        "slug": "jack-atlas",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/L5DD/L5DD-ENY22-215ad17c7a",
+        "isFirstPrint": false
+      },
+      {
+        "id": 895,
+        "name": "Shadow",
+        "slug": "shadow",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE097-44c10e1950",
+        "isFirstPrint": false
+      }
+    ],
+    "archetypesReprint": [],
+    "category": {
+      "name": "Series 12",
+      "slug": "series-12",
+      "sets": [
+        {
+          "image": "https://cardcluster.com/storage/sets/ALIN-93aae0303860c7bf591e",
+          "format": 1,
+          "name": "Alliance Insight",
+          "releaseEu": "2025-05-01T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2025-05-02T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "ALIN",
+          "slug": "alliance-insight",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": 125
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Supreme Darkness",
+          "releaseEu": "2025-01-23T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2025-01-24T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "SUDA",
+          "slug": "supreme-darkness",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/ROTA-f50af31dabf3b65c7d6c",
+          "format": 1,
+          "name": "Rage of the Abyss",
+          "releaseEu": "2024-10-10T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2024-10-11T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "ROTA",
+          "slug": "rage-of-the-abyss",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/INFO-cf3f4352adff2b650323",
+          "format": 1,
+          "name": "The Infinite Forbidden",
+          "releaseEu": "2024-07-18T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2024-07-19T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "INFO",
+          "slug": "the-infinite-forbidden",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/LEDE-c12144ab12682164a5f5",
+          "format": 1,
+          "name": "Legacy of Destruction",
+          "releaseEu": "2024-04-25T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2024-04-26T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "LEDE",
+          "slug": "legacy-of-destruction",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/PHNI-b544864e97f70cbbc405",
+          "format": 1,
+          "name": "Phantom Nightmare",
+          "releaseEu": "2024-02-08T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2024-02-09T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "PHNI",
+          "slug": "phantom-nightmare",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/AGOV-94bda0b4b41af16bffb5",
+          "format": 1,
+          "name": "Age of Overlord",
+          "releaseEu": "2023-10-19T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2023-10-20T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "AGOV",
+          "slug": "age-of-overlord",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/DUNE-c8b647923d4e8d0f73ba",
+          "format": 1,
+          "name": "Duelist Nexus",
+          "releaseEu": "2023-07-27T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2023-07-28T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "DUNE",
+          "slug": "duelist-nexus",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        }
+      ],
+      "setsCount": 8,
+      "format": 1,
+      "parent": {
+        "name": "Core Boosters",
+        "slug": "core-boosters",
+        "setsCount": 102,
+        "format": 1,
+        "parent": {
+          "name": "Booster Packs",
+          "slug": "booster-packs",
+          "setsCount": 326,
+          "format": 1,
+          "parent": null
+        }
+      }
+    },
+    "disableSetList": false,
+    "format": 1,
+    "game": 1,
+    "id": 1206,
+    "image": "https://cardcluster.com/storage/sets/ROTA-f50af31dabf3b65c7d6c",
+    "languages": [
+      {
+        "id": 2833,
+        "language": "de",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 2834,
+        "language": "en",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 2835,
+        "language": "fr",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 2836,
+        "language": "it",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 2837,
+        "language": "pt",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 2838,
+        "language": "es",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      }
+    ],
+    "name": "Rage of the Abyss",
+    "next": {
+      "name": "Supreme Darkness",
+      "setNumber": "SUDA",
+      "slug": "supreme-darkness",
+      "format": 1,
+      "releaseEu": "2025-01-23T00:00:00.000000Z",
+      "releaseNa": "2025-01-24T00:00:00.000000Z"
+    },
+    "previous": {
+      "name": "The Infinite Forbidden",
+      "setNumber": "INFO",
+      "slug": "the-infinite-forbidden",
+      "format": 1,
+      "releaseEu": "2024-07-18T00:00:00.000000Z",
+      "releaseNa": "2024-07-19T00:00:00.000000Z"
+    },
+    "prints": [
+      {
+        "cardNumber": "000",
+        "card": {
+          "name": "Ultimate Dragon of Pride and Soul",
+          "nameEn": "Ultimate Dragon of Pride and Soul",
+          "nameOriginal": null,
+          "slug": "ultimate-dragon-of-pride-and-soul",
+          "archetypeIds": [],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 70765,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/tmp/TMP-CARD-13482-c76084ba51-1960ac3bfd",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "001",
+        "card": {
+          "name": "Surfacing Big Jaws",
+          "nameEn": "Surfacing Big Jaws",
+          "nameOriginal": null,
+          "slug": "surfacing-big-jaws",
+          "archetypeIds": [
+            199,
+            813
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 69186,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN001-UR-0a49e50d51",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "001",
+        "card": {
+          "name": "Surfacing Big Jaws",
+          "nameEn": "Surfacing Big Jaws",
+          "nameOriginal": null,
+          "slug": "surfacing-big-jaws",
+          "archetypeIds": [
+            199,
+            813
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72322,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-DE001-QCSCR-326460b12c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "002",
+        "card": {
+          "name": "Drake Shark",
+          "nameEn": "Drake Shark",
+          "nameOriginal": null,
+          "slug": "drake-shark",
+          "archetypeIds": [
+            199,
+            813
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 69187,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN002-b8fe7e073d",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "003",
+        "card": {
+          "name": "Armored Shark",
+          "nameEn": "Armored Shark",
+          "nameOriginal": null,
+          "slug": "armored-shark",
+          "archetypeIds": [
+            199,
+            813
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 69188,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN003-18f7063568",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "004",
+        "card": {
+          "name": "Heart of the Blue-Eyes",
+          "nameEn": "Heart of the Blue-Eyes",
+          "nameOriginal": null,
+          "slug": "heart-of-the-blue-eyes",
+          "archetypeIds": [
+            22,
+            791,
+            847,
+            858
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 69968,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN004-SCR-bca0cf338b",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "004",
+        "card": {
+          "name": "Heart of the Blue-Eyes",
+          "nameEn": "Heart of the Blue-Eyes",
+          "nameOriginal": null,
+          "slug": "heart-of-the-blue-eyes",
+          "archetypeIds": [
+            22,
+            791,
+            847,
+            858
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72253,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-DE004-QCSCR-2608f837d8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "005",
+        "card": {
+          "name": "Red-Eyes Black Fullmetal Dragon",
+          "nameEn": "Red-Eyes Black Fullmetal Dragon",
+          "nameOriginal": null,
+          "slug": "red-eyes-black-fullmetal-dragon",
+          "archetypeIds": [
+            188,
+            837,
+            838
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70165,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN005-UR-774005fb7a",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "005",
+        "card": {
+          "name": "Red-Eyes Black Fullmetal Dragon",
+          "nameEn": "Red-Eyes Black Fullmetal Dragon",
+          "nameOriginal": null,
+          "slug": "red-eyes-black-fullmetal-dragon",
+          "archetypeIds": [
+            188,
+            837,
+            838
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72254,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN005-UR-774005fb7a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "006",
+        "card": {
+          "name": "Metalzoa X",
+          "nameEn": "Metalzoa X",
+          "nameOriginal": null,
+          "slug": "metalzoa-x",
+          "archetypeIds": [
+            837,
+            698
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 70166,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN006-b1425364bb",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "007",
+        "card": {
+          "name": "Zoa the Fiendish Beast",
+          "nameEn": "Zoa the Fiendish Beast",
+          "nameOriginal": null,
+          "slug": "zoa-the-fiendish-beast",
+          "archetypeIds": [
+            837,
+            698
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 70167,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN007-5233ee56c0",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "008",
+        "card": {
+          "name": "Metal Illusionist",
+          "nameEn": "Metal Illusionist",
+          "nameOriginal": null,
+          "slug": "metal-illusionist",
+          "archetypeIds": [
+            837,
+            838
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70168,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN008-d79b487717",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "009",
+        "card": {
+          "name": "Battlewasp - Rapier the Onslaught",
+          "nameEn": "Battlewasp - Rapier the Onslaught",
+          "nameOriginal": null,
+          "slug": "battlewasp-rapier-the-onslaught",
+          "archetypeIds": [
+            18
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 70754,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN009-c7bb0060d0",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "010",
+        "card": {
+          "name": "Performage Ball Balancer",
+          "nameEn": "Performage Ball Balancer",
+          "nameOriginal": null,
+          "slug": "performage-ball-balancer",
+          "archetypeIds": [
+            175
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 70742,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN010-4546cea537",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "011",
+        "card": {
+          "name": "Chaos Allure Queen",
+          "nameEn": "Chaos Allure Queen",
+          "nameOriginal": null,
+          "slug": "chaos-allure-queen",
+          "archetypeIds": [
+            295,
+            695
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70433,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN011-741c363deb",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "012",
+        "card": {
+          "name": "Goblin Bikers Gone Wild",
+          "nameEn": "Goblin Bikers Gone Wild",
+          "nameOriginal": null,
+          "slug": "goblin-bikers-gone-wild",
+          "archetypeIds": [
+            754,
+            333
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70198,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN012-80e51f8653",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "013",
+        "card": {
+          "name": "Primite Imperial Dragon",
+          "nameEn": "Primite Imperial Dragon",
+          "nameOriginal": null,
+          "slug": "primite-imperial-dragon",
+          "archetypeIds": [
+            834
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70079,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN013-UR-09569248d5",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "013",
+        "card": {
+          "name": "Primite Imperial Dragon",
+          "nameEn": "Primite Imperial Dragon",
+          "nameOriginal": null,
+          "slug": "primite-imperial-dragon",
+          "archetypeIds": [
+            834
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72255,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN013-UR-09569248d5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "014",
+        "card": {
+          "name": "Lacrima the Crimson Tears",
+          "nameEn": "Lacrima the Crimson Tears",
+          "nameOriginal": null,
+          "slug": "lacrima-the-crimson-tears",
+          "archetypeIds": [
+            793
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70751,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN014-SCR-651a9d3328",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "014",
+        "card": {
+          "name": "Lacrima the Crimson Tears",
+          "nameEn": "Lacrima the Crimson Tears",
+          "nameOriginal": null,
+          "slug": "lacrima-the-crimson-tears",
+          "archetypeIds": [
+            793
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72323,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN014-QCSCR-88c7bcc564",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "015",
+        "card": {
+          "name": "Mementotlan Akihiron",
+          "nameEn": "Mementotlan Akihiron",
+          "nameOriginal": null,
+          "slug": "mementotlan-akihiron",
+          "archetypeIds": [
+            740
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70753,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN015-c90309cf39",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "016",
+        "card": {
+          "name": "Centur-Ion Chimerea",
+          "nameEn": "Centur-Ion Chimerea",
+          "nameOriginal": null,
+          "slug": "centur-ion-chimerea",
+          "archetypeIds": [
+            741
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70768,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN016-UR-8b92b9aca1",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "016",
+        "card": {
+          "name": "Centur-Ion Chimerea",
+          "nameEn": "Centur-Ion Chimerea",
+          "nameOriginal": null,
+          "slug": "centur-ion-chimerea",
+          "archetypeIds": [
+            741
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72324,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-DE016-QCSCR-6e32559c9c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "017",
+        "card": {
+          "name": "Abyssrhine, the Atlantean Spirit",
+          "nameEn": "Abyssrhine, the Atlantean Spirit",
+          "nameOriginal": null,
+          "slug": "abyssrhine-the-atlantean-spirit",
+          "archetypeIds": [
+            149,
+            14
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70761,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN017-SCR-aef6802565",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "017",
+        "card": {
+          "name": "Abyssrhine, the Atlantean Spirit",
+          "nameEn": "Abyssrhine, the Atlantean Spirit",
+          "nameOriginal": null,
+          "slug": "abyssrhine-the-atlantean-spirit",
+          "archetypeIds": [
+            149,
+            14
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72256,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-DE017-QCSCR-d794ab1290",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "018",
+        "card": {
+          "name": "Mermail Shadow Squad",
+          "nameEn": "Mermail Shadow Squad",
+          "nameOriginal": null,
+          "slug": "mermail-shadow-squad",
+          "archetypeIds": [
+            149,
+            14
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70760,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN018-UR-4865e3522f",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "018",
+        "card": {
+          "name": "Mermail Shadow Squad",
+          "nameEn": "Mermail Shadow Squad",
+          "nameOriginal": null,
+          "slug": "mermail-shadow-squad",
+          "archetypeIds": [
+            149,
+            14
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72257,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-DE018-QCSCR-ca03d5f7e1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "019",
+        "card": {
+          "name": "Anarchist Monk of the Six Samurai",
+          "nameEn": "Anarchist Monk of the Six Samurai",
+          "nameOriginal": null,
+          "slug": "anarchist-monk-of-the-six-samurai",
+          "archetypeIds": [
+            197
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70124,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN019-90a95b413e",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "020",
+        "card": {
+          "name": "Tactical Trainer of the Six Samurai",
+          "nameEn": "Tactical Trainer of the Six Samurai",
+          "nameOriginal": null,
+          "slug": "tactical-trainer-of-the-six-samurai",
+          "archetypeIds": [
+            197
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70125,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN020-15efd1fa2e",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "021",
+        "card": {
+          "name": "Wandering Titan of Tartarus",
+          "nameEn": "Wandering Titan of Tartarus",
+          "nameOriginal": null,
+          "slug": "wandering-titan-of-tartarus",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 70797,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN021-c65564c34b",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "022",
+        "card": {
+          "name": "Union Pilot",
+          "nameEn": "Union Pilot",
+          "nameOriginal": null,
+          "slug": "union-pilot",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 70175,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN022-bd7d494b50",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "023",
+        "card": {
+          "name": "Eria the Water Channeler",
+          "nameEn": "Eria the Water Channeler",
+          "nameOriginal": null,
+          "slug": "eria-the-water-channeler",
+          "archetypeIds": [
+            28
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2026-01-23T00:00:00.000000Z"
+        },
+        "id": 70775,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN023-UR-746c8976ce",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "023",
+        "card": {
+          "name": "Eria the Water Channeler",
+          "nameEn": "Eria the Water Channeler",
+          "nameOriginal": null,
+          "slug": "eria-the-water-channeler",
+          "archetypeIds": [
+            28
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2026-01-23T00:00:00.000000Z"
+        },
+        "id": 72258,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CH02/CH02-EN009-b2278fee37",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "024",
+        "card": {
+          "name": "Mulcharmy Fuwalos",
+          "nameEn": "Mulcharmy Fuwalos",
+          "nameOriginal": null,
+          "slug": "mulcharmy-fuwalos",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-11-21T00:00:00.000000Z"
+        },
+        "id": 70384,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN024-SCR-ea51ef30d9",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "024",
+        "card": {
+          "name": "Mulcharmy Fuwalos",
+          "nameEn": "Mulcharmy Fuwalos",
+          "nameOriginal": null,
+          "slug": "mulcharmy-fuwalos",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-11-21T00:00:00.000000Z"
+        },
+        "id": 72267,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN024-QCSCR-dd10665251",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "025",
+        "card": {
+          "name": "Tsuru-Puru-Purun",
+          "nameEn": "Tsuru-Puru-Purun",
+          "nameOriginal": null,
+          "slug": "tsuru-puru-purun",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70172,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN025-5ff17f91fa",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "026",
+        "card": {
+          "name": "Flipping Feline",
+          "nameEn": "Flipping Feline",
+          "nameOriginal": null,
+          "slug": "flipping-feline",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70798,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN026-93cc181878",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "027",
+        "card": {
+          "name": "L Magi Mergy",
+          "nameEn": "L Magi Mergy",
+          "nameOriginal": null,
+          "slug": "l-magi-mergy",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70230,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN027-7ca6c2a709",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "028",
+        "card": {
+          "name": "Neverending Nightmare Absorber",
+          "nameEn": "Neverending Nightmare Absorber",
+          "nameOriginal": null,
+          "slug": "neverending-nightmare-absorber",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70174,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN028-717f8b0dda",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "029",
+        "card": {
+          "name": "Newbee!",
+          "nameEn": "Newbee!",
+          "nameOriginal": null,
+          "slug": "newbee",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 70799,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN029-05c1bd340e",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "030",
+        "card": {
+          "name": "Azamina Ilia Silvia",
+          "nameEn": "Azamina Ilia Silvia",
+          "nameOriginal": null,
+          "slug": "azamina-ilia-silvia",
+          "archetypeIds": [
+            845
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70201,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN030-bda94ebdfc",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "031",
+        "card": {
+          "name": "Azamina Mu Rcielago",
+          "nameEn": "Azamina Mu Rcielago",
+          "nameOriginal": null,
+          "slug": "azamina-mu-rcielago",
+          "archetypeIds": [
+            845
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70202,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN031-UR-780b49ff53",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "031",
+        "card": {
+          "name": "Azamina Mu Rcielago",
+          "nameEn": "Azamina Mu Rcielago",
+          "nameOriginal": null,
+          "slug": "azamina-mu-rcielago",
+          "archetypeIds": [
+            845
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72325,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-DE031-QCSCR-f2c11cd197",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "032",
+        "card": {
+          "name": "Azamina Sol Erysichthon",
+          "nameEn": "Azamina Sol Erysichthon",
+          "nameOriginal": null,
+          "slug": "azamina-sol-erysichthon",
+          "archetypeIds": [
+            845
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 70203,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN032-b06b4e45ee",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "033",
+        "card": {
+          "name": "Azamina Moa Regina",
+          "nameEn": "Azamina Moa Regina",
+          "nameOriginal": null,
+          "slug": "azamina-moa-regina",
+          "archetypeIds": [
+            845
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70204,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN033-UR-d0292573f1",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "033",
+        "card": {
+          "name": "Azamina Moa Regina",
+          "nameEn": "Azamina Moa Regina",
+          "nameOriginal": null,
+          "slug": "azamina-moa-regina",
+          "archetypeIds": [
+            845
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72326,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN033-QCSCR-fe28b2bd53",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "034",
+        "card": {
+          "name": "Khaos Starsource Dragon",
+          "nameEn": "Khaos Starsource Dragon",
+          "nameOriginal": null,
+          "slug": "khaos-starsource-dragon",
+          "archetypeIds": [],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70173,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN034-a8b9715506",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "035",
+        "card": {
+          "name": "Heosvarog the Mechanical Dawn",
+          "nameEn": "Heosvarog the Mechanical Dawn",
+          "nameOriginal": null,
+          "slug": "heosvarog-the-mechanical-dawn",
+          "archetypeIds": [],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 70229,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN035-756ecf84dc",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "036",
+        "card": {
+          "name": "Battlewasp - Grand Partisan the Revolution",
+          "nameEn": "Battlewasp - Grand Partisan the Revolution",
+          "nameOriginal": null,
+          "slug": "battlewasp-grand-partisan-the-revolution",
+          "archetypeIds": [
+            18
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 70755,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN036-4055de5892",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "037",
+        "card": {
+          "name": "Battlewasp - Sachi the Ceremonial Bow",
+          "nameEn": "Battlewasp - Sachi the Ceremonial Bow",
+          "nameOriginal": null,
+          "slug": "battlewasp-sachi-the-ceremonial-bow",
+          "archetypeIds": [
+            18
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 70756,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN037-5a27412f7c",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "038",
+        "card": {
+          "name": "Centur-Ion Primera Primus",
+          "nameEn": "Centur-Ion Primera Primus",
+          "nameOriginal": null,
+          "slug": "centur-ion-primera-primus",
+          "archetypeIds": [
+            741
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70769,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN038-b5163f0ad2",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "039",
+        "card": {
+          "name": "Legendary Lord Six Samurai - Shi En",
+          "nameEn": "Legendary Lord Six Samurai - Shi En",
+          "nameOriginal": null,
+          "slug": "legendary-lord-six-samurai-shi-en",
+          "archetypeIds": [
+            197
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70126,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN039-UR-50d978a242",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "039",
+        "card": {
+          "name": "Legendary Lord Six Samurai - Shi En",
+          "nameEn": "Legendary Lord Six Samurai - Shi En",
+          "nameOriginal": null,
+          "slug": "legendary-lord-six-samurai-shi-en",
+          "archetypeIds": [
+            197
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72266,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-DE039-QCSCR-417b0ff1f2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "040",
+        "card": {
+          "name": "Legendary Lord Six Samurai - Enishi",
+          "nameEn": "Legendary Lord Six Samurai - Enishi",
+          "nameOriginal": null,
+          "slug": "legendary-lord-six-samurai-enishi",
+          "archetypeIds": [
+            197
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70127,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN040-2a22268e44",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "041",
+        "card": {
+          "name": "Number C32: Shark Drake LeVeiss",
+          "nameEn": "Number C32: Shark Drake LeVeiss",
+          "nameOriginal": null,
+          "slug": "number-c32-shark-drake-leveiss",
+          "archetypeIds": [
+            174,
+            813
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 69189,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN041-c09171b7df",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "042",
+        "card": {
+          "name": "LeVirtue Dragon",
+          "nameEn": "LeVirtue Dragon",
+          "nameOriginal": null,
+          "slug": "levirtue-dragon",
+          "archetypeIds": [
+            813
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 69190,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN042-21ffa2a948",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "043",
+        "card": {
+          "name": "Poseidra Abyss, the Atlantean Dragon Lord",
+          "nameEn": "Poseidra Abyss, the Atlantean Dragon Lord",
+          "nameOriginal": null,
+          "slug": "poseidra-abyss-the-atlantean-dragon-lord",
+          "archetypeIds": [
+            149,
+            14
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70762,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN043-UR-eaec60bf0e",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "043",
+        "card": {
+          "name": "Poseidra Abyss, the Atlantean Dragon Lord",
+          "nameEn": "Poseidra Abyss, the Atlantean Dragon Lord",
+          "nameOriginal": null,
+          "slug": "poseidra-abyss-the-atlantean-dragon-lord",
+          "archetypeIds": [
+            149,
+            14
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72259,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-DE043-QCSCR-64b9dbee5c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "044",
+        "card": {
+          "name": "Rubysapphirus, the Adamant Jewel",
+          "nameEn": "Rubysapphirus, the Adamant Jewel",
+          "nameOriginal": null,
+          "slug": "rubysapphirus-the-adamant-jewel",
+          "archetypeIds": [],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70800,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN044-f627644d4b",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "045",
+        "card": {
+          "name": "Fiendsmith's Agnumday",
+          "nameEn": "Fiendsmith's Agnumday",
+          "nameOriginal": null,
+          "slug": "fiendsmiths-agnumday",
+          "archetypeIds": [
+            793
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70752,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN045-acc7bec471",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "046",
+        "card": {
+          "name": "Mermail King - Neptabyss",
+          "nameEn": "Mermail King - Neptabyss",
+          "nameOriginal": null,
+          "slug": "mermail-king-neptabyss",
+          "archetypeIds": [
+            149,
+            14
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70763,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN046-UR-ac5896b265",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "046",
+        "card": {
+          "name": "Mermail King - Neptabyss",
+          "nameEn": "Mermail King - Neptabyss",
+          "nameOriginal": null,
+          "slug": "mermail-king-neptabyss",
+          "archetypeIds": [
+            149,
+            14
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72260,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN046-QCSCR-c1359ca959",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "047",
+        "card": {
+          "name": "Flying Mary, the Wandering Ghost Ship",
+          "nameEn": "Flying Mary, the Wandering Ghost Ship",
+          "nameOriginal": null,
+          "slug": "flying-mary-the-wandering-ghost-ship",
+          "archetypeIds": [],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70231,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN047-UR-4c5d27664c",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "047",
+        "card": {
+          "name": "Flying Mary, the Wandering Ghost Ship",
+          "nameEn": "Flying Mary, the Wandering Ghost Ship",
+          "nameOriginal": null,
+          "slug": "flying-mary-the-wandering-ghost-ship",
+          "archetypeIds": [],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72261,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN047-QCSCR-9a4c8c6692",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "048",
+        "card": {
+          "name": "Aqua Jet Surface",
+          "nameEn": "Aqua Jet Surface",
+          "nameOriginal": null,
+          "slug": "aqua-jet-surface",
+          "archetypeIds": [
+            813
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 69191,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN048-1ac33e7ca2",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "049",
+        "card": {
+          "name": "Reincarnation Unveiling Mail",
+          "nameEn": "Reincarnation Unveiling Mail",
+          "nameOriginal": null,
+          "slug": "reincarnation-unveiling-mail",
+          "archetypeIds": [
+            813
+          ],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 69192,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN049-cb91c42523",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "050",
+        "card": {
+          "name": "Incoming Machine!",
+          "nameEn": "Incoming Machine!",
+          "nameOriginal": null,
+          "slug": "incoming-machine",
+          "archetypeIds": [
+            837
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70169,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN050-a6b8c48bc2",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "051",
+        "card": {
+          "name": "Armed Rebeellion",
+          "nameEn": "Armed Rebeellion",
+          "nameOriginal": null,
+          "slug": "armed-rebeellion",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 70757,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN051-c0fdc89c84",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "052",
+        "card": {
+          "name": "Battlewasp Wind",
+          "nameEn": "Battlewasp Wind",
+          "nameOriginal": null,
+          "slug": "battlewasp-wind",
+          "archetypeIds": [
+            18
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 70758,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN052-0ff59b9e96",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "053",
+        "card": {
+          "name": "The Hallowed Azamina",
+          "nameEn": "The Hallowed Azamina",
+          "nameOriginal": null,
+          "slug": "the-hallowed-azamina",
+          "archetypeIds": [
+            845
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70205,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN053-2350d08715",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "054",
+        "card": {
+          "name": "Azamina Debtors",
+          "nameEn": "Azamina Debtors",
+          "nameOriginal": null,
+          "slug": "azamina-debtors",
+          "archetypeIds": [
+            845
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70206,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN054-eaae9feb30",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "055",
+        "card": {
+          "name": "Deception of the Sinful Spoils",
+          "nameEn": "Deception of the Sinful Spoils",
+          "nameOriginal": null,
+          "slug": "deception-of-the-sinful-spoils",
+          "archetypeIds": [
+            845
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70207,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN055-SCR-682eed4c69",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "055",
+        "card": {
+          "name": "Deception of the Sinful Spoils",
+          "nameEn": "Deception of the Sinful Spoils",
+          "nameOriginal": null,
+          "slug": "deception-of-the-sinful-spoils",
+          "archetypeIds": [
+            845
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72327,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-DE055-QCSCR-bdfcb9be05",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "056",
+        "card": {
+          "name": "Scourge of the White Forest",
+          "nameEn": "Scourge of the White Forest",
+          "nameOriginal": null,
+          "slug": "scourge-of-the-white-forest",
+          "archetypeIds": [
+            808
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70197,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN056-4fc26b2079",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "057",
+        "card": {
+          "name": "Goblin Biker Grand Breakout",
+          "nameEn": "Goblin Biker Grand Breakout",
+          "nameOriginal": null,
+          "slug": "goblin-biker-grand-breakout",
+          "archetypeIds": [
+            333
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70199,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN057-3e70198081",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "058",
+        "card": {
+          "name": "Primite Lordly Lode",
+          "nameEn": "Primite Lordly Lode",
+          "nameOriginal": null,
+          "slug": "primite-lordly-lode",
+          "archetypeIds": [
+            834
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70080,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN058-SCR-bba1e16452",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "058",
+        "card": {
+          "name": "Primite Lordly Lode",
+          "nameEn": "Primite Lordly Lode",
+          "nameOriginal": null,
+          "slug": "primite-lordly-lode",
+          "archetypeIds": [
+            834
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72262,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-DE058-QCSCR-19117ca313",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "059",
+        "card": {
+          "name": "Primite Roar",
+          "nameEn": "Primite Roar",
+          "nameOriginal": null,
+          "slug": "primite-roar",
+          "archetypeIds": [
+            834
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70081,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN059-26d8652a4a",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "060",
+        "card": {
+          "name": "Primite Drillbeam",
+          "nameEn": "Primite Drillbeam",
+          "nameOriginal": null,
+          "slug": "primite-drillbeam",
+          "archetypeIds": [
+            834
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70082,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN060-UR-f67d62ec8c",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "060",
+        "card": {
+          "name": "Primite Drillbeam",
+          "nameEn": "Primite Drillbeam",
+          "nameOriginal": null,
+          "slug": "primite-drillbeam",
+          "archetypeIds": [
+            834
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72328,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-DE060-QCSCR-7cbdd04824",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "061",
+        "card": {
+          "name": "Sangen Furo",
+          "nameEn": "Sangen Furo",
+          "nameOriginal": null,
+          "slug": "sangen-furo",
+          "archetypeIds": [],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70196,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN061-552272a485",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "062",
+        "card": {
+          "name": "Abyss-sting Triaina",
+          "nameEn": "Abyss-sting Triaina",
+          "nameOriginal": null,
+          "slug": "abyss-sting-triaina",
+          "archetypeIds": [
+            149,
+            14
+          ],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70764,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN062-c2e98ccc90",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "063",
+        "card": {
+          "name": "Six Strike - Double Assault",
+          "nameEn": "Six Strike - Double Assault",
+          "nameOriginal": null,
+          "slug": "six-strike-double-assault",
+          "archetypeIds": [
+            197
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70128,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN063-ab81d33d82",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "064",
+        "card": {
+          "name": "Final Bringer of the End Times",
+          "nameEn": "Final Bringer of the End Times",
+          "nameOriginal": null,
+          "slug": "final-bringer-of-the-end-times",
+          "archetypeIds": [],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70228,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN064-713ec29aff",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "065",
+        "card": {
+          "name": "Succumbing-Song Morganite",
+          "nameEn": "Succumbing-Song Morganite",
+          "nameOriginal": null,
+          "slug": "succumbing-song-morganite",
+          "archetypeIds": [
+            839
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 70176,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN065-a91bd87197",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "066",
+        "card": {
+          "name": "Firestorms Over Atlantis",
+          "nameEn": "Firestorms Over Atlantis",
+          "nameOriginal": null,
+          "slug": "firestorms-over-atlantis",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70766,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN066-230d4ead22",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "067",
+        "card": {
+          "name": "Token Support",
+          "nameEn": "Token Support",
+          "nameOriginal": null,
+          "slug": "token-support",
+          "archetypeIds": [],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70801,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN067-cc083e71bb",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "068",
+        "card": {
+          "name": "Virtue Stream",
+          "nameEn": "Virtue Stream",
+          "nameOriginal": null,
+          "slug": "virtue-stream",
+          "archetypeIds": [
+            813
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 69193,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN068-d746b9d30a",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "069",
+        "card": {
+          "name": "Xyz Poseidon Splash",
+          "nameEn": "Xyz Poseidon Splash",
+          "nameOriginal": null,
+          "slug": "xyz-poseidon-splash",
+          "archetypeIds": [
+            813
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 69194,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN069-c1de257568",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "070",
+        "card": {
+          "name": "Puppet Shark",
+          "nameEn": "Puppet Shark",
+          "nameOriginal": null,
+          "slug": "puppet-shark",
+          "archetypeIds": [
+            656,
+            819
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70759,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN070-d01c25a537",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "071",
+        "card": {
+          "name": "Max Metalmorph",
+          "nameEn": "Max Metalmorph",
+          "nameOriginal": null,
+          "slug": "max-metalmorph",
+          "archetypeIds": [
+            837,
+            698,
+            838
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70170,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN071-240ecd5fb4",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "072",
+        "card": {
+          "name": "Time Engine",
+          "nameEn": "Time Engine",
+          "nameOriginal": null,
+          "slug": "time-engine",
+          "archetypeIds": [
+            837,
+            838
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70171,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN072-6904749327",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "073",
+        "card": {
+          "name": "Azamina Determination",
+          "nameEn": "Azamina Determination",
+          "nameOriginal": null,
+          "slug": "azamina-determination",
+          "archetypeIds": [
+            845
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70208,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN073-d35f836cf9",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "074",
+        "card": {
+          "name": "Guilt of the Sinful Spoils",
+          "nameEn": "Guilt of the Sinful Spoils",
+          "nameOriginal": null,
+          "slug": "guilt-of-the-sinful-spoils",
+          "archetypeIds": [
+            744
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70209,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN074-639b7ab8b2",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "075",
+        "card": {
+          "name": "Goblin Biker Grand Crisis",
+          "nameEn": "Goblin Biker Grand Crisis",
+          "nameOriginal": null,
+          "slug": "goblin-biker-grand-crisis",
+          "archetypeIds": [
+            333
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70200,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN075-14a26e232e",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "076",
+        "card": {
+          "name": "Primite Howl",
+          "nameEn": "Primite Howl",
+          "nameOriginal": null,
+          "slug": "primite-howl",
+          "archetypeIds": [
+            834
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70083,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN076-fbb6b8178e",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "077",
+        "card": {
+          "name": "Ragnaraika Wisteria of Woe",
+          "nameEn": "Ragnaraika Wisteria of Woe",
+          "nameOriginal": null,
+          "slug": "ragnaraika-wisteria-of-woe",
+          "archetypeIds": [
+            786,
+            387
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 70180,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN077-10d0ccab04",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "078",
+        "card": {
+          "name": "Vaalmonica Ereditare",
+          "nameEn": "Vaalmonica Ereditare",
+          "nameOriginal": null,
+          "slug": "vaalmonica-ereditare",
+          "archetypeIds": [
+            742
+          ],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 70767,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN078-81ad892870",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "079",
+        "card": {
+          "name": "Dominus Impulse",
+          "nameEn": "Dominus Impulse",
+          "nameOriginal": null,
+          "slug": "dominus-impulse",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 70434,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN079-SCR-36d324b5b9",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "079",
+        "card": {
+          "name": "Dominus Impulse",
+          "nameEn": "Dominus Impulse",
+          "nameOriginal": null,
+          "slug": "dominus-impulse",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72263,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN079-QCSCR-de6411de61",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "080",
+        "card": {
+          "name": "Summer Schoolwork Successful!",
+          "nameEn": "Summer Schoolwork Successful!",
+          "nameOriginal": null,
+          "slug": "summer-schoolwork-successful",
+          "archetypeIds": [],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 70802,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN080-7d85036352",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "081",
+        "card": {
+          "name": "Supply Soldier of the Indestructible Insects",
+          "nameEn": "Supply Soldier of the Indestructible Insects",
+          "nameOriginal": null,
+          "slug": "supply-soldier-of-the-indestructible-insects",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 72313,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN081-27911381e9",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "082",
+        "card": {
+          "name": "Heavy Cavalry of the Indestructible Insects",
+          "nameEn": "Heavy Cavalry of the Indestructible Insects",
+          "nameOriginal": null,
+          "slug": "heavy-cavalry-of-the-indestructible-insects",
+          "archetypeIds": [],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 72314,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN082-989bc46c99",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "083",
+        "card": {
+          "name": "Insect Invitation",
+          "nameEn": "Insect Invitation",
+          "nameOriginal": null,
+          "slug": "insect-invitation",
+          "archetypeIds": [],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 72315,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN083-aa2402ce8d",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "084",
+        "card": {
+          "name": "Mantman the Ultrahuman",
+          "nameEn": "Mantman the Ultrahuman",
+          "nameOriginal": null,
+          "slug": "mantman-the-ultrahuman",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72316,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN084-d2921ddd5b",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "085",
+        "card": {
+          "name": "Phalaenop Sisters",
+          "nameEn": "Phalaenop Sisters",
+          "nameOriginal": null,
+          "slug": "phalaenop-sisters",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2024-10-11T00:00:00.000000Z"
+        },
+        "id": 72317,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN085-7436d9e565",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "086",
+        "card": {
+          "name": "Release Brainwashing",
+          "nameEn": "Release Brainwashing",
+          "nameOriginal": null,
+          "slug": "release-brainwashing",
+          "archetypeIds": [],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72318,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN086-f10142707a",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "087",
+        "card": {
+          "name": "Denial Deity Dotan",
+          "nameEn": "Denial Deity Dotan",
+          "nameOriginal": null,
+          "slug": "denial-deity-dotan",
+          "archetypeIds": [],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72319,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN087-09580a2d83",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "088",
+        "card": {
+          "name": "Butterfly Fish",
+          "nameEn": "Butterfly Fish",
+          "nameOriginal": null,
+          "slug": "butterfly-fish",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72320,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN088-e27a9a19d5",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "089",
+        "card": {
+          "name": "QQ Enneagon",
+          "nameEn": "QQ Enneagon",
+          "nameOriginal": null,
+          "slug": "qq-enneagon",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72321,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN089-5f49959366",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "090",
+        "card": {
+          "name": "Mimighoul Armor",
+          "nameEn": "Mimighoul Armor",
+          "nameOriginal": null,
+          "slug": "mimighoul-armor",
+          "archetypeIds": [
+            846
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72246,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN090-bb885bbb8d",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "091",
+        "card": {
+          "name": "Mimighoul Fairy",
+          "nameEn": "Mimighoul Fairy",
+          "nameOriginal": null,
+          "slug": "mimighoul-fairy",
+          "archetypeIds": [
+            846
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72247,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN091-5972f32ed2",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "092",
+        "card": {
+          "name": "Mimighoul Slime",
+          "nameEn": "Mimighoul Slime",
+          "nameOriginal": null,
+          "slug": "mimighoul-slime",
+          "archetypeIds": [
+            846
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72248,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN092-75f718ce19",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "093",
+        "card": {
+          "name": "Giant Mimighoul",
+          "nameEn": "Giant Mimighoul",
+          "nameOriginal": null,
+          "slug": "giant-mimighoul",
+          "archetypeIds": [
+            846
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72249,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN093-SCR-ab3ec6d12c",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "093",
+        "card": {
+          "name": "Giant Mimighoul",
+          "nameEn": "Giant Mimighoul",
+          "nameOriginal": null,
+          "slug": "giant-mimighoul",
+          "archetypeIds": [
+            846
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72264,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN093-QCSCR-7edc1b3053",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "094",
+        "card": {
+          "name": "Mimighoul Throne",
+          "nameEn": "Mimighoul Throne",
+          "nameOriginal": null,
+          "slug": "mimighoul-throne",
+          "archetypeIds": [
+            846
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72250,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN094-UR-4078d774c4",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "094",
+        "card": {
+          "name": "Mimighoul Throne",
+          "nameEn": "Mimighoul Throne",
+          "nameOriginal": null,
+          "slug": "mimighoul-throne",
+          "archetypeIds": [
+            846
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72265,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN094-UR-4078d774c4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "095",
+        "card": {
+          "name": "Mimighoul Fork",
+          "nameEn": "Mimighoul Fork",
+          "nameOriginal": null,
+          "slug": "mimighoul-fork",
+          "archetypeIds": [
+            846
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72251,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN095-a92a519b24",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "096",
+        "card": {
+          "name": "Mimighoul Charm",
+          "nameEn": "Mimighoul Charm",
+          "nameOriginal": null,
+          "slug": "mimighoul-charm",
+          "archetypeIds": [
+            846
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 71279,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN096-SCR-f92fde65e6",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "096",
+        "card": {
+          "name": "Mimighoul Charm",
+          "nameEn": "Mimighoul Charm",
+          "nameOriginal": null,
+          "slug": "mimighoul-charm",
+          "archetypeIds": [
+            846
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 71280,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN096-QCSCR-2cdad38feb",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "097",
+        "card": {
+          "name": "Rescue Hedgehog",
+          "nameEn": "Rescue Hedgehog",
+          "nameOriginal": null,
+          "slug": "rescue-hedgehog",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72310,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN097-f3887a1f57",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "098",
+        "card": {
+          "name": "Fire King Courtier Ulcanix",
+          "nameEn": "Fire King Courtier Ulcanix",
+          "nameOriginal": null,
+          "slug": "fire-king-courtier-ulcanix",
+          "archetypeIds": [
+            76
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72252,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN098-SCR-47e1199c6f",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "098",
+        "card": {
+          "name": "Fire King Courtier Ulcanix",
+          "nameEn": "Fire King Courtier Ulcanix",
+          "nameOriginal": null,
+          "slug": "fire-king-courtier-ulcanix",
+          "archetypeIds": [
+            76
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72329,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 70,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-DE098-QCSCR-e635e40f81",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "099",
+        "card": {
+          "name": "Cursed Fire King Doom Burst",
+          "nameEn": "Cursed Fire King Doom Burst",
+          "nameOriginal": null,
+          "slug": "cursed-fire-king-doom-burst",
+          "archetypeIds": [
+            76,
+            927
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72311,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN099-9a6a984da0",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "100",
+        "card": {
+          "name": "Splitting Planarian",
+          "nameEn": "Splitting Planarian",
+          "nameOriginal": null,
+          "slug": "splitting-planarian",
+          "archetypeIds": [
+            895
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2024-10-10T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 72312,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN100-3f00d5fc52",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      }
+    ],
+    "printsCount": null,
+    "releaseEu": "2024-10-10T00:00:00.000000Z",
+    "releaseEuDayUnknown": false,
+    "releaseEuMonthUnknown": false,
+    "releaseNa": "2024-10-11T00:00:00.000000Z",
+    "releaseNaDayUnknown": false,
+    "releaseNaMonthUnknown": false,
+    "tournamentLegal": null,
+    "setNumber": "ROTA",
+    "slug": "rage-of-the-abyss",
+    "scanCounts": {
+      "en": 108,
+      "de": 117
+    }
+  }
+}

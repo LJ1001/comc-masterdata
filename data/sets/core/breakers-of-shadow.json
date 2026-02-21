@@ -1,0 +1,3425 @@
+{
+  "data": {
+    "archetypes": [
+      {
+        "id": 137,
+        "name": "Magician",
+        "slug": "magician",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LED6/LED6-DE053-68fc411bed",
+        "isFirstPrint": false
+      },
+      {
+        "id": 929,
+        "name": "Yuya Sakaki | Z-ARC",
+        "slug": "yuya-sakaki-z-arc",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN265-b465d5a7bd",
+        "isFirstPrint": false
+      },
+      {
+        "id": 166,
+        "name": "Odd-Eyes",
+        "slug": "odd-eyes",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DIFO/DIFO-EN034-c0c00b4451",
+        "isFirstPrint": false
+      },
+      {
+        "id": 176,
+        "name": "Performapal",
+        "slug": "performapal",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/OP19/OP19-DE021-ef90dde279",
+        "isFirstPrint": false
+      },
+      {
+        "id": 211,
+        "name": "Superheavy Samurai",
+        "slug": "superheavy-samurai",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN076-3a3f203642",
+        "isFirstPrint": false
+      },
+      {
+        "id": 148,
+        "name": "Melodious",
+        "slug": "melodious",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LEDE/LEDE-EN036-eb54801fa6",
+        "isFirstPrint": false
+      },
+      {
+        "id": 21,
+        "name": "Blackwing",
+        "slug": "blackwing",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/L5DD/L5DD-ENC10-b493182090",
+        "isFirstPrint": false
+      },
+      {
+        "id": 162,
+        "name": "Ninja",
+        "slug": "ninja",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN040-2a7fcd1008",
+        "isFirstPrint": false
+      },
+      {
+        "id": 26,
+        "name": "Buster Blader",
+        "slug": "buster-blader",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE060-10e022ce35",
+        "isFirstPrint": false
+      },
+      {
+        "id": 858,
+        "name": "Yugi Muto | Yami Yugi",
+        "slug": "yugi-muto-yami-yugi",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/MP22/MP22-EN273-69e63915d2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 54,
+        "name": "Dracoslayer",
+        "slug": "dracoslayer",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/ANGU/ANGU-EN048-c3d4ded24b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 173,
+        "name": "Pendulum",
+        "slug": "pendulum",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LED6/LED6-DE051-92000b6cfa",
+        "isFirstPrint": false
+      },
+      {
+        "id": 50,
+        "name": "Dinomist",
+        "slug": "dinomist",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MACR/MACR-DE076-f27a4f714d",
+        "isFirstPrint": true
+      },
+      {
+        "id": 139,
+        "name": "Majespecter",
+        "slug": "majespecter",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/PHNI/PHNI-EN069-67f896f8e6",
+        "isFirstPrint": false
+      },
+      {
+        "id": 200,
+        "name": "Shiranui",
+        "slug": "shiranui",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MAMA/MAMA-EN054-d87e2f355f",
+        "isFirstPrint": true
+      },
+      {
+        "id": 474,
+        "name": "Counter Fairy",
+        "slug": "counter-fairy",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/EOJ/EOJ-DE020-1426c50f6b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 224,
+        "name": "Toon",
+        "slug": "toon",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MAMA/MAMA-EN112-c8f81f5630",
+        "isFirstPrint": false
+      },
+      {
+        "id": 849,
+        "name": "Maximillion Pegasus",
+        "slug": "maximillion-pegasus",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LDS1/LDS1-DE046-b0ee98380c",
+        "isFirstPrint": false
+      },
+      {
+        "id": 48,
+        "name": "Deskbot",
+        "slug": "deskbot",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SR10/SR10-DE022-2d48d8be4f",
+        "isFirstPrint": false
+      },
+      {
+        "id": 98,
+        "name": "Goyo",
+        "slug": "goyo",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/DUSA/DUSA-EN075-9cc86cacb3",
+        "isFirstPrint": false
+      },
+      {
+        "id": 203,
+        "name": "Speedroid",
+        "slug": "speedroid",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LED8/LED8-EN009-b41ca82023",
+        "isFirstPrint": false
+      },
+      {
+        "id": 363,
+        "name": "roid",
+        "slug": "roid",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SGX2/SGX2-ENB20-137fba1dd2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 812,
+        "name": "Yugo",
+        "slug": "yugo",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/SUDA/SUDA-DE068-23cd0f1cc7",
+        "isFirstPrint": false
+      },
+      {
+        "id": 927,
+        "name": "Jack Atlas",
+        "slug": "jack-atlas",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/L5DD/L5DD-ENY22-215ad17c7a",
+        "isFirstPrint": false
+      },
+      {
+        "id": 124,
+        "name": "Kozmo",
+        "slug": "kozmo",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MAGO/MAGO-DE014-1e8b593c8e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 120,
+        "name": "Kaiju",
+        "slug": "kaiju",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLC1/BLC1-EN103-94a4b99751",
+        "isFirstPrint": false
+      },
+      {
+        "id": 14,
+        "name": "Atlantean",
+        "slug": "atlantean",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN043-UR-eaec60bf0e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 41,
+        "name": "Cyber Dragon",
+        "slug": "cyber-dragon",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CT03/CT03-EN002-5ad55dddc5",
+        "isFirstPrint": false
+      },
+      {
+        "id": 188,
+        "name": "Red-Eyes",
+        "slug": "red-eyes",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA01/RA01-EN038-SCR-dc3b08d48e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 838,
+        "name": "Joey Wheeler",
+        "slug": "joey-wheeler",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/ROTA/ROTA-EN072-6904749327",
+        "isFirstPrint": false
+      },
+      {
+        "id": 20,
+        "name": "Black Luster Soldier",
+        "slug": "black-luster-soldier",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN129-d259bbc608",
+        "isFirstPrint": false
+      },
+      {
+        "id": 695,
+        "name": "Chaos",
+        "slug": "chaos",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/RA01/RA01-EN065-SCR-ae1baf3a05",
+        "isFirstPrint": false
+      },
+      {
+        "id": 259,
+        "name": "Gaia The Fierce Knight",
+        "slug": "gaia-the-fierce-knight",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN100-4b37837dac",
+        "isFirstPrint": false
+      },
+      {
+        "id": 586,
+        "name": "Gaia Knight",
+        "slug": "gaia-knight",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN124-d1784071c6",
+        "isFirstPrint": false
+      },
+      {
+        "id": 225,
+        "name": "Traptrix",
+        "slug": "traptrix",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MAMA/MAMA-EN074-4d8fc69016",
+        "isFirstPrint": false
+      }
+    ],
+    "archetypesReprint": [],
+    "category": {
+      "name": "Series 9",
+      "slug": "series-9",
+      "sets": [
+        {
+          "image": null,
+          "format": 1,
+          "name": "Maximum Crisis",
+          "releaseEu": "2017-05-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2017-05-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "MACR",
+          "slug": "maximum-crisis",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Raging Tempest",
+          "releaseEu": "2017-02-09T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2017-02-10T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "RATE",
+          "slug": "raging-tempest",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Invasion: Vengeance",
+          "releaseEu": "2016-11-03T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2016-11-04T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "INOV",
+          "slug": "invasion-vengeance",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "The Dark Illusion",
+          "releaseEu": "2016-08-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2016-08-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "TDIL",
+          "slug": "the-dark-illusion",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Shining Victories",
+          "releaseEu": "2016-05-05T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2016-05-06T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "SHVI",
+          "slug": "shining-victories",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Breakers of Shadow",
+          "releaseEu": "2016-01-14T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2016-01-15T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "BOSH",
+          "slug": "breakers-of-shadow",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Dimension of Chaos",
+          "releaseEu": "2015-11-05T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2015-11-06T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "DOCS",
+          "slug": "dimension-of-chaos",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Clash of Rebellions",
+          "releaseEu": "2015-08-06T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2015-08-07T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CORE",
+          "slug": "clash-of-rebellions",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Crossed Souls",
+          "releaseEu": "2015-05-14T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2015-05-15T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CROS",
+          "slug": "crossed-souls",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Secrets of Eternity",
+          "releaseEu": "2015-01-15T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2015-01-16T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "SECE",
+          "slug": "secrets-of-eternity",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "The New Challengers",
+          "releaseEu": "2014-11-06T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2014-11-07T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "NECH",
+          "slug": "the-new-challengers",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Duelist Alliance",
+          "releaseEu": "2014-08-14T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2014-08-15T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "DUEA",
+          "slug": "duelist-alliance",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        }
+      ],
+      "setsCount": 12,
+      "format": 1,
+      "parent": {
+        "name": "Core Boosters",
+        "slug": "core-boosters",
+        "setsCount": 102,
+        "format": 1,
+        "parent": {
+          "name": "Booster Packs",
+          "slug": "booster-packs",
+          "setsCount": 326,
+          "format": 1,
+          "parent": null
+        }
+      }
+    },
+    "disableSetList": false,
+    "format": 1,
+    "game": 1,
+    "id": 71,
+    "image": null,
+    "languages": [
+      {
+        "id": 855,
+        "language": "de",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 856,
+        "language": "en",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 857,
+        "language": "fr",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 858,
+        "language": "it",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 859,
+        "language": "pt",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 860,
+        "language": "es",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      }
+    ],
+    "name": "Breakers of Shadow",
+    "next": {
+      "name": "Shining Victories",
+      "setNumber": "SHVI",
+      "slug": "shining-victories",
+      "format": 1,
+      "releaseEu": "2016-05-05T00:00:00.000000Z",
+      "releaseNa": "2016-05-06T00:00:00.000000Z"
+    },
+    "previous": {
+      "name": "Dimension of Chaos",
+      "setNumber": "DOCS",
+      "slug": "dimension-of-chaos",
+      "format": 1,
+      "releaseEu": "2015-11-05T00:00:00.000000Z",
+      "releaseNa": "2015-11-06T00:00:00.000000Z"
+    },
+    "prints": [
+      {
+        "cardNumber": "000",
+        "card": {
+          "name": "Steel Cavalry of Dinon",
+          "nameEn": "Steel Cavalry of Dinon",
+          "nameOriginal": null,
+          "slug": "steel-cavalry-of-dinon",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-01-15T00:00:00.000000Z"
+        },
+        "id": 3640,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE000-7f923d682b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "001",
+        "card": {
+          "name": "Tuning Magician",
+          "nameEn": "Tuning Magician",
+          "nameOriginal": null,
+          "slug": "tuning-magician",
+          "archetypeIds": [
+            137,
+            929
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2017-06-23T00:00:00.000000Z"
+        },
+        "id": 3641,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE001-f0f1bf7642",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "002",
+        "card": {
+          "name": "Timebreaker Magician",
+          "nameEn": "Timebreaker Magician",
+          "nameOriginal": null,
+          "slug": "timebreaker-magician",
+          "archetypeIds": [
+            137,
+            929
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2017-06-23T00:00:00.000000Z"
+        },
+        "id": 3642,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE002-2393f6eaa8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "003",
+        "card": {
+          "name": "Performapal Monkeyboard",
+          "nameEn": "Performapal Monkeyboard",
+          "nameOriginal": null,
+          "slug": "performapal-monkeyboard",
+          "archetypeIds": [
+            166,
+            176,
+            929
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-03-18T00:00:00.000000Z"
+        },
+        "id": 3643,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE003-34dfc128b6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "004",
+        "card": {
+          "name": "Performapal Guitartle",
+          "nameEn": "Performapal Guitartle",
+          "nameOriginal": null,
+          "slug": "performapal-guitartle",
+          "archetypeIds": [
+            176,
+            929
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3644,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE004-a63a0f0ef6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "005",
+        "card": {
+          "name": "Performapal Bit Bite Turtle",
+          "nameEn": "Performapal Bit Bite Turtle",
+          "nameOriginal": null,
+          "slug": "performapal-bit-bite-turtle",
+          "archetypeIds": [
+            166,
+            176,
+            929
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3645,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE005-2db50000a6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "006",
+        "card": {
+          "name": "Performapal Rain Goat",
+          "nameEn": "Performapal Rain Goat",
+          "nameOriginal": null,
+          "slug": "performapal-rain-goat",
+          "archetypeIds": [
+            166,
+            176,
+            929
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2024-08-29T00:00:00.000000Z"
+        },
+        "id": 3646,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE006-da9bf39582",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "007",
+        "card": {
+          "name": "Performapal Trump Girl",
+          "nameEn": "Performapal Trump Girl",
+          "nameOriginal": null,
+          "slug": "performapal-trump-girl",
+          "archetypeIds": [
+            176,
+            929
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3647,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE007-f99820bd70",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "008",
+        "card": {
+          "name": "Superheavy Samurai Magnet",
+          "nameEn": "Superheavy Samurai Magnet",
+          "nameOriginal": null,
+          "slug": "superheavy-samurai-magnet",
+          "archetypeIds": [
+            211
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3648,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE008-473adab735",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "009",
+        "card": {
+          "name": "Superheavy Samurai Prepped Defense",
+          "nameEn": "Superheavy Samurai Prepped Defense",
+          "nameOriginal": null,
+          "slug": "superheavy-samurai-prepped-defense",
+          "archetypeIds": [
+            211
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3649,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE009-8c79a1f181",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "010",
+        "card": {
+          "name": "Superheavy Samurai General Jade",
+          "nameEn": "Superheavy Samurai General Jade",
+          "nameOriginal": null,
+          "slug": "superheavy-samurai-general-jade",
+          "archetypeIds": [
+            211
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3650,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE010-b2e5850caf",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "011",
+        "card": {
+          "name": "Superheavy Samurai General Coral",
+          "nameEn": "Superheavy Samurai General Coral",
+          "nameOriginal": null,
+          "slug": "superheavy-samurai-general-coral",
+          "archetypeIds": [
+            211
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3651,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE011-451c2c3520",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "012",
+        "card": {
+          "name": "Solo the Melodious Songstress",
+          "nameEn": "Solo the Melodious Songstress",
+          "nameOriginal": null,
+          "slug": "solo-the-melodious-songstress",
+          "archetypeIds": [
+            148
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2017-03-10T00:00:00.000000Z"
+        },
+        "id": 3652,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE012-a3b4ba5bc8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "013",
+        "card": {
+          "name": "Score the Melodious Diva",
+          "nameEn": "Score the Melodious Diva",
+          "nameOriginal": null,
+          "slug": "score-the-melodious-diva",
+          "archetypeIds": [
+            148
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2017-03-10T00:00:00.000000Z"
+        },
+        "id": 3653,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE013-e44f8cf878",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "014",
+        "card": {
+          "name": "Blackwing - Harmattan the Dust",
+          "nameEn": "Blackwing - Harmattan the Dust",
+          "nameOriginal": null,
+          "slug": "blackwing-harmattan-the-dust",
+          "archetypeIds": [
+            21
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2025-11-21T00:00:00.000000Z"
+        },
+        "id": 3654,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE014-39cf6364cb",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "015",
+        "card": {
+          "name": "Twilight Ninja Shingetsu",
+          "nameEn": "Twilight Ninja Shingetsu",
+          "nameOriginal": null,
+          "slug": "twilight-ninja-shingetsu",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3655,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE015-cb720fbae2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "016",
+        "card": {
+          "name": "Twilight Ninja Nichirin, the Chunin",
+          "nameEn": "Twilight Ninja Nichirin, the Chunin",
+          "nameOriginal": null,
+          "slug": "twilight-ninja-nichirin-the-chunin",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3656,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE016-1e40b228ba",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "017",
+        "card": {
+          "name": "Twilight Ninja Getsuga, the Shogun",
+          "nameEn": "Twilight Ninja Getsuga, the Shogun",
+          "nameOriginal": null,
+          "slug": "twilight-ninja-getsuga-the-shogun",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2018-08-17T00:00:00.000000Z"
+        },
+        "id": 3657,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE017-7f52cb5df0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "018",
+        "card": {
+          "name": "Buster Blader, the Destruction Swordmaster",
+          "nameEn": "Buster Blader, the Destruction Swordmaster",
+          "nameOriginal": null,
+          "slug": "buster-blader-the-destruction-swordmaster",
+          "archetypeIds": [
+            26,
+            858
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2020-12-11T00:00:00.000000Z"
+        },
+        "id": 3658,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE018-f9377a6af5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "019",
+        "card": {
+          "name": "Buster Whelp of the Destruction Swordsman",
+          "nameEn": "Buster Whelp of the Destruction Swordsman",
+          "nameOriginal": null,
+          "slug": "buster-whelp-of-the-destruction-swordsman",
+          "archetypeIds": [
+            858
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 3659,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE019-074d5137d6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "020",
+        "card": {
+          "name": "Dragon Buster Destruction Sword",
+          "nameEn": "Dragon Buster Destruction Sword",
+          "nameOriginal": null,
+          "slug": "dragon-buster-destruction-sword",
+          "archetypeIds": [
+            858
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2020-07-24T00:00:00.000000Z"
+        },
+        "id": 3660,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BLAR/BLAR-DE079-fad5c72964",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "021",
+        "card": {
+          "name": "Wizard Buster Destruction Sword",
+          "nameEn": "Wizard Buster Destruction Sword",
+          "nameOriginal": null,
+          "slug": "wizard-buster-destruction-sword",
+          "archetypeIds": [
+            858
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3661,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE021-ab8749bd14",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "022",
+        "card": {
+          "name": "Robot Buster Destruction Sword",
+          "nameEn": "Robot Buster Destruction Sword",
+          "nameOriginal": null,
+          "slug": "robot-buster-destruction-sword",
+          "archetypeIds": [
+            858
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3662,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE022-e0e45af38c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "023",
+        "card": {
+          "name": "Master Pendulum, the Dracoslayer",
+          "nameEn": "Master Pendulum, the Dracoslayer",
+          "nameOriginal": null,
+          "slug": "master-pendulum-the-dracoslayer",
+          "archetypeIds": [
+            54,
+            173
+          ],
+          "cardTypeOrder": "13",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2017-06-23T00:00:00.000000Z"
+        },
+        "id": 3663,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE023-b7cc47d9d5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "024",
+        "card": {
+          "name": "Dinomist Stegosaur",
+          "nameEn": "Dinomist Stegosaur",
+          "nameOriginal": null,
+          "slug": "dinomist-stegosaur",
+          "archetypeIds": [
+            50
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3664,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE024-29bcc71e4b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "025",
+        "card": {
+          "name": "Dinomist Plesios",
+          "nameEn": "Dinomist Plesios",
+          "nameOriginal": null,
+          "slug": "dinomist-plesios",
+          "archetypeIds": [
+            50
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3665,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE025-1fe3fc2ce1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "026",
+        "card": {
+          "name": "Dinomist Pteran",
+          "nameEn": "Dinomist Pteran",
+          "nameOriginal": null,
+          "slug": "dinomist-pteran",
+          "archetypeIds": [
+            50
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3666,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE026-5ff576edf5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "027",
+        "card": {
+          "name": "Dinomist Brachion",
+          "nameEn": "Dinomist Brachion",
+          "nameOriginal": null,
+          "slug": "dinomist-brachion",
+          "archetypeIds": [
+            50
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3667,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE027-d3de8c6670",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "028",
+        "card": {
+          "name": "Dinomist Ceratops",
+          "nameEn": "Dinomist Ceratops",
+          "nameOriginal": null,
+          "slug": "dinomist-ceratops",
+          "archetypeIds": [
+            50
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3668,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE028-e3d46e1001",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "029",
+        "card": {
+          "name": "Dinomist Rex",
+          "nameEn": "Dinomist Rex",
+          "nameOriginal": null,
+          "slug": "dinomist-rex",
+          "archetypeIds": [
+            50
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3669,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE029-6f09f0f91d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "030",
+        "card": {
+          "name": "Majespecter Toad - Ogama",
+          "nameEn": "Majespecter Toad - Ogama",
+          "nameOriginal": null,
+          "slug": "majespecter-toad-ogama",
+          "archetypeIds": [
+            139
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2024-01-19T00:00:00.000000Z"
+        },
+        "id": 3670,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE030-30fa7ff449",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "031",
+        "card": {
+          "name": "Shiranui Spectralsword",
+          "nameEn": "Shiranui Spectralsword",
+          "nameOriginal": null,
+          "slug": "shiranui-spectralsword",
+          "archetypeIds": [
+            200
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2018-11-16T00:00:00.000000Z"
+        },
+        "id": 3671,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/HISU/HISU-DE041-727ca34caf",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "032",
+        "card": {
+          "name": "Shiranui Smith",
+          "nameEn": "Shiranui Smith",
+          "nameOriginal": null,
+          "slug": "shiranui-smith",
+          "archetypeIds": [
+            200
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3672,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE032-c461f42281",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "033",
+        "card": {
+          "name": "Shiranui Spiritmaster",
+          "nameEn": "Shiranui Spiritmaster",
+          "nameOriginal": null,
+          "slug": "shiranui-spiritmaster",
+          "archetypeIds": [
+            200
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2018-11-16T00:00:00.000000Z"
+        },
+        "id": 3673,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE033-d2a2ec6543",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "034",
+        "card": {
+          "name": "Shiranui Samurai",
+          "nameEn": "Shiranui Samurai",
+          "nameOriginal": null,
+          "slug": "shiranui-samurai",
+          "archetypeIds": [
+            200
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2018-11-16T00:00:00.000000Z"
+        },
+        "id": 3674,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE034-d6244c1dad",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "035",
+        "card": {
+          "name": "Dark Doriado",
+          "nameEn": "Dark Doriado",
+          "nameOriginal": null,
+          "slug": "dark-doriado",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2020-11-20T00:00:00.000000Z"
+        },
+        "id": 3675,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE035-685c429af6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "036",
+        "card": {
+          "name": "Guiding Ariadne",
+          "nameEn": "Guiding Ariadne",
+          "nameOriginal": null,
+          "slug": "guiding-ariadne",
+          "archetypeIds": [
+            474
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2018-01-19T00:00:00.000000Z"
+        },
+        "id": 3676,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE036-96d8e8a049",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "037",
+        "card": {
+          "name": "Al-Lumi'raj",
+          "nameEn": "Al-Lumi'raj",
+          "nameOriginal": null,
+          "slug": "al-lumiraj",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3677,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE037-e3fde20f4c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "038",
+        "card": {
+          "name": "Toon Buster Blader",
+          "nameEn": "Toon Buster Blader",
+          "nameOriginal": null,
+          "slug": "toon-buster-blader",
+          "archetypeIds": [
+            224,
+            26,
+            849
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2020-07-03T00:00:00.000000Z"
+        },
+        "id": 3678,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE038-84779de647",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "039",
+        "card": {
+          "name": "Deskbot 007",
+          "nameEn": "Deskbot 007",
+          "nameOriginal": null,
+          "slug": "deskbot-007",
+          "archetypeIds": [
+            48
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3679,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE039-8e4d9f587f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "040",
+        "card": {
+          "name": "Deskbot 008",
+          "nameEn": "Deskbot 008",
+          "nameOriginal": null,
+          "slug": "deskbot-008",
+          "archetypeIds": [
+            48
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3680,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE040-ddaf93eb14",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "041",
+        "card": {
+          "name": "Engraver of the Mark",
+          "nameEn": "Engraver of the Mark",
+          "nameOriginal": null,
+          "slug": "engraver-of-the-mark",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2020-12-18T00:00:00.000000Z"
+        },
+        "id": 20225,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE041-81e9db44c0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "042",
+        "card": {
+          "name": "Zany Zebra",
+          "nameEn": "Zany Zebra",
+          "nameOriginal": null,
+          "slug": "zany-zebra",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3682,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE042-f5109745a0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "043",
+        "card": {
+          "name": "Odd-Eyes Gravity Dragon",
+          "nameEn": "Odd-Eyes Gravity Dragon",
+          "nameOriginal": null,
+          "slug": "odd-eyes-gravity-dragon",
+          "archetypeIds": [
+            166,
+            929
+          ],
+          "cardTypeOrder": "14",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2024-08-29T00:00:00.000000Z"
+        },
+        "id": 3683,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE043-e03a2042b1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "044",
+        "card": {
+          "name": "Goyo Emperor",
+          "nameEn": "Goyo Emperor",
+          "nameOriginal": null,
+          "slug": "goyo-emperor",
+          "archetypeIds": [
+            98
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-01-15T00:00:00.000000Z"
+        },
+        "id": 3684,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE044-2c11902769",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "045",
+        "card": {
+          "name": "Buster Blader, the Dragon Destroyer Swordsman",
+          "nameEn": "Buster Blader, the Dragon Destroyer Swordsman",
+          "nameOriginal": null,
+          "slug": "buster-blader-the-dragon-destroyer-swordsman",
+          "archetypeIds": [
+            26,
+            858
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2020-11-13T00:00:00.000000Z"
+        },
+        "id": 3685,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MAGO/MAGO-DE101-e2a448799e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "046",
+        "card": {
+          "name": "Dinoster Power, the Mighty Dracoslayer",
+          "nameEn": "Dinoster Power, the Mighty Dracoslayer",
+          "nameOriginal": null,
+          "slug": "dinoster-power-the-mighty-dracoslayer",
+          "archetypeIds": [
+            54
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2021-05-07T00:00:00.000000Z"
+        },
+        "id": 3686,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE046-0c21f70862",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "047",
+        "card": {
+          "name": "Enlightenment Paladin",
+          "nameEn": "Enlightenment Paladin",
+          "nameOriginal": null,
+          "slug": "enlightenment-paladin",
+          "archetypeIds": [
+            137,
+            929
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2023-09-08T00:00:00.000000Z"
+        },
+        "id": 3687,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE047-13ddb9387c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "048",
+        "card": {
+          "name": "Superheavy Samurai Beast Kyubi",
+          "nameEn": "Superheavy Samurai Beast Kyubi",
+          "nameOriginal": null,
+          "slug": "superheavy-samurai-beast-kyubi",
+          "archetypeIds": [
+            211
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-01-15T00:00:00.000000Z"
+        },
+        "id": 3688,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE048-555fef0540",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "049",
+        "card": {
+          "name": "Hi-Speedroid Hagoita",
+          "nameEn": "Hi-Speedroid Hagoita",
+          "nameOriginal": null,
+          "slug": "hi-speedroid-hagoita",
+          "archetypeIds": [
+            203,
+            363,
+            812
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-01-15T00:00:00.000000Z"
+        },
+        "id": 3689,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE049-953fc9f020",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "050",
+        "card": {
+          "name": "Goyo Defender",
+          "nameEn": "Goyo Defender",
+          "nameOriginal": null,
+          "slug": "goyo-defender",
+          "archetypeIds": [
+            98
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2020-07-24T00:00:00.000000Z"
+        },
+        "id": 3690,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE050-f7953ae059",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "051",
+        "card": {
+          "name": "Goyo King",
+          "nameEn": "Goyo King",
+          "nameOriginal": null,
+          "slug": "goyo-king",
+          "archetypeIds": [
+            98
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-01-15T00:00:00.000000Z"
+        },
+        "id": 3691,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE051-c2d846ceb8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "052",
+        "card": {
+          "name": "Buster Dragon",
+          "nameEn": "Buster Dragon",
+          "nameOriginal": null,
+          "slug": "buster-dragon",
+          "archetypeIds": [
+            26,
+            858
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2021-04-16T00:00:00.000000Z"
+        },
+        "id": 3692,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE052-b64cac59fa",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "053",
+        "card": {
+          "name": "Shiranui Samuraisaga",
+          "nameEn": "Shiranui Samuraisaga",
+          "nameOriginal": null,
+          "slug": "shiranui-samuraisaga",
+          "archetypeIds": [
+            200
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3693,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE053-145f1e924b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "054",
+        "card": {
+          "name": "Shiranui Shogunsaga",
+          "nameEn": "Shiranui Shogunsaga",
+          "nameOriginal": null,
+          "slug": "shiranui-shogunsaga",
+          "archetypeIds": [
+            200
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3694,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE054-212a6eb731",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "055",
+        "card": {
+          "name": "Aegaion the Sea Castrum",
+          "nameEn": "Aegaion the Sea Castrum",
+          "nameOriginal": null,
+          "slug": "aegaion-the-sea-castrum",
+          "archetypeIds": [],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3695,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE055-aa49e2e6f6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "056",
+        "card": {
+          "name": "Performance Hurricane",
+          "nameEn": "Performance Hurricane",
+          "nameOriginal": null,
+          "slug": "performance-hurricane",
+          "archetypeIds": [
+            176,
+            929
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3696,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE056-1d57f95592",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "057",
+        "card": {
+          "name": "Pendulum Storm",
+          "nameEn": "Pendulum Storm",
+          "nameOriginal": null,
+          "slug": "pendulum-storm",
+          "archetypeIds": [
+            173,
+            929
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2024-08-29T00:00:00.000000Z"
+        },
+        "id": 3697,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE057-e04536bf64",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "058",
+        "card": {
+          "name": "Hi-Speed Re-Level",
+          "nameEn": "Hi-Speed Re-Level",
+          "nameOriginal": null,
+          "slug": "hi-speed-re-level",
+          "archetypeIds": [
+            203,
+            812
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-01-15T00:00:00.000000Z"
+        },
+        "id": 3698,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE058-f644c72496",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "059",
+        "card": {
+          "name": "Destruction Swordsman Fusion",
+          "nameEn": "Destruction Swordsman Fusion",
+          "nameOriginal": null,
+          "slug": "destruction-swordsman-fusion",
+          "archetypeIds": [
+            858
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2023-08-25T00:00:00.000000Z"
+        },
+        "id": 3699,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE059-818bee0af8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "060",
+        "card": {
+          "name": "Karma of the Destruction Swordsman",
+          "nameEn": "Karma of the Destruction Swordsman",
+          "nameOriginal": null,
+          "slug": "karma-of-the-destruction-swordsman",
+          "archetypeIds": [
+            26,
+            858
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3700,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE060-10e022ce35",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "061",
+        "card": {
+          "name": "Draco Face-Off",
+          "nameEn": "Draco Face-Off",
+          "nameOriginal": null,
+          "slug": "draco-face-off",
+          "archetypeIds": [
+            54
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 3701,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE061-2cd3df239c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "062",
+        "card": {
+          "name": "Dinomic Powerload",
+          "nameEn": "Dinomic Powerload",
+          "nameOriginal": null,
+          "slug": "dinomic-powerload",
+          "archetypeIds": [
+            50
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3702,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE062-fb06240c2a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "063",
+        "card": {
+          "name": "Dinomist Charge",
+          "nameEn": "Dinomist Charge",
+          "nameOriginal": null,
+          "slug": "dinomist-charge",
+          "archetypeIds": [
+            50
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3703,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE063-b48ceccdbf",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "064",
+        "card": {
+          "name": "Majespecter Sonics",
+          "nameEn": "Majespecter Sonics",
+          "nameOriginal": null,
+          "slug": "majespecter-sonics",
+          "archetypeIds": [
+            139
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3704,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE064-8123cd2d26",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "065",
+        "card": {
+          "name": "Shiranui Style Synthesis",
+          "nameEn": "Shiranui Style Synthesis",
+          "nameOriginal": null,
+          "slug": "shiranui-style-synthesis",
+          "archetypeIds": [
+            200
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3705,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE065-c44bc4936d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "066",
+        "card": {
+          "name": "Odd-Eyes Advent",
+          "nameEn": "Odd-Eyes Advent",
+          "nameOriginal": null,
+          "slug": "odd-eyes-advent",
+          "archetypeIds": [
+            166,
+            929
+          ],
+          "cardTypeOrder": "36",
+          "cardTypeSection": "spell",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2024-08-29T00:00:00.000000Z"
+        },
+        "id": 3706,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE066-fd91826340",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "067",
+        "card": {
+          "name": "Twin Twisters",
+          "nameEn": "Twin Twisters",
+          "nameOriginal": null,
+          "slug": "twin-twisters",
+          "archetypeIds": [],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2024-05-24T00:00:00.000000Z"
+        },
+        "id": 3707,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE067-401ac79262",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "068",
+        "card": {
+          "name": "Mistaken Accusation",
+          "nameEn": "Mistaken Accusation",
+          "nameOriginal": null,
+          "slug": "mistaken-accusation",
+          "archetypeIds": [],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2020-11-13T00:00:00.000000Z"
+        },
+        "id": 3708,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE068-7c8964937f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "069",
+        "card": {
+          "name": "Dragon's Bind",
+          "nameEn": "Dragon's Bind",
+          "nameOriginal": null,
+          "slug": "dragons-bind",
+          "archetypeIds": [
+            812
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3709,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE069-ab460a0f51",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "070",
+        "card": {
+          "name": "Follow Wing",
+          "nameEn": "Follow Wing",
+          "nameOriginal": null,
+          "slug": "follow-wing",
+          "archetypeIds": [
+            812
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3710,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE070-94c1930dbd",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "071",
+        "card": {
+          "name": "Reject Reborn",
+          "nameEn": "Reject Reborn",
+          "nameOriginal": null,
+          "slug": "reject-reborn",
+          "archetypeIds": [
+            927
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2017-05-26T00:00:00.000000Z"
+        },
+        "id": 3711,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE071-3bb2901a9e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "072",
+        "card": {
+          "name": "Destruction Sword Flash",
+          "nameEn": "Destruction Sword Flash",
+          "nameOriginal": null,
+          "slug": "destruction-sword-flash",
+          "archetypeIds": [
+            26,
+            858
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3712,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE072-8ff45cba96",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "073",
+        "card": {
+          "name": "Dinomist Rush",
+          "nameEn": "Dinomist Rush",
+          "nameOriginal": null,
+          "slug": "dinomist-rush",
+          "archetypeIds": [
+            50
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3713,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE073-6aff03de07",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "074",
+        "card": {
+          "name": "Majespecter Supercell",
+          "nameEn": "Majespecter Supercell",
+          "nameOriginal": null,
+          "slug": "majespecter-supercell",
+          "archetypeIds": [
+            139
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-01-15T00:00:00.000000Z"
+        },
+        "id": 3714,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE074-1e53a46ec2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "075",
+        "card": {
+          "name": "Shiranui Style Swallow's Slash",
+          "nameEn": "Shiranui Style Swallow's Slash",
+          "nameOriginal": null,
+          "slug": "shiranui-style-swallows-slash",
+          "archetypeIds": [
+            200
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3717,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE075-f518f22859",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "076",
+        "card": {
+          "name": "Quaking Mirror Force",
+          "nameEn": "Quaking Mirror Force",
+          "nameOriginal": null,
+          "slug": "quaking-mirror-force",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": null
+        },
+        "id": 3715,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE076-637df9377e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "077",
+        "card": {
+          "name": "Pendulum Reborn",
+          "nameEn": "Pendulum Reborn",
+          "nameOriginal": null,
+          "slug": "pendulum-reborn",
+          "archetypeIds": [
+            173
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2024-08-29T00:00:00.000000Z"
+        },
+        "id": 3716,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE077-af2b2dca1c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "078",
+        "card": {
+          "name": "Forbidden Apocrypha",
+          "nameEn": "Forbidden Apocrypha",
+          "nameOriginal": null,
+          "slug": "forbidden-apocrypha",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2019-10-11T00:00:00.000000Z"
+        },
+        "id": 3718,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE078-e9c32e1f6a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "079",
+        "card": {
+          "name": "Solemn Strike",
+          "nameEn": "Solemn Strike",
+          "nameOriginal": null,
+          "slug": "solemn-strike",
+          "archetypeIds": [],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2024-05-24T00:00:00.000000Z"
+        },
+        "id": 3719,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/RA02/RA02-EN079-SCR-6bb4efdd58",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "080",
+        "card": {
+          "name": "Bad Luck Blast",
+          "nameEn": "Bad Luck Blast",
+          "nameOriginal": null,
+          "slug": "bad-luck-blast",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3720,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE080-cd6db8c7bc",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "081",
+        "card": {
+          "name": "Ultimate Providence",
+          "nameEn": "Ultimate Providence",
+          "nameOriginal": null,
+          "slug": "ultimate-providence",
+          "archetypeIds": [],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2018-01-19T00:00:00.000000Z"
+        },
+        "id": 3721,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE081-bfd84a4e15",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "082",
+        "card": {
+          "name": "Kozmo Tincan",
+          "nameEn": "Kozmo Tincan",
+          "nameOriginal": null,
+          "slug": "kozmo-tincan",
+          "archetypeIds": [
+            124
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2021-04-16T00:00:00.000000Z"
+        },
+        "id": 3722,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE082-c4ddbd1e9e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "083",
+        "card": {
+          "name": "Kozmo Soartroopers",
+          "nameEn": "Kozmo Soartroopers",
+          "nameOriginal": null,
+          "slug": "kozmo-soartroopers",
+          "archetypeIds": [
+            124
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-01-15T00:00:00.000000Z"
+        },
+        "id": 3723,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE083-99aa985837",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "084",
+        "card": {
+          "name": "Kozmo Delta Shuttle",
+          "nameEn": "Kozmo Delta Shuttle",
+          "nameOriginal": null,
+          "slug": "kozmo-delta-shuttle",
+          "archetypeIds": [
+            124
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-01-15T00:00:00.000000Z"
+        },
+        "id": 3724,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE084-37008eee51",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "085",
+        "card": {
+          "name": "Kozmo Dark Eclipser",
+          "nameEn": "Kozmo Dark Eclipser",
+          "nameOriginal": null,
+          "slug": "kozmo-dark-eclipser",
+          "archetypeIds": [
+            124
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-01-15T00:00:00.000000Z"
+        },
+        "id": 3725,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE085-e8930d1010",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "086",
+        "card": {
+          "name": "Kozmojo",
+          "nameEn": "Kozmojo",
+          "nameOriginal": null,
+          "slug": "kozmojo",
+          "archetypeIds": [
+            124
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2021-04-16T00:00:00.000000Z"
+        },
+        "id": 3726,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE086-15e83a897c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "087",
+        "card": {
+          "name": "Gadarla, the Mystery Dust Kaiju",
+          "nameEn": "Gadarla, the Mystery Dust Kaiju",
+          "nameOriginal": null,
+          "slug": "gadarla-the-mystery-dust-kaiju",
+          "archetypeIds": [
+            120
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2023-02-24T00:00:00.000000Z"
+        },
+        "id": 3727,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE087-6116d823f1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "088",
+        "card": {
+          "name": "Jizukiru, the Star Destroying Kaiju",
+          "nameEn": "Jizukiru, the Star Destroying Kaiju",
+          "nameOriginal": null,
+          "slug": "jizukiru-the-star-destroying-kaiju",
+          "archetypeIds": [
+            120
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2024-02-23T00:00:00.000000Z"
+        },
+        "id": 3728,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE088-7c3f3774d3",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "089",
+        "card": {
+          "name": "Interrupted Kaiju Slumber",
+          "nameEn": "Interrupted Kaiju Slumber",
+          "nameOriginal": null,
+          "slug": "interrupted-kaiju-slumber",
+          "archetypeIds": [
+            120
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2024-02-23T00:00:00.000000Z"
+        },
+        "id": 3729,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE089-d6e9430751",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "090",
+        "card": {
+          "name": "Performapal Pendulum Sorcerer",
+          "nameEn": "Performapal Pendulum Sorcerer",
+          "nameOriginal": null,
+          "slug": "performapal-pendulum-sorcerer",
+          "archetypeIds": [
+            173,
+            176,
+            929
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 3730,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE090-8207eac6c1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "091",
+        "card": {
+          "name": "Fiendish Rhino Warrior",
+          "nameEn": "Fiendish Rhino Warrior",
+          "nameOriginal": null,
+          "slug": "fiendish-rhino-warrior",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": null
+        },
+        "id": 3731,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE091-fede2c7444",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "092",
+        "card": {
+          "name": "Neptabyss, the Atlantean Prince",
+          "nameEn": "Neptabyss, the Atlantean Prince",
+          "nameOriginal": null,
+          "slug": "neptabyss-the-atlantean-prince",
+          "archetypeIds": [
+            14
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2024-11-08T00:00:00.000000Z"
+        },
+        "id": 3732,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE092-7e1eecd81d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "093",
+        "card": {
+          "name": "Chimeratech Rampage Dragon",
+          "nameEn": "Chimeratech Rampage Dragon",
+          "nameOriginal": null,
+          "slug": "chimeratech-rampage-dragon",
+          "archetypeIds": [
+            41
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2024-08-29T00:00:00.000000Z"
+        },
+        "id": 3733,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE093-fdc3277520",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "094",
+        "card": {
+          "name": "Cyber Dragon Infinity",
+          "nameEn": "Cyber Dragon Infinity",
+          "nameOriginal": null,
+          "slug": "cyber-dragon-infinity",
+          "archetypeIds": [
+            41
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 3734,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE094-194336ea9b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "095",
+        "card": {
+          "name": "Red-Eyes Retro Dragon",
+          "nameEn": "Red-Eyes Retro Dragon",
+          "nameOriginal": null,
+          "slug": "red-eyes-retro-dragon",
+          "archetypeIds": [
+            188,
+            838
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2024-03-14T00:00:00.000000Z"
+        },
+        "id": 3735,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE095-e6f6f2a54e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "096",
+        "card": {
+          "name": "Dharma-Eye Magician",
+          "nameEn": "Dharma-Eye Magician",
+          "nameOriginal": null,
+          "slug": "dharma-eye-magician",
+          "archetypeIds": [
+            137,
+            929
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2017-06-23T00:00:00.000000Z"
+        },
+        "id": 3736,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE096-7e02ec755d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "097",
+        "card": {
+          "name": "Black Luster Soldier - Sacred Soldier",
+          "nameEn": "Black Luster Soldier - Sacred Soldier",
+          "nameOriginal": null,
+          "slug": "black-luster-soldier-sacred-soldier",
+          "archetypeIds": [
+            20,
+            695,
+            858
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2020-06-19T00:00:00.000000Z"
+        },
+        "id": 3737,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE097-8715569630",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "098",
+        "card": {
+          "name": "Arisen Gaia the Fierce Knight",
+          "nameEn": "Arisen Gaia the Fierce Knight",
+          "nameOriginal": null,
+          "slug": "arisen-gaia-the-fierce-knight",
+          "archetypeIds": [
+            20,
+            259,
+            586,
+            858
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2016-09-02T00:00:00.000000Z"
+        },
+        "id": 3738,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE098-6e2dbcc441",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "099",
+        "card": {
+          "name": "Traptrix Rafflesia",
+          "nameEn": "Traptrix Rafflesia",
+          "nameOriginal": null,
+          "slug": "traptrix-rafflesia",
+          "archetypeIds": [
+            225
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2016-01-14T00:00:00.000000Z",
+          "lastPrint": "2024-05-24T00:00:00.000000Z"
+        },
+        "id": 3739,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BOSH/BOSH-DE099-44ee5d3ec0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      }
+    ],
+    "printsCount": null,
+    "releaseEu": "2016-01-14T00:00:00.000000Z",
+    "releaseEuDayUnknown": false,
+    "releaseEuMonthUnknown": false,
+    "releaseNa": "2016-01-15T00:00:00.000000Z",
+    "releaseNaDayUnknown": false,
+    "releaseNaMonthUnknown": false,
+    "tournamentLegal": null,
+    "setNumber": "BOSH",
+    "slug": "breakers-of-shadow",
+    "scanCounts": {
+      "en": 0,
+      "de": 96
+    }
+  }
+}

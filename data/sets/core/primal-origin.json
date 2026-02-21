@@ -1,0 +1,3641 @@
+{
+  "data": {
+    "archetypes": [
+      {
+        "id": 13,
+        "name": "Artifact",
+        "slug": "artifact",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SDBT/SDBT-EN036-d93c7110cd",
+        "isFirstPrint": true
+      },
+      {
+        "id": 232,
+        "name": "Utopia",
+        "slug": "utopia",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/KICO/KICO-EN042-R-17174ed439",
+        "isFirstPrint": false
+      },
+      {
+        "id": 919,
+        "name": "Yuma Tsukumo | Astral",
+        "slug": "yuma-tsukumo-astral",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/DUPO/DUPO-DE010-5374889f7b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 87,
+        "name": "Galaxy",
+        "slug": "galaxy",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE042-9fbca7a379",
+        "isFirstPrint": false
+      },
+      {
+        "id": 931,
+        "name": "Kite Tenjo",
+        "slug": "kite-tenjo",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LDS2/LDS2-EN056-41693bfd03",
+        "isFirstPrint": false
+      },
+      {
+        "id": 800,
+        "name": "Mizar",
+        "slug": "mizar",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/MZTM/MZTM-DE016-SCR-261bdfec4f",
+        "isFirstPrint": false
+      },
+      {
+        "id": 199,
+        "name": "Shark",
+        "slug": "shark",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA03/RA03-EN030-SCR-8d544bc188",
+        "isFirstPrint": false
+      },
+      {
+        "id": 813,
+        "name": "Reginald \"Shark\" Kastle | Nash",
+        "slug": "reginald-shark-kastle-nash",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LED9/LED9-EN005-f4211008d2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 907,
+        "name": "Rio Kastle | Marin",
+        "slug": "rio-kastle-marin",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE043-5214a5c359",
+        "isFirstPrint": false
+      },
+      {
+        "id": 19,
+        "name": "Battlin' Boxer",
+        "slug": "battlin-boxer",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LD10/LD10-EN035-5d159c3613",
+        "isFirstPrint": false
+      },
+      {
+        "id": 815,
+        "name": "Alito",
+        "slug": "alito",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LD10/LD10-EN037-3c76f03baa",
+        "isFirstPrint": false
+      },
+      {
+        "id": 231,
+        "name": "Umbral Horror",
+        "slug": "umbral-horror",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/JOTL/JOTL-DE012-b8ae9dd864",
+        "isFirstPrint": false
+      },
+      {
+        "id": 212,
+        "name": "Sylvan",
+        "slug": "sylvan",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP15/MP15-DE028-f1544dcfdf",
+        "isFirstPrint": false
+      },
+      {
+        "id": 91,
+        "name": "Ghostrick",
+        "slug": "ghostrick",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BACH/BACH-EN047-6872b16082",
+        "isFirstPrint": false
+      },
+      {
+        "id": 24,
+        "name": "Bujin",
+        "slug": "bujin",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LIOV/LIOV-DE013-b9ed3919b0",
+        "isFirstPrint": false
+      },
+      {
+        "id": 225,
+        "name": "Traptrix",
+        "slug": "traptrix",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MAMA/MAMA-EN074-4d8fc69016",
+        "isFirstPrint": false
+      },
+      {
+        "id": 145,
+        "name": "Mecha Phantom Beast",
+        "slug": "mecha-phantom-beast",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA03/RA03-EN039-SCR-c00586ce5d",
+        "isFirstPrint": false
+      },
+      {
+        "id": 277,
+        "name": "Phantom Beast",
+        "slug": "phantom-beast",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/FOTB/FOTB-DESE1-142f9f98c8",
+        "isFirstPrint": false
+      },
+      {
+        "id": 104,
+        "name": "Hazy Flame",
+        "slug": "hazy-flame",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CBLZ/CBLZ-DE049-5c9eb16093",
+        "isFirstPrint": false
+      },
+      {
+        "id": 135,
+        "name": "Madolche",
+        "slug": "madolche",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DUOV/DUOV-DE082-652e5fb034",
+        "isFirstPrint": false
+      },
+      {
+        "id": 102,
+        "name": "Gusto",
+        "slug": "gusto",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/HA06/HA06-EN024-7c3a52640c",
+        "isFirstPrint": false
+      },
+      {
+        "id": 94,
+        "name": "Gladiator Beast",
+        "slug": "gladiator-beast",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP20/MP20-DE165-5f138d40de",
+        "isFirstPrint": false
+      },
+      {
+        "id": 46,
+        "name": "Dark World",
+        "slug": "dark-world",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SR13/SR13-EN045-cc2c653277",
+        "isFirstPrint": false
+      },
+      {
+        "id": 8,
+        "name": "Ancient Gear",
+        "slug": "ancient-gear",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LEDE/LEDE-EN055-b47aa98abd",
+        "isFirstPrint": false
+      },
+      {
+        "id": 820,
+        "name": "Yuri",
+        "slug": "yuri",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LDS3/LDS3-DE080-e83f86e80b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 510,
+        "name": "Monarch",
+        "slug": "monarch",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/RA04/RA04-DE018-SR-2a2db7dae9",
+        "isFirstPrint": false
+      },
+      {
+        "id": 352,
+        "name": "Penguin",
+        "slug": "penguin",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN189-90a528f47e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 59,
+        "name": "Duston",
+        "slug": "duston",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MACR/MACR-DE080-e27603c654",
+        "isFirstPrint": false
+      },
+      {
+        "id": 287,
+        "name": "Stardust",
+        "slug": "stardust",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/L5DD/L5DD-ENY36-90bc16a9ec",
+        "isFirstPrint": false
+      },
+      {
+        "id": 174,
+        "name": "Number",
+        "slug": "number",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA01/RA01-EN039-SCR-2587bc13cc",
+        "isFirstPrint": false
+      },
+      {
+        "id": 178,
+        "name": "Photon",
+        "slug": "photon",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MAZE/MAZE-EN046-R-920567c422",
+        "isFirstPrint": false
+      },
+      {
+        "id": 798,
+        "name": "Tachyon",
+        "slug": "tachyon",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/WSUP/WSUP-EN012-3faddac9aa",
+        "isFirstPrint": false
+      },
+      {
+        "id": 11,
+        "name": "Archfiend",
+        "slug": "archfiend",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SR06/SR06-DE007-c59c0e023e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 187,
+        "name": "Rank-Up-Magic",
+        "slug": "rank-up-magic",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/JOTL/JOTL-DE059-UR-55bc39d1e9",
+        "isFirstPrint": false
+      },
+      {
+        "id": 123,
+        "name": "Koa'ki Meiru",
+        "slug": "koaki-meiru",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE065-c9ccbabeb8",
+        "isFirstPrint": false
+      },
+      {
+        "id": 196,
+        "name": "Scrap",
+        "slug": "scrap",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MGED/MGED-EN061-a0966d9c16",
+        "isFirstPrint": false
+      },
+      {
+        "id": 823,
+        "name": "Sylvio Sawatari",
+        "slug": "sylvio-sawatari",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/RIRA/RIRA-DE009-998276661e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 163,
+        "name": "Noble Knight",
+        "slug": "noble-knight",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/AMDE/AMDE-EN052-SR-4f792c124c",
+        "isFirstPrint": false
+      },
+      {
+        "id": 234,
+        "name": "Vampire",
+        "slug": "vampire",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CH02/CH02-EN047-8818a4dc68",
+        "isFirstPrint": false
+      },
+      {
+        "id": 840,
+        "name": "Crump",
+        "slug": "crump",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/SDRE/SDRE-EN017-155dc0e568",
+        "isFirstPrint": false
+      },
+      {
+        "id": 927,
+        "name": "Jack Atlas",
+        "slug": "jack-atlas",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/L5DD/L5DD-ENY22-215ad17c7a",
+        "isFirstPrint": false
+      },
+      {
+        "id": 894,
+        "name": "Eviluder",
+        "slug": "eviluder",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE092-18a224813d",
+        "isFirstPrint": false
+      },
+      {
+        "id": 783,
+        "name": "Akiza Izinski",
+        "slug": "akiza-izinski",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/DOOD/DOOD-DE039-SCR-f7e2fb6a7b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 896,
+        "name": "Hishakaku",
+        "slug": "hishakaku",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/YZ05/YZ05-EN001-83a6ac8986",
+        "isFirstPrint": false
+      },
+      {
+        "id": 92,
+        "name": "Gimmick Puppet",
+        "slug": "gimmick-puppet",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LDS3/LDS3-DE065-UR-aa17c5f524",
+        "isFirstPrint": false
+      },
+      {
+        "id": 819,
+        "name": "Quattro",
+        "slug": "quattro",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/INFO/INFO-EN042-dafca3a277",
+        "isFirstPrint": false
+      },
+      {
+        "id": 251,
+        "name": "ZW -",
+        "slug": "zw",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP22/MP22-DE082-99fd86e43c",
+        "isFirstPrint": false
+      },
+      {
+        "id": 895,
+        "name": "Shadow",
+        "slug": "shadow",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE097-44c10e1950",
+        "isFirstPrint": false
+      },
+      {
+        "id": 773,
+        "name": "Sect Ijuin",
+        "slug": "sect-ijuin",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/YF08/YF08-EN001-7f0ef3dc54",
+        "isFirstPrint": false
+      }
+    ],
+    "archetypesReprint": [],
+    "category": {
+      "name": "Series 8",
+      "slug": "series-8",
+      "sets": [
+        {
+          "image": null,
+          "format": 1,
+          "name": "Primal Origin",
+          "releaseEu": "2014-05-15T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2014-05-16T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "PRIO",
+          "slug": "primal-origin",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Legacy of the Valiant",
+          "releaseEu": "2014-01-23T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2014-01-24T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "LVAL",
+          "slug": "legacy-of-the-valiant",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Shadow Specters",
+          "releaseEu": "2013-11-07T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2013-11-08T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "SHSP",
+          "slug": "shadow-specters",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Judgment of the Light",
+          "releaseEu": "2013-08-08T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2013-08-09T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "JOTL",
+          "slug": "judgment-of-the-light",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Lord of the Tachyon Galaxy",
+          "releaseEu": "2013-05-16T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2013-05-17T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "LTGY",
+          "slug": "lord-of-the-tachyon-galaxy",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Cosmo Blazer",
+          "releaseEu": "2013-01-24T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2013-01-25T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CBLZ",
+          "slug": "cosmo-blazer",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Abyss Rising",
+          "releaseEu": "2012-11-09T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2012-11-09T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "ABYR",
+          "slug": "abyss-rising",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Return of the Duelist",
+          "releaseEu": "2012-08-23T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2012-08-28T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "REDU",
+          "slug": "return-of-the-duelist",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        }
+      ],
+      "setsCount": 8,
+      "format": 1,
+      "parent": {
+        "name": "Core Boosters",
+        "slug": "core-boosters",
+        "setsCount": 102,
+        "format": 1,
+        "parent": {
+          "name": "Booster Packs",
+          "slug": "booster-packs",
+          "setsCount": 326,
+          "format": 1,
+          "parent": null
+        }
+      }
+    },
+    "disableSetList": false,
+    "format": 1,
+    "game": 1,
+    "id": 109,
+    "image": null,
+    "languages": [
+      {
+        "id": 813,
+        "language": "de",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 814,
+        "language": "en",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 815,
+        "language": "fr",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 816,
+        "language": "it",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 817,
+        "language": "pt",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 818,
+        "language": "es",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      }
+    ],
+    "name": "Primal Origin",
+    "next": null,
+    "previous": {
+      "name": "Legacy of the Valiant",
+      "setNumber": "LVAL",
+      "slug": "legacy-of-the-valiant",
+      "format": 1,
+      "releaseEu": "2014-01-23T00:00:00.000000Z",
+      "releaseNa": "2014-01-24T00:00:00.000000Z"
+    },
+    "prints": [
+      {
+        "cardNumber": "000",
+        "card": {
+          "name": "Artifact Scythe",
+          "nameEn": "Artifact Scythe",
+          "nameOriginal": null,
+          "slug": "artifact-scythe",
+          "archetypeIds": [
+            13
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2022-04-15T00:00:00.000000Z"
+        },
+        "id": 7567,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SDAZ/SDAZ-EN011-c7e537b784",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "001",
+        "card": {
+          "name": "ZS - Vanish Sage",
+          "nameEn": "ZS - Vanish Sage",
+          "nameOriginal": null,
+          "slug": "zs-vanish-sage",
+          "archetypeIds": [
+            232,
+            919
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7568,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE001-56c8ecd76d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "002",
+        "card": {
+          "name": "Galaxy Mirror Sage",
+          "nameEn": "Galaxy Mirror Sage",
+          "nameOriginal": null,
+          "slug": "galaxy-mirror-sage",
+          "archetypeIds": [
+            87,
+            931
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7569,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE002-b43ff031ca",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "003",
+        "card": {
+          "name": "Galaxy Tyranno",
+          "nameEn": "Galaxy Tyranno",
+          "nameOriginal": null,
+          "slug": "galaxy-tyranno",
+          "archetypeIds": [
+            87,
+            931
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7570,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE003-57fe7e693f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "004",
+        "card": {
+          "name": "Heliosphere Dragon",
+          "nameEn": "Heliosphere Dragon",
+          "nameOriginal": null,
+          "slug": "heliosphere-dragon",
+          "archetypeIds": [
+            800
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7571,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE004-8deff28d1c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "005",
+        "card": {
+          "name": "Mermaid Shark",
+          "nameEn": "Mermaid Shark",
+          "nameOriginal": null,
+          "slug": "mermaid-shark",
+          "archetypeIds": [
+            199,
+            813
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7572,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE005-46dc81c07f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "006",
+        "card": {
+          "name": "Gazer Shark",
+          "nameEn": "Gazer Shark",
+          "nameOriginal": null,
+          "slug": "gazer-shark",
+          "archetypeIds": [
+            199,
+            813
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7574,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE006-e23719979c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "007",
+        "card": {
+          "name": "Blizzard Thunderbird",
+          "nameEn": "Blizzard Thunderbird",
+          "nameOriginal": null,
+          "slug": "blizzard-thunderbird",
+          "archetypeIds": [
+            907
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7573,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE007-f3554cc5a6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "008",
+        "card": {
+          "name": "Battlin' Boxer Big Bandage",
+          "nameEn": "Battlin' Boxer Big Bandage",
+          "nameOriginal": null,
+          "slug": "battlin-boxer-big-bandage",
+          "archetypeIds": [
+            19,
+            815
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2023-08-11T00:00:00.000000Z"
+        },
+        "id": 7575,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE008-c1d3418d40",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "009",
+        "card": {
+          "name": "Battlin' Boxer Veil",
+          "nameEn": "Battlin' Boxer Veil",
+          "nameOriginal": null,
+          "slug": "battlin-boxer-veil",
+          "archetypeIds": [
+            19,
+            815
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7576,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE009-8afa44ad8a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "010",
+        "card": {
+          "name": "Umbral Horror Ghost",
+          "nameEn": "Umbral Horror Ghost",
+          "nameOriginal": null,
+          "slug": "umbral-horror-ghost",
+          "archetypeIds": [
+            231
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7577,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE010-1df029bf51",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "011",
+        "card": {
+          "name": "Artifact Moralltach",
+          "nameEn": "Artifact Moralltach",
+          "nameOriginal": null,
+          "slug": "artifact-moralltach",
+          "archetypeIds": [
+            13
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 7578,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE011-00b4cc04d9",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "012",
+        "card": {
+          "name": "Artifact Beagalltach",
+          "nameEn": "Artifact Beagalltach",
+          "nameOriginal": null,
+          "slug": "artifact-beagalltach",
+          "archetypeIds": [
+            13
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7579,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE012-695470fbd5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "013",
+        "card": {
+          "name": "Artifact Failnaught",
+          "nameEn": "Artifact Failnaught",
+          "nameOriginal": null,
+          "slug": "artifact-failnaught",
+          "archetypeIds": [
+            13
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7580,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE013-e9a16c6847",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "014",
+        "card": {
+          "name": "Artifact Aegis",
+          "nameEn": "Artifact Aegis",
+          "nameOriginal": null,
+          "slug": "artifact-aegis",
+          "archetypeIds": [
+            13
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7581,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE014-977cb3fc73",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "015",
+        "card": {
+          "name": "Artifact Achilleshield",
+          "nameEn": "Artifact Achilleshield",
+          "nameOriginal": null,
+          "slug": "artifact-achilleshield",
+          "archetypeIds": [
+            13
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7582,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE015-f0f583e05e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "016",
+        "card": {
+          "name": "Artifact Labrys",
+          "nameEn": "Artifact Labrys",
+          "nameOriginal": null,
+          "slug": "artifact-labrys",
+          "archetypeIds": [
+            13
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7583,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE016-51d9e32178",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "017",
+        "card": {
+          "name": "Artifact Caduceus",
+          "nameEn": "Artifact Caduceus",
+          "nameOriginal": null,
+          "slug": "artifact-caduceus",
+          "archetypeIds": [
+            13
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7584,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-EN017-62429a2e56",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "018",
+        "card": {
+          "name": "Sylvan Cherubsprout",
+          "nameEn": "Sylvan Cherubsprout",
+          "nameOriginal": null,
+          "slug": "sylvan-cherubsprout",
+          "archetypeIds": [
+            212
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7585,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE018-07fbe6f47f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "019",
+        "card": {
+          "name": "Sylvan Snapdrassinagon",
+          "nameEn": "Sylvan Snapdrassinagon",
+          "nameOriginal": null,
+          "slug": "sylvan-snapdrassinagon",
+          "archetypeIds": [
+            212
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7586,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE019-d4ed6f7d13",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "020",
+        "card": {
+          "name": "Sylvan Lotuswain",
+          "nameEn": "Sylvan Lotuswain",
+          "nameOriginal": null,
+          "slug": "sylvan-lotuswain",
+          "archetypeIds": [
+            212
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7587,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE020-204787121c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "021",
+        "card": {
+          "name": "Sylvan Sagequoia",
+          "nameEn": "Sylvan Sagequoia",
+          "nameOriginal": null,
+          "slug": "sylvan-sagequoia",
+          "archetypeIds": [
+            212
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7588,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PGL2/PGL2-EN040-96635bf75f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "022",
+        "card": {
+          "name": "Ghostrick Doll",
+          "nameEn": "Ghostrick Doll",
+          "nameOriginal": null,
+          "slug": "ghostrick-doll",
+          "archetypeIds": [
+            91
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2025-02-26T00:00:00.000000Z"
+        },
+        "id": 7589,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE022-573c4cdf5c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "023",
+        "card": {
+          "name": "Ghostrick Warwolf",
+          "nameEn": "Ghostrick Warwolf",
+          "nameOriginal": null,
+          "slug": "ghostrick-warwolf",
+          "archetypeIds": [
+            91
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7590,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE023-725cce816e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "024",
+        "card": {
+          "name": "Bujin Hirume",
+          "nameEn": "Bujin Hirume",
+          "nameOriginal": null,
+          "slug": "bujin-hirume",
+          "archetypeIds": [
+            24
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7591,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MP15/MP15-DE017-af27d2763d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "025",
+        "card": {
+          "name": "Traptrix Dionaea",
+          "nameEn": "Traptrix Dionaea",
+          "nameOriginal": null,
+          "slug": "traptrix-dionaea",
+          "archetypeIds": [
+            225
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2023-02-24T00:00:00.000000Z"
+        },
+        "id": 7592,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE025-52b2fde548",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "026",
+        "card": {
+          "name": "Mecha Phantom Beast O-Lion",
+          "nameEn": "Mecha Phantom Beast O-Lion",
+          "nameOriginal": null,
+          "slug": "mecha-phantom-beast-o-lion",
+          "archetypeIds": [
+            145,
+            277
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2020-07-24T00:00:00.000000Z"
+        },
+        "id": 7593,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE026-d9e242350f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "027",
+        "card": {
+          "name": "Hazy Flame Hydra",
+          "nameEn": "Hazy Flame Hydra",
+          "nameOriginal": null,
+          "slug": "hazy-flame-hydra",
+          "archetypeIds": [
+            104
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7594,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE027-fac757033e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "028",
+        "card": {
+          "name": "Madolche Anjelly",
+          "nameEn": "Madolche Anjelly",
+          "nameOriginal": null,
+          "slug": "madolche-anjelly",
+          "archetypeIds": [
+            135
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 7595,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BLAR/BLAR-DE073-0d3e291418",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "029",
+        "card": {
+          "name": "Pilica, Descendant of Gusto",
+          "nameEn": "Pilica, Descendant of Gusto",
+          "nameOriginal": null,
+          "slug": "pilica-descendant-of-gusto",
+          "archetypeIds": [
+            102
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7596,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE029-ff3802b4dc",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "030",
+        "card": {
+          "name": "Gladiator Beast Augustus",
+          "nameEn": "Gladiator Beast Augustus",
+          "nameOriginal": null,
+          "slug": "gladiator-beast-augustus",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7597,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE030-f5267ededa",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "031",
+        "card": {
+          "name": "Lucent, Netherlord of Dark World",
+          "nameEn": "Lucent, Netherlord of Dark World",
+          "nameOriginal": null,
+          "slug": "lucent-netherlord-of-dark-world",
+          "archetypeIds": [
+            46
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2022-12-02T00:00:00.000000Z"
+        },
+        "id": 7598,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE031-7c3f0080a6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "032",
+        "card": {
+          "name": "Ancient Gear Box",
+          "nameEn": "Ancient Gear Box",
+          "nameOriginal": null,
+          "slug": "ancient-gear-box",
+          "archetypeIds": [
+            8,
+            820
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2017-04-14T00:00:00.000000Z"
+        },
+        "id": 7599,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE032-8aee81cb3c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "033",
+        "card": {
+          "name": "Dawn Knight",
+          "nameEn": "Dawn Knight",
+          "nameOriginal": null,
+          "slug": "dawn-knight",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-11-21T00:00:00.000000Z"
+        },
+        "id": 7600,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE033-a5b23f7868",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "034",
+        "card": {
+          "name": "Majesty's Fiend",
+          "nameEn": "Majesty's Fiend",
+          "nameOriginal": null,
+          "slug": "majestys-fiend",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 7601,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MGED/MGED-EN134-0f17c15ce0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "035",
+        "card": {
+          "name": "Thestalos the Mega Monarch",
+          "nameEn": "Thestalos the Mega Monarch",
+          "nameOriginal": null,
+          "slug": "thestalos-the-mega-monarch",
+          "archetypeIds": [
+            510
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2025-06-18T00:00:00.000000Z"
+        },
+        "id": 7602,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE035-c877991939",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "036",
+        "card": {
+          "name": "Beautunaful Princess",
+          "nameEn": "Beautunaful Princess",
+          "nameOriginal": null,
+          "slug": "beautunaful-princess",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": null
+        },
+        "id": 7603,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE036-95a2499f93",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "037",
+        "card": {
+          "name": "Nopenguin",
+          "nameEn": "Nopenguin",
+          "nameOriginal": null,
+          "slug": "nopenguin",
+          "archetypeIds": [
+            352
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7604,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE037-bacc975d9f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "038",
+        "card": {
+          "name": "Condemned Maiden",
+          "nameEn": "Condemned Maiden",
+          "nameOriginal": null,
+          "slug": "condemned-maiden",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7605,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE038-e990908b05",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "039",
+        "card": {
+          "name": "Starduston",
+          "nameEn": "Starduston",
+          "nameOriginal": null,
+          "slug": "starduston",
+          "archetypeIds": [
+            59,
+            287
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7606,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE039-e76bede12e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "040",
+        "card": {
+          "name": "Number 62: Galaxy-Eyes Prime Photon Dragon",
+          "nameEn": "Number 62: Galaxy-Eyes Prime Photon Dragon",
+          "nameOriginal": null,
+          "slug": "number-62-galaxy-eyes-prime-photon-dragon",
+          "archetypeIds": [
+            87,
+            174,
+            178,
+            919,
+            931
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2021-01-22T00:00:00.000000Z"
+        },
+        "id": 7607,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LDS2/LDS2-EN053-949edba00e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "040",
+        "card": {
+          "name": "Number 62: Galaxy-Eyes Prime Photon Dragon",
+          "nameEn": "Number 62: Galaxy-Eyes Prime Photon Dragon",
+          "nameOriginal": null,
+          "slug": "number-62-galaxy-eyes-prime-photon-dragon",
+          "archetypeIds": [
+            87,
+            174,
+            178,
+            919,
+            931
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2021-01-22T00:00:00.000000Z"
+        },
+        "id": 7608,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LDS2/LDS2-EN053-949edba00e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "041",
+        "card": {
+          "name": "Number C107: Neo Galaxy-Eyes Tachyon Dragon",
+          "nameEn": "Number C107: Neo Galaxy-Eyes Tachyon Dragon",
+          "nameOriginal": null,
+          "slug": "number-c107-neo-galaxy-eyes-tachyon-dragon",
+          "archetypeIds": [
+            87,
+            174,
+            798,
+            800
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2025-03-14T00:00:00.000000Z"
+        },
+        "id": 7609,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MZTM/MZTM-DE092-0ceafcd05b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "041",
+        "card": {
+          "name": "Number C107: Neo Galaxy-Eyes Tachyon Dragon",
+          "nameEn": "Number C107: Neo Galaxy-Eyes Tachyon Dragon",
+          "nameOriginal": null,
+          "slug": "number-c107-neo-galaxy-eyes-tachyon-dragon",
+          "archetypeIds": [
+            87,
+            174,
+            798,
+            800
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2025-03-14T00:00:00.000000Z"
+        },
+        "id": 7610,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-EN041-UMR-f02201e148",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "042",
+        "card": {
+          "name": "Number 103: Ragnazero",
+          "nameEn": "Number 103: Ragnazero",
+          "nameOriginal": null,
+          "slug": "number-103-ragnazero",
+          "archetypeIds": [
+            174,
+            907
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2024-12-06T00:00:00.000000Z"
+        },
+        "id": 7611,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE042-fdf82bbb7b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "043",
+        "card": {
+          "name": "Number C103: Ragnafinity",
+          "nameEn": "Number C103: Ragnafinity",
+          "nameOriginal": null,
+          "slug": "number-c103-ragnafinity",
+          "archetypeIds": [
+            174,
+            907
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7612,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE043-5214a5c359",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "044",
+        "card": {
+          "name": "Number C102: Archfiend Seraph",
+          "nameEn": "Number C102: Archfiend Seraph",
+          "nameOriginal": null,
+          "slug": "number-c102-archfiend-seraph",
+          "archetypeIds": [
+            11,
+            174
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2025-08-01T00:00:00.000000Z"
+        },
+        "id": 7613,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE044-SR-3a44bd01a5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "044",
+        "card": {
+          "name": "Number C102: Archfiend Seraph",
+          "nameEn": "Number C102: Archfiend Seraph",
+          "nameOriginal": null,
+          "slug": "number-c102-archfiend-seraph",
+          "archetypeIds": [
+            11,
+            174
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2025-08-01T00:00:00.000000Z"
+        },
+        "id": 7614,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE044-UMR-dd52392d02",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "045",
+        "card": {
+          "name": "Number 80: Rhapsody in Berserk",
+          "nameEn": "Number 80: Rhapsody in Berserk",
+          "nameOriginal": null,
+          "slug": "number-80-rhapsody-in-berserk",
+          "archetypeIds": [
+            174,
+            815
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-12-13T00:00:00.000000Z"
+        },
+        "id": 7615,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/AP06/AP06-DE010-661e90688a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "046",
+        "card": {
+          "name": "Number C80: Requiem in Berserk",
+          "nameEn": "Number C80: Requiem in Berserk",
+          "nameOriginal": null,
+          "slug": "number-c80-requiem-in-berserk",
+          "archetypeIds": [
+            174,
+            815
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7616,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE046-373ccb9309",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "047",
+        "card": {
+          "name": "Number 43: Manipulator of Souls",
+          "nameEn": "Number 43: Manipulator of Souls",
+          "nameOriginal": null,
+          "slug": "number-43-manipulator-of-souls",
+          "archetypeIds": [
+            174
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7617,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE047-8d8a006a1c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "048",
+        "card": {
+          "name": "Number C43: High Manipulator of Chaos",
+          "nameEn": "Number C43: High Manipulator of Chaos",
+          "nameOriginal": null,
+          "slug": "number-c43-high-manipulator-of-chaos",
+          "archetypeIds": [
+            174
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7618,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE048-e592bc1836",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "049",
+        "card": {
+          "name": "Artifact Durendal",
+          "nameEn": "Artifact Durendal",
+          "nameOriginal": null,
+          "slug": "artifact-durendal",
+          "archetypeIds": [
+            13
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2025-08-01T00:00:00.000000Z"
+        },
+        "id": 7619,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-EN049-UR-f3ce5657dc",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "049",
+        "card": {
+          "name": "Artifact Durendal",
+          "nameEn": "Artifact Durendal",
+          "nameOriginal": null,
+          "slug": "artifact-durendal",
+          "archetypeIds": [
+            13
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2025-08-01T00:00:00.000000Z"
+        },
+        "id": 7620,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GFTP/GFTP-EN098-c6ad52de33",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "050",
+        "card": {
+          "name": "Orea, the Sylvan High Arbiter",
+          "nameEn": "Orea, the Sylvan High Arbiter",
+          "nameOriginal": null,
+          "slug": "orea-the-sylvan-high-arbiter",
+          "archetypeIds": [
+            212
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7621,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MP15/MP15-DE028-f1544dcfdf",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "051",
+        "card": {
+          "name": "Ghostrick Socuteboss",
+          "nameEn": "Ghostrick Socuteboss",
+          "nameOriginal": null,
+          "slug": "ghostrick-socuteboss",
+          "archetypeIds": [
+            91
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2022-05-06T00:00:00.000000Z"
+        },
+        "id": 7622,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE051-c41a707761",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "052",
+        "card": {
+          "name": "Bujinki Amaterasu",
+          "nameEn": "Bujinki Amaterasu",
+          "nameOriginal": null,
+          "slug": "bujinki-amaterasu",
+          "archetypeIds": [
+            24
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2016-02-12T00:00:00.000000Z"
+        },
+        "id": 7623,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE052-fef2622c67",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "052",
+        "card": {
+          "name": "Bujinki Amaterasu",
+          "nameEn": "Bujinki Amaterasu",
+          "nameOriginal": null,
+          "slug": "bujinki-amaterasu",
+          "archetypeIds": [
+            24
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2016-02-12T00:00:00.000000Z"
+        },
+        "id": 7624,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE052-UMR-cb9293cf58",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "052",
+        "card": {
+          "name": "Bujinki Amaterasu",
+          "nameEn": "Bujinki Amaterasu",
+          "nameOriginal": null,
+          "slug": "bujinki-amaterasu",
+          "archetypeIds": [
+            24
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2016-02-12T00:00:00.000000Z"
+        },
+        "id": 7625,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 8,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE052-GHR-7b3b75a497",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "053",
+        "card": {
+          "name": "Phantom Fortress Enterblathnir",
+          "nameEn": "Phantom Fortress Enterblathnir",
+          "nameOriginal": null,
+          "slug": "phantom-fortress-enterblathnir",
+          "archetypeIds": [],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2019-03-22T00:00:00.000000Z"
+        },
+        "id": 7626,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE053-2041ce69b7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "054",
+        "card": {
+          "name": "Cairngorgon, Antiluminescent Knight",
+          "nameEn": "Cairngorgon, Antiluminescent Knight",
+          "nameOriginal": null,
+          "slug": "cairngorgon-antiluminescent-knight",
+          "archetypeIds": [],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2016-02-12T00:00:00.000000Z"
+        },
+        "id": 7627,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE054-4ede1573e7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "055",
+        "card": {
+          "name": "Phonon Pulse Dragon",
+          "nameEn": "Phonon Pulse Dragon",
+          "nameOriginal": null,
+          "slug": "phonon-pulse-dragon",
+          "archetypeIds": [],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2021-06-10T00:00:00.000000Z"
+        },
+        "id": 7628,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE055-2330d1d27d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "056",
+        "card": {
+          "name": "Reverse Breaker",
+          "nameEn": "Reverse Breaker",
+          "nameOriginal": null,
+          "slug": "reverse-breaker",
+          "archetypeIds": [
+            232,
+            919
+          ],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7629,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE056-745c7b921a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "057",
+        "card": {
+          "name": "Galactic Charity",
+          "nameEn": "Galactic Charity",
+          "nameOriginal": null,
+          "slug": "galactic-charity",
+          "archetypeIds": [
+            87,
+            800
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7630,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE057-19c9af62b5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "058",
+        "card": {
+          "name": "Rank-Up-Magic - The Seventh One",
+          "nameEn": "Rank-Up-Magic - The Seventh One",
+          "nameOriginal": null,
+          "slug": "rank-up-magic-the-seventh-one",
+          "archetypeIds": [
+            187,
+            800,
+            813,
+            815,
+            907
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2022-06-17T00:00:00.000000Z"
+        },
+        "id": 7631,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/LED9/LED9-EN014-7a65ab3609",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "059",
+        "card": {
+          "name": "Don Thousand's Throne",
+          "nameEn": "Don Thousand's Throne",
+          "nameOriginal": null,
+          "slug": "don-thousands-throne",
+          "archetypeIds": [
+            174
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7632,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE059-61ef45fa5b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "060",
+        "card": {
+          "name": "Artifact Ignition",
+          "nameEn": "Artifact Ignition",
+          "nameOriginal": null,
+          "slug": "artifact-ignition",
+          "archetypeIds": [
+            13
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2020-07-24T00:00:00.000000Z"
+        },
+        "id": 7633,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/BLAR/BLAR-DE074-b9df63d707",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "061",
+        "card": {
+          "name": "Artifacts Unleashed",
+          "nameEn": "Artifacts Unleashed",
+          "nameOriginal": null,
+          "slug": "artifacts-unleashed",
+          "archetypeIds": [
+            13
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7634,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE061-043f9938dc",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "062",
+        "card": {
+          "name": "Sylvan Charity",
+          "nameEn": "Sylvan Charity",
+          "nameOriginal": null,
+          "slug": "sylvan-charity",
+          "archetypeIds": [
+            212
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7635,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PGL2/PGL2-DE061-5cd7cc4640",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "063",
+        "card": {
+          "name": "Ghostrick Parade",
+          "nameEn": "Ghostrick Parade",
+          "nameOriginal": null,
+          "slug": "ghostrick-parade",
+          "archetypeIds": [
+            91
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7636,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE063-041eedd90d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "064",
+        "card": {
+          "name": "Bujintervention",
+          "nameEn": "Bujintervention",
+          "nameOriginal": null,
+          "slug": "bujintervention",
+          "archetypeIds": [
+            24
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7637,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE064-3073e6c554",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "065",
+        "card": {
+          "name": "Diamond Core of Koa'ki Meiru",
+          "nameEn": "Diamond Core of Koa'ki Meiru",
+          "nameOriginal": null,
+          "slug": "diamond-core-of-koaki-meiru",
+          "archetypeIds": [
+            123
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7638,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE065-c9ccbabeb8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "066",
+        "card": {
+          "name": "Scrap Factory",
+          "nameEn": "Scrap Factory",
+          "nameOriginal": null,
+          "slug": "scrap-factory",
+          "archetypeIds": [
+            196
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2018-12-07T00:00:00.000000Z"
+        },
+        "id": 7639,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE066-c7753288c0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "067",
+        "card": {
+          "name": "Forbidden Scripture",
+          "nameEn": "Forbidden Scripture",
+          "nameOriginal": null,
+          "slug": "forbidden-scripture",
+          "archetypeIds": [],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7640,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MP15/MP15-DE038-9205224097",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "068",
+        "card": {
+          "name": "Jackpot 7",
+          "nameEn": "Jackpot 7",
+          "nameOriginal": null,
+          "slug": "jackpot-7",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7641,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE068-732a2d9771",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "069",
+        "card": {
+          "name": "Double Dragon Descent",
+          "nameEn": "Double Dragon Descent",
+          "nameOriginal": null,
+          "slug": "double-dragon-descent",
+          "archetypeIds": [
+            931
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7642,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE069-be9543ac9a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "070",
+        "card": {
+          "name": "Tachyon Chaos Hole",
+          "nameEn": "Tachyon Chaos Hole",
+          "nameOriginal": null,
+          "slug": "tachyon-chaos-hole",
+          "archetypeIds": [
+            87,
+            798,
+            800
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7643,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MP15/MP15-DE040-6b647c9949",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "071",
+        "card": {
+          "name": "Last Counter",
+          "nameEn": "Last Counter",
+          "nameOriginal": null,
+          "slug": "last-counter",
+          "archetypeIds": [
+            19,
+            815
+          ],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2023-08-11T00:00:00.000000Z"
+        },
+        "id": 7644,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE071-d3ae864865",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "072",
+        "card": {
+          "name": "Artifact Sanctum",
+          "nameEn": "Artifact Sanctum",
+          "nameOriginal": null,
+          "slug": "artifact-sanctum",
+          "archetypeIds": [
+            13
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 7645,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE072-6a50da09e6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "073",
+        "card": {
+          "name": "Sylvan Waterslide",
+          "nameEn": "Sylvan Waterslide",
+          "nameOriginal": null,
+          "slug": "sylvan-waterslide",
+          "archetypeIds": [
+            212
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7646,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE073-33edff6ef5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "074",
+        "card": {
+          "name": "Ghostrick Night",
+          "nameEn": "Ghostrick Night",
+          "nameOriginal": null,
+          "slug": "ghostrick-night",
+          "archetypeIds": [
+            91
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7647,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE074-3d560f7f99",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "075",
+        "card": {
+          "name": "Bujincident",
+          "nameEn": "Bujincident",
+          "nameOriginal": null,
+          "slug": "bujincident",
+          "archetypeIds": [
+            24
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7648,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE075-1cab663398",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "076",
+        "card": {
+          "name": "The Monarchs Erupt",
+          "nameEn": "The Monarchs Erupt",
+          "nameOriginal": null,
+          "slug": "the-monarchs-erupt",
+          "archetypeIds": [
+            823
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2021-04-16T00:00:00.000000Z"
+        },
+        "id": 7649,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GFTP/GFTP-EN121-df2cc75b54",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "077",
+        "card": {
+          "name": "Evo-Singularity",
+          "nameEn": "Evo-Singularity",
+          "nameOriginal": null,
+          "slug": "evo-singularity",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7650,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE077-be8f47f561",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "078",
+        "card": {
+          "name": "Xyz Universe",
+          "nameEn": "Xyz Universe",
+          "nameOriginal": null,
+          "slug": "xyz-universe",
+          "archetypeIds": [
+            174
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 7651,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE078-3caee22d7c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "079",
+        "card": {
+          "name": "And the Band Played On",
+          "nameEn": "And the Band Played On",
+          "nameOriginal": null,
+          "slug": "and-the-band-played-on",
+          "archetypeIds": [],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2022-10-26T00:00:00.000000Z"
+        },
+        "id": 7652,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE079-c07aa4a9aa",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "080",
+        "card": {
+          "name": "Tri-and-Guess",
+          "nameEn": "Tri-and-Guess",
+          "nameOriginal": null,
+          "slug": "tri-and-guess",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7653,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE080-b6a0233034",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "081",
+        "card": {
+          "name": "Noble Knight Brothers",
+          "nameEn": "Noble Knight Brothers",
+          "nameOriginal": null,
+          "slug": "noble-knight-brothers",
+          "archetypeIds": [
+            163
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2020-11-13T00:00:00.000000Z"
+        },
+        "id": 7654,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-EN081-64ea8ffbc2",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "082",
+        "card": {
+          "name": "Noble Knight Eachtar",
+          "nameEn": "Noble Knight Eachtar",
+          "nameOriginal": null,
+          "slug": "noble-knight-eachtar",
+          "archetypeIds": [
+            163
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2020-11-13T00:00:00.000000Z"
+        },
+        "id": 7655,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE082-3947b4e653",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "083",
+        "card": {
+          "name": "Sylvan Princessprout",
+          "nameEn": "Sylvan Princessprout",
+          "nameOriginal": null,
+          "slug": "sylvan-princessprout",
+          "archetypeIds": [
+            212
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7656,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MP15/MP15-DE048-afa78f9a90",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "084",
+        "card": {
+          "name": "Bujingi Sinyou",
+          "nameEn": "Bujingi Sinyou",
+          "nameOriginal": null,
+          "slug": "bujingi-sinyou",
+          "archetypeIds": [
+            24
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7657,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MP15/MP15-DE049-4edb687442",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "085",
+        "card": {
+          "name": "Vampire Vamp",
+          "nameEn": "Vampire Vamp",
+          "nameOriginal": null,
+          "slug": "vampire-vamp",
+          "archetypeIds": [
+            234
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2021-03-17T00:00:00.000000Z"
+        },
+        "id": 7658,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE085-d6a0ba3f15",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "086",
+        "card": {
+          "name": "Gladiator Beast Nerokius",
+          "nameEn": "Gladiator Beast Nerokius",
+          "nameOriginal": null,
+          "slug": "gladiator-beast-nerokius",
+          "archetypeIds": [
+            94
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7659,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MP15/MP15-DE051-084963fe7c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "087",
+        "card": {
+          "name": "Noble Knights of the Round Table",
+          "nameEn": "Noble Knights of the Round Table",
+          "nameOriginal": null,
+          "slug": "noble-knights-of-the-round-table",
+          "archetypeIds": [
+            163
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2020-11-13T00:00:00.000000Z"
+        },
+        "id": 7660,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/MAGO/MAGO-DE086-c363b1886f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "088",
+        "card": {
+          "name": "Avalon",
+          "nameEn": "Avalon",
+          "nameOriginal": null,
+          "slug": "avalon",
+          "archetypeIds": [
+            163
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7661,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-EN088-b06dc5af0d",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "089",
+        "card": {
+          "name": "Escalation of the Monarchs",
+          "nameEn": "Escalation of the Monarchs",
+          "nameOriginal": null,
+          "slug": "escalation-of-the-monarchs",
+          "archetypeIds": [],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2016-01-29T00:00:00.000000Z"
+        },
+        "id": 7662,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SR01/SR01-DE036-fdf3c2f7a7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "090",
+        "card": {
+          "name": "Bolt Penguin",
+          "nameEn": "Bolt Penguin",
+          "nameOriginal": null,
+          "slug": "bolt-penguin",
+          "archetypeIds": [
+            352,
+            840
+          ],
+          "cardTypeOrder": "13",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7663,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE090-6f83a8daa1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "091",
+        "card": {
+          "name": "Phantom King Hydride",
+          "nameEn": "Phantom King Hydride",
+          "nameOriginal": null,
+          "slug": "phantom-king-hydride",
+          "archetypeIds": [
+            927
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2024-01-26T00:00:00.000000Z"
+        },
+        "id": 7664,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE091-8427ef6846",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "092",
+        "card": {
+          "name": "Number 42: Galaxy Tomahawk",
+          "nameEn": "Number 42: Galaxy Tomahawk",
+          "nameOriginal": null,
+          "slug": "number-42-galaxy-tomahawk",
+          "archetypeIds": [
+            87,
+            174,
+            894
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7665,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE092-18a224813d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "093",
+        "card": {
+          "name": "Rose Archer",
+          "nameEn": "Rose Archer",
+          "nameOriginal": null,
+          "slug": "rose-archer",
+          "archetypeIds": [
+            783
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2021-01-22T00:00:00.000000Z"
+        },
+        "id": 7666,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE093-a80c87e449",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "094",
+        "card": {
+          "name": "Shogi Knight",
+          "nameEn": "Shogi Knight",
+          "nameOriginal": null,
+          "slug": "shogi-knight",
+          "archetypeIds": [
+            896
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7667,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE094-1baf3fb6f9",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "095",
+        "card": {
+          "name": "Gimmick Puppet Des Troy",
+          "nameEn": "Gimmick Puppet Des Troy",
+          "nameOriginal": null,
+          "slug": "gimmick-puppet-des-troy",
+          "archetypeIds": [
+            92,
+            819
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2019-09-27T00:00:00.000000Z"
+        },
+        "id": 7668,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE095-7b9f97f4c0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "096",
+        "card": {
+          "name": "ZW - Sleipnir Mail",
+          "nameEn": "ZW - Sleipnir Mail",
+          "nameOriginal": null,
+          "slug": "zw-sleipnir-mail",
+          "archetypeIds": [
+            232,
+            251,
+            919
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7669,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE096-2ac4e20d62",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "097",
+        "card": {
+          "name": "Number 48: Shadow Lich",
+          "nameEn": "Number 48: Shadow Lich",
+          "nameOriginal": null,
+          "slug": "number-48-shadow-lich",
+          "archetypeIds": [
+            174,
+            895,
+            919
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2015-09-18T00:00:00.000000Z"
+        },
+        "id": 7670,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE097-44c10e1950",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "098",
+        "card": {
+          "name": "Galaxy Dragon",
+          "nameEn": "Galaxy Dragon",
+          "nameOriginal": null,
+          "slug": "galaxy-dragon",
+          "archetypeIds": [
+            87,
+            931
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2016-07-15T00:00:00.000000Z"
+        },
+        "id": 7671,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE098-9c58e131aa",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "099",
+        "card": {
+          "name": "Hundred-Footed Horror",
+          "nameEn": "Hundred-Footed Horror",
+          "nameOriginal": null,
+          "slug": "hundred-footed-horror",
+          "archetypeIds": [
+            773
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2014-05-15T00:00:00.000000Z",
+          "lastPrint": "2014-05-16T00:00:00.000000Z"
+        },
+        "id": 7672,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/PRIO/PRIO-DE099-c70cb8231e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      }
+    ],
+    "printsCount": null,
+    "releaseEu": "2014-05-15T00:00:00.000000Z",
+    "releaseEuDayUnknown": false,
+    "releaseEuMonthUnknown": false,
+    "releaseNa": "2014-05-16T00:00:00.000000Z",
+    "releaseNaDayUnknown": false,
+    "releaseNaMonthUnknown": false,
+    "tournamentLegal": null,
+    "setNumber": "PRIO",
+    "slug": "primal-origin",
+    "scanCounts": {
+      "en": 5,
+      "de": 82
+    }
+  }
+}

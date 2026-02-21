@@ -1,0 +1,3526 @@
+{
+  "data": {
+    "archetypes": [
+      {
+        "id": 115,
+        "name": "Inzektor",
+        "slug": "inzektor",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/GRCR/GRCR-EN040-SR-a54a84a410",
+        "isFirstPrint": true
+      },
+      {
+        "id": 919,
+        "name": "Yuma Tsukumo | Astral",
+        "slug": "yuma-tsukumo-astral",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/DUPO/DUPO-DE010-5374889f7b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 86,
+        "name": "Gagaga",
+        "slug": "gagaga",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LDS3/LDS3-DE127-27f2c7fdba",
+        "isFirstPrint": false
+      },
+      {
+        "id": 95,
+        "name": "Gogogo",
+        "slug": "gogogo",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DUAD/DUAD-DE003-b754ec740a",
+        "isFirstPrint": false
+      },
+      {
+        "id": 251,
+        "name": "ZW -",
+        "slug": "zw",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP22/MP22-DE082-99fd86e43c",
+        "isFirstPrint": true
+      },
+      {
+        "id": 813,
+        "name": "Reginald \"Shark\" Kastle | Nash",
+        "slug": "reginald-shark-kastle-nash",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LED9/LED9-EN005-f4211008d2",
+        "isFirstPrint": false
+      },
+      {
+        "id": 178,
+        "name": "Photon",
+        "slug": "photon",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MAZE/MAZE-EN046-R-920567c422",
+        "isFirstPrint": false
+      },
+      {
+        "id": 931,
+        "name": "Kite Tenjo",
+        "slug": "kite-tenjo",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LDS2/LDS2-EN056-41693bfd03",
+        "isFirstPrint": false
+      },
+      {
+        "id": 930,
+        "name": "Yusaku Fujiki | Playmaker",
+        "slug": "yusaku-fujiki-playmaker",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/MP22/MP22-DE271-cfc3d0b586",
+        "isFirstPrint": false
+      },
+      {
+        "id": 162,
+        "name": "Ninja",
+        "slug": "ninja",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DABL/DABL-EN040-2a7fcd1008",
+        "isFirstPrint": false
+      },
+      {
+        "id": 240,
+        "name": "Wind-Up",
+        "slug": "wind-up",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/GENF/GENF-DE014-2eb04ea9a5",
+        "isFirstPrint": false
+      },
+      {
+        "id": 558,
+        "name": "Evol",
+        "slug": "evol",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN213-653a11b124",
+        "isFirstPrint": false
+      },
+      {
+        "id": 11,
+        "name": "Archfiend",
+        "slug": "archfiend",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SR06/SR06-DE007-c59c0e023e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 174,
+        "name": "Number",
+        "slug": "number",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA01/RA01-EN039-SCR-2587bc13cc",
+        "isFirstPrint": false
+      },
+      {
+        "id": 232,
+        "name": "Utopia",
+        "slug": "utopia",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/KICO/KICO-EN042-R-17174ed439",
+        "isFirstPrint": false
+      },
+      {
+        "id": 87,
+        "name": "Galaxy",
+        "slug": "galaxy",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SOFU/SOFU-DE042-9fbca7a379",
+        "isFirstPrint": false
+      },
+      {
+        "id": 152,
+        "name": "Mist Valley",
+        "slug": "mist-valley",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/HAC1/HAC1-DE062-a8c29141d3",
+        "isFirstPrint": false
+      },
+      {
+        "id": 199,
+        "name": "Shark",
+        "slug": "shark",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA03/RA03-EN030-SCR-8d544bc188",
+        "isFirstPrint": false
+      },
+      {
+        "id": 871,
+        "name": "Alexis Rhodes",
+        "slug": "alexis-rhodes",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LDS2/LDS2-EN093-a66d7170b0",
+        "isFirstPrint": false
+      },
+      {
+        "id": 903,
+        "name": "Koala",
+        "slug": "koala",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DR2/DR2-DE004-7a06434533",
+        "isFirstPrint": false
+      },
+      {
+        "id": 358,
+        "name": "Reactor",
+        "slug": "reactor",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN016-4fcd72ab5d",
+        "isFirstPrint": false
+      },
+      {
+        "id": 784,
+        "name": "Greiger",
+        "slug": "greiger",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/CRMS/CRMS-EN016-4fcd72ab5d",
+        "isFirstPrint": false
+      },
+      {
+        "id": 194,
+        "name": "X-Saber",
+        "slug": "x-saber",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/INOV/INOV-DE090-90230b0c99",
+        "isFirstPrint": false
+      }
+    ],
+    "archetypesReprint": [],
+    "category": {
+      "name": "Series 7",
+      "slug": "series-7",
+      "sets": [
+        {
+          "image": null,
+          "format": 1,
+          "name": "Galactic Overlord",
+          "releaseEu": "2012-05-10T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2012-05-08T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "GAOV",
+          "slug": "galactic-overlord",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Order of Chaos",
+          "releaseEu": "2012-01-20T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2012-01-24T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "ORCS",
+          "slug": "order-of-chaos",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Photon Shockwave",
+          "releaseEu": "2011-11-10T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2011-11-15T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "PHSW",
+          "slug": "photon-shockwave",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Generation Force",
+          "releaseEu": "2011-08-12T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2011-08-16T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "GENF",
+          "slug": "generation-force",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Extreme Victory",
+          "releaseEu": "2011-05-05T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2011-05-10T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "EXVC",
+          "slug": "extreme-victory",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Storm of Ragnarok",
+          "releaseEu": "2011-02-10T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2011-02-08T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "STOR",
+          "slug": "storm-of-ragnarok",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Starstrike Blast",
+          "releaseEu": "2010-11-11T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2010-11-16T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "STBL",
+          "slug": "starstrike-blast",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": null,
+          "format": 1,
+          "name": "Duelist Revolution",
+          "releaseEu": "2010-08-12T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2010-08-17T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "DREV",
+          "slug": "duelist-revolution",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        }
+      ],
+      "setsCount": 8,
+      "format": 1,
+      "parent": {
+        "name": "Core Boosters",
+        "slug": "core-boosters",
+        "setsCount": 102,
+        "format": 1,
+        "parent": {
+          "name": "Booster Packs",
+          "slug": "booster-packs",
+          "setsCount": 326,
+          "format": 1,
+          "parent": null
+        }
+      }
+    },
+    "disableSetList": false,
+    "format": 1,
+    "game": 1,
+    "id": 164,
+    "image": null,
+    "languages": [
+      {
+        "id": 763,
+        "language": "de",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 764,
+        "language": "en",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 765,
+        "language": "fr",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 766,
+        "language": "it",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      },
+      {
+        "id": 767,
+        "language": "es",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": true,
+        "limitedEdition": false
+      }
+    ],
+    "name": "Order of Chaos",
+    "next": {
+      "name": "Galactic Overlord",
+      "setNumber": "GAOV",
+      "slug": "galactic-overlord",
+      "format": 1,
+      "releaseEu": "2012-05-10T00:00:00.000000Z",
+      "releaseNa": "2012-05-08T00:00:00.000000Z"
+    },
+    "previous": {
+      "name": "Photon Shockwave",
+      "setNumber": "PHSW",
+      "slug": "photon-shockwave",
+      "format": 1,
+      "releaseEu": "2011-11-10T00:00:00.000000Z",
+      "releaseNa": "2011-11-15T00:00:00.000000Z"
+    },
+    "prints": [
+      {
+        "cardNumber": "000",
+        "card": {
+          "name": "Inzektor Axe - Zektahawk",
+          "nameEn": "Inzektor Axe - Zektahawk",
+          "nameOriginal": null,
+          "slug": "inzektor-axe-zektahawk",
+          "archetypeIds": [
+            115
+          ],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15085,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE000-4a4bcb1178",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "001",
+        "card": {
+          "name": "Kurivolt",
+          "nameEn": "Kurivolt",
+          "nameOriginal": null,
+          "slug": "kurivolt",
+          "archetypeIds": [
+            919
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2019-09-27T00:00:00.000000Z"
+        },
+        "id": 15086,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE001-6352599754",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "002",
+        "card": {
+          "name": "Darklon",
+          "nameEn": "Darklon",
+          "nameOriginal": null,
+          "slug": "darklon",
+          "archetypeIds": [
+            919
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2013-03-01T00:00:00.000000Z"
+        },
+        "id": 15087,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE002-1b7b8b3a99",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "003",
+        "card": {
+          "name": "Gagaga Girl",
+          "nameEn": "Gagaga Girl",
+          "nameOriginal": null,
+          "slug": "gagaga-girl",
+          "archetypeIds": [
+            86,
+            919
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2025-07-04T00:00:00.000000Z"
+        },
+        "id": 15088,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE003-861848e1d9",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "004",
+        "card": {
+          "name": "Gogogo Giant",
+          "nameEn": "Gogogo Giant",
+          "nameOriginal": null,
+          "slug": "gogogo-giant",
+          "archetypeIds": [
+            95,
+            919
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2020-01-17T00:00:00.000000Z"
+        },
+        "id": 15089,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/NUMH/NUMH-EN020-c9fa733fa5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "005",
+        "card": {
+          "name": "ZW - Unicorn Spear",
+          "nameEn": "ZW - Unicorn Spear",
+          "nameOriginal": null,
+          "slug": "zw-unicorn-spear",
+          "archetypeIds": [
+            251,
+            919
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2014-02-21T00:00:00.000000Z"
+        },
+        "id": 15090,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE005-1764235efa",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "006",
+        "card": {
+          "name": "Shocktopus",
+          "nameEn": "Shocktopus",
+          "nameOriginal": null,
+          "slug": "shocktopus",
+          "archetypeIds": [
+            813
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2014-08-01T00:00:00.000000Z"
+        },
+        "id": 15091,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE006-e4d31cfa00",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "007",
+        "card": {
+          "name": "Photon Lizard",
+          "nameEn": "Photon Lizard",
+          "nameOriginal": null,
+          "slug": "photon-lizard",
+          "archetypeIds": [
+            178,
+            931
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2014-02-21T00:00:00.000000Z"
+        },
+        "id": 15092,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/NUMH/NUMH-EN023-ac75ef8209",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "008",
+        "card": {
+          "name": "Photon Thrasher",
+          "nameEn": "Photon Thrasher",
+          "nameOriginal": null,
+          "slug": "photon-thrasher",
+          "archetypeIds": [
+            178,
+            930,
+            931
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 15093,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-EN008-e759370800",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "009",
+        "card": {
+          "name": "Photon Crusher",
+          "nameEn": "Photon Crusher",
+          "nameOriginal": null,
+          "slug": "photon-crusher",
+          "archetypeIds": [
+            178,
+            931
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2018-09-28T00:00:00.000000Z"
+        },
+        "id": 15094,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE009-ef11a13d24",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "010",
+        "card": {
+          "name": "Photon Leo",
+          "nameEn": "Photon Leo",
+          "nameOriginal": null,
+          "slug": "photon-leo",
+          "archetypeIds": [
+            178,
+            931
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15095,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE010-c069a3a4e7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "011",
+        "card": {
+          "name": "Photon Circle",
+          "nameEn": "Photon Circle",
+          "nameOriginal": null,
+          "slug": "photon-circle",
+          "archetypeIds": [
+            178,
+            931
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15096,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE011-aed6f1f296",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "012",
+        "card": {
+          "name": "Reverse Buster",
+          "nameEn": "Reverse Buster",
+          "nameOriginal": null,
+          "slug": "reverse-buster",
+          "archetypeIds": [
+            931
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2014-02-21T00:00:00.000000Z"
+        },
+        "id": 15097,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SP14/SP14-DE009-C-c442b3ea36",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "013",
+        "card": {
+          "name": "Flame Armor Ninja",
+          "nameEn": "Flame Armor Ninja",
+          "nameOriginal": null,
+          "slug": "flame-armor-ninja",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2013-03-01T00:00:00.000000Z"
+        },
+        "id": 15098,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SP13/SP13-DE015-C-d1a642c2b1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "014",
+        "card": {
+          "name": "Air Armor Ninja",
+          "nameEn": "Air Armor Ninja",
+          "nameOriginal": null,
+          "slug": "air-armor-ninja",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2013-03-01T00:00:00.000000Z"
+        },
+        "id": 15099,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE014-0064ce61e1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "015",
+        "card": {
+          "name": "Aqua Armor Ninja",
+          "nameEn": "Aqua Armor Ninja",
+          "nameOriginal": null,
+          "slug": "aqua-armor-ninja",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2013-03-01T00:00:00.000000Z"
+        },
+        "id": 15100,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE015-b3c621c07f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "016",
+        "card": {
+          "name": "Earth Armor Ninja",
+          "nameEn": "Earth Armor Ninja",
+          "nameOriginal": null,
+          "slug": "earth-armor-ninja",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2013-03-01T00:00:00.000000Z"
+        },
+        "id": 15101,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE016-10c0975868",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "017",
+        "card": {
+          "name": "Inzektor Hornet",
+          "nameEn": "Inzektor Hornet",
+          "nameOriginal": null,
+          "slug": "inzektor-hornet",
+          "archetypeIds": [
+            115
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 15102,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-EN017-c622d94fb9",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "018",
+        "card": {
+          "name": "Inzektor Ant",
+          "nameEn": "Inzektor Ant",
+          "nameOriginal": null,
+          "slug": "inzektor-ant",
+          "archetypeIds": [
+            115
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15103,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE018-e18d46d51a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "019",
+        "card": {
+          "name": "Inzektor Centipede",
+          "nameEn": "Inzektor Centipede",
+          "nameOriginal": null,
+          "slug": "inzektor-centipede",
+          "archetypeIds": [
+            115
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2022-01-28T00:00:00.000000Z"
+        },
+        "id": 15104,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE019-804f4261f2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "020",
+        "card": {
+          "name": "Inzektor Dragonfly",
+          "nameEn": "Inzektor Dragonfly",
+          "nameOriginal": null,
+          "slug": "inzektor-dragonfly",
+          "archetypeIds": [
+            115
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 15105,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE020-6a9571edfb",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "021",
+        "card": {
+          "name": "Inzektor Giga-Mantis",
+          "nameEn": "Inzektor Giga-Mantis",
+          "nameOriginal": null,
+          "slug": "inzektor-giga-mantis",
+          "archetypeIds": [
+            115
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2022-05-06T00:00:00.000000Z"
+        },
+        "id": 15106,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GFP2/GFP2-DE063-b694c18653",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "021",
+        "card": {
+          "name": "Inzektor Giga-Mantis",
+          "nameEn": "Inzektor Giga-Mantis",
+          "nameOriginal": null,
+          "slug": "inzektor-giga-mantis",
+          "archetypeIds": [
+            115
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2022-05-06T00:00:00.000000Z"
+        },
+        "id": 15185,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GFP2/GFP2-DE063-b694c18653",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "022",
+        "card": {
+          "name": "Inzektor Giga-Weevil",
+          "nameEn": "Inzektor Giga-Weevil",
+          "nameOriginal": null,
+          "slug": "inzektor-giga-weevil",
+          "archetypeIds": [
+            115
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15107,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE022-655d69e81c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "023",
+        "card": {
+          "name": "Wind-Up Rat",
+          "nameEn": "Wind-Up Rat",
+          "nameOriginal": null,
+          "slug": "wind-up-rat",
+          "archetypeIds": [
+            240
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15108,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE023-579d8ef92f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "024",
+        "card": {
+          "name": "Wind-Up Honeybee",
+          "nameEn": "Wind-Up Honeybee",
+          "nameOriginal": null,
+          "slug": "wind-up-honeybee",
+          "archetypeIds": [
+            240
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15109,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE024-46cbf00c4b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "025",
+        "card": {
+          "name": "Evoltile Pleuro",
+          "nameEn": "Evoltile Pleuro",
+          "nameOriginal": null,
+          "slug": "evoltile-pleuro",
+          "archetypeIds": [
+            558
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15110,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE025-2eb50087a3",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "026",
+        "card": {
+          "name": "Evoltile Casinerio",
+          "nameEn": "Evoltile Casinerio",
+          "nameOriginal": null,
+          "slug": "evoltile-casinerio",
+          "archetypeIds": [
+            558
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15111,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE026-2c21494af7",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "027",
+        "card": {
+          "name": "Evolsaur Elias",
+          "nameEn": "Evolsaur Elias",
+          "nameOriginal": null,
+          "slug": "evolsaur-elias",
+          "archetypeIds": [
+            558
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15112,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE027-12a951e008",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "028",
+        "card": {
+          "name": "Evolsaur Terias",
+          "nameEn": "Evolsaur Terias",
+          "nameOriginal": null,
+          "slug": "evolsaur-terias",
+          "archetypeIds": [
+            558
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15113,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE028-38b24f6801",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "029",
+        "card": {
+          "name": "Ninja Grandmaster Hanzo",
+          "nameEn": "Ninja Grandmaster Hanzo",
+          "nameOriginal": null,
+          "slug": "ninja-grandmaster-hanzo",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 15114,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SHVA/SHVA-DE022-e925a314c9",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "029",
+        "card": {
+          "name": "Ninja Grandmaster Hanzo",
+          "nameEn": "Ninja Grandmaster Hanzo",
+          "nameOriginal": null,
+          "slug": "ninja-grandmaster-hanzo",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 15186,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SHVA/SHVA-DE022-e925a314c9",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "030",
+        "card": {
+          "name": "Masked Ninja Ebisu",
+          "nameEn": "Masked Ninja Ebisu",
+          "nameOriginal": null,
+          "slug": "masked-ninja-ebisu",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2023-11-15T00:00:00.000000Z"
+        },
+        "id": 15115,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE030-facf0db56d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "031",
+        "card": {
+          "name": "Upstart Golden Ninja",
+          "nameEn": "Upstart Golden Ninja",
+          "nameOriginal": null,
+          "slug": "upstart-golden-ninja",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2018-08-17T00:00:00.000000Z"
+        },
+        "id": 15116,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SHVA/SHVA-DE023-1c428c44be",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "032",
+        "card": {
+          "name": "Chow Len the Prophet",
+          "nameEn": "Chow Len the Prophet",
+          "nameOriginal": null,
+          "slug": "chow-len-the-prophet",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2023-08-25T00:00:00.000000Z"
+        },
+        "id": 15117,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE032-19872468f8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "033",
+        "card": {
+          "name": "Familiar-Possessed - Dharc",
+          "nameEn": "Familiar-Possessed - Dharc",
+          "nameOriginal": null,
+          "slug": "familiar-possessed-dharc",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15118,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE033-81c7d85534",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "034",
+        "card": {
+          "name": "Dark Blade the Captain of the Evil World",
+          "nameEn": "Dark Blade the Captain of the Evil World",
+          "nameOriginal": null,
+          "slug": "dark-blade-the-captain-of-the-evil-world",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15119,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE034-c070b4ba2e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "035",
+        "card": {
+          "name": "Trance Archfiend",
+          "nameEn": "Trance Archfiend",
+          "nameOriginal": null,
+          "slug": "trance-archfiend",
+          "archetypeIds": [
+            11
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2017-01-20T00:00:00.000000Z"
+        },
+        "id": 15120,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SDPD/SDPD-DE019-d41f4ee530",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "036",
+        "card": {
+          "name": "Divine Dragon Apocralyph",
+          "nameEn": "Divine Dragon Apocralyph",
+          "nameOriginal": null,
+          "slug": "divine-dragon-apocralyph",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2022-11-10T00:00:00.000000Z"
+        },
+        "id": 15121,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE036-103e467185",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "037",
+        "card": {
+          "name": "Darkstorm Dragon",
+          "nameEn": "Darkstorm Dragon",
+          "nameOriginal": null,
+          "slug": "darkstorm-dragon",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2022-11-10T00:00:00.000000Z"
+        },
+        "id": 15122,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/OP03/OP03-DE024-6d1b85c303",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "038",
+        "card": {
+          "name": "Numen erat Testudo",
+          "nameEn": "Numen erat Testudo",
+          "nameOriginal": null,
+          "slug": "numen-erat-testudo",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15123,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE038-88ac8a056b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "039",
+        "card": {
+          "name": "Twin Photon Lizard",
+          "nameEn": "Twin Photon Lizard",
+          "nameOriginal": null,
+          "slug": "twin-photon-lizard",
+          "archetypeIds": [
+            178,
+            931
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2014-02-21T00:00:00.000000Z"
+        },
+        "id": 15124,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SP14/SP14-DE020-298cb966fc",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "039",
+        "card": {
+          "name": "Twin Photon Lizard",
+          "nameEn": "Twin Photon Lizard",
+          "nameOriginal": null,
+          "slug": "twin-photon-lizard",
+          "archetypeIds": [
+            178,
+            931
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2014-02-21T00:00:00.000000Z"
+        },
+        "id": 15187,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SP14/SP14-DE020-298cb966fc",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "040",
+        "card": {
+          "name": "Number C39: Utopia Ray",
+          "nameEn": "Number C39: Utopia Ray",
+          "nameOriginal": null,
+          "slug": "number-c39-utopia-ray",
+          "archetypeIds": [
+            174,
+            232,
+            919
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 15125,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/KICO/KICO-EN045-f9e3b754de",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "040",
+        "card": {
+          "name": "Number C39: Utopia Ray",
+          "nameEn": "Number C39: Utopia Ray",
+          "nameOriginal": null,
+          "slug": "number-c39-utopia-ray",
+          "archetypeIds": [
+            174,
+            232,
+            919
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 15188,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/KICO/KICO-EN045-f9e3b754de",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "040",
+        "card": {
+          "name": "Number C39: Utopia Ray",
+          "nameEn": "Number C39: Utopia Ray",
+          "nameOriginal": null,
+          "slug": "number-c39-utopia-ray",
+          "archetypeIds": [
+            174,
+            232,
+            919
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 15189,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 8,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/KICO/KICO-EN045-f9e3b754de",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "041",
+        "card": {
+          "name": "Blade Armor Ninja",
+          "nameEn": "Blade Armor Ninja",
+          "nameOriginal": null,
+          "slug": "blade-armor-ninja",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2013-03-22T00:00:00.000000Z"
+        },
+        "id": 15126,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CBLZ/CBLZ-DESE2-7e12093a2a",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "042",
+        "card": {
+          "name": "Number 12: Crimson Shadow Armor Ninja",
+          "nameEn": "Number 12: Crimson Shadow Armor Ninja",
+          "nameOriginal": null,
+          "slug": "number-12-crimson-shadow-armor-ninja",
+          "archetypeIds": [
+            162,
+            174,
+            919
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2013-03-01T00:00:00.000000Z"
+        },
+        "id": 15127,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": null,
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "042",
+        "card": {
+          "name": "Number 12: Crimson Shadow Armor Ninja",
+          "nameEn": "Number 12: Crimson Shadow Armor Ninja",
+          "nameOriginal": null,
+          "slug": "number-12-crimson-shadow-armor-ninja",
+          "archetypeIds": [
+            162,
+            174,
+            919
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2013-03-01T00:00:00.000000Z"
+        },
+        "id": 15190,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": null,
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "043",
+        "card": {
+          "name": "Number 96: Dark Mist",
+          "nameEn": "Number 96: Dark Mist",
+          "nameOriginal": null,
+          "slug": "number-96-dark-mist",
+          "archetypeIds": [
+            174,
+            919
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2020-12-18T00:00:00.000000Z"
+        },
+        "id": 15128,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GEIM/GEIM-DE052-71562d3394",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "043",
+        "card": {
+          "name": "Number 96: Dark Mist",
+          "nameEn": "Number 96: Dark Mist",
+          "nameOriginal": null,
+          "slug": "number-96-dark-mist",
+          "archetypeIds": [
+            174,
+            919
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2020-12-18T00:00:00.000000Z"
+        },
+        "id": 15191,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GEIM/GEIM-DE052-71562d3394",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "044",
+        "card": {
+          "name": "Wind-Up Carrier Zenmaity",
+          "nameEn": "Wind-Up Carrier Zenmaity",
+          "nameOriginal": null,
+          "slug": "wind-up-carrier-zenmaity",
+          "archetypeIds": [
+            240
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 15129,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE044-UR-d249097683",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "044",
+        "card": {
+          "name": "Wind-Up Carrier Zenmaity",
+          "nameEn": "Wind-Up Carrier Zenmaity",
+          "nameOriginal": null,
+          "slug": "wind-up-carrier-zenmaity",
+          "archetypeIds": [
+            240
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 15192,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE044-UR-d249097683",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "045",
+        "card": {
+          "name": "Evolzar Solda",
+          "nameEn": "Evolzar Solda",
+          "nameOriginal": null,
+          "slug": "evolzar-solda",
+          "archetypeIds": [
+            558
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2023-06-02T00:00:00.000000Z"
+        },
+        "id": 15130,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE045-UR-3ed524c046",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "045",
+        "card": {
+          "name": "Evolzar Solda",
+          "nameEn": "Evolzar Solda",
+          "nameOriginal": null,
+          "slug": "evolzar-solda",
+          "archetypeIds": [
+            558
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2023-06-02T00:00:00.000000Z"
+        },
+        "id": 15193,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/WISU/WISU-EN015-9201259bf8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "046",
+        "card": {
+          "name": "Inzektor Exa-Beetle",
+          "nameEn": "Inzektor Exa-Beetle",
+          "nameOriginal": null,
+          "slug": "inzektor-exa-beetle",
+          "archetypeIds": [
+            115
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2022-01-28T00:00:00.000000Z"
+        },
+        "id": 15131,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE046-7eab50322f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "047",
+        "card": {
+          "name": "Full-Force Strike",
+          "nameEn": "Full-Force Strike",
+          "nameOriginal": null,
+          "slug": "full-force-strike",
+          "archetypeIds": [
+            919
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2013-06-28T00:00:00.000000Z"
+        },
+        "id": 15132,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE047-770a992064",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "048",
+        "card": {
+          "name": "Gagagabolt",
+          "nameEn": "Gagagabolt",
+          "nameOriginal": null,
+          "slug": "gagagabolt",
+          "archetypeIds": [
+            86,
+            919
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2014-02-21T00:00:00.000000Z"
+        },
+        "id": 15133,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SP14/SP14-DE033-C-9789a8d3a2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "049",
+        "card": {
+          "name": "Double Defender",
+          "nameEn": "Double Defender",
+          "nameOriginal": null,
+          "slug": "double-defender",
+          "archetypeIds": [
+            919
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15134,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE049-1c059ac4da",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "050",
+        "card": {
+          "name": "Galaxy Storm",
+          "nameEn": "Galaxy Storm",
+          "nameOriginal": null,
+          "slug": "galaxy-storm",
+          "archetypeIds": [
+            87,
+            931
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15135,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE050-1dd3317294",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "051",
+        "card": {
+          "name": "Armor Ninjitsu Art of Alchemy",
+          "nameEn": "Armor Ninjitsu Art of Alchemy",
+          "nameOriginal": null,
+          "slug": "armor-ninjitsu-art-of-alchemy",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2018-08-17T00:00:00.000000Z"
+        },
+        "id": 15136,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SHVA/SHVA-DE027-9364e65ba6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "052",
+        "card": {
+          "name": "Star Light, Star Bright",
+          "nameEn": "Star Light, Star Bright",
+          "nameOriginal": null,
+          "slug": "star-light-star-bright",
+          "archetypeIds": [
+            919
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2014-02-21T00:00:00.000000Z"
+        },
+        "id": 15137,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE052-8c96f5b356",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "053",
+        "card": {
+          "name": "Armor Blast",
+          "nameEn": "Armor Blast",
+          "nameOriginal": null,
+          "slug": "armor-blast",
+          "archetypeIds": [
+            115
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15138,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE053-74b4f5f305",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "054",
+        "card": {
+          "name": "Inzektor Sword - Zektkaliber",
+          "nameEn": "Inzektor Sword - Zektkaliber",
+          "nameOriginal": null,
+          "slug": "inzektor-sword-zektkaliber",
+          "archetypeIds": [
+            115
+          ],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2022-05-06T00:00:00.000000Z"
+        },
+        "id": 15139,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GRCR/GRCR-EN056-e8d30b0156",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "054",
+        "card": {
+          "name": "Inzektor Sword - Zektkaliber",
+          "nameEn": "Inzektor Sword - Zektkaliber",
+          "nameOriginal": null,
+          "slug": "inzektor-sword-zektkaliber",
+          "archetypeIds": [
+            115
+          ],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2022-05-06T00:00:00.000000Z"
+        },
+        "id": 15194,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/GRCR/GRCR-EN056-e8d30b0156",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "055",
+        "card": {
+          "name": "Weights & Zenmaisures",
+          "nameEn": "Weights & Zenmaisures",
+          "nameOriginal": null,
+          "slug": "weights-zenmaisures",
+          "archetypeIds": [
+            240
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15140,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-EN055-4abde89131",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "056",
+        "card": {
+          "name": "Primordial Soup",
+          "nameEn": "Primordial Soup",
+          "nameOriginal": null,
+          "slug": "primordial-soup",
+          "archetypeIds": [],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15141,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE056-91f5d48b07",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "057",
+        "card": {
+          "name": "Evo-Force",
+          "nameEn": "Evo-Force",
+          "nameOriginal": null,
+          "slug": "evo-force",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2023-07-19T00:00:00.000000Z"
+        },
+        "id": 15142,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE057-4c7878b54e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "058",
+        "card": {
+          "name": "Dark Mambele",
+          "nameEn": "Dark Mambele",
+          "nameOriginal": null,
+          "slug": "dark-mambele",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2016-11-18T00:00:00.000000Z"
+        },
+        "id": 15143,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE058-53d400b8b6",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "059",
+        "card": {
+          "name": "Creeping Darkness",
+          "nameEn": "Creeping Darkness",
+          "nameOriginal": null,
+          "slug": "creeping-darkness",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2020-05-21T00:00:00.000000Z"
+        },
+        "id": 15144,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SS05/SS05-DEA27-e318394cac",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "060",
+        "card": {
+          "name": "Shrine of Mist Valley",
+          "nameEn": "Shrine of Mist Valley",
+          "nameOriginal": null,
+          "slug": "shrine-of-mist-valley",
+          "archetypeIds": [
+            152
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-12-07T00:00:00.000000Z"
+        },
+        "id": 15145,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE060-63f2471bf0",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "061",
+        "card": {
+          "name": "Xyz Burst",
+          "nameEn": "Xyz Burst",
+          "nameOriginal": null,
+          "slug": "xyz-burst",
+          "archetypeIds": [],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2021-04-16T00:00:00.000000Z"
+        },
+        "id": 15146,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE061-8d9d8bfe27",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "062",
+        "card": {
+          "name": "Galaxy Wave",
+          "nameEn": "Galaxy Wave",
+          "nameOriginal": null,
+          "slug": "galaxy-wave",
+          "archetypeIds": [
+            87
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15147,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE062-fc1014ad0b",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "063",
+        "card": {
+          "name": "Dicephoon",
+          "nameEn": "Dicephoon",
+          "nameOriginal": null,
+          "slug": "dicephoon",
+          "archetypeIds": [],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2023-08-25T00:00:00.000000Z"
+        },
+        "id": 15148,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SBC1/SBC1-DEB11-beb94722f9",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "064",
+        "card": {
+          "name": "Counterforce",
+          "nameEn": "Counterforce",
+          "nameOriginal": null,
+          "slug": "counterforce",
+          "archetypeIds": [
+            919
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15149,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE064-dd42cb76e4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "065",
+        "card": {
+          "name": "Gagagaguard",
+          "nameEn": "Gagagaguard",
+          "nameOriginal": null,
+          "slug": "gagagaguard",
+          "archetypeIds": [
+            86,
+            919
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2025-10-15T00:00:00.000000Z"
+        },
+        "id": 15150,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE065-caf2b20b60",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "066",
+        "card": {
+          "name": "Xyz Reflect",
+          "nameEn": "Xyz Reflect",
+          "nameOriginal": null,
+          "slug": "xyz-reflect",
+          "archetypeIds": [
+            919
+          ],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2014-02-21T00:00:00.000000Z"
+        },
+        "id": 15151,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SP14/SP14-DE038-C-439f4387b1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "066",
+        "card": {
+          "name": "Xyz Reflect",
+          "nameEn": "Xyz Reflect",
+          "nameOriginal": null,
+          "slug": "xyz-reflect",
+          "archetypeIds": [
+            919
+          ],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2014-02-21T00:00:00.000000Z"
+        },
+        "id": 15195,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 6,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SP14/SP14-DE038-C-439f4387b1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "067",
+        "card": {
+          "name": "Splash Capture",
+          "nameEn": "Splash Capture",
+          "nameOriginal": null,
+          "slug": "splash-capture",
+          "archetypeIds": [
+            813
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15152,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE067-f7bc74d260",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "068",
+        "card": {
+          "name": "Armor Ninjitsu Art of Freezing",
+          "nameEn": "Armor Ninjitsu Art of Freezing",
+          "nameOriginal": null,
+          "slug": "armor-ninjitsu-art-of-freezing",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2016-07-15T00:00:00.000000Z"
+        },
+        "id": 15153,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE068-ac0d770b68",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "069",
+        "card": {
+          "name": "Armor Ninjitsu Art of Rust Mist",
+          "nameEn": "Armor Ninjitsu Art of Rust Mist",
+          "nameOriginal": null,
+          "slug": "armor-ninjitsu-art-of-rust-mist",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2018-08-17T00:00:00.000000Z"
+        },
+        "id": 15154,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SHVA/SHVA-DE030-0fd9e6594e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "070",
+        "card": {
+          "name": "Inzektor Orb",
+          "nameEn": "Inzektor Orb",
+          "nameOriginal": null,
+          "slug": "inzektor-orb",
+          "archetypeIds": [
+            115
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15155,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE070-5fd6b103f8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "071",
+        "card": {
+          "name": "Variable Form",
+          "nameEn": "Variable Form",
+          "nameOriginal": null,
+          "slug": "variable-form",
+          "archetypeIds": [
+            115
+          ],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15156,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE071-fcc3bb988d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "072",
+        "card": {
+          "name": "Zenmailstrom",
+          "nameEn": "Zenmailstrom",
+          "nameOriginal": null,
+          "slug": "zenmailstrom",
+          "archetypeIds": [
+            240
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15157,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE072-69a61096ac",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "073",
+        "card": {
+          "name": "Degen-Force",
+          "nameEn": "Degen-Force",
+          "nameOriginal": null,
+          "slug": "degen-force",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15158,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE073-8cc3f8bf89",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "074",
+        "card": {
+          "name": "Evo-Branch",
+          "nameEn": "Evo-Branch",
+          "nameOriginal": null,
+          "slug": "evo-branch",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15159,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE074-3d87763507",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "075",
+        "card": {
+          "name": "Ninjitsu Art of Super-Transformation",
+          "nameEn": "Ninjitsu Art of Super-Transformation",
+          "nameOriginal": null,
+          "slug": "ninjitsu-art-of-super-transformation",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2018-08-17T00:00:00.000000Z"
+        },
+        "id": 15160,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SHVA/SHVA-DE029-c1da31ddbb",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "076",
+        "card": {
+          "name": "Xyz Reborn",
+          "nameEn": "Xyz Reborn",
+          "nameOriginal": null,
+          "slug": "xyz-reborn",
+          "archetypeIds": [
+            919
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2024-01-26T00:00:00.000000Z"
+        },
+        "id": 15161,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/STAX/STAX-EN019-5bca0bc45e",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "077",
+        "card": {
+          "name": "Over Capacity",
+          "nameEn": "Over Capacity",
+          "nameOriginal": null,
+          "slug": "over-capacity",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15162,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE077-81eea4ea4d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "078",
+        "card": {
+          "name": "The Huge Revolution is Over",
+          "nameEn": "The Huge Revolution is Over",
+          "nameOriginal": null,
+          "slug": "the-huge-revolution-is-over",
+          "archetypeIds": [],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2017-04-14T00:00:00.000000Z"
+        },
+        "id": 15163,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE078-05f414a5ae",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "079",
+        "card": {
+          "name": "Royal Prison",
+          "nameEn": "Royal Prison",
+          "nameOriginal": null,
+          "slug": "royal-prison",
+          "archetypeIds": [],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2021-04-16T00:00:00.000000Z"
+        },
+        "id": 15164,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE079-fef1bb5676",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "080",
+        "card": {
+          "name": "Sealing Ceremony of Katon",
+          "nameEn": "Sealing Ceremony of Katon",
+          "nameOriginal": null,
+          "slug": "sealing-ceremony-of-katon",
+          "archetypeIds": [],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15165,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE080-17dc45ce39",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "081",
+        "card": {
+          "name": "Inzektor Hopper",
+          "nameEn": "Inzektor Hopper",
+          "nameOriginal": null,
+          "slug": "inzektor-hopper",
+          "archetypeIds": [
+            115
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2022-01-28T00:00:00.000000Z"
+        },
+        "id": 15166,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE081-588126131d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "082",
+        "card": {
+          "name": "Wind-Up Shark",
+          "nameEn": "Wind-Up Shark",
+          "nameOriginal": null,
+          "slug": "wind-up-shark",
+          "archetypeIds": [
+            240,
+            199
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 15167,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CBLZ/CBLZ-DESE1-1d8d77b88c",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "083",
+        "card": {
+          "name": "Evoltile Najasho",
+          "nameEn": "Evoltile Najasho",
+          "nameOriginal": null,
+          "slug": "evoltile-najasho",
+          "archetypeIds": [
+            558
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2023-07-19T00:00:00.000000Z"
+        },
+        "id": 15168,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE083-821bb2abd4",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "084",
+        "card": {
+          "name": "White Dragon Ninja",
+          "nameEn": "White Dragon Ninja",
+          "nameOriginal": null,
+          "slug": "white-dragon-ninja",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2025-09-05T00:00:00.000000Z"
+        },
+        "id": 15169,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/SHVA/SHVA-DE024-c31bb27907",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "085",
+        "card": {
+          "name": "Interplanetarypurplythorny Dragon",
+          "nameEn": "Interplanetarypurplythorny Dragon",
+          "nameOriginal": null,
+          "slug": "interplanetarypurplythorny-dragon",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2018-03-29T00:00:00.000000Z"
+        },
+        "id": 15170,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE085-e7e789e429",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "086",
+        "card": {
+          "name": "Tour Bus From the Underworld",
+          "nameEn": "Tour Bus From the Underworld",
+          "nameOriginal": null,
+          "slug": "tour-bus-from-the-underworld",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2013-06-28T00:00:00.000000Z"
+        },
+        "id": 15171,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE086-402eb6e210",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "087",
+        "card": {
+          "name": "Photon Trident",
+          "nameEn": "Photon Trident",
+          "nameOriginal": null,
+          "slug": "photon-trident",
+          "archetypeIds": [
+            178,
+            931
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15172,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE087-36e11eb7e5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "088",
+        "card": {
+          "name": "Evo-Instant",
+          "nameEn": "Evo-Instant",
+          "nameOriginal": null,
+          "slug": "evo-instant",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15173,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE088-6c1d930107",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "089",
+        "card": {
+          "name": "Ninjitsu Art of Duplication",
+          "nameEn": "Ninjitsu Art of Duplication",
+          "nameOriginal": null,
+          "slug": "ninjitsu-art-of-duplication",
+          "archetypeIds": [
+            162
+          ],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2022-10-26T00:00:00.000000Z"
+        },
+        "id": 15174,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE089-b3c1e82eb1",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "090",
+        "card": {
+          "name": "White Night Queen",
+          "nameEn": "White Night Queen",
+          "nameOriginal": null,
+          "slug": "white-night-queen",
+          "archetypeIds": [
+            871
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": null
+        },
+        "id": 15175,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE090-e3f21576cc",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "091",
+        "card": {
+          "name": "Danipon",
+          "nameEn": "Danipon",
+          "nameOriginal": null,
+          "slug": "danipon",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2019-08-02T00:00:00.000000Z"
+        },
+        "id": 15176,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE091-4dce7cd277",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "092",
+        "card": {
+          "name": "Sweet Corn",
+          "nameEn": "Sweet Corn",
+          "nameOriginal": null,
+          "slug": "sweet-corn",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15177,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE092-63f8ab7425",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "093",
+        "card": {
+          "name": "Vampiric Koala",
+          "nameEn": "Vampiric Koala",
+          "nameOriginal": null,
+          "slug": "vampiric-koala",
+          "archetypeIds": [
+            903
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2023-03-31T00:00:00.000000Z"
+        },
+        "id": 15178,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE093-36652e5707",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "094",
+        "card": {
+          "name": "Koalo-Koala",
+          "nameEn": "Koalo-Koala",
+          "nameOriginal": null,
+          "slug": "koalo-koala",
+          "archetypeIds": [
+            903
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15179,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE094-cf9a9ce78f",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "095",
+        "card": {
+          "name": "Dark Diviner",
+          "nameEn": "Dark Diviner",
+          "nameOriginal": null,
+          "slug": "dark-diviner",
+          "archetypeIds": [],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15180,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE095-96812c5553",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "096",
+        "card": {
+          "name": "Dark Flattop",
+          "nameEn": "Dark Flattop",
+          "nameOriginal": null,
+          "slug": "dark-flattop",
+          "archetypeIds": [
+            358,
+            784
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2012-01-24T00:00:00.000000Z"
+        },
+        "id": 15181,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 3,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE096-6c7616def8",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "097",
+        "card": {
+          "name": "Driven Daredevil",
+          "nameEn": "Driven Daredevil",
+          "nameOriginal": null,
+          "slug": "driven-daredevil",
+          "archetypeIds": [],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2014-10-24T00:00:00.000000Z"
+        },
+        "id": 15182,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE097-862f0367d5",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "098",
+        "card": {
+          "name": "Wind-Up Arsenal Zenmaioh",
+          "nameEn": "Wind-Up Arsenal Zenmaioh",
+          "nameOriginal": null,
+          "slug": "wind-up-arsenal-zenmaioh",
+          "archetypeIds": [
+            240
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2021-12-03T00:00:00.000000Z"
+        },
+        "id": 15183,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-EN098-4351c16308",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "099",
+        "card": {
+          "name": "M-X-Saber Invoker",
+          "nameEn": "M-X-Saber Invoker",
+          "nameOriginal": null,
+          "slug": "m-x-saber-invoker",
+          "archetypeIds": [
+            194
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2012-01-20T00:00:00.000000Z",
+          "lastPrint": "2025-04-11T00:00:00.000000Z"
+        },
+        "id": 15184,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/ORCS/ORCS-DE099-457d699e0d",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      }
+    ],
+    "printsCount": null,
+    "releaseEu": "2012-01-20T00:00:00.000000Z",
+    "releaseEuDayUnknown": false,
+    "releaseEuMonthUnknown": false,
+    "releaseNa": "2012-01-24T00:00:00.000000Z",
+    "releaseNaDayUnknown": false,
+    "releaseNaMonthUnknown": false,
+    "tournamentLegal": null,
+    "setNumber": "ORCS",
+    "slug": "order-of-chaos",
+    "scanCounts": {
+      "en": 4,
+      "de": 72
+    }
+  }
+}

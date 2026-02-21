@@ -1,0 +1,3598 @@
+{
+  "data": {
+    "archetypes": [
+      {
+        "id": 174,
+        "name": "Number",
+        "slug": "number",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA01/RA01-EN039-SCR-2587bc13cc",
+        "isFirstPrint": false
+      },
+      {
+        "id": 919,
+        "name": "Yuma Tsukumo | Astral",
+        "slug": "yuma-tsukumo-astral",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/DUPO/DUPO-DE010-5374889f7b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 566,
+        "name": "Firewall",
+        "slug": "firewall",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MGED/MGED-EN141-708e3847db",
+        "isFirstPrint": false
+      },
+      {
+        "id": 930,
+        "name": "Yusaku Fujiki | Playmaker",
+        "slug": "yusaku-fujiki-playmaker",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/MP22/MP22-DE271-cfc3d0b586",
+        "isFirstPrint": false
+      },
+      {
+        "id": 211,
+        "name": "Superheavy Samurai",
+        "slug": "superheavy-samurai",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN076-3a3f203642",
+        "isFirstPrint": false
+      },
+      {
+        "id": 547,
+        "name": "Fallen of Albaz",
+        "slug": "fallen-of-albaz",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/CH01/CH01-EN001-e78b36a28a",
+        "isFirstPrint": false
+      },
+      {
+        "id": 683,
+        "name": "Bystial",
+        "slug": "bystial",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CH01/CH01-EN010-9a3ded94cc",
+        "isFirstPrint": false
+      },
+      {
+        "id": 631,
+        "name": "Icejade",
+        "slug": "icejade",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN068-9e99a00125",
+        "isFirstPrint": false
+      },
+      {
+        "id": 601,
+        "name": "Despia",
+        "slug": "despia",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CH01/CH01-EN003-68017f922d",
+        "isFirstPrint": false
+      },
+      {
+        "id": 409,
+        "name": "Dogmatika",
+        "slug": "dogmatika",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CH01/CH01-EN016-521c67b306",
+        "isFirstPrint": false
+      },
+      {
+        "id": 706,
+        "name": "Mannadium",
+        "slug": "mannadium",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN196-0e1f8142de",
+        "isFirstPrint": true
+      },
+      {
+        "id": 709,
+        "name": "Nemleria",
+        "slug": "nemleria",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN015-c6d3ddb54f",
+        "isFirstPrint": true
+      },
+      {
+        "id": 689,
+        "name": "Purrely",
+        "slug": "purrely",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA02/RA02-EN018-SCR-6ca639db92",
+        "isFirstPrint": false
+      },
+      {
+        "id": 690,
+        "name": "Mikanko",
+        "slug": "mikanko",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/AMDE/AMDE-EN034-4da21238b3",
+        "isFirstPrint": false
+      },
+      {
+        "id": 35,
+        "name": "Constellar",
+        "slug": "constellar",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/SP15/SP15-DE035-C-45abd22cc5",
+        "isFirstPrint": false
+      },
+      {
+        "id": 113,
+        "name": "Infinitrack",
+        "slug": "infinitrack",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP20/MP20-DE215-31f6c3c70b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 437,
+        "name": "Amazement",
+        "slug": "amazement",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LIOV/LIOV-EN006-fd577bdeaf",
+        "isFirstPrint": false
+      },
+      {
+        "id": 541,
+        "name": "Spirit",
+        "slug": "spirit",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/BLMR/BLMR-EN070-94a16c67df",
+        "isFirstPrint": false
+      },
+      {
+        "id": 474,
+        "name": "Counter Fairy",
+        "slug": "counter-fairy",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/EOJ/EOJ-DE020-1426c50f6b",
+        "isFirstPrint": false
+      },
+      {
+        "id": 173,
+        "name": "Pendulum",
+        "slug": "pendulum",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/LED6/LED6-DE051-92000b6cfa",
+        "isFirstPrint": false
+      },
+      {
+        "id": 254,
+        "name": "Cyberse",
+        "slug": "cyberse",
+        "type": "series",
+        "image": "https://cardcluster.com/storage/cards/MGED/MGED-EN135-20e0ad9715",
+        "isFirstPrint": false
+      },
+      {
+        "id": 636,
+        "name": "Beetrooper",
+        "slug": "beetrooper",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DAMA/DAMA-EN089-316e41310e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 416,
+        "name": "Dual Avatar",
+        "slug": "dual-avatar",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/PHRA/PHRA-DE057-75e61d3f05",
+        "isFirstPrint": false
+      },
+      {
+        "id": 27,
+        "name": "Chaos",
+        "slug": "chaos",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN086-14d213f7d6",
+        "isFirstPrint": false
+      },
+      {
+        "id": 417,
+        "name": "Virtual World",
+        "slug": "virtual-world",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN173-83fae38c72",
+        "isFirstPrint": false
+      },
+      {
+        "id": 34,
+        "name": "Code Talker",
+        "slug": "code-talker",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/RA01/RA01-EN048-SCR-24ea1bd5ca",
+        "isFirstPrint": false
+      },
+      {
+        "id": 520,
+        "name": "Solfachord",
+        "slug": "solfachord",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/ANGU/ANGU-EN021-UR-173fe10c1e",
+        "isFirstPrint": false
+      },
+      {
+        "id": 427,
+        "name": "S-Force",
+        "slug": "s-force",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BLVO/BLVO-EN011-50002a9297",
+        "isFirstPrint": false
+      },
+      {
+        "id": 632,
+        "name": "Swordsoul",
+        "slug": "swordsoul",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MAMA/MAMA-EN039-8bfd631c09",
+        "isFirstPrint": false
+      },
+      {
+        "id": 418,
+        "name": "Tri-Brigade",
+        "slug": "tri-brigade",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP21/MP21-EN198-38e895a548",
+        "isFirstPrint": false
+      },
+      {
+        "id": 682,
+        "name": "Kashtira",
+        "slug": "kashtira",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN323-00e16c29bc",
+        "isFirstPrint": false
+      },
+      {
+        "id": 657,
+        "name": "Libromancer",
+        "slug": "libromancer",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN063-928e0165d0",
+        "isFirstPrint": false
+      },
+      {
+        "id": 529,
+        "name": "Gunkan",
+        "slug": "gunkan",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/BODE/BODE-EN048-afb233dfd7",
+        "isFirstPrint": false
+      },
+      {
+        "id": 839,
+        "name": "Morganite",
+        "slug": "morganite",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DUAD/DUAD-DE026-99e474832d",
+        "isFirstPrint": true
+      },
+      {
+        "id": 439,
+        "name": "Branded",
+        "slug": "branded",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/CH01/CH01-EN020-0647363186",
+        "isFirstPrint": false
+      },
+      {
+        "id": 684,
+        "name": "Rescue-ACE",
+        "slug": "rescue-ace",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MZMI/MZMI-EN077-10e8bc70ea",
+        "isFirstPrint": false
+      },
+      {
+        "id": 650,
+        "name": "Dinomorphia",
+        "slug": "dinomorphia",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP23/MP23-EN107-06120e0686",
+        "isFirstPrint": false
+      },
+      {
+        "id": 703,
+        "name": "Gold Pride",
+        "slug": "gold-pride",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/PHHY/PHHY-EN088-UR-94050d7268",
+        "isFirstPrint": false
+      },
+      {
+        "id": 827,
+        "name": "Chazz Princeton",
+        "slug": "chazz-princeton",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/BLMR/BLMR-EN002-SCR-8498b5d6a6",
+        "isFirstPrint": false
+      },
+      {
+        "id": 765,
+        "name": "Yako Tenma",
+        "slug": "yako-tenma",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/ANPR/ANPR-DE097-1d6d76a72a",
+        "isFirstPrint": false
+      },
+      {
+        "id": 565,
+        "name": "Mystical Beast of the Forest",
+        "slug": "mystical-beast-of-the-forest",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/DAMA/DAMA-EN022-3f44a79e7f",
+        "isFirstPrint": false
+      },
+      {
+        "id": 813,
+        "name": "Reginald \"Shark\" Kastle | Nash",
+        "slug": "reginald-shark-kastle-nash",
+        "type": "character",
+        "image": "https://cardcluster.com/storage/cards/LED9/LED9-EN005-f4211008d2",
+        "isFirstPrint": false
+      }
+    ],
+    "archetypesReprint": [
+      {
+        "id": 694,
+        "name": "Visas",
+        "slug": "visas",
+        "type": "archetype",
+        "image": "https://cardcluster.com/storage/cards/MP24/MP24-EN108-7131982094",
+        "isFirstPrint": false
+      }
+    ],
+    "category": {
+      "name": "Series 11",
+      "slug": "series-11",
+      "sets": [
+        {
+          "image": "https://cardcluster.com/storage/sets/CYAC-21eb3fe9ebd07dc607ac",
+          "format": 1,
+          "name": "Cyberstorm Access",
+          "releaseEu": "2023-05-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2023-05-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "CYAC",
+          "slug": "cyberstorm-access",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/PHHY-728895d71f82a2e6f832",
+          "format": 1,
+          "name": "Photon Hypernova",
+          "releaseEu": "2023-02-09T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2023-02-10T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "PHHY",
+          "slug": "photon-hypernova",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/DABL-cfa6bf49df40a9e69b7c",
+          "format": 1,
+          "name": "Darkwing Blast",
+          "releaseEu": "2022-10-20T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2022-10-21T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "DABL",
+          "slug": "darkwing-blast",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/POTE-e20856187e1d8c1515dd",
+          "format": 1,
+          "name": "Power of the Elements",
+          "releaseEu": "2022-08-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2022-08-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "POTE",
+          "slug": "power-of-the-elements",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/DIFO-34599fd241d0f61061ee",
+          "format": 1,
+          "name": "Dimension Force",
+          "releaseEu": "2022-05-19T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2022-05-20T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "DIFO",
+          "slug": "dimension-force",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/BACH-08ae9a3cb22440c2f8ee",
+          "format": 1,
+          "name": "Battle of Chaos",
+          "releaseEu": "2022-02-10T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2022-02-11T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "BACH",
+          "slug": "battle-of-chaos",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/BODE-60936fb2b58bdaafc03a",
+          "format": 1,
+          "name": "Burst of Destiny",
+          "releaseEu": "2021-11-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2021-11-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "BODE",
+          "slug": "burst-of-destiny",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/DAMA-c31119d7f01fc44870c6",
+          "format": 1,
+          "name": "Dawn of Majesty",
+          "releaseEu": "2021-08-12T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2021-08-13T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "DAMA",
+          "slug": "dawn-of-majesty",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/LIOV-8b437fe9aa9d34168df6",
+          "format": 1,
+          "name": "Lightning Overdrive",
+          "releaseEu": "2021-06-03T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2021-06-04T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "LIOV",
+          "slug": "lightning-overdrive",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/BLVO-9f78221561d9d4c697e7",
+          "format": 1,
+          "name": "Blazing Vortex",
+          "releaseEu": "2021-02-04T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2021-02-05T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "BLVO",
+          "slug": "blazing-vortex",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/PHRA-fb1d2022e03495580a2d",
+          "format": 1,
+          "name": "Phantom Rage",
+          "releaseEu": "2020-11-05T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2020-11-06T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "PHRA",
+          "slug": "phantom-rage",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        },
+        {
+          "image": "https://cardcluster.com/storage/sets/ROTD-887e716ca77218df6fd0",
+          "format": 1,
+          "name": "Rise of the Duelist",
+          "releaseEu": "2020-08-06T00:00:00.000000Z",
+          "releaseEuDayUnknown": false,
+          "releaseEuMonthUnknown": false,
+          "releaseNa": "2020-08-07T00:00:00.000000Z",
+          "releaseNaDayUnknown": false,
+          "releaseNaMonthUnknown": false,
+          "tcgNotConfirmed": false,
+          "setNumber": "ROTD",
+          "slug": "rise-of-the-duelist",
+          "cardSlugs": null,
+          "artworkIds": null,
+          "printsCount": null,
+          "spoilerTotalPrints": null
+        }
+      ],
+      "setsCount": 12,
+      "format": 1,
+      "parent": {
+        "name": "Core Boosters",
+        "slug": "core-boosters",
+        "setsCount": 102,
+        "format": 1,
+        "parent": {
+          "name": "Booster Packs",
+          "slug": "booster-packs",
+          "setsCount": 326,
+          "format": 1,
+          "parent": null
+        }
+      }
+    },
+    "disableSetList": false,
+    "format": 1,
+    "game": 1,
+    "id": 990,
+    "image": "https://cardcluster.com/storage/sets/CYAC-21eb3fe9ebd07dc607ac",
+    "languages": [
+      {
+        "id": 1036,
+        "language": "de",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 1037,
+        "language": "en",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 1038,
+        "language": "fr",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 1039,
+        "language": "it",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 1040,
+        "language": "pt",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      },
+      {
+        "id": 1041,
+        "language": "es",
+        "alternateSetNumber": null,
+        "alternateLanguageCode": null,
+        "firstEdition": true,
+        "unlimitedEdition": false,
+        "limitedEdition": false
+      }
+    ],
+    "name": "Cyberstorm Access",
+    "next": null,
+    "previous": {
+      "name": "Photon Hypernova",
+      "setNumber": "PHHY",
+      "slug": "photon-hypernova",
+      "format": 1,
+      "releaseEu": "2023-02-09T00:00:00.000000Z",
+      "releaseNa": "2023-02-10T00:00:00.000000Z"
+    },
+    "prints": [
+      {
+        "cardNumber": "000",
+        "card": {
+          "name": "Numbers Eveil",
+          "nameEn": "Numbers Eveil",
+          "nameOriginal": null,
+          "slug": "numbers-eveil",
+          "archetypeIds": [
+            174,
+            919
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 60733,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN000-78f7a1a8aa",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "001",
+        "card": {
+          "name": "Firewall Defenser",
+          "nameEn": "Firewall Defenser",
+          "nameOriginal": null,
+          "slug": "firewall-defenser",
+          "archetypeIds": [
+            566,
+            930
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 56787,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN001-4bd74e66b6",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "002",
+        "card": {
+          "name": "Firewall Phantom",
+          "nameEn": "Firewall Phantom",
+          "nameOriginal": null,
+          "slug": "firewall-phantom",
+          "archetypeIds": [
+            566,
+            930
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 56788,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN002-5b2e62a792",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "003",
+        "card": {
+          "name": "Superheavy Samurai Motorbike",
+          "nameEn": "Superheavy Samurai Motorbike",
+          "nameOriginal": null,
+          "slug": "superheavy-samurai-motorbike",
+          "archetypeIds": [
+            211
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57181,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN003-4764e05eaf",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "004",
+        "card": {
+          "name": "Superheavy Samurai Stealthy",
+          "nameEn": "Superheavy Samurai Stealthy",
+          "nameOriginal": null,
+          "slug": "superheavy-samurai-stealthy",
+          "archetypeIds": [
+            211
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57182,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN004-65e15e19be",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "005",
+        "card": {
+          "name": "Superheavy Samurai Soulgaia Booster",
+          "nameEn": "Superheavy Samurai Soulgaia Booster",
+          "nameOriginal": null,
+          "slug": "superheavy-samurai-soulgaia-booster",
+          "archetypeIds": [
+            211
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57183,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN005-96121c9b80",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "006",
+        "card": {
+          "name": "Superheavy Samurai Prodigy Wakaushi",
+          "nameEn": "Superheavy Samurai Prodigy Wakaushi",
+          "nameOriginal": null,
+          "slug": "superheavy-samurai-prodigy-wakaushi",
+          "archetypeIds": [
+            211
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57184,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN006-bd4d787ba4",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "007",
+        "card": {
+          "name": "Superheavy Samurai Monk Big Benkei",
+          "nameEn": "Superheavy Samurai Monk Big Benkei",
+          "nameOriginal": null,
+          "slug": "superheavy-samurai-monk-big-benkei",
+          "archetypeIds": [
+            211
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57185,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN007-f1ccd06104",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "008",
+        "card": {
+          "name": "The Bystial Aluber",
+          "nameEn": "The Bystial Aluber",
+          "nameOriginal": null,
+          "slug": "the-bystial-aluber",
+          "archetypeIds": [
+            547,
+            683
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57369,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN008-5d4dd0841d",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "009",
+        "card": {
+          "name": "Fallen of Argyros",
+          "nameEn": "Fallen of Argyros",
+          "nameOriginal": null,
+          "slug": "fallen-of-argyros",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57370,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN009-5047fd8399",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "010",
+        "card": {
+          "name": "Icejade Ran Aegirine",
+          "nameEn": "Icejade Ran Aegirine",
+          "nameOriginal": null,
+          "slug": "icejade-ran-aegirine",
+          "archetypeIds": [
+            631
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57371,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN010-01770ac39e",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "011",
+        "card": {
+          "name": "Guiding Quem, the Virtuous",
+          "nameEn": "Guiding Quem, the Virtuous",
+          "nameOriginal": null,
+          "slug": "guiding-quem-the-virtuous",
+          "archetypeIds": [
+            547,
+            601,
+            409
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2025-10-24T00:00:00.000000Z"
+        },
+        "id": 57372,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN011-SCR-8c4d427317",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "011",
+        "card": {
+          "name": "Guiding Quem, the Virtuous",
+          "nameEn": "Guiding Quem, the Virtuous",
+          "nameOriginal": null,
+          "slug": "guiding-quem-the-virtuous",
+          "archetypeIds": [
+            547,
+            601,
+            409
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2025-10-24T00:00:00.000000Z"
+        },
+        "id": 60738,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN011-SLR-96c37941f7",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "012",
+        "card": {
+          "name": "Mannadium Riumheart",
+          "nameEn": "Mannadium Riumheart",
+          "nameOriginal": null,
+          "slug": "mannadium-riumheart",
+          "archetypeIds": [
+            706
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57190,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN012-917aa314b7",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "013",
+        "card": {
+          "name": "Mannadium Fearless",
+          "nameEn": "Mannadium Fearless",
+          "nameOriginal": null,
+          "slug": "mannadium-fearless",
+          "archetypeIds": [
+            706
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57191,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN013-7187a8086e",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "014",
+        "card": {
+          "name": "Mannadium Meek",
+          "nameEn": "Mannadium Meek",
+          "nameOriginal": null,
+          "slug": "mannadium-meek",
+          "archetypeIds": [
+            706
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57192,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN014-f4601046b0",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "015",
+        "card": {
+          "name": "Dreaming Nemleria",
+          "nameEn": "Dreaming Nemleria",
+          "nameOriginal": null,
+          "slug": "dreaming-nemleria",
+          "archetypeIds": [
+            709
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57226,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN015-c6d3ddb54f",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "016",
+        "card": {
+          "name": "Nemleria Dream Defender - Oreiller",
+          "nameEn": "Nemleria Dream Defender - Oreiller",
+          "nameOriginal": null,
+          "slug": "nemleria-dream-defender-oreiller",
+          "archetypeIds": [
+            709
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57227,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN016-1c30a200a2",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "017",
+        "card": {
+          "name": "Nemleria Dream Defender - Couette",
+          "nameEn": "Nemleria Dream Defender - Couette",
+          "nameOriginal": null,
+          "slug": "nemleria-dream-defender-couette",
+          "archetypeIds": [
+            709
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57228,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN017-0a30518ade",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "018",
+        "card": {
+          "name": "Purrelyly",
+          "nameEn": "Purrelyly",
+          "nameOriginal": null,
+          "slug": "purrelyly",
+          "archetypeIds": [
+            689
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57199,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN018-5ee4d3f90c",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "019",
+        "card": {
+          "name": "Hu-Li the Jewel Mikanko",
+          "nameEn": "Hu-Li the Jewel Mikanko",
+          "nameOriginal": null,
+          "slug": "hu-li-the-jewel-mikanko",
+          "archetypeIds": [
+            690
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57200,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN019-889ba760c0",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "020",
+        "card": {
+          "name": "Tellarknight Altairan",
+          "nameEn": "Tellarknight Altairan",
+          "nameOriginal": null,
+          "slug": "tellarknight-altairan",
+          "archetypeIds": [
+            35
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57205,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN020-2aedf6ce6d",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "021",
+        "card": {
+          "name": "Tellarknight Lyran",
+          "nameEn": "Tellarknight Lyran",
+          "nameOriginal": null,
+          "slug": "tellarknight-lyran",
+          "archetypeIds": [
+            35
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57204,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN021-b17c298979",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "022",
+        "card": {
+          "name": "Infinitrack Road Roller",
+          "nameEn": "Infinitrack Road Roller",
+          "nameOriginal": null,
+          "slug": "infinitrack-road-roller",
+          "archetypeIds": [
+            113
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57212,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN022-c15b294f77",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "023",
+        "card": {
+          "name": "Amazement Abomination Arlekino",
+          "nameEn": "Amazement Abomination Arlekino",
+          "nameOriginal": null,
+          "slug": "amazement-abomination-arlekino",
+          "archetypeIds": [
+            437
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57225,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN023-58c6bad3fc",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "024",
+        "card": {
+          "name": "Tsumuha-Kutsunagi the Lord of Swords",
+          "nameEn": "Tsumuha-Kutsunagi the Lord of Swords",
+          "nameOriginal": null,
+          "slug": "tsumuha-kutsunagi-the-lord-of-swords",
+          "archetypeIds": [
+            541
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57208,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN024-c20383f3b5",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "025",
+        "card": {
+          "name": "Full Active Duplex",
+          "nameEn": "Full Active Duplex",
+          "nameOriginal": null,
+          "slug": "full-active-duplex",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57622,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN025-ae3d04eba0",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "026",
+        "card": {
+          "name": "Harvest Angel of Doom",
+          "nameEn": "Harvest Angel of Doom",
+          "nameOriginal": null,
+          "slug": "harvest-angel-of-doom",
+          "archetypeIds": [
+            474
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57623,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN026-932be31b31",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "027",
+        "card": {
+          "name": "Sakitama",
+          "nameEn": "Sakitama",
+          "nameOriginal": null,
+          "slug": "sakitama",
+          "archetypeIds": [
+            541
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-06-23T00:00:00.000000Z"
+        },
+        "id": 57624,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN027-14de29af1b",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "028",
+        "card": {
+          "name": "Kitsuni Kitsunebi",
+          "nameEn": "Kitsuni Kitsunebi",
+          "nameOriginal": null,
+          "slug": "kitsuni-kitsunebi",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57625,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN028-03ba4602f9",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "029",
+        "card": {
+          "name": "Ringowurm, the Dragon Guarding the Hundred Apples",
+          "nameEn": "Ringowurm, the Dragon Guarding the Hundred Apples",
+          "nameOriginal": null,
+          "slug": "ringowurm-the-dragon-guarding-the-hundred-apples",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57626,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN029-c3b75bddc5",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "030",
+        "card": {
+          "name": "PenduLuMoon",
+          "nameEn": "PenduLuMoon",
+          "nameOriginal": null,
+          "slug": "pendulumoon",
+          "archetypeIds": [
+            173
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57627,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN030-853599c859",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "031",
+        "card": {
+          "name": "Wannabee!",
+          "nameEn": "Wannabee!",
+          "nameOriginal": null,
+          "slug": "wannabee",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57628,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN031-42abe4137f",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "032",
+        "card": {
+          "name": "Bunny Ear Enthusiast",
+          "nameEn": "Bunny Ear Enthusiast",
+          "nameOriginal": null,
+          "slug": "bunny-ear-enthusiast",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57341,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN032-0ce039092c",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "033",
+        "card": {
+          "name": "Cyberse Sage",
+          "nameEn": "Cyberse Sage",
+          "nameOriginal": null,
+          "slug": "cyberse-sage",
+          "archetypeIds": [
+            254,
+            930
+          ],
+          "cardTypeOrder": "14",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 56789,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN033-c35d3515cb",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "034",
+        "card": {
+          "name": "Cyberse Desavewurm",
+          "nameEn": "Cyberse Desavewurm",
+          "nameOriginal": null,
+          "slug": "cyberse-desavewurm",
+          "archetypeIds": [
+            254,
+            930
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 56790,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN034-60c8603db6",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "035",
+        "card": {
+          "name": "Albion the Sanctifire Dragon",
+          "nameEn": "Albion the Sanctifire Dragon",
+          "nameOriginal": null,
+          "slug": "albion-the-sanctifire-dragon",
+          "archetypeIds": [
+            547
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57338,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN035-9fdbb57745",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "036",
+        "card": {
+          "name": "Vicious Astraloud",
+          "nameEn": "Vicious Astraloud",
+          "nameOriginal": null,
+          "slug": "vicious-astraloud",
+          "archetypeIds": [],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57188,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN036-9fd40a8619",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "037",
+        "card": {
+          "name": "Beetrooper Cruel Saturnas",
+          "nameEn": "Beetrooper Cruel Saturnas",
+          "nameOriginal": null,
+          "slug": "beetrooper-cruel-saturnas",
+          "archetypeIds": [
+            636
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57343,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN037-7f3b36705b",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "038",
+        "card": {
+          "name": "Dual Avatar - Manifested A-Un",
+          "nameEn": "Dual Avatar - Manifested A-Un",
+          "nameOriginal": null,
+          "slug": "dual-avatar-manifested-a-un",
+          "archetypeIds": [
+            416
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57352,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN038-fed7e5984b",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "039",
+        "card": {
+          "name": "Superheavy Samurai Brave Masurawo",
+          "nameEn": "Superheavy Samurai Brave Masurawo",
+          "nameOriginal": null,
+          "slug": "superheavy-samurai-brave-masurawo",
+          "archetypeIds": [
+            211
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57186,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN039-6f5cc0245f",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "040",
+        "card": {
+          "name": "Superheavy Samurai Commander Shanawo",
+          "nameEn": "Superheavy Samurai Commander Shanawo",
+          "nameOriginal": null,
+          "slug": "superheavy-samurai-commander-shanawo",
+          "archetypeIds": [
+            211
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57187,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN040-8494c6f813",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "041",
+        "card": {
+          "name": "Bystial Dis Pater",
+          "nameEn": "Bystial Dis Pater",
+          "nameOriginal": null,
+          "slug": "bystial-dis-pater",
+          "archetypeIds": [
+            683
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57337,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN041-1be8097c11",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "042",
+        "card": {
+          "name": "Despian Luluwalilith",
+          "nameEn": "Despian Luluwalilith",
+          "nameOriginal": null,
+          "slug": "despian-luluwalilith",
+          "archetypeIds": [
+            601
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57339,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN042-SCR-4d78a2eaa6",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "042",
+        "card": {
+          "name": "Despian Luluwalilith",
+          "nameEn": "Despian Luluwalilith",
+          "nameOriginal": null,
+          "slug": "despian-luluwalilith",
+          "archetypeIds": [
+            601
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 60732,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN042-SLR-4996fa2184",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "043",
+        "card": {
+          "name": "Mannadium Prime-Heart",
+          "nameEn": "Mannadium Prime-Heart",
+          "nameOriginal": null,
+          "slug": "mannadium-prime-heart",
+          "archetypeIds": [
+            706
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-01-26T00:00:00.000000Z"
+        },
+        "id": 57193,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN043-532c14f82a",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "044",
+        "card": {
+          "name": "Chaos Angel",
+          "nameEn": "Chaos Angel",
+          "nameOriginal": null,
+          "slug": "chaos-angel",
+          "archetypeIds": [
+            27,
+            695
+          ],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2026-04-10T00:00:00.000000Z"
+        },
+        "id": 57349,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN044-b34eee29d2",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "045",
+        "card": {
+          "name": "Tellarknight Constellar Caduceus",
+          "nameEn": "Tellarknight Constellar Caduceus",
+          "nameOriginal": null,
+          "slug": "tellarknight-constellar-caduceus",
+          "archetypeIds": [
+            35
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57206,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN045-e30cf62f5a",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "046",
+        "card": {
+          "name": "Virtual World Tiger - Fufu",
+          "nameEn": "Virtual World Tiger - Fufu",
+          "nameOriginal": null,
+          "slug": "virtual-world-tiger-fufu",
+          "archetypeIds": [
+            417
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57340,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN046-6aa851aa47",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "047",
+        "card": {
+          "name": "Firewall Dragon Singularity",
+          "nameEn": "Firewall Dragon Singularity",
+          "nameOriginal": null,
+          "slug": "firewall-dragon-singularity",
+          "archetypeIds": [
+            566,
+            930
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 56791,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN047-SCR-1d36b0e741",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "047",
+        "card": {
+          "name": "Firewall Dragon Singularity",
+          "nameEn": "Firewall Dragon Singularity",
+          "nameOriginal": null,
+          "slug": "firewall-dragon-singularity",
+          "archetypeIds": [
+            566,
+            930
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 60737,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-DE047-SLR-c2320397c2",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "048",
+        "card": {
+          "name": "Protectcode Talker",
+          "nameEn": "Protectcode Talker",
+          "nameOriginal": null,
+          "slug": "protectcode-talker",
+          "archetypeIds": [
+            566,
+            34,
+            930
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 56792,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN048-eff2ebe9f2",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "049",
+        "card": {
+          "name": "GranSolfachord Coolia",
+          "nameEn": "GranSolfachord Coolia",
+          "nameOriginal": null,
+          "slug": "gransolfachord-coolia",
+          "archetypeIds": [
+            520
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57209,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN049-8a5eacff3f",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "050",
+        "card": {
+          "name": "S-Force Nightchaser",
+          "nameEn": "S-Force Nightchaser",
+          "nameOriginal": null,
+          "slug": "s-force-nightchaser",
+          "archetypeIds": [
+            427
+          ],
+          "cardTypeOrder": "24",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57368,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN050-4cb10aceae",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "051",
+        "card": {
+          "name": "Cynet Rollback",
+          "nameEn": "Cynet Rollback",
+          "nameOriginal": null,
+          "slug": "cynet-rollback",
+          "archetypeIds": [
+            930
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 56793,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN051-96d1dab3e2",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "052",
+        "card": {
+          "name": "Swordsoul Punishment",
+          "nameEn": "Swordsoul Punishment",
+          "nameOriginal": null,
+          "slug": "swordsoul-punishment",
+          "archetypeIds": [
+            632
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57345,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN052-84b1e07862",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "053",
+        "card": {
+          "name": "Tri-Brigade Roar",
+          "nameEn": "Tri-Brigade Roar",
+          "nameOriginal": null,
+          "slug": "tri-brigade-roar",
+          "archetypeIds": [
+            418
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57346,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN053-fb7a81d541",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "054",
+        "card": {
+          "name": "New Frontier",
+          "nameEn": "New Frontier",
+          "nameOriginal": null,
+          "slug": "new-frontier",
+          "archetypeIds": [
+            547
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2026-04-10T00:00:00.000000Z"
+        },
+        "id": 57621,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": 1,
+        "artworkCategory": "artwork",
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN054-7d94d8a2f0",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "055",
+        "card": {
+          "name": "Kashtira Akstra",
+          "nameEn": "Kashtira Akstra",
+          "nameOriginal": null,
+          "slug": "kashtira-akstra",
+          "archetypeIds": [
+            682
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57189,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN055-0daa481493",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "056",
+        "card": {
+          "name": "Mannadium Imaginings",
+          "nameEn": "Mannadium Imaginings",
+          "nameOriginal": null,
+          "slug": "mannadium-imaginings",
+          "archetypeIds": [
+            706
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57194,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN056-e51a918b83",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "057",
+        "card": {
+          "name": "Mannadium Abscission",
+          "nameEn": "Mannadium Abscission",
+          "nameOriginal": null,
+          "slug": "mannadium-abscission",
+          "archetypeIds": [
+            706
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57195,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN057-c9f21a72ce",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "058",
+        "card": {
+          "name": "Peaceful Planet Calarium",
+          "nameEn": "Peaceful Planet Calarium",
+          "nameOriginal": null,
+          "slug": "peaceful-planet-calarium",
+          "archetypeIds": [
+            706
+          ],
+          "cardTypeOrder": "32",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-05-24T00:00:00.000000Z"
+        },
+        "id": 57196,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN058-de358c225c",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "059",
+        "card": {
+          "name": "Dream Tower of Princess Nemleria",
+          "nameEn": "Dream Tower of Princess Nemleria",
+          "nameOriginal": null,
+          "slug": "dream-tower-of-princess-nemleria",
+          "archetypeIds": [
+            709
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57229,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN059-220124ed2a",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "060",
+        "card": {
+          "name": "Sweet Dreams, Nemleria",
+          "nameEn": "Sweet Dreams, Nemleria",
+          "nameOriginal": null,
+          "slug": "sweet-dreams-nemleria",
+          "archetypeIds": [
+            709
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57230,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN060-fdbc0babec",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "061",
+        "card": {
+          "name": "Purrely Sleepy Memory",
+          "nameEn": "Purrely Sleepy Memory",
+          "nameOriginal": null,
+          "slug": "purrely-sleepy-memory",
+          "archetypeIds": [
+            689
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57201,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN061-ce82753ee5",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "062",
+        "card": {
+          "name": "Mikanko Dance - Mayowashidori",
+          "nameEn": "Mikanko Dance - Mayowashidori",
+          "nameOriginal": null,
+          "slug": "mikanko-dance-mayowashidori",
+          "archetypeIds": [
+            690
+          ],
+          "cardTypeOrder": "35",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57202,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN062-65fffd51d6",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "063",
+        "card": {
+          "name": "Libromancer Origin Story",
+          "nameEn": "Libromancer Origin Story",
+          "nameOriginal": null,
+          "slug": "libromancer-origin-story",
+          "archetypeIds": [
+            657
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57211,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN063-928e0165d0",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "064",
+        "card": {
+          "name": "Constellar Tellarknights",
+          "nameEn": "Constellar Tellarknights",
+          "nameOriginal": null,
+          "slug": "constellar-tellarknights",
+          "archetypeIds": [
+            35
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57207,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN064-75640895f4",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "065",
+        "card": {
+          "name": "Solfachord Symphony",
+          "nameEn": "Solfachord Symphony",
+          "nameOriginal": null,
+          "slug": "solfachord-symphony",
+          "archetypeIds": [
+            520
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57210,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN065-1b0b95cbb1",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "066",
+        "card": {
+          "name": "Gunkan Suship Catch-of-the-Day",
+          "nameEn": "Gunkan Suship Catch-of-the-Day",
+          "nameOriginal": null,
+          "slug": "gunkan-suship-catch-of-the-day",
+          "archetypeIds": [
+            529
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57348,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN066-a1f53b3d21",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "067",
+        "card": {
+          "name": "Time-Tearing Morganite",
+          "nameEn": "Time-Tearing Morganite",
+          "nameOriginal": null,
+          "slug": "time-tearing-morganite",
+          "archetypeIds": [
+            839
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57342,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN067-26513ef88f",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "068",
+        "card": {
+          "name": "Pig Iron vs. Pen Peg",
+          "nameEn": "Pig Iron vs. Pen Peg",
+          "nameOriginal": null,
+          "slug": "pig-iron-vs-pen-peg",
+          "archetypeIds": [],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57629,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN068-44498fb7a6",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "069",
+        "card": {
+          "name": "Cynet Circuit",
+          "nameEn": "Cynet Circuit",
+          "nameOriginal": null,
+          "slug": "cynet-circuit",
+          "archetypeIds": [
+            566,
+            930
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 56794,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN069-edb32458e0",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "070",
+        "card": {
+          "name": "Brightest, Blazing, Branded King",
+          "nameEn": "Brightest, Blazing, Branded King",
+          "nameOriginal": null,
+          "slug": "brightest-blazing-branded-king",
+          "archetypeIds": [
+            547,
+            439
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57347,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN070-3df1ec48d5",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "071",
+        "card": {
+          "name": "Etude of the Branded",
+          "nameEn": "Etude of the Branded",
+          "nameOriginal": null,
+          "slug": "etude-of-the-branded",
+          "archetypeIds": [
+            439,
+            683
+          ],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57373,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN071-4f10754c27",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "072",
+        "card": {
+          "name": "Mannadium Breakheart",
+          "nameEn": "Mannadium Breakheart",
+          "nameOriginal": null,
+          "slug": "mannadium-breakheart",
+          "archetypeIds": [
+            706
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57197,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN072-1129fc7497",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "073",
+        "card": {
+          "name": "Mannadium Reframing",
+          "nameEn": "Mannadium Reframing",
+          "nameOriginal": null,
+          "slug": "mannadium-reframing",
+          "archetypeIds": [
+            706
+          ],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57198,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN073-3406bcb828",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "074",
+        "card": {
+          "name": "A Shattered, Colorless Realm",
+          "nameEn": "A Shattered, Colorless Realm",
+          "nameOriginal": null,
+          "slug": "a-shattered-colorless-realm",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57231,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN074-049d72e01f",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "075",
+        "card": {
+          "name": "REINFORCE!",
+          "nameEn": "REINFORCE!",
+          "nameOriginal": null,
+          "slug": "reinforce",
+          "archetypeIds": [
+            684
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57203,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN075-15d9c95add",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "076",
+        "card": {
+          "name": "Dinomorphia Intact",
+          "nameEn": "Dinomorphia Intact",
+          "nameOriginal": null,
+          "slug": "dinomorphia-intact",
+          "archetypeIds": [
+            650
+          ],
+          "cardTypeOrder": "43",
+          "cardTypeSection": "trap",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57462,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN076-577d97e345",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "077",
+        "card": {
+          "name": "Fusion Duplication",
+          "nameEn": "Fusion Duplication",
+          "nameOriginal": null,
+          "slug": "fusion-duplication",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2025-10-24T00:00:00.000000Z"
+        },
+        "id": 57351,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN077-8226740145",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "078",
+        "card": {
+          "name": "Trap Tracks",
+          "nameEn": "Trap Tracks",
+          "nameOriginal": null,
+          "slug": "trap-tracks",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57374,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN078-24f79c9a41",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "079",
+        "card": {
+          "name": "Double Hooking",
+          "nameEn": "Double Hooking",
+          "nameOriginal": null,
+          "slug": "double-hooking",
+          "archetypeIds": [],
+          "cardTypeOrder": "42",
+          "cardTypeSection": "trap",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 57350,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN079-8bf0a04e10",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "080",
+        "card": {
+          "name": "Hatsugai",
+          "nameEn": "Hatsugai",
+          "nameOriginal": null,
+          "slug": "hatsugai",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 57344,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN080-138313b420",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "081",
+        "card": {
+          "name": "Moissa Knight, the Comet General",
+          "nameEn": "Moissa Knight, the Comet General",
+          "nameOriginal": null,
+          "slug": "moissa-knight-the-comet-general",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 60727,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN081-5776969ac5",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "082",
+        "card": {
+          "name": "Golden Cloud Beast - Malong",
+          "nameEn": "Golden Cloud Beast - Malong",
+          "nameOriginal": null,
+          "slug": "golden-cloud-beast-malong",
+          "archetypeIds": [],
+          "cardTypeOrder": "22",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 60728,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN082-3a985f3eaa",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "083",
+        "card": {
+          "name": "Imperial Princess Quinquery",
+          "nameEn": "Imperial Princess Quinquery",
+          "nameOriginal": null,
+          "slug": "imperial-princess-quinquery",
+          "archetypeIds": [],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2025-08-01T00:00:00.000000Z"
+        },
+        "id": 60729,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN083-cf5a0101af",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "084",
+        "card": {
+          "name": "Pendulum Pendant",
+          "nameEn": "Pendulum Pendant",
+          "nameOriginal": null,
+          "slug": "pendulum-pendant",
+          "archetypeIds": [
+            173
+          ],
+          "cardTypeOrder": "31",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 60730,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN084-40b2ebd218",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "085",
+        "card": {
+          "name": "How Did Dai Get Here?",
+          "nameEn": "How Did Dai Get Here?",
+          "nameOriginal": null,
+          "slug": "how-did-dai-get-here",
+          "archetypeIds": [],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 60731,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN085-d3064a61ea",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "086",
+        "card": {
+          "name": "Gold Pride - Roller Baller",
+          "nameEn": "Gold Pride - Roller Baller",
+          "nameOriginal": null,
+          "slug": "gold-pride-roller-baller",
+          "archetypeIds": [
+            703
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 60694,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN086-ff390813d1",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "087",
+        "card": {
+          "name": "Gold Pride - Pin Baller",
+          "nameEn": "Gold Pride - Pin Baller",
+          "nameOriginal": null,
+          "slug": "gold-pride-pin-baller",
+          "archetypeIds": [
+            703
+          ],
+          "cardTypeOrder": "21",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 60695,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN087-953e92f6a4",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "088",
+        "card": {
+          "name": "Gold Pride - Chariot Carrie",
+          "nameEn": "Gold Pride - Chariot Carrie",
+          "nameOriginal": null,
+          "slug": "gold-pride-chariot-carrie",
+          "archetypeIds": [
+            703
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 60696,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN088-UR-304854cbf5",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "088",
+        "card": {
+          "name": "Gold Pride - Chariot Carrie",
+          "nameEn": "Gold Pride - Chariot Carrie",
+          "nameOriginal": null,
+          "slug": "gold-pride-chariot-carrie",
+          "archetypeIds": [
+            703
+          ],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 60734,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN088-SLR-a1c02b211e",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "089",
+        "card": {
+          "name": "Gold Pride - That Came Out of Nowhere!",
+          "nameEn": "Gold Pride - That Came Out of Nowhere!",
+          "nameOriginal": null,
+          "slug": "gold-pride-that-came-out-of-nowhere",
+          "archetypeIds": [
+            703
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 60697,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 5,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN089-9b211b13d5",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "090",
+        "card": {
+          "name": "Gold Pride - Pedal to the Metal!",
+          "nameEn": "Gold Pride - Pedal to the Metal!",
+          "nameOriginal": null,
+          "slug": "gold-pride-pedal-to-the-metal",
+          "archetypeIds": [
+            703
+          ],
+          "cardTypeOrder": "34",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 60698,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN090-708cb21d9d",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "091",
+        "card": {
+          "name": "Gold Pride - Better Luck Next Time!",
+          "nameEn": "Gold Pride - Better Luck Next Time!",
+          "nameOriginal": null,
+          "slug": "gold-pride-better-luck-next-time",
+          "archetypeIds": [
+            703
+          ],
+          "cardTypeOrder": "33",
+          "cardTypeSection": "spell",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 60699,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 7,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN091-ebddb5d714",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "092",
+        "card": {
+          "name": "Gold Pride - It's Neck and Neck!",
+          "nameEn": "Gold Pride - It's Neck and Neck!",
+          "nameOriginal": null,
+          "slug": "gold-pride-its-neck-and-neck",
+          "archetypeIds": [
+            703
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 60700,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 1,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN092-c1147d6e43",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "093",
+        "card": {
+          "name": "Wish Dragon",
+          "nameEn": "Wish Dragon",
+          "nameOriginal": null,
+          "slug": "wish-dragon",
+          "archetypeIds": [
+            827
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 60720,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN093-36fc0c6ecc",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "094",
+        "card": {
+          "name": "Votis",
+          "nameEn": "Votis",
+          "nameOriginal": null,
+          "slug": "votis",
+          "archetypeIds": [
+            765
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 60721,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN094-396441454a",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "095",
+        "card": {
+          "name": "Adularia of the June Moon",
+          "nameEn": "Adularia of the June Moon",
+          "nameOriginal": null,
+          "slug": "adularia-of-the-june-moon",
+          "archetypeIds": [],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 60722,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN095-f60d97db10",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "096",
+        "card": {
+          "name": "Kittytail, Mystical Beast of the Forest",
+          "nameEn": "Kittytail, Mystical Beast of the Forest",
+          "nameOriginal": null,
+          "slug": "kittytail-mystical-beast-of-the-forest",
+          "archetypeIds": [
+            565
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 60723,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN096-578b679164",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "097",
+        "card": {
+          "name": "Baromet the Sacred Sheep Shrub",
+          "nameEn": "Baromet the Sacred Sheep Shrub",
+          "nameOriginal": null,
+          "slug": "baromet-the-sacred-sheep-shrub",
+          "archetypeIds": [],
+          "cardTypeOrder": "23",
+          "cardTypeSection": "extra",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2023-05-05T00:00:00.000000Z"
+        },
+        "id": 60724,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN097-e69d7e699a",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "098",
+        "card": {
+          "name": "Reincarnation of the Seventh Emperors",
+          "nameEn": "Reincarnation of the Seventh Emperors",
+          "nameOriginal": null,
+          "slug": "reincarnation-of-the-seventh-emperors",
+          "archetypeIds": [
+            174,
+            813
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 60725,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN098-5fafa306b4",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "099",
+        "card": {
+          "name": "Rebirth of the Seventh Emperors",
+          "nameEn": "Rebirth of the Seventh Emperors",
+          "nameOriginal": null,
+          "slug": "rebirth-of-the-seventh-emperors",
+          "archetypeIds": [
+            174,
+            813
+          ],
+          "cardTypeOrder": "41",
+          "cardTypeSection": "trap",
+          "firstPrint": "2023-05-04T00:00:00.000000Z",
+          "lastPrint": "2024-09-20T00:00:00.000000Z"
+        },
+        "id": 60726,
+        "isFirstPrint": true,
+        "prerelease": false,
+        "rarity": 4,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/CYAC/CYAC-EN099-0a2a5b1501",
+        "imageIsPlaceholder": false,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      },
+      {
+        "cardNumber": "100",
+        "card": {
+          "name": "Visas Starfrost",
+          "nameEn": "Visas Starfrost",
+          "nameOriginal": null,
+          "slug": "visas-starfrost",
+          "archetypeIds": [
+            694
+          ],
+          "cardTypeOrder": "11",
+          "cardTypeSection": "monster",
+          "firstPrint": "2022-05-19T00:00:00.000000Z",
+          "lastPrint": "2024-01-26T00:00:00.000000Z"
+        },
+        "id": 60690,
+        "isFirstPrint": false,
+        "prerelease": false,
+        "rarity": 28,
+        "artworkNumber": null,
+        "artworkCategory": null,
+        "release": null,
+        "image": "https://cardcluster.com/storage/cards/STAS/STAS-EN019-5b4a3fe631",
+        "imageIsPlaceholder": true,
+        "language": null,
+        "copies": null,
+        "decoration": null
+      }
+    ],
+    "printsCount": null,
+    "releaseEu": "2023-05-04T00:00:00.000000Z",
+    "releaseEuDayUnknown": false,
+    "releaseEuMonthUnknown": false,
+    "releaseNa": "2023-05-05T00:00:00.000000Z",
+    "releaseNaDayUnknown": false,
+    "releaseNaMonthUnknown": false,
+    "tournamentLegal": null,
+    "setNumber": "CYAC",
+    "slug": "cyberstorm-access",
+    "scanCounts": {
+      "en": 103,
+      "de": 104
+    }
+  }
+}
