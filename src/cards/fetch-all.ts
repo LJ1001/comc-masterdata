@@ -1,7 +1,7 @@
 import { readFile, writeFile, mkdir, readdir } from "fs/promises";
 import { existsSync } from "fs";
 import { join } from "path";
-import { Logger } from "../types";
+import type { Logger } from "../types";
 
 interface SetData {
   data: {
@@ -85,7 +85,7 @@ async function fetchCards(
       continue;
     }
 
-    cards.push(await response.json());
+    cards.push((await response.json()) as CardData);
   }
 
   return cards;

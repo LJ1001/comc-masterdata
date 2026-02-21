@@ -1,4 +1,27 @@
-import type { CardCreateInput } from "../../generated/prisma/models/Card";
+export interface CardMappedData {
+  nameEn: string;
+  nameDe?: string | null;
+  slug: string;
+  textEn: string;
+  textDe?: string | null;
+  cardType: string;
+  passcode?: string | null;
+  spellTrapAttribute?: string | null;
+  imagePath: string | null;
+  category?: string | null;
+  categories: string[];
+  monsterType?: string | null;
+  attribute?: string | null;
+  atk?: string | null;
+  def?: string | null;
+  level?: number | null;
+  rank?: number | null;
+  link?: number | null;
+  linkArrows: string[];
+  pendulumTextEn?: string | null;
+  pendulumTextDe?: string | null;
+  pendulumScale?: number | null;
+}
 
 export interface CardPrint {
   cardNumber: string;
@@ -182,7 +205,7 @@ function formatLinkArrows(linkArrows: boolean[] | null): string[] {
     .sort((a, b) => LINK_ARROW_SORT_ORDER[a] - LINK_ARROW_SORT_ORDER[b]);
 }
 
-export function mapCard(cardData: CardData): CardCreateInput {
+export function mapCard(cardData: CardData): CardMappedData {
   const { data } = cardData;
 
   const hasType = (type: number) => data.cardTypes.includes(type);
